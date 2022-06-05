@@ -1,0 +1,11 @@
+{
+    "print": {
+        "python": "print(",
+        "c++": "std::cout<<",
+        "java": "System.out.println("
+    },
+    "return": {
+        "cpp": "return",
+        "python": "return"
+    }
+}
