@@ -1,2 +1,2 @@
-# TCrules
-Rule-Based Translation with TransCoder-ST Data
+# TCrules-development
+Software practical "AI Methods and Tools for Programming" SS22
