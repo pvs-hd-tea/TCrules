@@ -124,7 +124,7 @@ class RuleSet:
     def rule_match(self, input_parse_tree):
         for rule_name in self.parse_tree_dict:
             for sexp_tree in self.parse_tree_dict[rule_name]:
-                if fuzz.ratio(sexp_tree, input_parse_tree) >= 95:
+                if fuzz.ratio(sexp_tree, input_parse_tree) >= 96:
                     return True, rule_name
         return False, ""
 
