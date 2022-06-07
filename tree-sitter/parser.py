@@ -91,7 +91,7 @@ class RuleSet:
                         continue 
                     rule_name = str(input(f"Please enter the rule name for '{input_code[:-1]}': "))
                     while rule_name in self.parse_tree_dict:
-                        rule_name = str(input("This name is aleady in the database... Please enter another one: "))
+                        rule_name = str(input("This name is already in the database... Please enter another one: "))
                     rule_set.add_rule(line_py, line_jv, line_cpp, rule_name)  
 
     def rule_match(self, input_parse_tree):
