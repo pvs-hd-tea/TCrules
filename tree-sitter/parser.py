@@ -100,7 +100,7 @@ class RuleSet:
         if type:
             generic_code = generic_code.replace(type, "type")
 
-        #print(generic_code, code)
+        print(generic_code, code)
         return generic_code
 
     def add_rule(self, py_code, jv_code, cpp_code, rule_name):
@@ -134,14 +134,17 @@ class RuleSet:
         return False, ""
 
     def rule_match_for_translation(self, input_parse_tree):
+        ratio = []
         for rule_name in self.parse_tree_dict:
+            temp = []
             for sexp_tree in self.parse_tree_dict[rule_name]:
-                ratio = fuzz.ratio(sexp_tree, input_parse_tree)
-                print(ratio)
-                if ratio < 98 and ratio >= 96:
-                    continue
-                if ratio >= 94:
-                    return True, rule_name
+                temp.append(fuzz.ratio(sexp_tree, input_parse_tree))
+            ratio.append((max(temp), rule_name))
+        ratios = [r[0] for r in ratio]
+        max_ratio = max(ratios)
+        print(ratios, max_ratio)
+        if max_ratio >= 89:
+            return True, ratio[ratios.index(max_ratio)][1]
         return False, ""
 
     def translate(self, input_code, rule_name):
