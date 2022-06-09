@@ -78,9 +78,12 @@ class RuleSet:
     def create_generic_code_expression(self, code):
         generic_code = code
 
-        value = return_value(code)
-        if value:
-            generic_code = generic_code.replace(value, "value")
+        values = return_value(code)
+        if values and len(values) == 1:
+                generic_code = generic_code.replace(values[0][0], "value", values[0][1])
+        elif values:
+            for value in values:
+                generic_code = generic_code.replace(value[0], "value", value[1])
 
         names = return_name(code)
         if len(names) == 1:
@@ -97,7 +100,7 @@ class RuleSet:
         if type:
             generic_code = generic_code.replace(type, "type")
 
-        print(generic_code, code)
+        #print(generic_code, code)
         return generic_code
 
     def add_rule(self, py_code, jv_code, cpp_code, rule_name):
@@ -127,7 +130,17 @@ class RuleSet:
         for rule_name in self.parse_tree_dict:
             for sexp_tree in self.parse_tree_dict[rule_name]:
                 if fuzz.ratio(sexp_tree, input_parse_tree) >= 98:
-                    print(fuzz.ratio(sexp_tree, input_parse_tree))
+                    return True, rule_name
+        return False, ""
+
+    def rule_match_for_translation(self, input_parse_tree):
+        for rule_name in self.parse_tree_dict:
+            for sexp_tree in self.parse_tree_dict[rule_name]:
+                ratio = fuzz.ratio(sexp_tree, input_parse_tree)
+                print(ratio)
+                if ratio < 98 and ratio >= 96:
+                    continue
+                if ratio >= 94:
                     return True, rule_name
         return False, ""
 
@@ -136,9 +149,12 @@ class RuleSet:
         for sexp_tree in self.parse_tree_dict[rule_name]:
             entry = self.parse_tree_dict[rule_name][sexp_tree]
 
-            value = return_value(input_code)
-            if value:
-                entry = entry.replace("value", value)
+            values = return_value(input_code)
+            if values and len(values) == 1:
+                entry = entry.replace("value", values[0][0], values[0][1])
+            elif values:
+                for value in values:
+                    entry = entry.replace("value", value[0], value[1])
 
             operator = return_operator(input_code)
             if operator:
@@ -151,7 +167,7 @@ class RuleSet:
             names = return_name(input_code)
             if len(names) == 1:
                 entry = entry.replace("name", names[0][0])
-            else:
+            elif names:
                 for i, name in enumerate(names):
                     entry = entry.replace("name_"+str(i), name[0])
             translations.append(entry)
@@ -180,11 +196,11 @@ def return_type(input_string):
     for type in types:
         if type in input_string:
             return type
-    number = return_value(input_string)
-    if number:
-        if re.search(r"\.", number) is None:
+    numbers = return_value(input_string)
+    if numbers and len(numbers) == 1:
+        if re.search(r"\.", numbers[0][0]) is None:
             return "int"
-        elif len(number) < 9: 
+        elif len(numbers[0][0]) < 9: 
             return "float" # 6-7 significant digits
         return "double" # 15-16 significant digits
     return None
@@ -194,8 +210,9 @@ def return_value(input_string):
     '''
     returns value from given string
     '''
-    number = re.findall(r'\d+(?:\.\d+)?', input_string)
-    return number[0] if number else None
+    numbers = re.findall(r'\d+(?:\.\d+)?', input_string)
+    if numbers:
+        return [(number, numbers.count(number)) for number in numbers]
 
 
 def return_name(input_string):
@@ -215,7 +232,7 @@ def return_name(input_string):
 
 
 def return_operator(input_string):
-    arithmetic_operators = ["+", "-", "*", "/", "%", "**", "//"]
+    arithmetic_operators = ["+", "-", "/", "%", "**", "*", "//"]
     for operator in arithmetic_operators:
         if operator in input_string:
             return operator
@@ -248,19 +265,19 @@ while True:
     user_code = str(input("Please enter a code to be translated or exit: "))
     if user_code == "exit":
         break
-    user_code_language = str(input("Please enter the programming language the code above is written in: "))
-    while user_code_language.upper() not in [PYTHON, JAVA, CPP]:
-        user_code_language = str(input("Please enter correct programming language: "))
+    user_code_language = str(input("Please enter the programming language the code above is written in: ")).upper()
+    while user_code_language not in [PYTHON, JAVA, CPP]:
+        user_code_language = str(input("Please enter correct programming language: ")).upper()
 
     parse_tree, input_code = create_parse_tree(user_code, user_code_language)
-    rule_found, rule_name = rule_set.rule_match(parse_tree)
+    rule_found, rule_name = rule_set.rule_match_for_translation(parse_tree)
     if rule_found:    
         translations = rule_set.translate(input_code, rule_name)
         print("PYTHON: " + translations[0])
         print("JAVA: " + translations[1])
         print("CPP: " + translations[2])
     else: 
-        print(f"No appropriate rule for translating '{user_code[:-1]}' was found in the database...")
+        print(f"No appropriate rule for translating '{user_code}' was found in the database...")
 
 rule_set.save_parse_tree_dict()
 
