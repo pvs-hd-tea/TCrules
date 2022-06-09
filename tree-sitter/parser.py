@@ -82,6 +82,13 @@ class RuleSet:
         if value:
             generic_code = generic_code.replace(value, "value")
 
+        names = return_name(code)
+        if len(names) == 1:
+            generic_code = generic_code.replace(names[0][0], "name", names[0][1])
+        elif names:
+            for i, name in enumerate(names):
+                    generic_code = generic_code.replace(name[0], "name_"+str(i), name[1])
+
         operator = return_operator(code)
         if operator:
             generic_code = generic_code.replace(operator, "operator")
@@ -90,12 +97,7 @@ class RuleSet:
         if type:
             generic_code = generic_code.replace(type, "type")
 
-        names = return_name(code)
-        if len(names) == 1:
-            generic_code = generic_code.replace(names[0], "name")
-        else:
-            for i, name in enumerate(names):
-                    generic_code = generic_code.replace(name, "name_"+str(i))
+        print(generic_code, code)
         return generic_code
 
     def add_rule(self, py_code, jv_code, cpp_code, rule_name):
@@ -124,7 +126,8 @@ class RuleSet:
     def rule_match(self, input_parse_tree):
         for rule_name in self.parse_tree_dict:
             for sexp_tree in self.parse_tree_dict[rule_name]:
-                if fuzz.ratio(sexp_tree, input_parse_tree) >= 96:
+                if fuzz.ratio(sexp_tree, input_parse_tree) >= 98:
+                    print(fuzz.ratio(sexp_tree, input_parse_tree))
                     return True, rule_name
         return False, ""
 
@@ -147,10 +150,10 @@ class RuleSet:
         
             names = return_name(input_code)
             if len(names) == 1:
-                entry = entry.replace("name", names[0])
+                entry = entry.replace("name", names[0][0])
             else:
                 for i, name in enumerate(names):
-                    entry = entry.replace("name_"+str(i), name)
+                    entry = entry.replace("name_"+str(i), name[0])
             translations.append(entry)
 
         return translations
@@ -197,7 +200,9 @@ def return_value(input_string):
 
 def return_name(input_string):
     string = re.sub('\d', '', input_string)
-    string = string.replace(return_operator(string), "")
+    operator = return_operator(string)
+    if operator:
+        string = string.replace(return_operator(string), "")
     string = string.replace(";", "")
     string = string.replace("=", "")
     string = string.replace(".", "")
@@ -205,8 +210,8 @@ def return_name(input_string):
     for type in types:
         string = string.replace(type, "")
     names = re.findall('[a-z,_,A-Z]*', string)
-    
-    return [name for name in names if name]
+
+    return [(name, names.count(name)) for name in names if name]
 
 
 def return_operator(input_string):
@@ -244,7 +249,7 @@ while True:
     if user_code == "exit":
         break
     user_code_language = str(input("Please enter the programming language the code above is written in: "))
-    while user_code_language not in [PYTHON, JAVA, CPP]:
+    while user_code_language.upper() not in [PYTHON, JAVA, CPP]:
         user_code_language = str(input("Please enter correct programming language: "))
 
     parse_tree, input_code = create_parse_tree(user_code, user_code_language)
