@@ -119,6 +119,7 @@ class RuleSet:
             with open("data/"+func_name+".py", 'r') as py, open("data/"+func_name+".java", 'r') as jv, open("data/"+func_name+".cpp", "r") as cpp:
                 for line_py, line_jv, line_cpp in zip(py, jv, cpp):
                     parse_tree, input_code = create_parse_tree(line_jv, JAVA)
+                    print(input_code)
                     if rule_set.rule_match(parse_tree)[0]:
                         continue 
                     rule_name = str(input(f"Please enter the rule name for '{input_code[:-1]}': "))
@@ -127,10 +128,16 @@ class RuleSet:
                     rule_set.add_rule(line_py, line_jv, line_cpp, rule_name)  
 
     def rule_match(self, input_parse_tree):
+        ratio = []
         for rule_name in self.parse_tree_dict:
+            temp = []
             for sexp_tree in self.parse_tree_dict[rule_name]:
-                if fuzz.ratio(sexp_tree, input_parse_tree) >= 98:
-                    return True, rule_name
+                temp.append(fuzz.ratio(sexp_tree, input_parse_tree))
+            ratio.append((max(temp), rule_name))
+        ratios = [r[0] for r in ratio]
+        max_ratio = max(ratios)
+        if max_ratio >= 96:
+            return True, ratio[ratios.index(max_ratio)][1]
         return False, ""
 
     def rule_match_for_translation(self, input_parse_tree):
@@ -142,8 +149,7 @@ class RuleSet:
             ratio.append((max(temp), rule_name))
         ratios = [r[0] for r in ratio]
         max_ratio = max(ratios)
-        print(ratios, max_ratio)
-        if max_ratio >= 89:
+        if max_ratio >= 88:
             return True, ratio[ratios.index(max_ratio)][1]
         return False, ""
 
