@@ -5,3 +5,5 @@ int z = x + 1;
 int w = x + z;
 double r = y * w;
 int a = 10 * 10;
+a = 100 % 2;
+bool b = true;

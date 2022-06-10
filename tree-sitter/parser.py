@@ -35,6 +35,8 @@ PY_LANGUAGE = Language('build/my-languages.so', 'python')
 JV_LANGUAGE = Language('build/my-languages.so', 'java')
 CPP_LANGUAGE = Language('build/my-languages.so', 'cpp')
 
+types = ["int", "float", "double", "boolean", "bool"]
+
 """Create Parser"""
 parser_py = Parser()
 parser_py.set_language(PY_LANGUAGE)
@@ -78,6 +80,10 @@ class RuleSet:
     def create_generic_code_expression(self, code):
         generic_code = code
 
+        type = return_type(code)
+        if type:
+            generic_code = generic_code.replace(type, "type")
+
         values = return_value(code)
         if values and len(values) == 1:
                 generic_code = generic_code.replace(values[0][0], "value", values[0][1])
@@ -86,6 +92,7 @@ class RuleSet:
                 generic_code = generic_code.replace(value[0], "value", value[1])
 
         names = return_name(code)
+        print(names)
         if len(names) == 1:
             generic_code = generic_code.replace(names[0][0], "name", names[0][1])
         elif names:
@@ -95,10 +102,6 @@ class RuleSet:
         operator = return_operator(code)
         if operator:
             generic_code = generic_code.replace(operator, "operator")
-
-        type = return_type(code)
-        if type:
-            generic_code = generic_code.replace(type, "type")
 
         print(generic_code, code)
         return generic_code
@@ -201,7 +204,6 @@ def return_type(input_string):
     check for type if it is contained in string 
     or check for type of number in python
     '''
-    types = ["int", "float", "double"]
     for type in types:
         if type in input_string:
             return type
@@ -220,19 +222,20 @@ def return_value(input_string):
     returns value from given string
     '''
     numbers = re.findall(r'\d+(?:\.\d+)?', input_string)
+    numbers.extend(re.findall(r'true|false|True|False', input_string))
     if numbers:
         return [(number, numbers.count(number)) for number in numbers]
 
 
 def return_name(input_string):
     string = re.sub('\d', '', input_string)
+    string = re.sub('true|false|True|False', '', input_string)
     operator = return_operator(string)
     if operator:
-        string = string.replace(return_operator(string), "")
+        string = string.replace(operator, "")
     string = string.replace(";", "")
     string = string.replace("=", "")
     string = string.replace(".", "")
-    types = ["int", "float", "double"]
     for type in types:
         string = string.replace(type, "")
     names = re.findall('[a-z,_,A-Z]*', string)
