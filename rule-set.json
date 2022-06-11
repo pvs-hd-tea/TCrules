@@ -1,0 +1,37 @@
+{
+    "ALLOCATION": {
+        "(module (expression_statement (assignment left: (identifier) right: (integer))))": "name = value",
+        "(program (local_variable_declaration type: (integral_type) declarator: (variable_declarator name: (identifier) value: (decimal_integer_literal))))": "type name = value;",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (number_literal))))": "type name = value;"
+    },
+    "ALLOCATION_ADDITION_NUMBER": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (identifier) right: (integer)))))": "name_0 = name_1 operator value\n",
+        "(program (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (identifier) right: (decimal_integer_literal)))))": "name_0 = name_1 operator value;\n",
+        "(translation_unit (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (identifier) right: (number_literal)))))": "name_0 = name_1 operator value;\n"
+    },
+    "DECLARATION_ALLOCATION_ADDITION_NUMBER": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (identifier) right: (integer)))))": "name_0 = name_1 operator value\n",
+        "(program (local_variable_declaration type: (integral_type) declarator: (variable_declarator name: (identifier) value: (binary_expression left: (identifier) right: (decimal_integer_literal)))))": "type name_0 = name_1 operator value;\n",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (binary_expression left: (identifier) right: (number_literal)))))": "type name_0 = name_1 operator value;\n"
+    },
+    "DECLARATION_ALLOCATION_ADDITION_VARIABLE": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (identifier) right: (identifier)))))": "name_0 = name_1 operator name_2\n",
+        "(program (local_variable_declaration type: (integral_type) declarator: (variable_declarator name: (identifier) value: (binary_expression left: (identifier) right: (identifier)))))": "type name_0 = name_1 operator name_2;\n",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (binary_expression left: (identifier) right: (identifier)))))": "type name_0 = name_1 operator name_2;\n"
+    },
+    "DECLARATION_ALLOCATION_MULTIPLICATION_NUMBER": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (integer) right: (integer)))))": "name = value operator value\n",
+        "(program (local_variable_declaration type: (integral_type) declarator: (variable_declarator name: (identifier) value: (binary_expression left: (decimal_integer_literal) right: (decimal_integer_literal)))))": "type name = value operator value;\n",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (binary_expression left: (number_literal) right: (number_literal)))))": "type name = value operator value;\n"
+    },
+    "ALLOCATION_DIVISION_NUMBER": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (integer) right: (integer)))))": "name = value operator value\n",
+        "(program (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (decimal_integer_literal) right: (decimal_integer_literal)))))": "name = value operator value;\n",
+        "(translation_unit (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (number_literal) right: (number_literal)))))": "name = value operator value;\n"
+    },
+    "DECLARATION_ALLOCATION_BOOLEAN": {
+        "(module (expression_statement (assignment left: (identifier) right: (true))))": "name = value",
+        "(program (local_variable_declaration type: (boolean_type) declarator: (variable_declarator name: (identifier) value: (true))))": "type name = value;\n",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (true))))": "type name = value;\n"
+    }
+}

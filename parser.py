@@ -1,7 +1,4 @@
-from ast import parse
 import os
-from unittest.util import three_way_cmp
-from venv import create
 from tree_sitter import Language, Parser
 from fuzzywuzzy import fuzz
 import re
@@ -18,17 +15,17 @@ Language.build_library(
 
     # Include one or more languages
     #Jonas
-    #[
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-java',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    #]
-    #Vivian
     [
-        '/home/vivi/src/tree-sitter-python',
-        '/home/vivi/src/tree-sitter-java',
-        '/home/vivi/src/tree-sitter-cpp'
+       '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+       '/Users/jonas/Documents/GitHub/tree-sitter-java',
+       '/Users/jonas/Documents/GitHub/tree-sitter-python'
     ]
+    #Vivian
+    # [
+    #     '/home/vivi/src/tree-sitter-python',
+    #     '/home/vivi/src/tree-sitter-java',
+    #     '/home/vivi/src/tree-sitter-cpp'
+    # ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -118,8 +115,11 @@ class RuleSet:
                                     })
 
     def complete_simple_rules(self):
+        '''
+        
+        '''
         for func_name in function_names:
-            with open("data/"+func_name+".py", 'r') as py, open("data/"+func_name+".java", 'r') as jv, open("data/"+func_name+".cpp", "r") as cpp:
+            with open("tree-sitter/data/"+func_name+".py", 'r') as py, open("tree-sitter/data/"+func_name+".java", 'r') as jv, open("tree-sitter/data/"+func_name+".cpp", "r") as cpp:
                 for line_py, line_jv, line_cpp in zip(py, jv, cpp):
                     parse_tree, input_code = create_parse_tree(line_jv, JAVA)
                     print(input_code)
@@ -157,10 +157,12 @@ class RuleSet:
         return False, ""
 
     def translate(self, input_code, rule_name):
+        '''
+        translates the given input code by traversing given rules and replacing values, names and operators 
+        '''
         translations = []
         for sexp_tree in self.parse_tree_dict[rule_name]:
             entry = self.parse_tree_dict[rule_name][sexp_tree]
-
             values = return_value(input_code)
             if values and len(values) == 1:
                 entry = entry.replace("value", values[0][0], values[0][1])
@@ -185,12 +187,12 @@ class RuleSet:
             translations.append(entry)
 
         return translations
-    # check for best fitting parse-tree and "apply rule" aka get value for key
-    # and then get type, name, and value for variables
-    # and then party time
 
 
 def create_parse_tree(input_code, input_language):
+    '''
+    creates a parse tree for given input code and input language
+    '''
     if input_language == "PYTHON":
         return parser_py.parse(bytes(input_code, "utf-8")).root_node.sexp(), input_code
     elif input_language == "JAVA":
@@ -228,6 +230,9 @@ def return_value(input_string):
 
 
 def return_name(input_string):
+    '''
+    returns the variable name in given string
+    '''
     string = re.sub('\d', '', input_string)
     string = re.sub('true|false|True|False', '', input_string)
     operator = return_operator(string)
@@ -244,6 +249,9 @@ def return_name(input_string):
 
 
 def return_operator(input_string):
+    '''
+    returns the operator in given string
+    '''
     arithmetic_operators = ["+", "-", "/", "%", "**", "*", "//"]
     for operator in arithmetic_operators:
         if operator in input_string:
@@ -268,28 +276,6 @@ def return_operator(input_string):
 
 
 
-
+#dummy instantiation
 rule_set = RuleSet()
-rule_set.complete_simple_rules()
-
-# added for better/ faster testing
-while True: 
-    user_code = str(input("Please enter a code to be translated or exit: "))
-    if user_code == "exit":
-        break
-    user_code_language = str(input("Please enter the programming language the code above is written in: ")).upper()
-    while user_code_language not in [PYTHON, JAVA, CPP]:
-        user_code_language = str(input("Please enter correct programming language: ")).upper()
-
-    parse_tree, input_code = create_parse_tree(user_code, user_code_language)
-    rule_found, rule_name = rule_set.rule_match_for_translation(parse_tree)
-    if rule_found:    
-        translations = rule_set.translate(input_code, rule_name)
-        print("PYTHON: " + translations[0])
-        print("JAVA: " + translations[1])
-        print("CPP: " + translations[2])
-    else: 
-        print(f"No appropriate rule for translating '{user_code}' was found in the database...")
-
-rule_set.save_parse_tree_dict()
 
