@@ -116,7 +116,7 @@ class RuleSet:
 
     def complete_simple_rules(self):
         '''
-        
+        self explanatory
         '''
         for func_name in function_names:
             with open("tree-sitter/data/"+func_name+".py", 'r') as py, open("tree-sitter/data/"+func_name+".java", 'r') as jv, open("tree-sitter/data/"+func_name+".cpp", "r") as cpp:
