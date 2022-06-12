@@ -89,18 +89,14 @@ class RuleSet:
             generic_code = generic_code.replace(type, "type")
 
         values = return_value(code)
-        if values and len(values) == 1:
-                generic_code = generic_code.replace(values[0][0], "value", values[0][1])
-        elif values:
+        if values:
             for value in values:
                 generic_code = generic_code.replace(value[0], "value", value[1])
 
         names = return_name(code)
-        if len(names) == 1:
-            generic_code = generic_code.replace(names[0][0], "name", names[0][1])
-        elif names:
-            for i, name in enumerate(names):
-                    generic_code = generic_code.replace(name[0], "name_"+str(i), name[1])
+        if names:
+            for name in names:
+                generic_code = generic_code.replace(name[0], "name", name[1])
 
         operator = return_operator(code)
         if operator:
@@ -158,27 +154,25 @@ class RuleSet:
         translations = []
         for sexp_tree in self.parse_tree_dict[rule_name]:
             entry = self.parse_tree_dict[rule_name][sexp_tree]
+
+            type = return_type(input_code)
+            if type:
+                entry = entry.replace("type", type) 
+
             values = return_value(input_code)
-            if values and len(values) == 1:
-                entry = entry.replace("value", values[0][0], values[0][1])
-            elif values:
+            if values:
                 for value in values:
-                    entry = entry.replace("value", value[0], value[1])
+                    entry = entry.replace("value", value[0], value[1])           
+        
+            names = return_name(input_code)
+            if names:
+                for name in names:
+                    entry = entry.replace("name", name[0], name[1])
 
             operator = return_operator(input_code)
             if operator:
                 entry = entry.replace("operator", operator)
 
-            type = return_type(input_code)
-            if type:
-                entry = entry.replace("type", type)            
-        
-            names = return_name(input_code)
-            if len(names) == 1:
-                entry = entry.replace("name", names[0][0])
-            elif names:
-                for i, name in enumerate(names):
-                    entry = entry.replace("name_"+str(i), name[0])
             translations.append(entry)
 
         return translations
@@ -209,7 +203,7 @@ def return_type(input_string):
             return "float" # 6-7 significant digits
         return "double" # 15-16 significant digits
     
-    if numbers:
+    if numbers: # more than one
         flag_float, flag_double = False, False
         for number in numbers:
             if number in ["true", "false", "True", "False"]:
@@ -218,7 +212,8 @@ def return_type(input_string):
                 continue # int
             elif len(number[0]) < 9: 
                 flag_float = True # 6-7 significant digits
-            flag_double = True
+            else:
+                flag_double = True # 15-16 significant digits
         if flag_double:
             return "double"
         if flag_float:
@@ -229,26 +224,27 @@ def return_type(input_string):
 
 def return_value(input_string):
     '''extract values from the given string'''
-    numbers = re.findall(r'\d+(?:\.\d+)?', input_string)
-    numbers.extend(re.findall(r'true|false|True|False', input_string))
+    numbers = re.findall(r'true|false|True|False', input_string)
+    string = re.sub('([a-z,A-Z]+[_]*[a-z,A-Z,0-9]*)*', '', input_string)
+    numbers.extend(re.findall(r'\d+(?:\.\d+)?', string))
     if numbers:
         return [(number, numbers.count(number)) for number in numbers]
 
 
 def return_name(input_string):
     '''extract the variable names in the given string'''
-    string = re.sub('\d', '', input_string)
+    #string = re.sub('\d', '', input_string)
     string = re.sub('true|false|True|False', '', input_string)
-    string = string.replace(";", "")
-    string = string.replace("=", "")
-    string = string.replace(".", "")
+    #string = string.replace(";", "")
+    #string = string.replace("=", "")
+    #string = string.replace(".", "")
     for type in types:
         string = string.replace(type, "")
-    operator = return_operator(string)
-    if operator:
-        string = string.replace(operator, "")
-    names = re.findall('[a-z,_,A-Z]*', string)
-    #print([(name, names.count(name)) for name in names if name])
+    #operator = return_operator(string)
+    #if operator:
+    #    string = string.replace(operator, "")
+    names = re.findall('([a-z,A-Z]+[_]*[a-z,A-Z,0-9]*)*', string)
+    print([(name, names.count(name)) for name in names if name])
     return [(name, names.count(name)) for name in names if name]
 
 
