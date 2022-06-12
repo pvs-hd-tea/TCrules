@@ -5,7 +5,7 @@ rule_set.complete_simple_rules()
 
 # added for better/ faster testing
 while True: 
-    user_code = str(input("Please enter a code to be translated or exit: "))
+    user_code = str(input("Please enter a code to be translated or enter 'exit': "))
     if user_code == "exit":
         break
     user_code_language = str(input("Please enter the programming language the code above is written in: ")).upper()
@@ -13,7 +13,7 @@ while True:
         user_code_language = str(input("Please enter correct programming language: ")).upper()
 
     parse_tree, input_code = parser.create_parse_tree(user_code, user_code_language)
-    rule_found, rule_name = rule_set.rule_match_for_translation(parse_tree)
+    rule_found, rule_name = rule_set.rule_match(parse_tree, True)
     if rule_found:    
         translations = rule_set.translate(input_code, rule_name)
         print("PYTHON: " + translations[0])
