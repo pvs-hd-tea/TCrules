@@ -95,8 +95,9 @@ class RuleSet:
 
         names = return_name(code)
         if names:
-            for name in names:
-                generic_code = generic_code.replace(name[0], "name", name[1])
+            for i, name in enumerate(names):
+                generic_code = generic_code.replace(name[0], "name_"+str(i), name[1])
+
 
         operator = return_operator(code)
         if operator:
@@ -165,9 +166,9 @@ class RuleSet:
         
             names = return_name(input_code)
             if names:
-                for name in set(names):
-                    entry = entry.replace("name", name[0], name[1])
-
+                for i, name in enumerate(names):
+                    entry = entry.replace("name_"+str(i), name[0])
+                    
             operator = return_operator(input_code)
             if operator:
                 entry = entry.replace("operator", operator)
