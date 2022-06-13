@@ -102,7 +102,7 @@ class RuleSet:
         if operator:
             generic_code = generic_code.replace(operator, "operator")
 
-        print(generic_code, code)
+        #print(generic_code, code)
         return generic_code
 
     def add_rule(self, py_code, jv_code, cpp_code, rule_name):
@@ -122,7 +122,6 @@ class RuleSet:
             with open("data/"+func_name+".py", 'r') as py, open("data/"+func_name+".java", 'r') as jv, open("data/"+func_name+".cpp", "r") as cpp:
                 for line_py, line_jv, line_cpp in zip(py, jv, cpp):
                     parse_tree, input_code = create_parse_tree(line_jv, JAVA)
-                    print(input_code)
                     if self.rule_match(parse_tree)[0]:
                         continue 
                     rule_name = str(input(f"Please enter the rule name for '{input_code[:-1]}': "))
@@ -139,7 +138,7 @@ class RuleSet:
             ratio.append((max(temp), rule_name))
         ratios = [r[0] for r in ratio]
         max_ratio = max(ratios)
-        print(max_ratio)
+        #print(f"Rule match: {max_ratio}")
         if not translate:
             if max_ratio >= 96:
                 return True, ratio[ratios.index(max_ratio)][1]
@@ -166,7 +165,7 @@ class RuleSet:
         
             names = return_name(input_code)
             if names:
-                for name in names:
+                for name in set(names):
                     entry = entry.replace("name", name[0], name[1])
 
             operator = return_operator(input_code)
@@ -244,7 +243,7 @@ def return_name(input_string):
     #if operator:
     #    string = string.replace(operator, "")
     names = re.findall('([a-z,A-Z]+[_]*[a-z,A-Z,0-9]*)*', string)
-    print([(name, names.count(name)) for name in names if name])
+    #print([(name, names.count(name)) for name in names if name])
     return [(name, names.count(name)) for name in names if name]
 
 
