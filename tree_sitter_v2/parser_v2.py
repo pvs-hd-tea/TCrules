@@ -1,4 +1,5 @@
 import os
+from tabnanny import check
 from tree_sitter import Language, Parser
 from fuzzywuzzy import fuzz
 import re
@@ -43,9 +44,9 @@ parser_jv.set_language(JV_LANGUAGE)
 parser_cpp = Parser()
 parser_cpp.set_language(CPP_LANGUAGE)
 
-pyparse = parser_py.parse(bytes("name = 1", "utf-8")).root_node.sexp()
-jvparse = parser_jv.parse(bytes("name = 1;", "utf-8")).root_node.sexp()
-cppparse = parser_cpp.parse(bytes("name = 1;", "utf-8")).root_node.sexp()
+pyparse = parser_py.parse(bytes("name = 1", "utf-8")).root_node.walk()
+jvparse = parser_jv.parse(bytes("name = 1;", "utf-8")).root_node.walk()
+cppparse = parser_cpp.parse(bytes("name = 1;", "utf-8")).root_node.walk()
 
 
 # print(pyparse)
@@ -55,7 +56,7 @@ cppparse = parser_cpp.parse(bytes("name = 1;", "utf-8")).root_node.sexp()
 # pyparse.goto_next_sibling()
 # print(pyparse.node.type)
 # print("----------------------------------------")
-print(jvparse)
+# print(jvparse)
 # jvparse.goto_first_child()
 # print(jvparse.node.type)
 # jvparse.goto_next_sibling()
@@ -68,19 +69,33 @@ print(jvparse)
 # print(jvparse.node.type)
 
 
-keywords = ["assignment","assignment_expression"]
-jvparse = parser_jv.parse(bytes("name = 1;", "utf-8")).root_node.walk()
+keywords = ["assignment","assignment_expression","declaration","local_variable_declaration"]
 
 
-#input requires parse tree with called attribute walk() 
+
+def create_parse_tree(input_code, input_language):
+    '''creates a parse tree for given input code and input language'''
+    if input_language == "PYTHON":
+        return parser_py.parse(bytes(input_code, "utf-8")).root_node.sexp()
+    elif input_language == "JAVA":
+        return parser_jv.parse(bytes(input_code, "utf-8")).root_node.sexp()
+    elif input_language == "CPP":
+        return parser_cpp.parse(bytes(input_code, "utf-8")).root_node.sexp()
+
+
 def check_for_match(input_parse_tree):
-    possible = True
-    while(possible):
-        input_parse_tree.goto_first_child()
-        if input_parse_tree.node.type in keywords:
-            print("great success")
-            possible = False
+    for keyword in keywords:
+        if keyword in input_parse_tree:
+            return keyword
 
 
-    
+if __name__ == "__main__":
+    print("Input code:")
+    input_code = input()
+    print("Input language:")
+    input_language = input()
+    tree = create_parse_tree(input_code, input_language)
+    type = check_for_match(tree)
+    num = re.findall(r'\d+', input_code)
+    print(type + "(" + num[0] + ")")
 
