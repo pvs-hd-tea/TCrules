@@ -64,7 +64,7 @@ class RuleSet:
             with open("rule-set.json") as file:
                 self.parse_tree_dict = json.load(file)
                 print(f"Loading the Rule Set ... Done ... Its length is {len(self.parse_tree_dict)}")
-        with open("own-parser-approach/keywords.json") as file:
+        with open("../own-parser-approach/keywords.json") as file:
                 self.keywords = json.load(file)
 
     # Destructor
@@ -97,16 +97,17 @@ class RuleSet:
     def create_generic_code_expression(self, code):
         generic_code = code
 
+        names = return_name(code)
+        if names:
+            for name in names:
+                #generic_code = generic_code.replace(name[0], "name", name[1])
+                generic_code = generic_code.replace(name, "name",1)
+
         values = return_value(code)
         if values:
             for value in values:
                 generic_code = generic_code.replace(
                     value[0], "value", value[1])
-
-        names = return_name(code)
-        if names:
-            for name in names:
-                generic_code = generic_code.replace(name[0], "name", name[1])
         
         type = return_type(code)
         if type:
@@ -197,7 +198,8 @@ class RuleSet:
             names = return_name(updated_input)
             if names:
                 for name in names:
-                    entry = entry.replace("name", name[0], name[1])
+                    #entry = entry.replace("name", name[0], name[1])
+                    entry = entry.replace("name", name, 1)
 
             type = return_type(updated_input)
             if type == "bool":
@@ -282,10 +284,11 @@ def return_name(input_string):
     for type in types:
         string = string.replace(type, "")
     names = re.findall('([a-z,A-Z]+[_]*[a-z,A-Z,0-9]*)*', string)
-    names_count_list = [(name, names.count(name)) for name in names if name]
-    names_count_set = sorted(set(names_count_list), key=names_count_list.index)
+    #names_count_list = [(name, names.count(name)) for name in names if name]
+    #names_count_set = sorted(set(names_count_list), key=names_count_list.index)
     #print(names_count_set)
-    return names_count_set
+    #print([name for name in names if name])
+    return [name for name in names if name]
 
 
 def return_operator(input_string):

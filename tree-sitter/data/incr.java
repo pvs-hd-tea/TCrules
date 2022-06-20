@@ -5,11 +5,6 @@ y = x + y;
 int z = x * y;
 int a = 10 * 10;
 a = 100 % 2;
-<<<<<<< Updated upstream
 boolean c = true;
 c = +c;
 a + c;
-=======
-boolean b = true;
-b++;
->>>>>>> Stashed changes
