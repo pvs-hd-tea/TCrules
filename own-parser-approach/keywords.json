@@ -79,6 +79,11 @@
         "java": "true",
         "python": "True"
     },
+    "bool": {
+        "c++": "bool",
+        "java": "boolean",
+        "python": ""
+    },
     "present_in": {
         "c++": "",
         "java": "",

@@ -1,11 +1,10 @@
 int x = 20;
-int y = 10;
-x = y + 1;
-int z = x + 1;
-int w = x + z;
-double r = y * w;
+x = x + 1;
+int y = x + 2;
+y = x + y;
+int z = x * y;
 int a = 10 * 10;
 a = 100 % 2;
-boolean b = true;
-++b;
-a + b;
+boolean c = true;
+c = +c;
+a + c;
