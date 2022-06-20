@@ -16,18 +16,18 @@ Language.build_library(
     'build/my-languages.so',
 
     # Include one or more languages
-    #Jonas
-    #[
-    #   '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-    #   '/Users/jonas/Documents/GitHub/tree-sitter-java',
-    #   '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    #]
-    #Vivian
+    # Jonas
     [
-        '/home/vivi/src/tree-sitter-python',
-        '/home/vivi/src/tree-sitter-java',
-        '/home/vivi/src/tree-sitter-cpp'
+        '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+        '/Users/jonas/Documents/GitHub/tree-sitter-java',
+        '/Users/jonas/Documents/GitHub/tree-sitter-python'
     ]
+    # Vivian
+    # [
+    #     '/home/vivi/src/tree-sitter-python',
+    #     '/home/vivi/src/tree-sitter-java',
+    #     '/home/vivi/src/tree-sitter-cpp'
+    # ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -36,12 +36,23 @@ CPP_LANGUAGE = Language('build/my-languages.so', 'cpp')
 
 types = ["int", "float", "double", "boolean", "bool"]
 
+<<<<<<< Updated upstream
 operators = [["==", "!=", ">=", "<=", ">", "<"], # comparison
             ["++", "+=", "+", "--", "-=","-", "//", "/=", "/", "%=", "%", "**", "*=", "*"], # arithmetic and assignment
             ["&&", "||", "!", "and", "or", "not"], # logical
             ["is not", "is"], # identity
             ["not in", "in"] # membership
             ]
+=======
+operators = ["==", "!=", ">=", "<=", ">", "<",  # comparison
+             # arithmetic and assignment
+            "++","--","+=", "+", "-=", "-", "//", "/=", "/", "%=", "%", "**", "*=", "*",
+             "&&", "||", "!", "and", "or", "not",  # logical
+             "is not", "is",  # identity
+             "not in", "in"  # membership
+             "if", "else", "elif"  # conditional
+             ]
+>>>>>>> Stashed changes
 
 """Create Parser"""
 parser_py = Parser()
@@ -63,9 +74,14 @@ class RuleSet:
         else:
             with open("rule-set.json") as file:
                 self.parse_tree_dict = json.load(file)
+<<<<<<< Updated upstream
                 print(f"Loading the Rule Set ... Done ... Its length is {len(self.parse_tree_dict)}")
         with open("../own-parser-approach/keywords.json") as file:
                 self.keywords = json.load(file)
+=======
+                print(
+                    f"Loading the Rule Set ... Done ... Its length is {len(self.parse_tree_dict)}")
+>>>>>>> Stashed changes
 
     # Destructor
     """def __del__(self):
@@ -78,7 +94,11 @@ class RuleSet:
         self.parse_tree_dict = {"ALLOCATION": {parser_py.parse(bytes("b = 5", "utf-8")).root_node.sexp(): "name = value",
                                                parser_jv.parse(bytes("int b = 5;", "utf-8")).root_node.sexp(): "type name = value;",
                                                parser_cpp.parse(bytes("int b = 5;", "utf-8")).root_node.sexp(): "type name = value;"
-                                               }
+                                               },
+                                "add_short": {parser_py.parse(bytes("b += 1", "utf-8")).root_node.sexp(): "name += value",
+                                               parser_jv.parse(bytes("b++;", "utf-8")).root_node.sexp(): "nameoperatoroperator;",
+                                               parser_cpp.parse(bytes("b++;", "utf-8")).root_node.sexp(): "nameoperatoroperator;"
+                                               },
                                 }
 
     def save_parse_tree_dict(self):
@@ -91,16 +111,23 @@ class RuleSet:
         values = return_value(code)
         if values:
             for value in values:
-                generic_code = generic_code.replace(value[0], "value", value[1])
+                generic_code = generic_code.replace(
+                    value[0], "value", value[1])
 
         names = return_name(code)
         if names:
+<<<<<<< Updated upstream
             for name in names:
                 generic_code = generic_code.replace(name[0], "name", name[1])
         
         type = return_type(code)
         if type:
             generic_code = generic_code.replace(type, "type")
+=======
+            for i, name in enumerate(names):
+                generic_code = generic_code.replace(
+                    name[0], "name_"+str(i), name[1])
+>>>>>>> Stashed changes
 
         operator = return_operator(code)
         if operator:
@@ -115,23 +142,25 @@ class RuleSet:
         generic_cpp_code = self.create_generic_code_expression(cpp_code)
 
         self.parse_tree_dict.update({rule_name: {parser_py.parse(bytes(py_code, "utf-8")).root_node.sexp(): generic_py_code,
-                                            parser_jv.parse(bytes(jv_code, "utf-8")).root_node.sexp(): generic_jv_code,
-                                            parser_cpp.parse(bytes(cpp_code, "utf-8")).root_node.sexp(): generic_cpp_code
-                                            }
-                                    })
+                                                 parser_jv.parse(bytes(jv_code, "utf-8")).root_node.sexp(): generic_jv_code,
+                                                 parser_cpp.parse(bytes(cpp_code, "utf-8")).root_node.sexp(): generic_cpp_code
+                                                 }
+                                     })
 
     def complete_simple_rules(self):
         '''read parallel corpus and derive rules'''
         for func_name in function_names:
-            with open("data/"+func_name+".py", 'r') as py, open("data/"+func_name+".java", 'r') as jv, open("data/"+func_name+".cpp", "r") as cpp:
+            with open("tree-sitter/data/"+func_name+".py", 'r') as py, open("tree-sitter/data/"+func_name+".java", 'r') as jv, open("tree-sitter/data/"+func_name+".cpp", "r") as cpp:
                 for line_py, line_jv, line_cpp in zip(py, jv, cpp):
                     parse_tree, input_code,_ = create_parse_tree(line_jv, JAVA)
                     if self.rule_match(parse_tree)[0]:
-                        continue 
-                    rule_name = str(input(f"Please enter the rule name for '{input_code[:-1]}': "))
+                        continue
+                    rule_name = str(
+                        input(f"Please enter the rule name for '{input_code[:-1]}': "))
                     while rule_name in self.parse_tree_dict:
-                        rule_name = str(input("This name is already in the database... Please enter another one: "))
-                    self.add_rule(line_py, line_jv, line_cpp, rule_name)  
+                        rule_name = str(
+                            input("This name is already in the database... Please enter another one: "))
+                    self.add_rule(line_py, line_jv, line_cpp, rule_name)
 
     def rule_match(self, input_parse_tree, translate=False):
         ratio = []
@@ -155,6 +184,15 @@ class RuleSet:
     def translate(self, input_code, rule_name):
         '''translates the given input code by traversing available rules and replacing values, names, types and operators'''
         translations = []
+<<<<<<< Updated upstream
+=======
+        for sexp_tree in self.parse_tree_dict[rule_name]:
+            entry = self.parse_tree_dict[rule_name][sexp_tree]
+
+            type = return_type(input_code)
+            if type:
+                entry = entry.replace("type", type)
+>>>>>>> Stashed changes
 
         tokens = input_code.split()
         keywords = []
@@ -180,6 +218,7 @@ class RuleSet:
             values = return_value(updated_input)
             if values:
                 for value in values:
+<<<<<<< Updated upstream
                     entry = entry.replace("value", value[0], value[1])           
         
             names = return_name(updated_input)
@@ -201,12 +240,23 @@ class RuleSet:
                 entry = entry.replace("type", type) 
                     
             operator = return_operator(updated_input)
+=======
+                    entry = entry.replace("value", value[0], value[1])
+
+            names = return_name(input_code)
+            if names:
+                for i, name in enumerate(names):
+                    entry = entry.replace("name_"+str(i), name[0])
+
+            operator = return_operator(input_code)
+>>>>>>> Stashed changes
             if operator:
                 entry = entry.replace("operator", operator)
 
             translations.append(entry)
 
         return translations
+
 
 def create_parse_tree(input_code, input_language):
     '''creates a parse tree for given input code and input language'''
@@ -223,28 +273,28 @@ def return_type(input_string):
     for type in types:
         if type in input_string:
             return type
-    
+
     numbers = return_value(input_string)
     if numbers and len(numbers) == 1:
         if numbers[0][0] in ["true", "false", "True", "False"]:
             return "bool"
         if re.search(r"\.", numbers[0][0]) is None:
             return "int"
-        elif len(numbers[0][0]) < 9: 
-            return "float" # 6-7 significant digits
-        return "double" # 15-16 significant digits
-    
-    if numbers: # more than one
+        elif len(numbers[0][0]) < 9:
+            return "float"  # 6-7 significant digits
+        return "double"  # 15-16 significant digits
+
+    if numbers:  # more than one
         flag_float, flag_double = False, False
         for number in numbers:
             if number in ["true", "false", "True", "False"]:
                 return "bool"
             if re.search(r"\.", number[0]) is None:
-                continue # int
-            elif len(number[0]) < 9: 
-                flag_float = True # 6-7 significant digits
+                continue  # int
+            elif len(number[0]) < 9:
+                flag_float = True  # 6-7 significant digits
             else:
-                flag_double = True # 15-16 significant digits
+                flag_double = True  # 15-16 significant digits
         if flag_double:
             return "double"
         if flag_float:
@@ -268,6 +318,12 @@ def return_name(input_string):
     string = re.sub('true|false|True|False', '', input_string)
     for type in types:
         string = string.replace(type, "")
+<<<<<<< Updated upstream
+=======
+    #operator = return_operator(string)
+    # if operator:
+    #    string = string.replace(operator, "")
+>>>>>>> Stashed changes
     names = re.findall('([a-z,A-Z]+[_]*[a-z,A-Z,0-9]*)*', string)
     names_count_list = [(name, names.count(name)) for name in names if name]
     names_count_set = sorted(set(names_count_list), key=names_count_list.index)
@@ -283,5 +339,3 @@ def return_operator(input_string):
                 #print("op", operator)
                 return operator
     return None
-
-
