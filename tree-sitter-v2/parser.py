@@ -34,8 +34,6 @@ PYTHON = "PYTHON"
 JAVA = "JAVA"
 CPP = "CPP"
 
-#tree_keywords = ["assignment_expression", "expression_statement", "assignment","local_variable_declaration","declaration"]
-
 types = ["int", "float", "double", "boolean", "bool"]
 
 operators = [["==", "!=", ">=", "<=", ">", "<"], # comparison
@@ -178,11 +176,15 @@ class RuleSet:
                 if keyword:
                     best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
                     if best_match[-1] == 100:
+                        flag = False
                         for list in self.rules[best_match[0]]:
                             if self.create_generic_expression(line) in list:
                                 translations.append(self.transform(list, line))
+                                flag = True
+                        if not flag:
+                            print(f"No appropriate transformation for {best_match[0], self.create_generic_expression(line)} was found in the database...")
                     else:
-                        print(f"No appropriate rule was found in the database...")
+                        print(f"No appropriate rule for {keyword} was found in the database...")
             return translations
 
     def transform(self, generic_expressions, code):
@@ -192,8 +194,8 @@ class RuleSet:
         keywords = []
         tokens_to_replace = []
         for token in tokens:
-            best_match = process.extractOne(token, self.keywords.keys(), scorer=fuzz.token_sort_ratio)
-            if best_match[-1] == 100:
+            best_match = process.extractOne(token, self.keywords.keys(), scorer=fuzz.ratio)
+            if best_match[-1] >= 70:
                 keywords.append(self.keywords[best_match[0]])
                 tokens_to_replace.append(token)
         
@@ -201,11 +203,11 @@ class RuleSet:
             updated_input = code
             if keywords:
                 for index, token in enumerate(tokens_to_replace):
-                    if i == 0:
+                    if i == 0 and token != keywords[index]["c++"]:
                         updated_input = re.sub(token, keywords[index]["c++"], updated_input)
-                    elif i == 1:
+                    elif i == 1 and token != keywords[index]["java"]:
                         updated_input = re.sub(token, keywords[index]["java"], updated_input)
-                    else:
+                    elif token != keywords[index]["python"]:
                         updated_input = re.sub(token, keywords[index]["python"], updated_input)
 
             values = return_value(updated_input)
@@ -220,8 +222,8 @@ class RuleSet:
 
             type = return_type(updated_input)
             if type == "bool":
-                best_match = process.extractOne("bool", self.keywords.keys(), scorer=fuzz.token_sort_ratio)
-                if best_match[-1] == 100:
+                best_match = process.extractOne("bool", self.keywords.keys(), scorer=fuzz.ratio)
+                if best_match[-1] >= 70:
                     if i == 0:
                         entry = re.sub("type", self.keywords[best_match[0]]["c++"], entry)
                     elif i == 1:

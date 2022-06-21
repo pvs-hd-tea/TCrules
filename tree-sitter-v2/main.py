@@ -1,4 +1,7 @@
 import parser
+import logging
+
+logging.getLogger().setLevel(logging.ERROR)
 
 
 if __name__ == "__main__":
@@ -6,7 +9,18 @@ if __name__ == "__main__":
 
     #rule_set.derive_rules(parser.files)
 
-    translations = rule_set.translate("simple.cpp", parser.CPP)
+    translations = rule_set.translate("test.cpp", parser.CPP)
+    print(f"translate from {parser.CPP} ({len(translations)})")
+    for code_line in translations:
+        print(code_line)
+
+    translations = rule_set.translate("test.java", parser.JAVA)
+    print(f"translate from {parser.JAVA} ({len(translations)})")
+    for code_line in translations:
+        print(code_line)
+
+    translations = rule_set.translate("test.py", parser.PYTHON)
+    print(f"translate from {parser.PYTHON} ({len(translations)})")
     for code_line in translations:
         print(code_line)
 
