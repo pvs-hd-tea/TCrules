@@ -1,26 +1,26 @@
 {
-    "log_and": {
+    "and&&": {
         "c++": "&&",
         "java": "&&",
         "python": "and"
     },
-    "log_or": {
+    "or||": {
         "c++": "||",
         "java": "||",
         "python": "or"
     },
-    "log_not": {
+    "not!": {
         "c++": "!",
         "java": "!",
         "python": "not"
     },
-    "alias": {
+    "as": {
         "c++": "",
         "java": "",
         "python": "as"
     },
     "assert": {
-        "c++": "assert (",
+        "c++": "assert",
         "java": "",
         "python": "assert"
     },
@@ -39,12 +39,12 @@
         "java": "continue;",
         "python": "continue"
     },
-    "def_funktion": {
+    "def": {
         "c++": "",
         "java": "",
         "python": "def"
     },
-    "else_if": {
+    "elseif": {
         "c++": "else if",
         "java": "else if",
         "python": "elif"
@@ -55,13 +55,13 @@
         "python": "else"
     },
     "if": {
-        "c++": "if (",
-        "java": "if (",
+        "c++": "if",
+        "java": "if",
         "python": "if"
     },
-    "for_loop": {
-        "c++": "for (",
-        "java": "for (",
+    "for": {
+        "c++": "for",
+        "java": "for",
         "python": "for"
     },
     "except": {
@@ -84,12 +84,22 @@
         "java": "boolean",
         "python": ""
     },
-    "present_in": {
+    "string": {
+        "c++": "string",
+        "java": "String",
+        "python": ""
+    },
+    "char": {
+        "c++": "char",
+        "java": "char",
+        "python": ""
+    },
+    "in": {
         "c++": "",
         "java": "",
         "python": "in"
     },
-    "equal_is": {
+    "is": {
         "c++": "",
         "java": "",
         "python": "is"
@@ -104,17 +114,17 @@
         "java": "return",
         "python": "return"
     },
-    "while_loop": {
-        "c++": "while (",
-        "java": "while (",
+    "while": {
+        "c++": "while",
+        "java": "while",
         "python": "while"
     },
-    "pass": {
+    "pass;": {
         "c++": ";",
         "java": ";",
         "python": "pass"
     },
-    "output": {
+    "cout_print": {
         "c++": "std::cout<<",
         "java": "System.out.println(",
         "python": "print("

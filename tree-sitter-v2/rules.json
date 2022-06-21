@@ -1,0 +1,53 @@
+{
+    "local_variable_declaration": [
+        [
+            "type name = value;\n",
+            "type name = value;\n",
+            "name = value\n"
+        ],
+        [
+            "type name = name operator value;\n",
+            "type name = name operator value;\n",
+            "name = name operator value\n"
+        ],
+        [
+            "type name = name operator name;\n",
+            "type name = name operator name;\n",
+            "name = name operator name\n"
+        ],
+        [
+            "type name = value operator value;\n",
+            "type name = value operator value;\n",
+            "name = value operator value\n"
+        ]
+    ],
+    "assignment_expression": [
+        [
+            "name = name operator value;\n",
+            "name = name operator value;\n",
+            "name = name operator value\n"
+        ],
+        [
+            "name = name operator name;\n",
+            "name = name operator name;\n",
+            "name = name operator name\n"
+        ],
+        [
+            "name = value operator value;\n",
+            "name = value operator value;\n",
+            "name = value operator value\n"
+        ],
+        [
+            "name = operatorname;\n",
+            "name = operatorname;\n",
+            "operatorname\n"
+        ]
+    ],
+    "expression_statement": [
+        [
+            "name operator name;\n",
+            "name operator name;\n",
+            "name operator name\n"
+        ]
+    ]
+}

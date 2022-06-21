@@ -17,17 +17,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    [
-        '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-        '/Users/jonas/Documents/GitHub/tree-sitter-java',
-        '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    ]
+    #[
+    #    '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+    #    '/Users/jonas/Documents/GitHub/tree-sitter-java',
+    #    '/Users/jonas/Documents/GitHub/tree-sitter-python'
+    #]
     # Vivian
-    # [
-    #     '/home/vivi/src/tree-sitter-python',
-    #     '/home/vivi/src/tree-sitter-java',
-    #     '/home/vivi/src/tree-sitter-cpp'
-    # ]
+    [
+        '/home/vivi/src/tree-sitter-python',
+        '/home/vivi/src/tree-sitter-java',
+        '/home/vivi/src/tree-sitter-cpp'
+    ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -101,7 +101,7 @@ class RuleSet:
         if names:
             for name in names:
                 #generic_code = generic_code.replace(name[0], "name", name[1])
-                generic_code = generic_code.replace(name, "name",1)
+                generic_code = generic_code.replace(name, "name", 1)
 
         values = return_value(code)
         if values:
@@ -134,7 +134,7 @@ class RuleSet:
     def complete_simple_rules(self):
         '''read parallel corpus and derive rules'''
         for func_name in function_names:
-            with open("tree-sitter/data/"+func_name+".py", 'r') as py, open("tree-sitter/data/"+func_name+".java", 'r') as jv, open("tree-sitter/data/"+func_name+".cpp", "r") as cpp:
+            with open("data/"+func_name+".py", 'r') as py, open("data/"+func_name+".java", 'r') as jv, open("data/"+func_name+".cpp", "r") as cpp:
                 for line_py, line_jv, line_cpp in zip(py, jv, cpp):
                     parse_tree, input_code,_ = create_parse_tree(line_jv, JAVA)
                     if self.rule_match(parse_tree)[0]:
@@ -177,7 +177,7 @@ class RuleSet:
             if best_match[-1] == 100:
                 keywords.append(self.keywords[best_match[0]])
                 tokens_to_replace.append(token)
-        
+        print(tokens_to_replace)
         for i, sexp_tree in enumerate(self.parse_tree_dict[rule_name]):
             entry = self.parse_tree_dict[rule_name][sexp_tree]
             updated_input = input_code

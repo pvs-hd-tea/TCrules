@@ -45,28 +45,18 @@
         "(translation_unit (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (number_literal) right: (number_literal)))))": "name = value operator value;\n"
     },
     "7": {
-        "(module (ERROR (identifier)) (expression_statement (identifier)))": "operatoroperatoroperatoroperatoroperatoroperatoroperator name name\n",
-        "(program (ERROR (type_identifier) (identifier)))": "operatoroperatoroperatoroperatoroperatoroperatoroperator name name\n",
-        "(translation_unit (ERROR type: (type_identifier) (identifier)))": "operatoroperatoroperatoroperatoroperatoroperatoroperator name name\n"
-    },
-    "8": {
         "(module (expression_statement (assignment left: (identifier) right: (true))))": "name = value\n",
         "(program (local_variable_declaration type: (boolean_type) declarator: (variable_declarator name: (identifier) value: (true))))": "type name = value;\n",
         "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (true))))": "type name = value;\n"
     },
-    "9": {
+    "8": {
         "(module (expression_statement (unary_operator argument: (identifier))))": "operatorname\n",
         "(program (expression_statement (assignment_expression left: (identifier) right: (unary_expression operand: (identifier)))))": "name = operatorname;\n",
         "(translation_unit (expression_statement (assignment_expression left: (identifier) right: (unary_expression argument: (identifier)))))": "name = operatorname;\n"
     },
-    "10": {
+    "9": {
         "(module (expression_statement (binary_operator left: (identifier) right: (identifier))))": "name operator name\n",
         "(program (expression_statement (binary_expression left: (identifier) right: (identifier))))": "name operator name;\n",
         "(translation_unit (expression_statement (binary_expression left: (identifier) right: (identifier))))": "name operator name;\n"
-    },
-    "11": {
-        "(module (ERROR))": "operatoroperatoroperator=\n",
-        "(program (ERROR))": "operatoroperatoroperator=\n",
-        "(translation_unit (ERROR))": "operatoroperatoroperator=\n"
     }
 }
