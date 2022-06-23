@@ -48,6 +48,11 @@
             "name operator name;\n",
             "name operator name;\n",
             "name operator name\n"
+        ],
+        [
+            "std::cout<<\"@\";",
+            "System.out.println(\"@\")",
+            "print(\"@\")"
         ]
     ]
 }

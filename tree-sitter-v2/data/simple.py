@@ -8,3 +8,4 @@ a = 100 % 2
 c = True
 +c
 a + c
+print("Hello")

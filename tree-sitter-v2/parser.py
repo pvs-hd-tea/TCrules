@@ -65,7 +65,7 @@ class RuleSet:
                 self.rules = json.load(file)
                 print(f"Loading {len(self.rules)} rules ... Done ...")    
         
-        with open("../own-parser-approach/keywords.json") as file:
+        with open("keywords.json") as file:
             self.keywords = json.load(file)
 
         if not os.path.isfile("tree-keywords.txt"):
@@ -85,11 +85,11 @@ class RuleSet:
             file.seek(0)
             length = len(self.tree_keywords)-1
             if length>0:
-                for i, item in enumerate(self.tree_keywords):
+                for i, keyword in enumerate(self.tree_keywords):
                     if i == length:
-                        file.write(item)
+                        file.write(keyword)
                     else:
-                        file.write(item+",")
+                        file.write(keyword+",")
             else:
                 file.write(self.tree_keywords[0])
 
@@ -103,10 +103,12 @@ class RuleSet:
         return str(root_node.children[0].type)
 
 
-    def create_generic_expression(self, code):
+    def create_generic_expression(self, code, language=CPP.lower()):
         generic_code = code
 
-        names = return_name(code)
+        in_keywords, names = return_name(self, code)
+        if in_keywords:
+            return self.keywords[names][language]
         if names:
             for name in names:
                 generic_code = generic_code.replace(name, "name", 1)
@@ -131,14 +133,15 @@ class RuleSet:
 
     def extend_rule(self, cpp, jv, py, key):
         generic_cpp = self.create_generic_expression(cpp)
-        generic_jv = self.create_generic_expression(jv)
-        generic_py = self.create_generic_expression(py)
+        generic_jv = self.create_generic_expression(jv, JAVA.lower())
+        generic_py = self.create_generic_expression(py, PYTHON.lower())
 
         flag = False
 
         for list in self.rules[key]:
             if generic_cpp in list:
-                flag = True 
+                flag = True
+                break
         if flag == False:
             self.rules[key].append([generic_cpp, generic_jv, generic_py])
         #print(self.rules)
@@ -146,8 +149,8 @@ class RuleSet:
 
     def add_rule(self, cpp, jv, py, key):
         generic_cpp = self.create_generic_expression(cpp)
-        generic_jv = self.create_generic_expression(jv)
-        generic_py = self.create_generic_expression(py)
+        generic_jv = self.create_generic_expression(jv, JAVA.lower())
+        generic_py = self.create_generic_expression(py, PYTHON.lower())
 
         self.rules.update({key: [[generic_cpp, generic_jv, generic_py]]})
         #print(self.rules)
@@ -178,11 +181,11 @@ class RuleSet:
                     if best_match[-1] == 100:
                         flag = False
                         for list in self.rules[best_match[0]]:
-                            if self.create_generic_expression(line) in list:
+                            if self.create_generic_expression(line,language.lower()) in list:
                                 translations.append(self.transform(list, line))
                                 flag = True
                         if not flag:
-                            print(f"No appropriate transformation for {best_match[0], self.create_generic_expression(line)} was found in the database...")
+                            print(f"No appropriate transformation for {best_match[0], self.create_generic_expression(line, language.lower())} was found in the database...")
                     else:
                         print(f"No appropriate rule for {keyword} was found in the database...")
             return translations
@@ -203,8 +206,8 @@ class RuleSet:
             updated_input = code
             if keywords:
                 for index, token in enumerate(tokens_to_replace):
-                    if i == 0 and token != keywords[index]["c++"]:
-                        updated_input = re.sub(token, keywords[index]["c++"], updated_input)
+                    if i == 0 and token != keywords[index]["cpp"]:
+                        updated_input = re.sub(token, keywords[index]["cpp"], updated_input)
                     elif i == 1 and token != keywords[index]["java"]:
                         updated_input = re.sub(token, keywords[index]["java"], updated_input)
                     elif token != keywords[index]["python"]:
@@ -215,7 +218,13 @@ class RuleSet:
                 for value in values:
                     entry = entry.replace("value", value[0], value[1])           
         
-            names = return_name(updated_input)
+            in_keywords, names = return_name(self, updated_input)
+            if in_keywords:
+                if "@" in entry:
+                    string = re.findall('"([^"]*)"', code) # text between quotations
+                    for s in string:
+                        entry = re.sub('@', s+"@", entry)
+                    entry = re.sub('@', '', entry)
             if names:
                 for name in names:
                     entry = entry.replace("name", name, 1)
@@ -225,7 +234,7 @@ class RuleSet:
                 best_match = process.extractOne("bool", self.keywords.keys(), scorer=fuzz.ratio)
                 if best_match[-1] >= 70:
                     if i == 0:
-                        entry = re.sub("type", self.keywords[best_match[0]]["c++"], entry)
+                        entry = re.sub("type", self.keywords[best_match[0]]["cpp"], entry)
                     elif i == 1:
                         entry = re.sub("type", self.keywords[best_match[0]]["java"], entry)
                     else:
@@ -253,8 +262,9 @@ def create_parse_tree(input_code, input_language):
 
 
 def return_type(input_string):
+    input = input_string.split()
     for type in types:
-        if type in input_string:
+        if type in input:
             return type
 
     numbers = return_value(input_string)
@@ -295,13 +305,22 @@ def return_value(input_string):
         return [(number, numbers.count(number)) for number in numbers]
 
 
-def return_name(input_string):
+def return_name(self, input_string):
     string = re.sub('true|false|True|False', '', input_string)
-    for type in types:
-        string = string.replace(type, "")
+    string = re.sub('"([^"]*)"', '"@"', string) # text between quotations
+    temp = string.split()
+    for t in temp:
+        if t in types:
+            temp.remove(t)
+        for op_list in operators:
+            if t in op_list:
+                temp.remove(t)
+    string = " ".join(temp)
+    best_match = process.extractOne(string, self.keywords.keys(), scorer=fuzz.token_set_ratio)
+    if best_match[-1] >= 45:
+        return True, best_match[0]
     names = re.findall('([a-z,A-Z]+[_]*[a-z,A-Z,0-9]*)*', string)
-    #print([name for name in names if name])
-    return [name for name in names if name]
+    return False, [name for name in names if name and name not in types]
 
 
 def return_operator(input_string):

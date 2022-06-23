@@ -8,3 +8,4 @@ a = 100 % 2;
 boolean c = true;
 c = +c;
 a + c;
+System.out.println("Hello");

@@ -8,3 +8,4 @@ a = 100 % 2;
 bool c = true;
 c = +c;
 a + c;
+std::cout<<"Hello";

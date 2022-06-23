@@ -8,3 +8,4 @@ a = 7 * 3;
 boolean c = false;
 c = +c;
 a - c;
+System.out.println("Hello world!");

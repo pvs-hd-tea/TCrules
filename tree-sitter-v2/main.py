@@ -7,25 +7,27 @@ logging.getLogger().setLevel(logging.ERROR)
 if __name__ == "__main__":
     rule_set = parser.RuleSet()
 
-    #rule_set.derive_rules(parser.files)
+    translate = True
 
-    translations = rule_set.translate("test.cpp", parser.CPP)
-    print(f"translate from {parser.CPP} ({len(translations)})")
-    for code_line in translations:
-        print(code_line)
+    if translate: 
+        translations = rule_set.translate("test.cpp", parser.CPP)
+        print(f"translate from {parser.CPP} ({len(translations)})")
+        for code_line in translations:
+            print(code_line)
 
-    translations = rule_set.translate("test.java", parser.JAVA)
-    print(f"translate from {parser.JAVA} ({len(translations)})")
-    for code_line in translations:
-        print(code_line)
+        translations = rule_set.translate("test.java", parser.JAVA)
+        print(f"translate from {parser.JAVA} ({len(translations)})")
+        for code_line in translations:
+            print(code_line)
 
-    translations = rule_set.translate("test.py", parser.PYTHON)
-    print(f"translate from {parser.PYTHON} ({len(translations)})")
-    for code_line in translations:
-        print(code_line)
+        translations = rule_set.translate("test.py", parser.PYTHON)
+        print(f"translate from {parser.PYTHON} ({len(translations)})")
+        for code_line in translations:
+            print(code_line)
 
-
-    #rule_set.save_rules()
+    else:
+        rule_set.derive_rules(parser.files)
+        rule_set.save_rules()
 
     rule_set.save_keywords()
 

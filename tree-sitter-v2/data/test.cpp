@@ -8,3 +8,4 @@ a = 7 * 3;
 bool c = false;
 c = +c;
 a - c;
+std::cout<<"Hello world!";

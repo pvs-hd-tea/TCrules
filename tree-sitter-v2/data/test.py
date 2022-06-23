@@ -8,3 +8,4 @@ a = 7 * 3
 c = False
 c = +c;
 a - c;
+print("Hello world!")
