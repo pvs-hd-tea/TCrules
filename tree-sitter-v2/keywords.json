@@ -25,9 +25,9 @@
         "python": "else"
     },
     "if": {
-        "cpp": "if",
-        "java": "if",
-        "python": "if"
+        "cpp": "if (@) {\n    @\n}\n",
+        "java": "if (@) {\n    @\n} \n",
+        "python": "if @:\n    @"
     },
     "for": {
         "cpp": "for",
