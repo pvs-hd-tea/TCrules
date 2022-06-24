@@ -43,7 +43,7 @@ operators = [["==", "!=", ">=", "<=", ">", "<"], # comparison
             ["not in", "in"] # membership
             ]
 
-files = ["simple", "if"]
+files = ["simple", "if", "while"]
 
 """Create Parser"""
 parser_py = Parser()
@@ -84,14 +84,11 @@ class RuleSet:
             file.truncate(0)
             file.seek(0)
             length = len(self.tree_keywords)-1
-            if length>0:
-                for i, keyword in enumerate(self.tree_keywords):
-                    if i == length:
-                        file.write(keyword)
-                    else:
-                        file.write(keyword+",")
-            else:
-                file.write(self.tree_keywords[0])
+            for i, keyword in enumerate(self.tree_keywords):
+                if i == length:
+                    file.write(keyword)
+                else:
+                    file.write(keyword+",")
 
     def check_for_keyword(self, parse_tree_sexp, parse_tree):
         for keyword in self.tree_keywords:
@@ -188,7 +185,7 @@ class RuleSet:
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
                     
-                    if keyword in ["if_statement"] and keyword not in self.rules.keys():
+                    if keyword in ["if_statement", "while_statement"] and keyword not in self.rules.keys():
                         self.rules.update({keyword: [self.check_statement(keyword, "data/"+file+".cpp", "data/"+file+".py", line_jv, jv)]})
                     
                     elif keyword:
@@ -206,7 +203,7 @@ class RuleSet:
             for line in file:
                 tree_sexp, tree = create_parse_tree(line, language)
                 keyword = self.check_for_keyword(tree_sexp, tree)
-                if keyword in ["if_statement"] and keyword in self.rules.keys():
+                if keyword in ["if_statement", "while_statement"] and keyword in self.rules.keys():
                     generic_statement, statement = create_generic_statement(file, line, language)
                     if generic_statement in self.rules[keyword][0]:
                         translations.append(self.transform_statement(self.rules[keyword][0], statement, language))
@@ -234,26 +231,27 @@ class RuleSet:
             best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
             if best_match[-1] == 100:
                 for list in self.rules[best_match[0]]:
+                    print(list, self.create_generic_expression(code_input, language.lower()))
                     if self.create_generic_expression(code_input, language.lower()) in list:
                         return self.transform(list, code_input)
         return None
 
 
-    # translate the generic expressions for the if_statement using the input statement
+    # translate the generic expressions for the if_statement and while_statement using the input statement
     def transform_statement(self, generic_expressions, statement, language):
         translations = []
 
         for i, entry in enumerate(generic_expressions):
             if language in [CPP,JAVA]:
-                if_condition = re.findall('\(([^"]*)\)', statement)[0]
+                condition = re.findall('\(([^"]*)\) \{', statement)[0]
                 block = re.findall('\{([^}]+)\}', statement)[0].split("\n")
             else: 
-                if_condition = re.findall('if (.*):', statement)[0]
+                condition = re.findall('(if|while) (.*):', statement)[0][1]
                 block = statement[statement.index(":")+1:].split("\n")
 
             block = [textwrap.dedent(item)+"\n" for item in block if item]
-        
-            entry = entry.replace("@", if_condition, 1)
+            
+            entry = entry.replace("@", condition, 1)
 
             # for each line in block --> translation via rules
             if "@" in entry:
@@ -339,7 +337,7 @@ def create_parse_tree(input_code, input_language):
         return parser_cpp.parse(bytes(input_code, "utf-8")).root_node.sexp(), parser_cpp.parse(bytes(input_code, "utf-8"))
 
 
-# create generic expression for if_statement
+# create generic expression for if_statement and while_statement
 def create_generic_statement(file, line, language=JAVA):
     lines = [line for line in file]
     statement = line
@@ -353,6 +351,7 @@ def create_generic_statement(file, line, language=JAVA):
         gen_statement = line
         gen_statement += lines[j-1] + lines[j]
         gen_statement = re.sub('if \(([^"]*)\)', 'if (@)', gen_statement)
+        gen_statement = re.sub('while \(([^"]*)\)', 'while (@)', gen_statement)
         block = re.findall('\{([^}]+)\}', statement)[0].split("\n")
         block = [textwrap.dedent(item) for item in block if item]
         gen_statement = gen_statement.replace(block[-1], '@')
@@ -368,6 +367,7 @@ def create_generic_statement(file, line, language=JAVA):
         gen_statement = gen_statement.replace(textwrap.dedent(lines[j-1]), '@')
 
         gen_statement = re.sub('if (.*):', 'if @:', gen_statement)
+        gen_statement = re.sub('while (.*):', 'while @:', gen_statement)
         return gen_statement, statement
 
 
