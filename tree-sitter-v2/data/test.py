@@ -9,3 +9,7 @@ c = False
 c = +c;
 a - c;
 print("Hello world!")
+if a > c:
+    print("a is greater than b")
+    a = 10
+    c = 5.5

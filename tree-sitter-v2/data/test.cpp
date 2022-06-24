@@ -9,3 +9,8 @@ bool c = false;
 c = +c;
 a - c;
 std::cout<<"Hello world!";
+if (a > c) {
+    std::cout<<"a is greater than b";
+    int a = 10;
+    double c = 5.5;
+} 

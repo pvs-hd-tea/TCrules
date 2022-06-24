@@ -1,10 +1,6 @@
-from dis import code_info
 import itertools
 import os
-from tabnanny import check
 import textwrap
-
-from numpy import generic
 from tree_sitter import Language, Parser
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
@@ -159,7 +155,7 @@ class RuleSet:
         self.rules.update({key: [[generic_cpp, generic_jv, generic_py]]})
         #print(self.rules)
 
-
+    # for now used for if_statement
     def check_statement(self, keyword, cpp_file, py_file, line_jv, jv):    
         generic_statements = []
 
@@ -168,17 +164,17 @@ class RuleSet:
             for line_cpp in cpp:
                 tree_sexp, tree = create_parse_tree(line_cpp, CPP)
                 if self.check_for_keyword(tree_sexp, tree) == keyword:
-                    generic_statements.append(create_generic_statement(cpp, line_cpp, CPP))
+                    generic_statements.append(create_generic_statement(cpp, line_cpp, CPP)[0])
 
         # JAVA
-        generic_statements.append(create_generic_statement(jv, line_jv))
+        generic_statements.append(create_generic_statement(jv, line_jv)[0])
 
         # PYTHON
         with open(py_file, 'r') as py:
             for line_py in py:
                 tree_sexp, tree = create_parse_tree(line_py, PYTHON)
                 if self.check_for_keyword(tree_sexp, tree) == keyword:
-                    generic_statements.append(create_generic_statement(py, line_py, PYTHON))
+                    generic_statements.append(create_generic_statement(py, line_py, PYTHON)[0])
 
         return generic_statements
 
@@ -189,7 +185,7 @@ class RuleSet:
                 for line_py, line_jv, line_cpp in zip(py, jv, cpp):
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
-
+                    # for now for if_statemnet
                     if keyword in ["if_statement"] and keyword not in self.rules.keys():
                         self.rules.update({keyword: [self.check_statement(keyword, "data/"+file+".cpp", "data/"+file+".py", line_jv, jv)]})
                     
@@ -206,7 +202,12 @@ class RuleSet:
             for line in file:
                 tree_sexp, tree = create_parse_tree(line, language)
                 keyword = self.check_for_keyword(tree_sexp, tree)
-                if keyword:
+                if keyword in ["if_statement"] and keyword in self.rules.keys():
+                    generic_statement, statement = create_generic_statement(file, line, language)
+                    if generic_statement in self.rules[keyword][0]:
+                        translations.append(self.transform_statement(self.rules[keyword][0], statement, language))
+
+                elif keyword:
                     best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
                     if best_match[-1] == 100:
                         flag = False
@@ -219,6 +220,46 @@ class RuleSet:
                     else:
                         print(f"No appropriate rule for {keyword} was found in the database...")
             return translations
+
+    # translate single line
+    def translate_line(self, code_input, language):
+        tree_sexp, tree = create_parse_tree(code_input, language)
+        keyword = self.check_for_keyword(tree_sexp, tree)
+        if keyword:
+            best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
+            if best_match[-1] == 100:
+                for list in self.rules[best_match[0]]:
+                    if self.create_generic_expression(code_input, language.lower()) in list:
+                        return self.transform(list, code_input)
+        return None
+
+
+    def transform_statement(self, generic_expressions, statement, language):
+        translations = []
+
+        for i, entry in enumerate(generic_expressions):
+            if language in [CPP,JAVA]:
+                if_condition = re.findall('\(([^"]*)\)', statement)[0]
+                block = re.findall('\{([^}]+)\}', statement)[0].split("\n")
+            else: 
+                if_condition = re.findall('if (.*):', statement)[0]
+                block = statement[statement.index(":")+1:].split("\n")
+
+            block = [textwrap.dedent(item)+"\n" for item in block if item]
+        
+            entry = entry.replace("@", if_condition, 1)
+
+            # for each line in block --> translation via rules
+            if "@" in entry:
+                for line in block:
+                    code_line_translated = self.translate_line(line, language)
+                    if code_line_translated:
+                        entry = re.sub('@', code_line_translated[i]+"    @", entry)
+            entry = re.sub('\n    @', '', entry)
+
+            translations.append(entry)
+            #print(entry)
+        return translations
 
     def transform(self, generic_expressions, code):
         translations = []
@@ -301,20 +342,25 @@ def create_generic_statement(file, line, language=JAVA):
             j += 1
             statement += lines[j]
 
-        statement = re.sub('if \(([^"]*)\)', 'if (@)', statement)
-        block = re.findall('\{([^}]+)\}', statement)[0]
-        statement = statement.replace(block, '@')
-        return statement
+        gen_statement = line
+        gen_statement += lines[j-1] + lines[j]
+        gen_statement = re.sub('if \(([^"]*)\)', 'if (@)', gen_statement)
+        block = re.findall('\{([^}]+)\}', statement)[0].split("\n")
+        block = [textwrap.dedent(item) for item in block if item]
+        gen_statement = gen_statement.replace(block[-1], '@')
+        return gen_statement, statement
 
     else:
         while j < len(lines) and len(lines[j]) - len(lines[j].lstrip()) != 0: # indent
+            statement += lines[j]
             j += 1
         
-        statement += lines[j-1]
-        statement = statement.replace(textwrap.dedent(lines[j-1]), '@')
+        gen_statement = line
+        gen_statement += lines[j-1]
+        gen_statement = gen_statement.replace(textwrap.dedent(lines[j-1]), '@')
 
-        statement = re.sub('if (.*):', 'if @:', statement)
-        return statement
+        gen_statement = re.sub('if (.*):', 'if @:', gen_statement)
+        return gen_statement, statement
 
 
 def return_type(input_string):
