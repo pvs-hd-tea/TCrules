@@ -231,7 +231,6 @@ class RuleSet:
             best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
             if best_match[-1] == 100:
                 for list in self.rules[best_match[0]]:
-                    print(list, self.create_generic_expression(code_input, language.lower()))
                     if self.create_generic_expression(code_input, language.lower()) in list:
                         return self.transform(list, code_input)
         return None
@@ -298,7 +297,9 @@ class RuleSet:
             in_keywords, names = extract_name(self, updated_input)
             if in_keywords:
                 if "@" in entry:
-                    string = re.findall('"([^"]*)"', code) # text between quotations
+                    string = re.findall('\(([^\()]*)\)', code) # print argument in java and cpp
+                    if not string:
+                        string = re.findall('<<([^<]*)', code) # print argument in python
                     for s in string:
                         entry = re.sub('@', s+"@", entry)
                     entry = re.sub('@', '', entry)

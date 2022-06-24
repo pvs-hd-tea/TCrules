@@ -1,5 +1,5 @@
-int i = 0;
-while (i < 5) {
-    std::cout<<i;
-    i = i + 1;
+int j = 0;
+while (j < 5) {
+    std::cout<<j;
+    j = j + 1;
 }
