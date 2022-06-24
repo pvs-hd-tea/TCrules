@@ -54,5 +54,12 @@
             "System.out.println(\"@\")",
             "print(\"@\")"
         ]
+    ],
+    "if_statement": [
+        [
+            "if (@) {@}\n",
+            "if (@) {@} \n",
+            "if @:\n    @"
+        ]
     ]
 }

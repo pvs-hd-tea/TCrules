@@ -7,7 +7,7 @@ logging.getLogger().setLevel(logging.ERROR)
 if __name__ == "__main__":
     rule_set = parser.RuleSet()
 
-    translate = True
+    translate = False
 
     if translate: 
         translations = rule_set.translate("test.cpp", parser.CPP)

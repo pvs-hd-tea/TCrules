@@ -1,6 +1,10 @@
 from dis import code_info
+import itertools
 import os
 from tabnanny import check
+import textwrap
+
+from numpy import generic
 from tree_sitter import Language, Parser
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
@@ -43,7 +47,7 @@ operators = [["==", "!=", ">=", "<=", ">", "<"], # comparison
             ["not in", "in"] # membership
             ]
 
-files = ["simple"]
+files = ["simple", "if"]
 
 """Create Parser"""
 parser_py = Parser()
@@ -155,7 +159,29 @@ class RuleSet:
         self.rules.update({key: [[generic_cpp, generic_jv, generic_py]]})
         #print(self.rules)
 
-    #in_brackets = re.sub(r"[\s,\w]*=\s([\w,\s]*)\n", r"(\1)", generic_py)
+
+    def check_statement(self, keyword, cpp_file, py_file, line_jv, jv):    
+        generic_statements = []
+
+        # CPP
+        with open(cpp_file, 'r') as cpp:
+            for line_cpp in cpp:
+                tree_sexp, tree = create_parse_tree(line_cpp, CPP)
+                if self.check_for_keyword(tree_sexp, tree) == keyword:
+                    generic_statements.append(create_generic_statement(cpp, line_cpp, CPP))
+
+        # JAVA
+        generic_statements.append(create_generic_statement(jv, line_jv))
+
+        # PYTHON
+        with open(py_file, 'r') as py:
+            for line_py in py:
+                tree_sexp, tree = create_parse_tree(line_py, PYTHON)
+                if self.check_for_keyword(tree_sexp, tree) == keyword:
+                    generic_statements.append(create_generic_statement(py, line_py, PYTHON))
+
+        return generic_statements
+
 
     def derive_rules(self, files):
         for file in files:
@@ -163,7 +189,11 @@ class RuleSet:
                 for line_py, line_jv, line_cpp in zip(py, jv, cpp):
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
-                    if keyword:
+
+                    if keyword in ["if_statement"] and keyword not in self.rules.keys():
+                        self.rules.update({keyword: [self.check_statement(keyword, "data/"+file+".cpp", "data/"+file+".py", line_jv, jv)]})
+                    
+                    elif keyword:
                         best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
                         if not best_match or best_match[-1] != 100:
                             self.add_rule(line_cpp, line_jv, line_py, keyword)
@@ -259,6 +289,32 @@ def create_parse_tree(input_code, input_language):
         return parser_jv.parse(bytes(input_code, "utf-8")).root_node.sexp(), parser_jv.parse(bytes(input_code, "utf-8"))
     elif input_language == "CPP":
         return parser_cpp.parse(bytes(input_code, "utf-8")).root_node.sexp(), parser_cpp.parse(bytes(input_code, "utf-8"))
+
+
+def create_generic_statement(file, line, language=JAVA):
+    lines = [line for line in file]
+    statement = line
+    j = 0
+    if language in [JAVA, CPP]:
+        statement += lines[j]
+        while "MISSING" in create_parse_tree(statement, language)[0]:
+            j += 1
+            statement += lines[j]
+
+        statement = re.sub('if \(([^"]*)\)', 'if (@)', statement)
+        block = re.findall('\{([^}]+)\}', statement)[0]
+        statement = statement.replace(block, '@')
+        return statement
+
+    else:
+        while j < len(lines) and len(lines[j]) - len(lines[j].lstrip()) != 0: # indent
+            j += 1
+        
+        statement += lines[j-1]
+        statement = statement.replace(textwrap.dedent(lines[j-1]), '@')
+
+        statement = re.sub('if (.*):', 'if @:', statement)
+        return statement
 
 
 def return_type(input_string):
