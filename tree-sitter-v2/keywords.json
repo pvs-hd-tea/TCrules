@@ -50,9 +50,9 @@
         "python": ""
     },
     "stdcoutprintln": {
-        "cpp": "std::cout<<\"@\";",
-        "java": "System.out.println(\"@\")",
-        "python": "print(\"@\")"
+        "cpp": "std::cout<<\"@\";\n",
+        "java": "System.out.println(\"@\");\n",
+        "python": "print(\"@\")\n"
     },
     "while": {
         "cpp": "while",

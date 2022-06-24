@@ -50,9 +50,9 @@
             "name operator name\n"
         ],
         [
-            "std::cout<<\"@\";",
-            "System.out.println(\"@\")",
-            "print(\"@\")"
+            "std::cout<<\"@\";\n",
+            "System.out.println(\"@\");\n",
+            "print(\"@\")\n"
         ]
     ],
     "if_statement": [
