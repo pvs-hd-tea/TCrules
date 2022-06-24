@@ -297,9 +297,9 @@ class RuleSet:
             in_keywords, names = extract_name(self, updated_input)
             if in_keywords:
                 if "@" in entry:
-                    string = re.findall('\(([^\()]*)\)', code) # print argument in java and cpp
+                    string = re.findall('\(([^\()]*)\)', code) # print argument in java and python
                     if not string:
-                        string = re.findall('<<([^<]*)', code) # print argument in python
+                        string = re.findall('<<([^<]*);', code) # print argument in cpp
                     for s in string:
                         entry = re.sub('@', s+"@", entry)
                     entry = re.sub('@', '', entry)
@@ -418,7 +418,8 @@ def extract_value(input_string):
 
 def extract_name(self, input_string):
     string = re.sub('true|false|True|False', '', input_string)
-    string = re.sub('"([^"]*)"', '"@"', string) # text between quotations
+    string = re.sub('\(([^\()]*)\)', '@', string) # print arg in java and python
+    string = re.sub('<<([^<]*);', '@', string) # print arg in cpp
     temp = string.split()
     for t in temp:
         if t in types:
