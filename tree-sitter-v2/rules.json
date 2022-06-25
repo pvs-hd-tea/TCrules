@@ -41,6 +41,21 @@
             "name = operatorname;\n",
             "name = operatorname;\n",
             "operatorname\n"
+        ],
+        [
+            "    name = value;\n",
+            "    name = value;\n",
+            "    name = value;\n"
+        ],
+        [
+            "    name=value;\n",
+            "    name=value;\n",
+            "    name=value;\n"
+        ],
+        [
+            "    name = name operator value;\n",
+            "    name = name operator value;\n",
+            "    name = name operator value\n"
         ]
     ],
     "expression_statement": [
@@ -67,6 +82,11 @@
             "while (@) {\n    @\n}\n",
             "while (@) {\n    @\n}\n",
             "while @:\n    @"
+        ],
+        [
+            "while",
+            "while",
+            "while"
         ]
     ]
 }

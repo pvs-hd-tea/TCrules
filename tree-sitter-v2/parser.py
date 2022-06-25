@@ -13,17 +13,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    #[
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-java',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    #]
-    # Vivian
     [
-        '/home/vivi/src/tree-sitter-python',
-        '/home/vivi/src/tree-sitter-java',
-        '/home/vivi/src/tree-sitter-cpp'
+       '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+       '/Users/jonas/Documents/GitHub/tree-sitter-java',
+       '/Users/jonas/Documents/GitHub/tree-sitter-python'
     ]
+    # Vivian
+    # [
+    #     '/home/vivi/src/tree-sitter-python',
+    #     '/home/vivi/src/tree-sitter-java',
+    #     '/home/vivi/src/tree-sitter-cpp'
+    # ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -78,6 +78,7 @@ class RuleSet:
     def save_rules(self):
         with open("rules.json", "a+") as file:
             json.dump(self.rules, file, indent=4)
+
 
     def save_keywords(self):
         with open("tree-keywords.txt", "a+") as file:
