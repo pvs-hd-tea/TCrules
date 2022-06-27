@@ -23,6 +23,11 @@
     ],
     "assignment_expression": [
         [
+            "name = value;\n",
+            "name = value;\n",
+            "name = value\n"
+        ],
+        [
             "name = name operator value;\n",
             "name = name operator value;\n",
             "name = name operator value\n"
@@ -43,19 +48,9 @@
             "operatorname\n"
         ],
         [
-            "    name = value;\n",
-            "    name = value;\n",
-            "    name = value;\n"
-        ],
-        [
-            "    name=value;\n",
-            "    name=value;\n",
-            "    name=value;\n"
-        ],
-        [
-            "    name = name operator value;\n",
-            "    name = name operator value;\n",
-            "    name = name operator value\n"
+            "name = name operator name operator name;\n",
+            "name = name operator name operator name;\n",
+            "name = name operator name operator name\n"
         ]
     ],
     "expression_statement": [
@@ -73,20 +68,15 @@
     "if_statement": [
         [
             "if (@) {\n    @\n}\n",
-            "if (@) {\n    @\n} \n",
-            "if @:\n    @"
+            "if (@) {\n    @\n}\n",
+            "if @:\n    @\n"
         ]
     ],
     "while_statement": [
         [
             "while (@) {\n    @\n}\n",
             "while (@) {\n    @\n}\n",
-            "while @:\n    @"
-        ],
-        [
-            "while",
-            "while",
-            "while"
+            "while @:\n    @\n"
         ]
     ]
 }

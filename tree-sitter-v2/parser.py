@@ -13,17 +13,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    [
-       '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-       '/Users/jonas/Documents/GitHub/tree-sitter-java',
-       '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    ]
+    #[
+    #   '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+    #   '/Users/jonas/Documents/GitHub/tree-sitter-java',
+    #   '/Users/jonas/Documents/GitHub/tree-sitter-python'
+    #]
     # Vivian
-    # [
-    #     '/home/vivi/src/tree-sitter-python',
-    #     '/home/vivi/src/tree-sitter-java',
-    #     '/home/vivi/src/tree-sitter-cpp'
-    # ]
+    [
+        '/home/vivi/src/tree-sitter-python',
+        '/home/vivi/src/tree-sitter-java',
+        '/home/vivi/src/tree-sitter-cpp'
+    ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -77,6 +77,8 @@ class RuleSet:
 
     def save_rules(self):
         with open("rules.json", "a+") as file:
+            file.truncate(0)
+            file.seek(0)
             json.dump(self.rules, file, indent=4)
 
 
@@ -92,13 +94,18 @@ class RuleSet:
                     file.write(keyword+",")
 
     def check_for_keyword(self, parse_tree_sexp, parse_tree):
+        if "ERROR" in parse_tree_sexp:
+            return "ERROR"
         for keyword in self.tree_keywords:
             if keyword in parse_tree_sexp:
                 return keyword
         # else add it
         root_node = parse_tree.root_node
-        self.tree_keywords.append(root_node.children[0].type)
-        return str(root_node.children[0].type)
+        if root_node.children:
+            self.tree_keywords.append(root_node.children[0].type)
+            return str(root_node.children[0].type)
+        else:
+            return ""
 
 
     # return generic expression for code line input
@@ -110,24 +117,24 @@ class RuleSet:
             return self.keywords[names][language]
         if names:
             for name in names:
-                generic_code = generic_code.replace(name, "name", 1)
+                generic_code = re.sub(r"\b{}\b".format(name), "name", generic_code)
 
         values = extract_value(code)
         if values:
             for value in values:
-                generic_code = generic_code.replace(
-                    value[0], "value", value[1])
+                generic_code = generic_code.replace(value[0], "value", value[1])
         
         type = extract_type(code)
         if type:
-            generic_code = generic_code.replace(type, "type")
+            generic_code = re.sub(r"\b{}\b".format(type), "type", generic_code)
 
-        operator = extract_operator(code)
-        if operator:
-            generic_code = generic_code.replace(operator, "operator")
+        operators = extract_operator(code)
+        if operators:
+            for operator in operators:
+                generic_code = generic_code.replace(operator, "operator")
 
         #print(generic_code, code)
-        return generic_code
+        return generic_code if len(generic_code) - len(generic_code.lstrip()) == 0 else None
 
 
     def extend_rule(self, cpp, jv, py, key):
@@ -135,15 +142,16 @@ class RuleSet:
         generic_jv = self.create_generic_expression(jv, JAVA.lower())
         generic_py = self.create_generic_expression(py, PYTHON.lower())
 
-        flag = False
+        if generic_cpp and generic_jv and generic_py:
+            flag = False
 
-        for list in self.rules[key]:
-            if generic_cpp in list:
-                flag = True
-                break
-        if flag == False:
-            self.rules[key].append([generic_cpp, generic_jv, generic_py])
-        #print(self.rules)
+            for list in self.rules[key]:
+                if generic_cpp in list:
+                    flag = True
+                    break
+            if flag == False:
+                self.rules[key].append([generic_cpp, generic_jv, generic_py])
+            #print(self.rules)
 
 
     def add_rule(self, cpp, jv, py, key):
@@ -151,31 +159,40 @@ class RuleSet:
         generic_jv = self.create_generic_expression(jv, JAVA.lower())
         generic_py = self.create_generic_expression(py, PYTHON.lower())
 
-        self.rules.update({key: [[generic_cpp, generic_jv, generic_py]]})
+        if generic_cpp and generic_jv and generic_py:
+            self.rules.update({key: [[generic_cpp, generic_jv, generic_py]]})
         #print(self.rules)
 
 
     # for now used for if_statement
-    def check_statement(self, keyword, cpp_file, py_file, line_jv, jv):    
+    def check_statement(self, keyword, cpp_file, py_file, jv_file): # , line_jv, jv):    
         generic_statements = []
 
         # CPP
-        with open(cpp_file, 'r') as cpp:
-            for line_cpp in cpp:
-                tree_sexp, tree = create_parse_tree(line_cpp, CPP)
-                if self.check_for_keyword(tree_sexp, tree) == keyword:
-                    generic_statements.append(create_generic_statement(cpp, line_cpp, CPP)[0])
+        with open(cpp_file, 'r+') as cpp:
+            lines_cpp = cpp.readlines()
+        for line_cpp in lines_cpp:
+            tree_sexp, tree = create_parse_tree(line_cpp, CPP)
+            if self.check_for_keyword(tree_sexp, tree) == keyword:
+                generic_statements.append(create_generic_statement(lines_cpp, line_cpp, CPP)[0])
 
         # JAVA
-        generic_statements.append(create_generic_statement(jv, line_jv)[0])
+        #generic_statements.append(create_generic_statement(jv, line_jv)[0])
+        with open(jv_file, 'r+') as jv:
+            lines_jv = jv.readlines()
+        for line_jv in lines_jv:
+            tree_sexp, tree = create_parse_tree(line_jv, JAVA)
+            if self.check_for_keyword(tree_sexp, tree) == keyword:
+                generic_statements.append(create_generic_statement(lines_jv, line_jv, JAVA)[0])
 
         # PYTHON
-        with open(py_file, 'r') as py:
-            for line_py in py:
-                tree_sexp, tree = create_parse_tree(line_py, PYTHON)
-                if self.check_for_keyword(tree_sexp, tree) == keyword:
-                    generic_statements.append(create_generic_statement(py, line_py, PYTHON)[0])
-
+        with open(py_file, 'r+') as py:
+            lines_py = py.readlines()
+        for line_py in lines_py:
+            tree_sexp, tree = create_parse_tree(line_py, PYTHON)
+            if self.check_for_keyword(tree_sexp, tree) == keyword:
+                generic_statements.append(create_generic_statement(lines_py, line_py, PYTHON)[0])
+        #print(generic_statements)
         return generic_statements
 
 
@@ -185,11 +202,12 @@ class RuleSet:
                 for line_py, line_jv, line_cpp in zip(py, jv, cpp):
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
+
+                    if keyword in ["if_statement", "while_statement"]:
+                        if keyword not in self.rules.keys():
+                            self.rules.update({keyword: [self.check_statement(keyword, "data/"+file+".cpp", "data/"+file+".py", "data/"+file+".java")]})
                     
-                    if keyword in ["if_statement", "while_statement"] and keyword not in self.rules.keys():
-                        self.rules.update({keyword: [self.check_statement(keyword, "data/"+file+".cpp", "data/"+file+".py", line_jv, jv)]})
-                    
-                    elif keyword:
+                    elif keyword and keyword != "ERROR":
                         best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
                         if not best_match or best_match[-1] != 100:
                             self.add_rule(line_cpp, line_jv, line_py, keyword)
@@ -200,28 +218,33 @@ class RuleSet:
     # translate given input file
     def translate(self, file_name, language):
         translations = []
-        with open("data/"+file_name, 'r') as file:
-            for line in file:
-                tree_sexp, tree = create_parse_tree(line, language)
-                keyword = self.check_for_keyword(tree_sexp, tree)
-                if keyword in ["if_statement", "while_statement"] and keyword in self.rules.keys():
-                    generic_statement, statement = create_generic_statement(file, line, language)
-                    if generic_statement in self.rules[keyword][0]:
-                        translations.append(self.transform_statement(self.rules[keyword][0], statement, language))
+        with open("data/"+file_name, 'r+') as file:
+            lines = file.readlines()
+        j = -1 
+        for i,line in enumerate(lines):
+            if j >= i:
+                continue
 
-                elif keyword:
-                    best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
-                    if best_match[-1] == 100:
-                        flag = False
-                        for list in self.rules[best_match[0]]:
-                            if self.create_generic_expression(line,language.lower()) in list:
-                                translations.append(self.transform(list, line))
-                                flag = True
-                        if not flag:
-                            print(f"No appropriate transformation for {best_match[0], self.create_generic_expression(line, language.lower())} was found in the database...")
-                    else:
-                        print(f"No appropriate rule for {keyword} was found in the database...")
-            return translations
+            tree_sexp, tree = create_parse_tree(line, language)
+            keyword = self.check_for_keyword(tree_sexp, tree)
+            if keyword in ["if_statement", "while_statement"] and keyword in self.rules.keys():
+                generic_statement, statement, j = create_generic_statement(lines, line, language)
+                if generic_statement in self.rules[keyword][0]:
+                    translations.append(self.transform_statement(self.rules[keyword][0], statement, language))
+
+            elif keyword and keyword != "ERROR":
+                best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
+                if best_match[-1] == 100:
+                    flag = False
+                    for list in self.rules[best_match[0]]:
+                        if self.create_generic_expression(line,language.lower()) in list:
+                            translations.append(self.transform(list, line))
+                            flag = True
+                    if not flag:
+                        print(f"No appropriate transformation for {best_match[0], self.create_generic_expression(line, language.lower())} was found in the database...")
+                else:
+                    print(f"No appropriate rule for {keyword} was found in the database...")
+        return translations
 
 
     # translate single code line
@@ -250,9 +273,7 @@ class RuleSet:
                 block = statement[statement.index(":")+1:].split("\n")
 
             block = [textwrap.dedent(item)+"\n" for item in block if item]
-            
             entry = entry.replace("@", condition, 1)
-
             # for each line in block --> translation via rules
             if "@" in entry:
                 for line in block:
@@ -262,7 +283,7 @@ class RuleSet:
             entry = re.sub('\n    @', '', entry)
 
             translations.append(entry)
-
+        #print(translations)
         return translations
 
 
@@ -321,9 +342,10 @@ class RuleSet:
             elif type:
                 entry = entry.replace("type", type) 
                     
-            operator = extract_operator(updated_input)
-            if operator:
-                entry = entry.replace("operator", operator)
+            operators = extract_operator(updated_input)
+            if operators:
+                for operator in operators:
+                    entry = entry.replace("operator", operator)
 
             translations.append(entry)
 
@@ -340,8 +362,9 @@ def create_parse_tree(input_code, input_language):
 
 
 # create generic expression for if_statement and while_statement
-def create_generic_statement(file, line, language=JAVA):
-    lines = [line for line in file]
+def create_generic_statement(lines, line, language=JAVA):
+    i = lines.index(line)
+    lines = [l for l in lines[i+1:]]
     statement = line
     j = 0
     if language in [JAVA, CPP]:
@@ -357,20 +380,20 @@ def create_generic_statement(file, line, language=JAVA):
         block = re.findall('\{([^}]+)\}', statement)[0].split("\n")
         block = [textwrap.dedent(item) for item in block if item]
         gen_statement = gen_statement.replace(block[-1], '@')
-        return gen_statement, statement
+        return gen_statement, statement, j+1+i
 
     else:
-        while j < len(lines) and len(lines[j]) - len(lines[j].lstrip()) != 0: # indent
+        while j < len(lines) and lines[j] != "\n" and len(lines[j]) - len(lines[j].lstrip()) != 0: # indent
             statement += lines[j]
             j += 1
         
         gen_statement = line
         gen_statement += lines[j-1]
-        gen_statement = gen_statement.replace(textwrap.dedent(lines[j-1]), '@')
+        gen_statement = gen_statement.replace(textwrap.dedent(lines[j-1]), '@\n')
 
         gen_statement = re.sub('if (.*):', 'if @:', gen_statement)
         gen_statement = re.sub('while (.*):', 'while @:', gen_statement)
-        return gen_statement, statement
+        return gen_statement, statement, j+i
 
 
 def extract_type(input_string):
@@ -437,11 +460,12 @@ def extract_name(self, input_string):
 
 
 def extract_operator(input_string):
+    op = []
     for i, group in enumerate(operators):
         for operator in group:
             if operator in input_string:
                 #print("op", operator)
-                return operator
-    return None
+                op.append(operator)
+    return op if op else None
 
 

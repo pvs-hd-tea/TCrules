@@ -1,11 +1,12 @@
 int x = 20;
+x = 30;
 x = x + 1;
 int y = x + 2;
 y = x + y;
 int z = x * y;
 int a = 10 * 10;
 a = 100 % 2;
-boolean c = true;
-c = +c;
-a + c;
+boolean b = true;
+b = +b;
+a + b;
 System.out.println("Hello");
