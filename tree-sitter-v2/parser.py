@@ -1,4 +1,3 @@
-import itertools
 import os
 import textwrap
 from tree_sitter import Language, Parser
