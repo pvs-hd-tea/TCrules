@@ -21,7 +21,7 @@ def create_python_dataset():
     with open('python_dataset.py', 'w') as f:
         for i in range(1, 10000):
             random_name = ''.join(random.choices(
-                string.ascii_uppercase, k=6))
+                string.ascii_uppercase + string.ascii_lowercase, k=6))
             random_operator = random.choice(operators)
             if numpy.random.choice([0, 1], p=[.8, .2]) == 0:
                 random_number = str(random.choice(
@@ -38,7 +38,7 @@ def create_java_dataset():
     with open('jv_dataset.java', 'w') as f:
         for i in range(1, 10000):
             random_name = ''.join(random.choices(
-                string.ascii_uppercase, k=6))
+                string.ascii_uppercase + string.ascii_lowercase, k=6))
             random_operator = random.choice(operators)
             random_type = random.choice(java_types)
             if numpy.random.choice([0, 1], p=[.8, .2]) == 0:
@@ -60,7 +60,7 @@ def create_cpp_dataset():
     with open('cpp_dataset.cpp', 'w') as f:
         for i in range(1, 10000):
             random_name = ''.join(random.choices(
-                string.ascii_uppercase, k=6))
+                string.ascii_uppercase + string.ascii_lowercase, k=6))
             random_operator = random.choice(operators)
             random_type = random.choice(cpp_types)
             if numpy.random.choice([0, 1], p=[.8, .2]) == 0:
