@@ -14,15 +14,12 @@ true_false_py = ["True", "False"]
 
 true_false = ["true", "false"]
 
-zero_one = [0, 1]
-
 
 def create_python_dataset():
-    with open('python_dataset.py', 'w') as f:
+    with open('python_declaration_dataset.py', 'w') as f:
         for i in range(1, 10000):
             random_name = ''.join(random.choices(
                 string.ascii_uppercase + string.ascii_lowercase, k=6))
-            random_operator = random.choice(operators)
             if numpy.random.choice([0, 1], p=[.8, .2]) == 0:
                 random_number = str(random.choice(
                     [random.randint(1, 10000), random.uniform(1, 1000)]))
@@ -35,11 +32,10 @@ def create_python_dataset():
 
 def create_java_dataset():
 
-    with open('jv_dataset.java', 'w') as f:
+    with open('jv_declaration_dataset.java', 'w') as f:
         for i in range(1, 10000):
             random_name = ''.join(random.choices(
                 string.ascii_uppercase + string.ascii_lowercase, k=6))
-            random_operator = random.choice(operators)
             random_type = random.choice(java_types)
             if numpy.random.choice([0, 1], p=[.8, .2]) == 0:
                 if random_type == "int":
@@ -57,11 +53,10 @@ def create_java_dataset():
 
 
 def create_cpp_dataset():
-    with open('cpp_dataset.cpp', 'w') as f:
+    with open('cpp_declaration_dataset.cpp', 'w') as f:
         for i in range(1, 10000):
             random_name = ''.join(random.choices(
                 string.ascii_uppercase + string.ascii_lowercase, k=6))
-            random_operator = random.choice(operators)
             random_type = random.choice(cpp_types)
             if numpy.random.choice([0, 1], p=[.8, .2]) == 0:
                 if random_type == "int":
@@ -78,7 +73,7 @@ def create_cpp_dataset():
                         EQUALS + " " + random_bool + ";\n")
 
 
-if __name__ == "__main__":
-    create_python_dataset()
-    create_cpp_dataset()
-    create_java_dataset()
+
+create_python_dataset()
+create_cpp_dataset()
+create_java_dataset()
