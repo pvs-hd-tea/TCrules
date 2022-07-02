@@ -202,7 +202,7 @@ class RuleSet:
     def derive_rules(self, corpus):
         """derive rules based of parallel corpus"""
         for file in corpus:
-            with open("data/"+file+".py", 'r', encoding="utf8") as python, open("data/"+file+".java", 'r', encoding="utf8") as java, open("data/"+file+".cpp", "r", encoding="utf8") as cpp:
+            with open("data/parallel_corpus"+file+".py", 'r', encoding="utf8") as python, open("data/parallel_corpus"+file+".java", 'r', encoding="utf8") as java, open("data/parallel_corpus"+file+".cpp", "r", encoding="utf8") as cpp:
                 for line_py, line_jv, line_cpp in zip(python, java, cpp):
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
@@ -236,7 +236,7 @@ class RuleSet:
 
             if keyword in ["if_statement", "while_statement"] and keyword in self.rules.keys():
                 generic_statement, statement, j = create_generic_statement(code_lines, line, language)
-                if generic_statement in self.rules[keyword][0]:
+                if fuzz.token_set_ratio(generic_statement, self.rules[keyword][0]) == 100:
                     translations.append(self.transform_statement(self.rules[keyword][0], statement, language))
             
             elif keyword and keyword not in ["ERROR"]:
@@ -274,7 +274,7 @@ class RuleSet:
         """transform generic expressions for if_statement or while_statement using input statement"""
         translations = []
         block_in_block = []
-
+        print(generic_expressions, statement)
         for i, entry in enumerate(generic_expressions):
             if language in [CPP,JAVA]:
                 condition = re.findall(r'\(([^()]*)\) \{', statement)
