@@ -53,7 +53,7 @@ def calculate_metrics(input_file, translation_file):
 
     for line_source in lines_source:
         if line_source != "\n": # non-empty line
-            if line_source == lines_translation[i]:
+            if i < len(lines_translation) and line_source == lines_translation[i]:
                 correct += 1
             i += 1
 
@@ -86,7 +86,7 @@ if __name__ == "__main__":
         input_language = process.extractOne(input_language,
                     [parser.CPP, parser.JAVA, parser.PYTHON], scorer=fuzz.ratio)[0]
 
-        file_name = re.sub(r"(([\w,-]*\.)([a-z]*)", r"\1", source_file)
+        file_name = re.sub(r"([\w,-]*\.)([a-z]*)", r"\1", source_file)
 
         ground_truth_files = ["data/" + file_name + type for type in ["cpp","java","py"]]
         translation_files = ["data/translations/translations." + type for type in ["cpp","java","py"]]

@@ -22,6 +22,6 @@ if TRANSLATE_FLAG:
 
 else:
     rule_set.derive_rules(parser.files)
-    #rule_set.save_rules()
+    rule_set.save_rules()
 
 rule_set.save_keywords()
