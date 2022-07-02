@@ -230,7 +230,7 @@ class RuleSet:
         for i, line in enumerate(code_lines):
             if j >= i:
                 continue
-            
+
             tree_sexp, tree = create_parse_tree(line, language)
             keyword = self.check_for_keyword(tree_sexp, tree)
 
@@ -274,10 +274,11 @@ class RuleSet:
         """transform generic expressions for if_statement or while_statement using input statement"""
         translations = []
         block_in_block = []
-        print(generic_expressions, statement)
         for i, entry in enumerate(generic_expressions):
+            print(entry)
             if language in [CPP,JAVA]:
                 condition = re.findall(r'\(([^()]*)\) \{', statement)
+                print(condition, statement)
 
                 if len(condition) > 1:
                     condition = condition[0]
@@ -298,13 +299,14 @@ class RuleSet:
             else:
                 condition = re.findall('(if|while) (.*):', statement)[0][1]
                 block = statement[statement.index(":")+1:].split("\n")
-
+            print(block)
             block = [item +"\n" for item in block if textwrap.dedent(item)]
             entry = entry.replace("@", condition, 1)
 
             # translate the block via rules
             if "@" in entry:
                 for line in block:
+                    print("line",line)
                     translated_line, missing_flag = self.translate_line(line, language)
                     if missing_flag and len(line)>2:
                         line = line[:-1] + block_in_block[0].split("\n")[0] + line[-1]
@@ -316,16 +318,16 @@ class RuleSet:
                         tree_sexp, tree = create_parse_tree(line, language)
                         keyword = self.check_for_keyword(tree_sexp, tree)
 
-                        generic_statement, statement, _ = create_generic_statement(lines, line, language)
+                        generic_statement, block_statement, _ = create_generic_statement(lines, line, language)
 
                         if fuzz.token_set_ratio(generic_statement, self.rules[keyword][0]) == 100:
-                            entry = re.sub('@', self.transform_statement(self.rules[keyword][0], statement, language)[i]+"    @", entry)
+                            entry = re.sub('@', self.transform_statement(self.rules[keyword][0], block_statement, language)[i]+"    @", entry)
 
                     elif translated_line:
                         entry = re.sub('@', translated_line[i]+"    @", entry)
 
             entry = re.sub('\n    @', '', entry)
-
+            print(entry)
             translations.append(entry)
 
         return translations
