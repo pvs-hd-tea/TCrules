@@ -34,7 +34,6 @@ def create_python_dataset():
 
 
 def create_java_dataset():
-
     with open('jv_assignment_dataset.java', 'w') as f:
         for i in range(1, 10000):
             random_name = ''.join(random.choices(
