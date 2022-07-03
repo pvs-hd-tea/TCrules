@@ -2,6 +2,8 @@ import datetime
 import parser
 import logging
 import re
+
+from nbformat import write
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 from argparse import ArgumentParser
@@ -36,12 +38,12 @@ def translate(input_file, language):
 
 
 def evaluate_translations(ground_truth, translations):
-    """call evaluation on the given ground truth and translations"""
+    """call evaluation on the given ground truth and translation"""
     for source, translation in zip(ground_truth, translations):
         calculate_metrics(source, translation)
 
 
-def calculate_metrics(input_file, translation_file):
+def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
     """calculate precision score of the translation of given input code"""
     with open(input_file, "r", encoding="utf8") as source, open(translation_file, "r", encoding="utf8") as translation:
         lines_source = source.readlines()
@@ -57,12 +59,16 @@ def calculate_metrics(input_file, translation_file):
                 correct += 1
             i += 1
 
-    with open("data/translations/eval.txt", "a+", encoding="utf8") as evaluation:
-        precision = correct / total_lines
-        evaluation.write(datetime.datetime.now().strftime("%Y/%m/%d")+"\n\n")
-        evaluation.write("Source: " + input_file + "\nTranslation: " + translation_file + "\n")
-        evaluation.write("Precision: " + str(precision*100) + "\n")
-        evaluation.write("________________________________________\n\n")
+    precision = correct / total_lines
+    if write_eval_in_file:
+        with open("data/translations/eval.txt", "a+", encoding="utf8") as evaluation:
+            evaluation.write(datetime.datetime.now().strftime("%Y/%m/%d")+"\n\n")
+            evaluation.write("Source: " + input_file + "\nTranslation: " + translation_file + "\n")
+            evaluation.write("Precision: " + str(precision*100) + "\n")
+            evaluation.write("________________________________________\n\n")
+    else:
+        print("\nSource: " + input_file + "\nTranslation: " + translation_file)
+        print("Precision: " + str(precision*100))
 
 
 

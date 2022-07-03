@@ -11,7 +11,7 @@ a - b;
 a = a * b * x;
 std::cout<<"Hello world!";
 if (a > b) {
-    a = 10;
+    int a = 10;
     b = a % 2;
 }
 int j = 0;

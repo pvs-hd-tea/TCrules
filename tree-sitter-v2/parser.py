@@ -102,13 +102,21 @@ class RuleSet:
             return "ERROR"
         if single_line and "MISSING" in parse_tree_sexp:
             return "MISSING"
-        for keyword in self.tree_keywords:
+
+        """for keyword in self.tree_keywords:
             if keyword in parse_tree_sexp:
                 return keyword
         # else add it
         root_node = parse_tree.root_node
         if root_node.children:
             self.tree_keywords.append(root_node.children[0].type)
+            return str(root_node.children[0].type)
+        return """""
+
+        root_node = parse_tree.root_node
+        if root_node.children:
+            if root_node.children[0].type not in self.tree_keywords:
+                self.tree_keywords.append(root_node.children[0].type) # add it
             return str(root_node.children[0].type)
         return ""
 
@@ -202,14 +210,14 @@ class RuleSet:
     def derive_rules(self, corpus):
         """derive rules based of parallel corpus"""
         for file in corpus:
-            with open("data/parallel_corpus"+file+".py", 'r', encoding="utf8") as python, open("data/parallel_corpus"+file+".java", 'r', encoding="utf8") as java, open("data/parallel_corpus"+file+".cpp", "r", encoding="utf8") as cpp:
-                for line_py, line_jv, line_cpp in zip(python, java, cpp):
+            with open("data/parallel_corpus/"+file+".py", 'r', encoding="utf8") as python, open("data/parallel_corpus/"+file+".java", 'r', encoding="utf8") as java, open("data/parallel_corpus/"+file+".cpp", "r", encoding="utf8") as cpp:
+                for line_py, line_jv, line_cpp in zip(python, java, cpp): # lines should match
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
 
                     if keyword in ["if_statement", "while_statement"]:
                         if keyword not in self.rules.keys():
-                            self.rules.update({keyword: [self.determine_statement(keyword, "data/"+file+".cpp", "data/"+file+".java", "data/"+file+".py")]})
+                            self.rules.update({keyword: [self.determine_statement(keyword, "data/parallel_corpus/"+file+".cpp", "data/parallel_corpus/"+file+".java", "data/parallel_corpus/"+file+".py")]})
                     
                     elif keyword and keyword != "ERROR":
                         best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
@@ -217,6 +225,16 @@ class RuleSet:
                             self.add_rule(line_cpp, line_jv, line_py, keyword)
                         else:
                             self.extend_rule(line_cpp, line_jv, line_py, best_match[0])
+
+                        tree_sexp_py, tree_py = create_parse_tree(line_py, PYTHON) # since sometimes differ
+                        keyword_py = self.check_for_keyword(tree_sexp_py, tree_py)
+                        if keyword_py and keyword_py != "ERROR" and fuzz.partial_ratio(keyword_py, keyword) != 100:
+                            best_match_py = process.extractOne(keyword_py, self.rules.keys(), scorer=fuzz.partial_ratio)
+                            if not best_match_py or best_match_py[-1] != 100:
+                                self.add_rule(line_cpp, line_jv, line_py, keyword_py)
+                            else:
+                                self.extend_rule(line_cpp, line_jv, line_py, best_match_py[0])
+
 
 
     def translate(self, file_name, language):
@@ -247,6 +265,7 @@ class RuleSet:
                         if self.create_generic_expression(line, language.lower()) in entry:
                             translations.append(self.transform(entry, line))
                             flag = True
+                            break
                     if not flag:
                         print(f"No appropriate transformation for {best_match[0], self.create_generic_expression(line, language.lower())} was found in the database...")
                 else:
@@ -283,11 +302,9 @@ class RuleSet:
 
                     # for cases with blocks in block
                     while re.findall(r'(\{([^{}]*)})', temp):
-                        print("here",re.findall(r'(\{([^{}]*)})', temp))
                         block_in_block.append(re.findall(r'(\{([^{}]*)})', temp)[0][0])
                         temp = temp.replace(re.findall(r'(\{([^{}]*)})', temp)[0][0], "")
 
-                    #print(block_in_block)
                     block = block_in_block[-1].split("\n") # first block
                     block_in_block.remove(block_in_block[-1]) # subblocks in order
 
@@ -408,6 +425,8 @@ class RuleSet:
             if names:
                 for name in names:
                     entry = entry.replace("name", name, 1)
+                if "name" in entry and len(names)==1: # when in one language there are less variable names: eg. +b vs. b = +b;
+                    entry = entry.replace("name", names[0])
 
             type = extract_type(updated_input)
             if type == "bool":

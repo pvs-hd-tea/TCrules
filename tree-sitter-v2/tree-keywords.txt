@@ -1,1 +1,1 @@
-assignment_expression,assignment,local_variable_declaration,declaration,expression_statement,if_statement,while_statement
+local_variable_declaration,expression_statement,if_statement,declaration,while_statement

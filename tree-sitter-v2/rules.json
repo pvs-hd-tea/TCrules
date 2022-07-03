@@ -21,7 +21,12 @@
             "name = value operator value\n"
         ]
     ],
-    "assignment_expression": [
+    "expression_statement": [
+        [
+            "type name = value;\n",
+            "type name = value;\n",
+            "name = value\n"
+        ],
         [
             "name = value;\n",
             "name = value;\n",
@@ -33,9 +38,24 @@
             "name = name operator value\n"
         ],
         [
+            "type name = name operator value;\n",
+            "type name = name operator value;\n",
+            "name = name operator value\n"
+        ],
+        [
             "name = name operator name;\n",
             "name = name operator name;\n",
             "name = name operator name\n"
+        ],
+        [
+            "type name = name operator name;\n",
+            "type name = name operator name;\n",
+            "name = name operator name\n"
+        ],
+        [
+            "type name = value operator value;\n",
+            "type name = value operator value;\n",
+            "name = value operator value\n"
         ],
         [
             "name = value operator value;\n",
@@ -48,13 +68,6 @@
             "operatorname\n"
         ],
         [
-            "name = name operator name operator name;\n",
-            "name = name operator name operator name;\n",
-            "name = name operator name operator name\n"
-        ]
-    ],
-    "expression_statement": [
-        [
             "name operator name;\n",
             "name operator name;\n",
             "name operator name\n"
@@ -63,6 +76,11 @@
             "std::cout<<@;\n",
             "System.out.println(@);\n",
             "print(@)\n"
+        ],
+        [
+            "name = name operator name operator name;\n",
+            "name = name operator name operator name;\n",
+            "name = name operator name operator name\n"
         ]
     ],
     "if_statement": [
