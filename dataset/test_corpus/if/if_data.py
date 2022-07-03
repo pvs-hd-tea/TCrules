@@ -1,6 +1,5 @@
 import random
 import string
-import numpy
 
 
 cpp_types = ["int", "double", "float"]
@@ -35,10 +34,10 @@ def create_java_dataset():
 
     with open('java_if_dataset.java', 'w') as f:
         for i in range(1, 1000):
-            random_line_one = random.choice(list(open('jv_assignment_dataset.java')))
-            random_line_two = random.choice(list(open('jv_declaration_dataset.java')))
-            random_line_three = random.choice(list(open('jv_assignment_dataset.java')))
-            f.write("if" + " (" + create_random_bool_statement() + "){" + " " + random_line_one + ";" + random_line_two + ";" + random_line_three + ";")
+            random_line_one = random.choice(list(open('java_assignment_dataset.java')))
+            random_line_two = random.choice(list(open('java_declaration_dataset.java')))
+            random_line_three = random.choice(list(open('java_assignment_dataset.java')))
+            f.write("if" + " (" + create_random_bool_statement() + "){\n" + random_line_one + random_line_two + random_line_three + "}\n")
 
 
 def create_cpp_dataset():
@@ -47,7 +46,7 @@ def create_cpp_dataset():
             random_line_one = random.choice(list(open('cpp_assignment_dataset.cpp')))
             random_line_two = random.choice(list(open('cpp_declaration_dataset.cpp')))
             random_line_three = random.choice(list(open('cpp_assignment_dataset.cpp')))
-            f.write("if" + " (" + create_random_bool_statement() + "){" + " " + random_line_one + ";" + random_line_two + ";" + random_line_three + ";")
+            f.write("if" + " (" + create_random_bool_statement() + "){\n" + random_line_one + random_line_two + random_line_three + "}\n")
 
 
 
