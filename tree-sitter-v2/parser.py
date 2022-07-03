@@ -128,7 +128,7 @@ class RuleSet:
         if values:
             for value in values:
                 generic_code = generic_code.replace(value[0], "value", value[1])
-        
+
         variable_type = extract_type(code)
         if variable_type:
             generic_code = re.sub(rf"\b{variable_type}\b", "type", generic_code)
@@ -260,7 +260,7 @@ class RuleSet:
         tree_sexp, tree = create_parse_tree(code_input, language)
         keyword = self.check_for_keyword(tree_sexp, tree, single_line = True)
 
-        if keyword not in ["MISSING"]:
+        if keyword not in ["MISSING", "ERROR"]:
             best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
             if best_match[-1] == 100:
                 for entry in self.rules[best_match[0]]:
@@ -279,24 +279,52 @@ class RuleSet:
                 condition = re.findall(r'\(([^()]*)\) \{', statement)
 
                 if len(condition) > 1:
-                    condition = condition[0]
                     temp = statement
 
-                    # for cases with block in block
+                    # for cases with blocks in block
                     while re.findall(r'(\{([^{}]*)})', temp):
+                        print("here",re.findall(r'(\{([^{}]*)})', temp))
                         block_in_block.append(re.findall(r'(\{([^{}]*)})', temp)[0][0])
                         temp = temp.replace(re.findall(r'(\{([^{}]*)})', temp)[0][0], "")
 
-                    block = block_in_block[-1].split("\n")
-                    block_in_block.remove(block_in_block[-1])
+                    #print(block_in_block)
+                    block = block_in_block[-1].split("\n") # first block
+                    block_in_block.remove(block_in_block[-1]) # subblocks in order
+
+                    condition = condition[0]
 
                 elif condition:
                     condition = condition[0]
                     block = re.findall(r'\{([^}]+)\}', statement)[0].split("\n")
 
-            else:
-                condition = re.findall('(if|while) (.*):', statement)[0][1]
-                block = statement[statement.index(":")+1:].split("\n")
+            else: # PYTHON
+                condition = re.findall('([if|while]+ (.*):)', statement)
+
+                if len(condition) > 1:
+                    # for cases with blocks in block
+                    for j in range(1,len(condition)+1):
+                        pot_block = statement[statement.index(condition[-j][0]):].split("\n")[1:]
+                        indent = (len(pot_block[0])-len(pot_block[0].lstrip()))
+                        extend_blocks = ['']
+                        for line in pot_block:
+                            if (len(line)-len(line.lstrip())) == indent:
+                                if "while" in line or "if" in line:
+                                    extend_blocks[-1] = extend_blocks[-1]+str(line[:-1])+"\n"
+                                else:
+                                    extend_blocks[-1] = extend_blocks[-1]+str(line)+"\n"
+                            elif (len(line)-len(line.lstrip())) < indent:
+                                break
+                        block_in_block.extend(extend_blocks)
+
+                    block = block_in_block[-1].split("\n")
+                    block_in_block.remove(block_in_block[-1])
+                    block_in_block = block_in_block[::-1] # reverse -> subblocks in order
+
+                    condition = condition[0][1]
+
+                else:
+                    condition = condition[0][1]
+                    block = statement[statement.index(":")+1:].split("\n")
 
             block = [item +"\n" for item in block if textwrap.dedent(item)]
             entry = entry.replace("@", condition, 1)
@@ -306,12 +334,17 @@ class RuleSet:
                 for line in block:
                     translated_line, missing_flag = self.translate_line(line, language)
                     if missing_flag and len(line)>2:
-                        line = line[:-1] + block_in_block[0].split("\n")[0] + line[-1]
-                        lines = [line]
-                        lines.extend([b + "\n" for b in block_in_block[0].split("\n")[1:]])
+                        if language in [CPP,JAVA]:
+                            line = line[:-1] + block_in_block[0].split("\n")[0] + line[-1]
+                            lines = [line]
+                            lines.extend([b + "\n" for b in block_in_block[0].split("\n")[1:]])
+                        else: # PYTHON
+                            line = line[:-1] + ":" + line[-1]
+                            lines = [line]
+                            lines.extend([b + "\n" for b in block_in_block[0].split("\n")])
 
                         block_in_block.remove(block_in_block[0])
-                        
+
                         tree_sexp, tree = create_parse_tree(line, language)
                         keyword = self.check_for_keyword(tree_sexp, tree)
 
@@ -322,7 +355,6 @@ class RuleSet:
 
                             for block_line in block_translations[i].split("\n"):
                                 entry = re.sub('@', block_line + "\n" +"    @", entry)
-                            #entry = re.sub('@', self.transform_statement(self.rules[keyword][0], block_statement, language)[i]+"    @", entry)
 
                     elif translated_line:
                         entry = re.sub('@', translated_line[i]+"    @", entry)
