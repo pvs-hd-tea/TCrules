@@ -1,0 +1,12987 @@
+while g<l:
+  if e==d:
+   kbZYmE = 767.89749000379 - 747.7441689534672
+   zbVglY = 624.4152991157603 + 2118
+   gUWNLn = 779.2594017645075 - 445.7696636586789
+  if l<l:
+   RZnGuv = True
+   cZhowt = 60.612231948305656 / 4638
+   BOFqzI = 481.7274810811862 + 405.4038584015256
+  if v==b:
+   kbZYmE = 767.89749000379 - 747.7441689534672
+   zbVglY = 624.4152991157603 + 2118
+   gUWNLn = 779.2594017645075 - 445.7696636586789
+while f>r:
+  if i<u:
+   ZoCxDv = 4872 * 2836
+   QkNzUC = 3828 + 7395
+   kHlfWk = 114 - 7436
+  if r<h:
+   opJkSQ = 4746 - 423.4336185674951
+   PNdRxd = 9189 + 700.8597481942342
+   IoGeix = 23.288473586831504 * 2007
+  if r<k:
+   ZoCxDv = 4872 * 2836
+   QkNzUC = 3828 + 7395
+   kHlfWk = 114 - 7436
+while h==z:
+  if k<c:
+   MirMiG = 958.3779004152542 * 7358
+   sZpYHQ = 1873 - 320.66429780610656
+   Njpgho = 159.9502954200956 + 9314
+  if i<o:
+   arYgur = 512.9276907969197 + 9100
+   gGiHnd = 843.0207595549375 + 863.0548184425907
+   SVFwCa = 7203 - 405.57010386890306
+  if t==d:
+   MirMiG = 958.3779004152542 * 7358
+   sZpYHQ = 1873 - 320.66429780610656
+   Njpgho = 159.9502954200956 + 9314
+while q==z:
+  if b==s:
+   XxbEip = 984.8591554670751 + 1844
+   txgjXs = 386.36595257796324 + 3836
+   rIQQqv = 350.6762712651132 + 120.13731342801303
+  if j==k:
+   QECZue = 1648 - 4869
+   CKHYPc = 422.73960208996704 + 8498
+   NcbaTh = 3114 * 846.6852902320322
+  if y==d:
+   XxbEip = 984.8591554670751 + 1844
+   txgjXs = 386.36595257796324 + 3836
+   rIQQqv = 350.6762712651132 + 120.13731342801303
+while r>r:
+  if q==w:
+   gRWrsd = 189.47083554772482 + 775
+   fNxjMI = 7307 / 199.5420345608482
+   uulYIw = 750 + 9672
+  if c>a:
+   AjMdub = 6915 / 4601
+   lSGHRN = 2621 * 741.7446044586634
+   gRWrsd = 189.47083554772482 + 775
+  if o<g:
+   gRWrsd = 189.47083554772482 + 775
+   fNxjMI = 7307 / 199.5420345608482
+   uulYIw = 750 + 9672
+while s<u:
+  if h<e:
+   xDIPtI = 541.5036602957525 * 9086
+   exZtKl = 670.0442123804991 / 645.8455811242167
+   WnDIDf = True
+  if c>c:
+   lNauwf = 6751 / 637.9709690436702
+   hHrOuQ = False
+   gmSVvM = 3747 / 945.6676766531182
+  if g<f:
+   xDIPtI = 541.5036602957525 * 9086
+   exZtKl = 670.0442123804991 / 645.8455811242167
+   WnDIDf = True
+while q==u:
+  if u<q:
+   sJJrto = 27.239791346233883 + 927.7024675706014
+   hpDJhA = 4738 + 646.9109883749979
+   OjovSN = False
+  if w==i:
+   dHHgIn = 6346 - 571
+   zXTXFE = 7288 / 987.6627160220013
+   bTwMOJ = 9580 / 9120
+  if q>g:
+   sJJrto = 27.239791346233883 + 927.7024675706014
+   hpDJhA = 4738 + 646.9109883749979
+   OjovSN = False
+while h==c:
+  if e>t:
+   dabkYS = 5538 / 4232
+   VsXfbq = True
+   vcYgzS = 8479 + 4597
+  if j>m:
+   YRQGHZ = True
+   NjvGVT = 495.7345351854668 + 373.24464811245764
+   CZnYPI = 4115 / 54.375272337901876
+  if z<a:
+   dabkYS = 5538 / 4232
+   VsXfbq = True
+   vcYgzS = 8479 + 4597
+while u==y:
+  if j>n:
+   pwKNYl = False
+   NBtIkF = 1931 / 8086
+   AEEcXJ = 882.6624905211906 + 565.9919697997261
+  if i>l:
+   RGXzrR = 6596 - 9180
+   ygTtIe = 9808 / 4045
+   iSoMVj = 4750 - 2510
+  if o==y:
+   pwKNYl = False
+   NBtIkF = 1931 / 8086
+   AEEcXJ = 882.6624905211906 + 565.9919697997261
+while o>i:
+  if c<t:
+   PUTIYV = 1202 + 3364
+   FRJsAg = False
+   UEwmdc = 6930 * 628.4854649176757
+  if g>q:
+   QySIJp = False
+   dzeaGd = 100.94602573563607 / 4907
+   OoAIGE = 9702 - 162.6032292734144
+  if x==c:
+   PUTIYV = 1202 + 3364
+   FRJsAg = False
+   UEwmdc = 6930 * 628.4854649176757
+while n==x:
+  if c==e:
+   HeqrEG = 831.2222172063325 + 2976
+   xACeBd = 907.3868589637617 - 1892
+   nodcWn = 56.100952385300694 * 5089
+  if j<m:
+   eojMqY = 2.584038887979287 - 9068
+   thzOuk = 875.2043165798169 * 9461
+   pwKNYl = False
+  if s>m:
+   HeqrEG = 831.2222172063325 + 2976
+   xACeBd = 907.3868589637617 - 1892
+   nodcWn = 56.100952385300694 * 5089
+while b<o:
+  if u>r:
+   oxLosi = 601.0802153520324 - 947.1165990981347
+   CYWTdv = 13.659132209512553 / 1458
+   dfhPhu = 4285 * 657
+  if s==n:
+   lBLvCI = 7964 - 5128
+   OIPbKM = 7632 + 7145
+   bkUhpJ = 2210 - 191
+  if c>z:
+   oxLosi = 601.0802153520324 - 947.1165990981347
+   CYWTdv = 13.659132209512553 / 1458
+   dfhPhu = 4285 * 657
+while p==h:
+  if r>c:
+   PewCWM = 10.82815339472286 / 3045
+   LudFWO = 3828 / 638.0251867243657
+   acQgqi = 967.8947705431708 * 482
+  if r>y:
+   sqlHPo = 123.03558746022944 / 87.4264672010125
+   sipwfI = 309.99814043776814 * 6371
+   eRXuqO = 86.2664072175618 * 4314
+  if h==l:
+   PewCWM = 10.82815339472286 / 3045
+   LudFWO = 3828 / 638.0251867243657
+   acQgqi = 967.8947705431708 * 482
+while d==l:
+  if w==v:
+   mWKYXk = 2419 - 8246
+   KgJaAa = 9057 * 3812
+   eevUAT = 202.4150736259734 / 4648
+  if j>o:
+   MkXrqb = False
+   UnFKQx = 747 * 851.94685059203
+   XONuDf = 6023 / 495.56469893131805
+  if a==j:
+   mWKYXk = 2419 - 8246
+   KgJaAa = 9057 * 3812
+   eevUAT = 202.4150736259734 / 4648
+while b==q:
+  if d==r:
+   LeZXrj = False
+   kiwUTA = 5016 / 860.4563081289971
+   QccAeP = 4859 * 272.12553465863414
+  if j==o:
+   yBysWB = 984.1427439516806 * 5504
+   DLBZUf = 2223 / 6132
+   wLNyNd = 836.7532996817146 / 334.40773522220576
+  if j>v:
+   LeZXrj = False
+   kiwUTA = 5016 / 860.4563081289971
+   QccAeP = 4859 * 272.12553465863414
+while f>c:
+  if c<q:
+   YeXHKn = 691.0986984645684 / 2090
+   HKcGHL = False
+   bpKKJs = 745.8961197469985 / 9383
+  if i<s:
+   XcCaPN = True
+   MjtvPu = True
+   LBvBNa = 230.11785796030733 / 970.1973207681295
+  if b==p:
+   YeXHKn = 691.0986984645684 / 2090
+   HKcGHL = False
+   bpKKJs = 745.8961197469985 / 9383
+while x>v:
+  if d==b:
+   MSBRaK = 8691 * 8536
+   SbqVyV = 709.3698621532841 * 115.68261386110005
+   bzVMWM = 406.5879515242516 / 1715
+  if e<s:
+   gmqTYd = 825 * 105.11407283817395
+   wcxeUy = True
+   uCzMTc = 592.5039027111669 / 4259
+  if p==t:
+   MSBRaK = 8691 * 8536
+   SbqVyV = 709.3698621532841 * 115.68261386110005
+   bzVMWM = 406.5879515242516 / 1715
+while q>l:
+  if z==d:
+   ZwYGZR = 4602 + 1664
+   XeSiML = True
+   iLfdOS = 129 + 857.304961240492
+  if n<s:
+   pkOuEK = 190.25519984952143 * 6484
+   tEiCla = 7475 - 267.6087016650923
+   RQHHBX = 9564 - 9335
+  if x<o:
+   ZwYGZR = 4602 + 1664
+   XeSiML = True
+   iLfdOS = 129 + 857.304961240492
+while u<x:
+  if l<o:
+   YQKldM = 996 / 147.38161906924157
+   SbGpdE = False
+   yigIeJ = False
+  if m>o:
+   fIjtzh = 1056 / 36.08785221036586
+   exRSmS = 125.5488909650553 + 3212
+   lQQZak = False
+  if w==g:
+   YQKldM = 996 / 147.38161906924157
+   SbGpdE = False
+   yigIeJ = False
+while j<g:
+  if o>m:
+   QfIpUE = False
+   rKjteN = 9871 / 268.4731809614632
+   sisYhP = 26.413703922546514 - 5998
+  if g<a:
+   oXRpck = 4937 * 4053
+   HfXyUl = 617.7671301764972 / 62.87745240951837
+   TGjdnw = 737.3481046237785 / 7244
+  if h<l:
+   QfIpUE = False
+   rKjteN = 9871 / 268.4731809614632
+   sisYhP = 26.413703922546514 - 5998
+while c>h:
+  if e<t:
+   SeFQuv = 5158 * 97
+   AqQkrB = 3722 * 6305
+   Gjfbiv = 1856 * 2811
+  if d<f:
+   fuELND = 967.1144529624523 - 6931
+   lFILdO = False
+   xBDldF = 88.63157928946067 / 82.1848378312073
+  if s<p:
+   SeFQuv = 5158 * 97
+   AqQkrB = 3722 * 6305
+   Gjfbiv = 1856 * 2811
+while l>c:
+  if j>x:
+   dyDmSa = 8380 * 7145
+   CDQLZY = False
+   FxcWjj = True
+  if k>d:
+   bSHbos = 923.8604564732312 / 50.56579277809967
+   DgaIXF = False
+   AugITD = 657.3099710933068 - 6573
+  if x==r:
+   dyDmSa = 8380 * 7145
+   CDQLZY = False
+   FxcWjj = True
+while s<f:
+  if h==a:
+   bvSiXS = 697.6445792220237 / 1405
+   zAZQfB = 3229 / 270.95804318714914
+   WiseZK = 22.195928062342254 + 658.1984754667641
+  if u>f:
+   SsbvZG = True
+   GgbVBf = False
+   ZUSWZb = 536.4585795697907 / 2635
+  if w>k:
+   bvSiXS = 697.6445792220237 / 1405
+   zAZQfB = 3229 / 270.95804318714914
+   WiseZK = 22.195928062342254 + 658.1984754667641
+while f>l:
+  if q>m:
+   COXEje = 1009 - 309.8933051900195
+   frgllt = True
+   LRhFIj = False
+  if y<x:
+   ptaSWa = 984 * 5640
+   CuvycO = 552.6878994488466 * 4237
+   fbKGTA = 32 - 372.6429567835654
+  if w>s:
+   COXEje = 1009 - 309.8933051900195
+   frgllt = True
+   LRhFIj = False
+while v>w:
+  if y==z:
+   QAasZl = 9570 + 9785
+   kzMvzy = 275.98158634028397 - 4010
+   iafMeS = 835.4110088313356 * 728.4853923063478
+  if i==b:
+   SHXdqe = 9586 / 252.081435075628
+   exZtKl = 670.0442123804991 / 645.8455811242167
+   pNrFjE = 884.9673340018885 * 259.7763385855509
+  if r==a:
+   QAasZl = 9570 + 9785
+   kzMvzy = 275.98158634028397 - 4010
+   iafMeS = 835.4110088313356 * 728.4853923063478
+while z==l:
+  if d<e:
+   UdIdSC = 11.924803693707604 - 559.6067225460109
+   jQmPly = 313.2348720145791 - 535.6413134792228
+   GFIlZI = 332.0657896422572 / 972.7202264986072
+  if d<e:
+   aSdHPg = 7531 + 201.60342410599077
+   RZNDSV = 1132 - 5203
+   Bzgoyt = 9675 - 736.0878103431041
+  if m<s:
+   UdIdSC = 11.924803693707604 - 559.6067225460109
+   jQmPly = 313.2348720145791 - 535.6413134792228
+   GFIlZI = 332.0657896422572 / 972.7202264986072
+while d==g:
+  if l>x:
+   SHXdqe = 9586 / 252.081435075628
+   QmNcWo = 1397 * 6977
+   NKodKI = False
+  if u==v:
+   lkMfBq = 8891 + 83.53758230344341
+   ROzXiW = 2533 / 6186
+   CZnYPI = 4115 / 54.375272337901876
+  if u==j:
+   SHXdqe = 9586 / 252.081435075628
+   QmNcWo = 1397 * 6977
+   NKodKI = False
+while k==y:
+  if t<v:
+   pKRbIO = 7426 * 779.6405729062881
+   nQtHbM = 193.10401878807585 + 471.0003159860489
+   OJVfEr = 6710 / 675.6460953268601
+  if w==s:
+   EBcPCG = 8211 + 314.4223702903734
+   mQPbdE = 1923 / 747.4441312387428
+   pDqxaj = 920.8260692486422 - 8643
+  if r==l:
+   pKRbIO = 7426 * 779.6405729062881
+   nQtHbM = 193.10401878807585 + 471.0003159860489
+   OJVfEr = 6710 / 675.6460953268601
+while p==x:
+  if o<f:
+   VtVZiL = 884.6461597787379 - 167
+   VaBCFa = 44.190659706138874 * 2583
+   yKQnOH = 2695 / 204
+  if r>x:
+   NgSulJ = 4844 * 411.71019236154035
+   rnfDJj = 3749 / 174.87538822631686
+   ACXZzp = 327.02239095019496 - 892.3709877226848
+  if t<m:
+   VtVZiL = 884.6461597787379 - 167
+   VaBCFa = 44.190659706138874 * 2583
+   yKQnOH = 2695 / 204
+while y==c:
+  if w>j:
+   bdGkrf = 564.7681815440944 * 7823
+   BeRlJj = 324.302590027229 * 9706
+   GgpsMS = True
+  if z>c:
+   sQrOSc = 901.0993064999476 - 5274
+   GXfkuu = 550 / 1116
+   uZFRIe = 9757 / 9594
+  if p<e:
+   bdGkrf = 564.7681815440944 * 7823
+   BeRlJj = 324.302590027229 * 9706
+   GgpsMS = True
+while m==k:
+  if w==i:
+   qQkaxE = False
+   cSSYQZ = True
+   iynCWu = 550.7755486168512 / 467.18124639436127
+  if c==k:
+   zwCAlS = 154.18792640272173 / 799.1218984905631
+   TRHnmU = True
+   MqDHso = 3953 * 3506
+  if y<o:
+   qQkaxE = False
+   cSSYQZ = True
+   iynCWu = 550.7755486168512 / 467.18124639436127
+while l<s:
+  if c>y:
+   jBUvPN = 9348 - 8646
+   fdaTkP = 431.9032019232759 - 719.7703856410027
+   FPlNPT = 529.6478873013095 / 4082
+  if h>t:
+   gYCVZx = 824.0337819286377 * 644.9204455080846
+   wLVatI = 738.0773341387817 * 1064
+   GSoSZo = 485.12253355150625 - 2838
+  if l==c:
+   jBUvPN = 9348 - 8646
+   fdaTkP = 431.9032019232759 - 719.7703856410027
+   FPlNPT = 529.6478873013095 / 4082
+while h<e:
+  if f<o:
+   cZiVzs = 737.0426718393635 * 506.74141755842163
+   ZObkCE = True
+   VhnQYL = 505.9093801444548 * 916.0953334246575
+  if y>f:
+   zwbdNB = 7490 + 488.15938981829197
+   TpWteZ = False
+   hIAhlN = 711.6234881061911 - 4917
+  if q>n:
+   cZiVzs = 737.0426718393635 * 506.74141755842163
+   ZObkCE = True
+   VhnQYL = 505.9093801444548 * 916.0953334246575
+while f>s:
+  if c>e:
+   rybHKK = 533.2814203907039 - 924.2458074149326
+   rOliDt = 400.6310497427292 / 884.6410100431218
+   xVjSSX = 7485 + 8052
+  if l==x:
+   hjzRDp = False
+   yeIPHE = 927.9030150856122 * 849.4352510008268
+   KFzmro = 5722 + 994.5175600769348
+  if g==m:
+   rybHKK = 533.2814203907039 - 924.2458074149326
+   rOliDt = 400.6310497427292 / 884.6410100431218
+   xVjSSX = 7485 + 8052
+while t==t:
+  if x>x:
+   yWnRDR = 2881 * 7711
+   tMADlo = 131.10940016170304 * 8465
+   dxKGWw = False
+  if y<k:
+   BebnzX = 4674 * 464.6014463302215
+   ulloZg = 100.9525965646525 - 5140
+   EucRKW = 6446 - 211.3091932023213
+  if m==g:
+   yWnRDR = 2881 * 7711
+   tMADlo = 131.10940016170304 * 8465
+   dxKGWw = False
+while y<o:
+  if c==j:
+   GpsOBa = 1106 - 889.0584173962934
+   tDTNRX = 8020 + 3165
+   mizVxE = 1651 * 1966
+  if f>p:
+   DwrDWP = 2205 * 821.5983644262335
+   MnUpiY = True
+   TTlFqi = 552.9630262460256 - 7303
+  if p>v:
+   GpsOBa = 1106 - 889.0584173962934
+   tDTNRX = 8020 + 3165
+   mizVxE = 1651 * 1966
+while g==s:
+  if n==o:
+   Yxlrmg = 8613 - 42.8667952307132
+   QGIGhL = 709.1379989239695 + 463.0451825388019
+   PWGXpj = False
+  if c>a:
+   uXURrU = 771.6095046957913 - 111.33372681729347
+   gXZENa = 624 + 427.8530837943923
+   CUmoxj = 804.9326370578666 * 8778
+  if a<n:
+   Yxlrmg = 8613 - 42.8667952307132
+   QGIGhL = 709.1379989239695 + 463.0451825388019
+   PWGXpj = False
+while m>e:
+  if x<d:
+   pMdohI = 388.71477571847885 * 835.8039990974535
+   cQTeNu = 116.35253089273921 - 8890
+   qrTRvP = 861.1984298203624 - 144
+  if a<t:
+   gUWNLn = 779.2594017645075 - 445.7696636586789
+   aIIRfk = 591.6972695536317 - 4197
+   SctFof = 9566 * 740.566465928493
+  if f>m:
+   pMdohI = 388.71477571847885 * 835.8039990974535
+   cQTeNu = 116.35253089273921 - 8890
+   qrTRvP = 861.1984298203624 - 144
+while d==f:
+  if a>t:
+   bAJlgF = True
+   vKUWZx = 3832 * 259.07035162287286
+   XcnNzb = False
+  if z>w:
+   lXinOf = 2196 + 2230
+   NrpJjG = 6612 - 6749
+   eqQSwG = 691.8790150932291 - 922.1502988154756
+  if b==y:
+   bAJlgF = True
+   vKUWZx = 3832 * 259.07035162287286
+   XcnNzb = False
+while w==z:
+  if a>f:
+   vUHffK = 727.7741196081083 * 9401
+   wAviAp = 612.7607334680166 + 6124
+   NwszBy = 2541 / 1912
+  if q<a:
+   GZjZso = 8305 * 1650
+   JiUBDE = 287.85167645884457 + 6853
+   pyLogN = 8188 - 2178
+  if n==a:
+   vUHffK = 727.7741196081083 * 9401
+   wAviAp = 612.7607334680166 + 6124
+   NwszBy = 2541 / 1912
+while t==q:
+  if t==n:
+   NCUZjr = 9252 + 658.067034687633
+   tHJbqd = 359.20555796314125 * 167.3732943423672
+   ApXNCH = 1456 / 872.3594604934395
+  if o>j:
+   hRyiYH = 900.0014767294452 + 1668
+   ZiEpXa = 4503 / 772.4209511830912
+   NSQLzP = 7544 + 3977
+  if g==j:
+   NCUZjr = 9252 + 658.067034687633
+   tHJbqd = 359.20555796314125 * 167.3732943423672
+   ApXNCH = 1456 / 872.3594604934395
+while r>z:
+  if t==h:
+   TNBwXT = 3181 / 1682
+   NDiYcU = 9640 + 4576
+   SdtniY = 8928 + 4923
+  if w<s:
+   LtVffc = 304.39840574102163 + 8366
+   AugITD = 657.3099710933068 - 6573
+   xcdtgY = True
+  if m<b:
+   TNBwXT = 3181 / 1682
+   NDiYcU = 9640 + 4576
+   SdtniY = 8928 + 4923
+while g<u:
+  if z<r:
+   IpnCLD = 317 + 5548
+   PMKoss = 7122 * 3857
+   rGfAPO = 7376 + 8875
+  if b==h:
+   IXVpQL = 1569 - 3563
+   qQUzSS = 786.8506321117236 / 297
+   YBIhOT = False
+  if z>u:
+   IpnCLD = 317 + 5548
+   PMKoss = 7122 * 3857
+   rGfAPO = 7376 + 8875
+while a>w:
+  if w<f:
+   JpYsfT = 611.6585332991904 + 28.89522717933464
+   DDiXPA = True
+   xZXmia = 4473 / 3035
+  if h>f:
+   QUfPOH = 599.3309268041986 - 3667
+   CNnSsp = 1879 - 5133
+   VyjiUB = 5056 + 7426
+  if k>h:
+   JpYsfT = 611.6585332991904 + 28.89522717933464
+   DDiXPA = True
+   xZXmia = 4473 / 3035
+while o==m:
+  if w==z:
+   nWMuNk = False
+   FJkqDd = 641.9743786801571 + 2944
+   PLPLjg = 3912 + 693.2059576359114
+  if g>w:
+   lnySFu = 2748 * 7045
+   KCfvHP = True
+   NCVXJM = 288.0656042864193 + 302.05034644865526
+  if w>m:
+   nWMuNk = False
+   FJkqDd = 641.9743786801571 + 2944
+   PLPLjg = 3912 + 693.2059576359114
+while w<h:
+  if h>x:
+   NeWutl = 4103 - 6769
+   damaBL = False
+   XRFGUk = True
+  if b<k:
+   xTATcX = 561.796621027623 * 9925
+   luVmCw = False
+   EDlvSl = 618 / 6097
+  if c==d:
+   NeWutl = 4103 - 6769
+   damaBL = False
+   XRFGUk = True
+while x<u:
+  if k<b:
+   tcDBan = 5863 - 6532
+   XPnLoV = False
+   UYtghs = 8036 + 794.4981631451947
+  if g>k:
+   SkKRVq = 844.1858589326423 / 175.69026041122072
+   WLQgFx = 9943 - 180.36161048697923
+   mmDTQi = 814.6951384411948 - 124.33228655042423
+  if x==j:
+   tcDBan = 5863 - 6532
+   XPnLoV = False
+   UYtghs = 8036 + 794.4981631451947
+while s<m:
+  if s<g:
+   ITdUhl = True
+   EJKuzM = 354.861573620873 - 4949
+   xDJoTF = True
+  if p<x:
+   exPtxY = 8019 + 5968
+   YMTjJw = True
+   sJJrto = 27.239791346233883 + 927.7024675706014
+  if e<c:
+   ITdUhl = True
+   EJKuzM = 354.861573620873 - 4949
+   xDJoTF = True
+while m>x:
+  if v==s:
+   rvCAKL = 3098 - 636.234856132241
+   wTDxrC = 4108 + 830.8236686247735
+   qqVpsh = 6892 - 643.8478821453374
+  if t<m:
+   tnimCX = 3155 - 752.0096404743896
+   HGLXQP = 716.9506831062258 / 5624
+   mihhaE = 6257 - 4019
+  if b==r:
+   rvCAKL = 3098 - 636.234856132241
+   wTDxrC = 4108 + 830.8236686247735
+   qqVpsh = 6892 - 643.8478821453374
+while p==n:
+  if k==v:
+   eeVLnV = 619.7359035398111 - 29
+   pSAYTN = False
+   ksbhXC = 535 + 8322
+  if e<a:
+   tvMrTC = False
+   FyMlTD = True
+   uJlECz = False
+  if w>n:
+   eeVLnV = 619.7359035398111 - 29
+   pSAYTN = False
+   ksbhXC = 535 + 8322
+while y==q:
+  if w==s:
+   LBjZTn = 150.16687614645022 / 354.40393604847236
+   oZKueu = 8314 * 955.9783655129024
+   fTRBQm = 848.2721653587827 / 5331
+  if g==f:
+   IvvdvK = 5936 + 3807
+   zvkIxV = 999.0599244477338 - 234.71921023194523
+   CyOGEC = 779.8991328412541 / 205.3745741437168
+  if y>o:
+   LBjZTn = 150.16687614645022 / 354.40393604847236
+   oZKueu = 8314 * 955.9783655129024
+   fTRBQm = 848.2721653587827 / 5331
+while w<r:
+  if h<w:
+   aesmzC = 1008 - 3628
+   PFtrEC = 4395 * 3666
+   rMuZov = 7965 / 2974
+  if k>z:
+   kwGZZU = 980.6021525660586 + 64.34013692392594
+   OzCYKF = 453.2488304925358 + 370.4427022394001
+   qcLiRN = 1582 * 6614
+  if t==r:
+   aesmzC = 1008 - 3628
+   PFtrEC = 4395 * 3666
+   rMuZov = 7965 / 2974
+while w==x:
+  if f<j:
+   kKazBQ = 732.9880136588904 / 565.6855489391467
+   sNVgcR = 968.9577889339685 * 8769
+   aiIqSR = 5506 - 1123
+  if h==w:
+   xMrvrr = 963.2708851539641 * 917.0907007708504
+   QnOASt = True
+   jfMgXD = 7114 - 6608
+  if c==w:
+   kKazBQ = 732.9880136588904 / 565.6855489391467
+   sNVgcR = 968.9577889339685 * 8769
+   aiIqSR = 5506 - 1123
+while a<r:
+  if m==d:
+   QEcbQV = 6456 * 802.6368610214068
+   MhUrpN = 746.9325706657991 / 486.0448970969998
+   mrKkuA = 507.5984255638573 + 7175
+  if l<o:
+   dJLjwG = True
+   jsNuwI = 5110 - 377.21172658884944
+   VFzqFx = 5785 / 7082
+  if y>i:
+   QEcbQV = 6456 * 802.6368610214068
+   MhUrpN = 746.9325706657991 / 486.0448970969998
+   mrKkuA = 507.5984255638573 + 7175
+while v<h:
+  if c==a:
+   eqSIQI = 9766 - 3561
+   QpFqEN = 582.0622946386993 + 905.5375923974934
+   pNWreN = 394.2206493783833 - 412
+  if r<s:
+   pQQVSP = False
+   nbcmNf = 992.713305488629 - 453.4355251273651
+   ACBGsc = 8939 * 4505
+  if r<a:
+   eqSIQI = 9766 - 3561
+   QpFqEN = 582.0622946386993 + 905.5375923974934
+   pNWreN = 394.2206493783833 - 412
+while t<n:
+  if z<h:
+   pDZvWX = 2696 + 379.5032400108368
+   Humhdp = 26.140782773743336 * 257.8091492819988
+   RNlmFR = 8437 - 955.9909699625181
+  if j==d:
+   QYXLoi = 7830 * 9925
+   rPbghA = 5579 - 328.15753331586086
+   cnaHWj = 299.1358930829224 / 6836
+  if y>e:
+   pDZvWX = 2696 + 379.5032400108368
+   Humhdp = 26.140782773743336 * 257.8091492819988
+   RNlmFR = 8437 - 955.9909699625181
+while z==e:
+  if j==e:
+   ogaZcV = 9985 + 4047
+   RCtwSe = 404.27079400714564 * 6340
+   BPiZFL = False
+  if x==k:
+   dLjCcQ = 779.743928130665 * 645.3333783484296
+   DRAhUy = 116.75459423223326 - 4037
+   ZriafZ = 6556 * 845.1104299978026
+  if e<f:
+   ogaZcV = 9985 + 4047
+   RCtwSe = 404.27079400714564 * 6340
+   BPiZFL = False
+while h==n:
+  if x>f:
+   IWPoIC = 226 / 8357
+   xpYYaF = 3123 - 460.8259885059285
+   gWrKXY = True
+  if e<c:
+   agxvYo = 804.6723242427868 / 4458
+   TACGee = False
+   JbrrCV = 3911 / 233.48839828271193
+  if q==p:
+   IWPoIC = 226 / 8357
+   xpYYaF = 3123 - 460.8259885059285
+   gWrKXY = True
+while m>d:
+  if v<b:
+   iUVMaY = 859.4078041302243 + 364
+   pGkLVR = 8563 * 7502
+   irZkAs = 4569 / 981.104836714067
+  if e<u:
+   UsIOWt = 1051 * 4178
+   JJxekE = True
+   rbqOmU = 89.36699578399268 * 204
+  if s>h:
+   iUVMaY = 859.4078041302243 + 364
+   pGkLVR = 8563 * 7502
+   irZkAs = 4569 / 981.104836714067
+while s>q:
+  if a==n:
+   qBPtzI = 35.240692730925524 - 480.146949197321
+   WcjziO = 8484 * 1693
+   QumLgz = False
+  if m==s:
+   XoRQjL = 13.593687619319859 + 827.5023286141484
+   XmreER = 575.9508401691809 * 76.15210033721871
+   yNEkFY = 830.9543701806167 + 372.7026081279301
+  if i==m:
+   qBPtzI = 35.240692730925524 - 480.146949197321
+   WcjziO = 8484 * 1693
+   QumLgz = False
+while s==s:
+  if y==s:
+   IucjVz = 237.63679718202803 - 967.2388289329035
+   DMpWYb = 6352 * 55.609554862050814
+   tgtaua = True
+  if c<q:
+   tYHqNJ = 9767 / 921.9180738502348
+   XblzBq = True
+   PKZIqb = 9475 - 5145
+  if s<y:
+   IucjVz = 237.63679718202803 - 967.2388289329035
+   DMpWYb = 6352 * 55.609554862050814
+   tgtaua = True
+while e>q:
+  if h==u:
+   OugGsC = 947.5714938085438 / 6828
+   faeDxm = 377 + 915.9637957565164
+   pDRNAq = 5761 * 341.75249284709787
+  if s==y:
+   aFmUxc = False
+   RuTGDg = 578.3715563675031 * 918.073779076039
+   jwwdsV = 828.3400334671838 * 2056
+  if z==t:
+   OugGsC = 947.5714938085438 / 6828
+   faeDxm = 377 + 915.9637957565164
+   pDRNAq = 5761 * 341.75249284709787
+while g<x:
+  if d==y:
+   BgfYoG = False
+   cwxatk = False
+   Hifyut = False
+  if v>u:
+   fjKfni = 8826 + 5046
+   gpVwLV = 6195 * 956.822114537093
+   lZINLF = 142.76163685787165 + 7424
+  if e==x:
+   BgfYoG = False
+   cwxatk = False
+   Hifyut = False
+while j<h:
+  if b>e:
+   BkfWBB = 6204 + 4416
+   PZGybc = 1649 - 739.4100429383404
+   bcmzkM = False
+  if u==h:
+   uDlbdh = 2111 / 9413
+   QWcgjh = 3264 + 3763
+   LWdzOC = 146.66655066666178 + 6782
+  if q>q:
+   BkfWBB = 6204 + 4416
+   PZGybc = 1649 - 739.4100429383404
+   bcmzkM = False
+while w>c:
+  if w>h:
+   GRitNM = 508.89838005319655 / 636.3651185211685
+   AxUaVA = 1638 - 6328
+   GkrxTm = 377.12922998393975 * 267.42874038110745
+  if c==q:
+   ZPumOk = 6103 * 467.90002038689954
+   lYAwbF = 660 / 1382
+   mJqegN = 56.234436360364654 - 6274
+  if g==y:
+   GRitNM = 508.89838005319655 / 636.3651185211685
+   AxUaVA = 1638 - 6328
+   GkrxTm = 377.12922998393975 * 267.42874038110745
+while c<d:
+  if s>j:
+   IPLftM = 291 / 7056
+   RLHiaL = True
+   PUQmKp = 5330 / 780.2974147997228
+  if r<p:
+   ichdVe = 467.03281947598833 - 578
+   EbdDjH = 132.4461624244921 - 1977
+   ptjVQP = 8384 * 5957
+  if k<h:
+   IPLftM = 291 / 7056
+   RLHiaL = True
+   PUQmKp = 5330 / 780.2974147997228
+while d>s:
+  if m>q:
+   xogfKT = 182 * 7643
+   TkhyQZ = 7574 / 5706
+   kGseDk = True
+  if n>r:
+   pbQCLZ = 2516 * 308.63436695999366
+   RDaeEv = 453.4102240224424 / 832.9517708959894
+   sTWiNe = 3497 / 2878
+  if y>f:
+   xogfKT = 182 * 7643
+   TkhyQZ = 7574 / 5706
+   kGseDk = True
+while t>y:
+  if a>c:
+   QmTjZg = False
+   bHLKIU = True
+   YUPNPW = 971 + 954.2003012991942
+  if e==c:
+   kyveek = 5090 + 7486
+   mCOlfJ = False
+   rrmaWV = 54.3111574545846 - 8245
+  if l>d:
+   QmTjZg = False
+   bHLKIU = True
+   YUPNPW = 971 + 954.2003012991942
+while j==m:
+  if g==t:
+   hrbxmK = 457.06588490712096 / 1744
+   TGaeDf = 820.0435260969888 - 928.0478716191935
+   RFqcNl = False
+  if u<q:
+   hQtsCO = 9483 - 3959
+   JfGCww = 5181 * 2335
+   xGtcRK = 5108 - 1654
+  if w>o:
+   hrbxmK = 457.06588490712096 / 1744
+   TGaeDf = 820.0435260969888 - 928.0478716191935
+   RFqcNl = False
+while q<q:
+  if c<c:
+   WcjziO = 8484 * 1693
+   eRSGjk = 5540 / 238.651701950549
+   dBbFkj = 589.2345332240312 * 4600
+  if r<r:
+   DwhrVD = 759.9900831787919 / 7744
+   UGMntP = 5501 / 141.0666238253041
+   xQdGZs = 350 / 8584
+  if a<m:
+   WcjziO = 8484 * 1693
+   eRSGjk = 5540 / 238.651701950549
+   dBbFkj = 589.2345332240312 * 4600
+while s==j:
+  if i==d:
+   ihnDlC = 426.7195424032594 * 66.1833913202853
+   wSmiOH = 6480 - 142.38979382607934
+   mVFqdP = 3438 * 3978
+  if l==r:
+   BDZpip = 107.17426932359876 / 213.9783921825003
+   TcgSmR = 102.96290419294428 - 143.13859697178808
+   TfNPrB = 145.85116451899546 / 7479
+  if u==y:
+   ihnDlC = 426.7195424032594 * 66.1833913202853
+   wSmiOH = 6480 - 142.38979382607934
+   mVFqdP = 3438 * 3978
+while x==r:
+  if x==h:
+   hPCxbK = True
+   tnzySP = 762.1257350049932 - 736.9837070620638
+   OGqLwt = 366.91114526459654 * 4164
+  if o==n:
+   LKoUjY = False
+   iPXMpE = 6481 / 78.64916080042964
+   oltszX = False
+  if w>d:
+   hPCxbK = True
+   tnzySP = 762.1257350049932 - 736.9837070620638
+   OGqLwt = 366.91114526459654 * 4164
+while u==x:
+  if k==h:
+   CrERkN = 7918 / 999.6482393695264
+   NqZjda = 3312 - 8281
+   ZBSKxH = 4529 * 5849
+  if v==w:
+   irWvSy = 994.8711000112371 + 457.0183925806383
+   aSVMQi = False
+   wAviAp = 612.7607334680166 + 6124
+  if q<x:
+   CrERkN = 7918 / 999.6482393695264
+   NqZjda = 3312 - 8281
+   ZBSKxH = 4529 * 5849
+while j==d:
+  if d>l:
+   RIZjOm = 1728 / 811
+   BTjHgs = 309.87557638471026 * 520.715681501105
+   PqMZwZ = 456.8656474072311 / 3928
+  if r<j:
+   djrSOx = 369.55319904214724 * 447.16642242677204
+   wYzQXr = 225.3412487745681 * 7934
+   gvWAwZ = 2251 + 2221
+  if a==v:
+   RIZjOm = 1728 / 811
+   BTjHgs = 309.87557638471026 * 520.715681501105
+   PqMZwZ = 456.8656474072311 / 3928
+while d>a:
+  if k==i:
+   kOzRpW = 558.0374510868251 - 840.910531691243
+   WiseZK = 22.195928062342254 + 658.1984754667641
+   sdjBzr = 8721 + 601.6808509554812
+  if q<g:
+   FKezHA = 4770 / 850.0821154896396
+   LEJnPF = 809 + 198.00829216872611
+   hrWYqh = 1918 - 870.122774619889
+  if x==a:
+   kOzRpW = 558.0374510868251 - 840.910531691243
+   WiseZK = 22.195928062342254 + 658.1984754667641
+   sdjBzr = 8721 + 601.6808509554812
+while l<o:
+  if t>n:
+   bHsEYQ = 65.61471473636733 * 8449
+   EvyWrL = 974.9542521884332 - 5080
+   VSuPmF = 715.3199176513695 / 4551
+  if u<m:
+   XRFGUk = True
+   eACxWi = 937.3549485634659 + 6838
+   gpEGUg = 9429 * 9114
+  if h==h:
+   bHsEYQ = 65.61471473636733 * 8449
+   EvyWrL = 974.9542521884332 - 5080
+   VSuPmF = 715.3199176513695 / 4551
+while n>k:
+  if f>p:
+   bHsEYQ = 65.61471473636733 * 8449
+   rMpelF = False
+   vefjTn = 35.441207919522235 + 2082
+  if e<k:
+   JFAzyU = 6976 * 5430
+   BHLjOi = 6633 / 9739
+   sFxUMi = 4328 / 129.24116224833577
+  if k<o:
+   bHsEYQ = 65.61471473636733 * 8449
+   rMpelF = False
+   vefjTn = 35.441207919522235 + 2082
+while i==q:
+  if m>y:
+   sGtZnZ = 125.2629146676923 / 994.7605392085209
+   TChwSZ = True
+   diLKix = 430.653438661393 * 5422
+  if f>a:
+   ISGDrX = 11 - 4854
+   CchbPl = 370.08118517707726 / 114.9895993589206
+   htLGSp = 299 * 5170
+  if s<i:
+   sGtZnZ = 125.2629146676923 / 994.7605392085209
+   TChwSZ = True
+   diLKix = 430.653438661393 * 5422
+while x<l:
+  if r==j:
+   ztqHnS = 553 + 1851
+   RvXvsa = 5156 - 991.9314730941145
+   JKqZuJ = 424.8226767263353 / 1812
+  if u<s:
+   vyLCuW = 2438 + 838.0840938308061
+   tJbndA = 859.615364014994 - 4379
+   kHlfWk = 114 - 7436
+  if z==e:
+   ztqHnS = 553 + 1851
+   RvXvsa = 5156 - 991.9314730941145
+   JKqZuJ = 424.8226767263353 / 1812
+while x>i:
+  if e==p:
+   vvdRKn = 7264 / 6510
+   ihnDlC = 426.7195424032594 * 66.1833913202853
+   pFIPUn = 5493 * 1913
+  if k>b:
+   fAHbVt = True
+   QSBmTA = False
+   GVmNij = 5801 + 6851
+  if g<b:
+   vvdRKn = 7264 / 6510
+   ihnDlC = 426.7195424032594 * 66.1833913202853
+   pFIPUn = 5493 * 1913
+while r>h:
+  if m<f:
+   sliscT = False
+   GrYrVt = 300.73464552591975 * 624
+   ctghWQ = 614.2098945548604 * 8701
+  if x<r:
+   XtqojD = True
+   DJNkmK = 189.27289324313244 + 6000
+   mrvZaF = 4171 / 6892
+  if i<u:
+   sliscT = False
+   GrYrVt = 300.73464552591975 * 624
+   ctghWQ = 614.2098945548604 * 8701
+while c<d:
+  if b>z:
+   MaMSyo = 4378 + 6911
+   AZZREV = 6372 + 8817
+   RvLvSz = 5034 / 262.1898261705721
+  if e==c:
+   Xsamml = 6576 - 126.98434264606419
+   rlaiFH = 710.5711535279187 * 188.64015497714396
+   omDiJL = False
+  if x==f:
+   MaMSyo = 4378 + 6911
+   AZZREV = 6372 + 8817
+   RvLvSz = 5034 / 262.1898261705721
+while h>l:
+  if d==n:
+   uldHXe = 450.60368007174634 / 307.8881434151653
+   gYObPY = False
+   cIzvWL = 125.06943150687681 + 2653
+  if p==s:
+   QSBmTA = False
+   KkIVGP = 737.841970990802 - 238.8392448005668
+   kCfVcQ = 598.4971382494712 / 764.7698359428242
+  if p>b:
+   uldHXe = 450.60368007174634 / 307.8881434151653
+   gYObPY = False
+   cIzvWL = 125.06943150687681 + 2653
+while y>z:
+  if x==v:
+   SeQxUU = 766.1289881986193 / 1337
+   vWiSfn = False
+   zbTCSe = 2083 * 4065
+  if a<z:
+   FOfkIu = 271.9726603512288 / 6841
+   SBPuWO = 692 - 901
+   AEyLms = 41.60281929040584 / 974.3923797026895
+  if c==y:
+   SeQxUU = 766.1289881986193 / 1337
+   vWiSfn = False
+   zbTCSe = 2083 * 4065
+while f>p:
+  if v==v:
+   gqqlQp = 776 * 378.90860680026867
+   svZzSQ = 210.8387163324305 - 495.0762791174075
+   zmoqOf = 2317 * 12
+  if n>o:
+   tiHvha = 6990 * 8417
+   ZRcbth = 28.654771560720945 * 124.99771286020777
+   rfoCUG = 207.164627594962 / 8521
+  if a==h:
+   gqqlQp = 776 * 378.90860680026867
+   svZzSQ = 210.8387163324305 - 495.0762791174075
+   zmoqOf = 2317 * 12
+while o>i:
+  if a==y:
+   MXemWE = 615.809349755815 + 9769
+   qkRzpd = 2335 - 782.6934221892895
+   QKuLCP = 7168 + 45.83419289559025
+  if y<y:
+   TOPexp = 3352 - 878.9142194116063
+   UsSpIb = 818.5740488076488 / 6630
+   gYBodm = 651.8951799746271 * 119.07706892575536
+  if f<d:
+   MXemWE = 615.809349755815 + 9769
+   qkRzpd = 2335 - 782.6934221892895
+   QKuLCP = 7168 + 45.83419289559025
+while e>o:
+  if b<p:
+   qkJfsO = 107.85507092063993 / 902.4663605849707
+   gNDCEC = False
+   TuBkTI = 8346 * 1505
+  if y==c:
+   XYWByM = False
+   SMJeqF = 8305 + 156
+   KTeqiW = 546.0967085689464 * 920.2176990802107
+  if a>o:
+   qkJfsO = 107.85507092063993 / 902.4663605849707
+   gNDCEC = False
+   TuBkTI = 8346 * 1505
+while w<c:
+  if z==m:
+   nGLlBP = True
+   KesLPe = False
+   bhxdjA = True
+  if p==s:
+   QQBFpE = 3229 + 4409
+   GLCPjH = 11.749681105636846 + 4872
+   ySxfTH = 7657 * 696.703521820928
+  if s>s:
+   nGLlBP = True
+   KesLPe = False
+   bhxdjA = True
+while p<o:
+  if l<n:
+   mHfhZw = 611.8196962420119 - 1953
+   VoVaxr = 9532 / 7511
+   exykRg = False
+  if v>d:
+   OsxOcM = 422.36679553283113 * 219.32954107365117
+   Xrgbpj = 5012 + 648.4675163273927
+   MRUKbb = 1115 + 165.96697111070333
+  if b==w:
+   mHfhZw = 611.8196962420119 - 1953
+   VoVaxr = 9532 / 7511
+   exykRg = False
+while c>x:
+  if m<a:
+   KYFJEx = 422.6169080668077 / 9071
+   ukibTY = 192.09430716153463 - 438.2750241211092
+   cgkady = 6653 * 6525
+  if n<j:
+   ngogZL = 5725 + 5675
+   aykuVz = 432.92083205767455 + 1596
+   sWnMAG = 246.66066809431592 + 496.1163419824819
+  if u<p:
+   KYFJEx = 422.6169080668077 / 9071
+   ukibTY = 192.09430716153463 - 438.2750241211092
+   cgkady = 6653 * 6525
+while g>l:
+  if q==e:
+   FJTRdU = 6205 * 930.0133693840106
+   kVRJnX = 60 + 8163
+   NaipOj = False
+  if p>g:
+   OviIob = 624.9129924309095 * 93.72219531675553
+   TxwjIw = 596.207959489899 / 2621
+   JCeXsn = 3027 * 7277
+  if v==t:
+   FJTRdU = 6205 * 930.0133693840106
+   kVRJnX = 60 + 8163
+   NaipOj = False
+while j>y:
+  if z==a:
+   HRKwjs = 8929 - 4572
+   BsJewP = True
+   Hzjhoe = 183.89119738567814 * 237.64709310508562
+  if o==a:
+   gIiWAl = 220 * 4179
+   XoDETo = False
+   TmmTRU = 6780 + 1042
+  if h>o:
+   HRKwjs = 8929 - 4572
+   BsJewP = True
+   Hzjhoe = 183.89119738567814 * 237.64709310508562
+while k<j:
+  if z==r:
+   UYzTfd = 6080 - 451.94187114763713
+   YqRwXp = 6874 * 602.4016373367522
+   GfaiBQ = 372.2052309243343 - 464.0945420030534
+  if b>s:
+   IdhVFb = 2577 + 567.7642562066613
+   VgIPkR = False
+   wozrRh = 124 + 932.6852225479519
+  if c>j:
+   UYzTfd = 6080 - 451.94187114763713
+   YqRwXp = 6874 * 602.4016373367522
+   GfaiBQ = 372.2052309243343 - 464.0945420030534
+while b==i:
+  if u==i:
+   fmCvqV = 419.8552900840295 * 6407
+   tuZPOe = 47.387688721129216 - 6837
+   QccqlF = False
+  if j==n:
+   KwIgjg = 803.4515977619872 / 6920
+   zNVkuw = False
+   bkfyYy = 1495 + 754
+  if o<y:
+   fmCvqV = 419.8552900840295 * 6407
+   tuZPOe = 47.387688721129216 - 6837
+   QccqlF = False
+while v==n:
+  if b>g:
+   eWhMSs = 835.042528526881 - 992.1380709384267
+   IEmoHm = 965.1451804276965 * 270.9851018355215
+   IUjwBx = 7660 / 26.083394700641655
+  if v>e:
+   UKvTAO = 996 / 120.4669889115331
+   cFmYid = 506.60244875781746 * 884.6176336922055
+   cIZRis = 76.79306546450317 - 3682
+  if h==z:
+   eWhMSs = 835.042528526881 - 992.1380709384267
+   IEmoHm = 965.1451804276965 * 270.9851018355215
+   IUjwBx = 7660 / 26.083394700641655
+while p<y:
+  if x==z:
+   OemhBh = True
+   AdmPdJ = 332.46304529758794 * 1588
+   eKPQGi = 5225 / 8701
+  if k<r:
+   lzISDj = 9466 + 598.3178561842004
+   TpFemm = 739.7604618137394 - 146.38526120547652
+   jOVQKn = 622.7294619472444 / 5977
+  if b<l:
+   OemhBh = True
+   AdmPdJ = 332.46304529758794 * 1588
+   eKPQGi = 5225 / 8701
+while b>i:
+  if k<e:
+   woMiTa = 873.8142558627546 - 5907
+   VTrEOM = True
+   POohaK = True
+  if f<u:
+   EGTWMM = False
+   LgHbfc = 692.5166835058361 * 629.697623105974
+   NrpJjG = 6612 - 6749
+  if t>n:
+   woMiTa = 873.8142558627546 - 5907
+   VTrEOM = True
+   POohaK = True
+while v>f:
+  if j>s:
+   VAHRid = 7219 + 830.3599283563483
+   ogtXaK = 7212 - 6297
+   BWZJsr = 735.2911968996581 + 349.3600568781192
+  if m<k:
+   hGLhnL = 7461 - 6970
+   AIHToO = 534.1269958726788 + 2235
+   UckLAe = 275.7231669102413 + 935.7995711885868
+  if u>g:
+   VAHRid = 7219 + 830.3599283563483
+   ogtXaK = 7212 - 6297
+   BWZJsr = 735.2911968996581 + 349.3600568781192
+while i>d:
+  if d==w:
+   RAYQyh = 106.54211944454774 * 8453
+   alyWqY = 3610 - 1371
+   oboLXF = 374 + 7817
+  if k==j:
+   pPiVYT = False
+   pMsTAN = True
+   TTLvRJ = 4023 * 426.1257604911666
+  if i==i:
+   RAYQyh = 106.54211944454774 * 8453
+   alyWqY = 3610 - 1371
+   oboLXF = 374 + 7817
+while l==t:
+  if r<b:
+   SzghdR = 751 * 430
+   hWUkzk = True
+   bkUhpJ = 2210 - 191
+  if v==e:
+   EuCmms = 2866 * 4440
+   YZWTyQ = 7621 / 273.2697260425647
+   vkWOFU = 463.2199528022608 / 864
+  if o==r:
+   SzghdR = 751 * 430
+   hWUkzk = True
+   bkUhpJ = 2210 - 191
+while u==l:
+  if y>c:
+   yhadaj = True
+   vbQjaO = 64.66155803271775 / 5834
+   hnDlzC = 2781 - 684.2877503560504
+  if e==u:
+   FBRNAM = False
+   zCMmgG = 500.5376258890599 / 2611
+   CTPIIY = 992.9548618879505 * 3526
+  if z>s:
+   yhadaj = True
+   vbQjaO = 64.66155803271775 / 5834
+   hnDlzC = 2781 - 684.2877503560504
+while q==c:
+  if e>c:
+   MlFdhA = 379.7424465231756 * 946.6983176498965
+   ugzODp = 493.9334504962872 / 4315
+   RDeoVJ = False
+  if o<o:
+   evaYUr = 719.0395694668274 - 7247
+   hPYXLp = 700.5934484063976 / 4391
+   lBaPrM = 5043 / 651
+  if c==w:
+   MlFdhA = 379.7424465231756 * 946.6983176498965
+   ugzODp = 493.9334504962872 / 4315
+   RDeoVJ = False
+while h==u:
+  if d>b:
+   SlGLvG = False
+   xCTCSV = False
+   YebHKQ = True
+  if y<b:
+   zVAQvO = 20.00644632530746 - 552.2357806334854
+   MdvNFq = 3156 - 3725
+   gNDCEC = False
+  if z>g:
+   SlGLvG = False
+   xCTCSV = False
+   YebHKQ = True
+while c==e:
+  if y<o:
+   Cnwjua = 169.44217568823956 + 457.6912477968667
+   OBNFvq = 3249 + 3622
+   BDyFoV = 452.14929345185556 - 478.0149192551097
+  if w>c:
+   EUJaTf = 2601 / 229.6749937697035
+   zysFCY = 210.56452722312073 - 6296
+   hGLhnL = 7461 - 6970
+  if d>v:
+   Cnwjua = 169.44217568823956 + 457.6912477968667
+   OBNFvq = 3249 + 3622
+   BDyFoV = 452.14929345185556 - 478.0149192551097
+while e==v:
+  if j>s:
+   nOYpjb = False
+   mUqcae = 1281 - 254.4162143832555
+   WdCuzQ = True
+  if p==v:
+   HrZdiu = 322.29722083894006 + 252.2799417649403
+   UEwmdc = 6930 * 628.4854649176757
+   acvdNm = 289 - 2409
+  if d<q:
+   nOYpjb = False
+   mUqcae = 1281 - 254.4162143832555
+   WdCuzQ = True
+while o==a:
+  if o==p:
+   WYqdrO = False
+   dXXNId = 550.0266905306526 + 647.0535009558068
+   MxXzRJ = 3130 + 477.12441589005493
+  if p>o:
+   UmHAhG = 1774 / 3282
+   LQokgz = 1953 * 155.56958046009868
+   iZvVlO = 7405 / 954.0979495053869
+  if y==q:
+   WYqdrO = False
+   dXXNId = 550.0266905306526 + 647.0535009558068
+   MxXzRJ = 3130 + 477.12441589005493
+while o==d:
+  if w>h:
+   VAHRid = 7219 + 830.3599283563483
+   AdcXSG = 9624 * 6004
+   vLVdxb = 1311 * 699.4725990683446
+  if q==q:
+   RjdwiG = 701 - 963.6840895292986
+   wFegps = 175.22130703828697 * 4581
+   fvmLhK = 1965 + 669.7712156004039
+  if e>j:
+   VAHRid = 7219 + 830.3599283563483
+   AdcXSG = 9624 * 6004
+   vLVdxb = 1311 * 699.4725990683446
+while e>l:
+  if f>h:
+   VpsqHR = 8.85223299677859 - 127.50196935839405
+   urruEr = 839.732373035923 / 700.5989475719499
+   TedWoK = 318.51729985078344 - 1512
+  if x==v:
+   aBnfaD = 266.2633200467611 - 919.055158215997
+   PepbBN = True
+   whwvFc = 341.38002655050633 - 479.03070829725226
+  if o==q:
+   VpsqHR = 8.85223299677859 - 127.50196935839405
+   urruEr = 839.732373035923 / 700.5989475719499
+   TedWoK = 318.51729985078344 - 1512
+while t==d:
+  if g==a:
+   JHYwUM = 498 + 583.8611251110007
+   lDNuaX = 8697 + 456.8278117956419
+   DmkoVr = 4558 - 8595
+  if i==z:
+   xvMzKW = 4837 - 9108
+   iyBvew = False
+   NHrcDG = 2615 + 182.35714263216025
+  if w<u:
+   JHYwUM = 498 + 583.8611251110007
+   lDNuaX = 8697 + 456.8278117956419
+   DmkoVr = 4558 - 8595
+while x<e:
+  if c==c:
+   xACeBd = 907.3868589637617 - 1892
+   DKSGmo = 404.38541754714186 - 861.080056915414
+   iaSKEo = False
+  if t>a:
+   GqAMpA = True
+   SDUGlA = 804.9259400502808 / 8228
+   ELoxJr = 6231 / 163.24180695073184
+  if s<o:
+   xACeBd = 907.3868589637617 - 1892
+   DKSGmo = 404.38541754714186 - 861.080056915414
+   iaSKEo = False
+while d>r:
+  if p<k:
+   hlVYAO = 441.1612602441874 / 2302
+   IDWEmh = 459.6169592333995 + 7050
+   xtRMBW = 8520 - 1534
+  if m>y:
+   ZjyfDM = 989.2766657481747 - 4257
+   hFhFHl = 7135 * 213.1479656777632
+   GRXwxD = 3447 + 7135
+  if g<c:
+   hlVYAO = 441.1612602441874 / 2302
+   IDWEmh = 459.6169592333995 + 7050
+   xtRMBW = 8520 - 1534
+while v>s:
+  if y>z:
+   Srmdxc = 840.451087364927 + 6188
+   ftNOgN = True
+   QaDUxL = 8543 - 283.92196513645706
+  if h>e:
+   NilFbv = False
+   aXjyDN = 239.86908287850446 + 5172
+   RaRfIn = 8883 - 9050
+  if e<z:
+   Srmdxc = 840.451087364927 + 6188
+   ftNOgN = True
+   QaDUxL = 8543 - 283.92196513645706
+while y>y:
+  if c>m:
+   FSGybP = 785 + 718.0222974865242
+   npdSKb = 9525 / 2490
+   zJfMUI = 730.9265396894971 * 9548
+  if p<v:
+   ldHosL = 1357 / 901.9011450708939
+   PkzIWF = 839.4149933259397 - 7838
+   GOfBPh = 8134 - 9219
+  if s<c:
+   FSGybP = 785 + 718.0222974865242
+   npdSKb = 9525 / 2490
+   zJfMUI = 730.9265396894971 * 9548
+while l==a:
+  if o==m:
+   vvdRKn = 7264 / 6510
+   EOBJSM = 6202 * 295.124920000394
+   iHRuHD = 5235 - 14.526308094174817
+  if n==w:
+   WLxGMp = 4932 + 871.7275385683477
+   tvSMki = False
+   TarLqL = 4785 / 9037
+  if f==s:
+   vvdRKn = 7264 / 6510
+   EOBJSM = 6202 * 295.124920000394
+   iHRuHD = 5235 - 14.526308094174817
+while s<k:
+  if o<l:
+   bRrSPO = 2453 - 358.26399653177276
+   jDeyxq = 3422 * 5263
+   zOtDQQ = 460.6224041704019 + 335.15409464874574
+  if d==e:
+   pFTiOJ = 697.1505065138294 / 6377
+   tTfNcQ = 854.2762215611606 + 4367
+   AuKltX = 880.2579072382389 * 159.93844503660932
+  if y==s:
+   bRrSPO = 2453 - 358.26399653177276
+   jDeyxq = 3422 * 5263
+   zOtDQQ = 460.6224041704019 + 335.15409464874574
+while h<y:
+  if g<e:
+   UBwmrj = 446.7410606235757 + 327.1530272168942
+   snhDCy = 2343 - 1268
+   fKrqkD = 554.9453057819338 - 9779
+  if r>i:
+   lxKFle = True
+   NdibYV = 1404 - 9460
+   Ihyzqg = False
+  if a==a:
+   UBwmrj = 446.7410606235757 + 327.1530272168942
+   snhDCy = 2343 - 1268
+   fKrqkD = 554.9453057819338 - 9779
+while e<j:
+  if r>x:
+   CXFTyX = True
+   mYgdoK = 356.5332919474094 / 8090
+   sYoRuc = True
+  if o<y:
+   vMqehA = 8400 + 7204
+   hxKQWG = 548.6378395777501 - 976.4194324361073
+   gEWKNg = 218 - 9620
+  if i<m:
+   CXFTyX = True
+   mYgdoK = 356.5332919474094 / 8090
+   sYoRuc = True
+while d>g:
+  if x<k:
+   VSYPql = 265.2438209278999 - 8819
+   hlVYAO = 441.1612602441874 / 2302
+   KdvNGz = 726.2356374143116 + 238.99070783007247
+  if l<c:
+   zWjPYm = 9055 * 3826
+   HRgWYz = False
+   OZJUjw = True
+  if j==f:
+   VSYPql = 265.2438209278999 - 8819
+   hlVYAO = 441.1612602441874 / 2302
+   KdvNGz = 726.2356374143116 + 238.99070783007247
+while i<p:
+  if l==t:
+   OOmCNo = 909.1562517892917 - 193.51609069125763
+   BKYIlV = 2051 / 1829
+   PBQloX = 90.19109701460357 * 257.94380337814994
+  if q==x:
+   AvyXUN = True
+   LnPePJ = True
+   XAWkJZ = 865.3076299178327 - 507.2473481973053
+  if h==h:
+   OOmCNo = 909.1562517892917 - 193.51609069125763
+   BKYIlV = 2051 / 1829
+   PBQloX = 90.19109701460357 * 257.94380337814994
+while a<x:
+  if c==b:
+   UYLWVL = 873 / 742.243212045987
+   INQCKc = 6166 + 4419
+   FkplsR = False
+  if i==w:
+   bDxwVI = 4743 + 8946
+   IzRZjc = 4957 / 479.77912659293526
+   uEHJpK = 783.4823791605518 + 9590
+  if g==t:
+   UYLWVL = 873 / 742.243212045987
+   INQCKc = 6166 + 4419
+   FkplsR = False
+while c>g:
+  if z<g:
+   FCiaiy = 378.63022167756395 * 6567
+   YmpHuK = 824.1059198122351 / 2632
+   IBeDoq = 6611 * 229.6629601098144
+  if k==d:
+   nIIDqR = True
+   kLbIEm = True
+   WcREeM = 5596 + 5921
+  if l<n:
+   FCiaiy = 378.63022167756395 * 6567
+   YmpHuK = 824.1059198122351 / 2632
+   IBeDoq = 6611 * 229.6629601098144
+while y<z:
+  if z==f:
+   LrnsKn = 3677 / 772.125052216574
+   UBwmrj = 446.7410606235757 + 327.1530272168942
+   YBIhOT = False
+  if v<p:
+   yIOfsh = 403.33098538024416 / 6497
+   aQHxQK = 8822 * 2673
+   Avjbgm = False
+  if w<k:
+   LrnsKn = 3677 / 772.125052216574
+   UBwmrj = 446.7410606235757 + 327.1530272168942
+   YBIhOT = False
+while r>x:
+  if m>w:
+   cHlAar = 606.4244687732279 / 592.3336729533122
+   hSoXss = True
+   wffhWX = False
+  if j<p:
+   PZreBv = 227.06651176694072 + 2285
+   TfHBGA = 3896 - 504.0112697335611
+   YHtJDk = 490.5805600816156 + 8530
+  if z<r:
+   cHlAar = 606.4244687732279 / 592.3336729533122
+   hSoXss = True
+   wffhWX = False
+while v>n:
+  if q>b:
+   VsHHzP = 717 * 117.15656789487113
+   tvVXvC = False
+   dFbkfd = 979.1309489099307 + 875.5003954167519
+  if n>l:
+   HuBpSj = True
+   HaApqs = False
+   JvGuoL = 2884 / 644.4154423713455
+  if r>x:
+   VsHHzP = 717 * 117.15656789487113
+   tvVXvC = False
+   dFbkfd = 979.1309489099307 + 875.5003954167519
+while z>b:
+  if x>r:
+   svLnNE = 908.8429877687435 - 1491
+   zmKjPy = 518.9158217008518 + 9315
+   HBZccU = 48.684824110386174 * 596.2012051456866
+  if z<d:
+   XrBTvq = 450.9363157470135 * 149
+   aUeVZs = 388.06075961694575 - 5924
+   PFIorF = 954.7000372017782 + 497.6272637058553
+  if o>b:
+   svLnNE = 908.8429877687435 - 1491
+   zmKjPy = 518.9158217008518 + 9315
+   HBZccU = 48.684824110386174 * 596.2012051456866
+while t==b:
+  if f<j:
+   BpiHMO = 440.7173313110965 - 409.5737184768537
+   eojGWS = True
+   jJRrjh = False
+  if r>g:
+   PSNHym = False
+   YDFwLb = True
+   lITbBg = 536.9201360715965 / 152.20415690513673
+  if i==g:
+   BpiHMO = 440.7173313110965 - 409.5737184768537
+   eojGWS = True
+   jJRrjh = False
+while m>j:
+  if f<w:
+   ublWAL = 853.0711125827921 - 8941
+   RugEFe = 20.69239289395797 - 7985
+   yeIPHE = 927.9030150856122 * 849.4352510008268
+  if b<v:
+   wwjOVM = 279.8075577712887 / 9528
+   odnmhk = 3397 * 2362
+   VQtWYN = 4.108532464568359 + 7537
+  if e<h:
+   ublWAL = 853.0711125827921 - 8941
+   RugEFe = 20.69239289395797 - 7985
+   yeIPHE = 927.9030150856122 * 849.4352510008268
+while d==w:
+  if c<c:
+   WYSiua = False
+   DZarXt = 665.6675627888624 / 758.7210776203056
+   YWBaEt = False
+  if t>h:
+   QKXCAI = 803.1520322783044 - 357.4828244730622
+   ryRouQ = 2007 + 828.5345925528703
+   JTOKeO = 968.9163734446569 / 3757
+  if v<h:
+   WYSiua = False
+   DZarXt = 665.6675627888624 / 758.7210776203056
+   YWBaEt = False
+while g==e:
+  if l==n:
+   gRdsCo = 7439 * 688.8263982496311
+   danQZi = 674.3021348939709 / 469.5803883488912
+   eryBpa = 3551 * 2082
+  if y>k:
+   ozoBsg = 3887 - 370.3025108784459
+   kkGVIj = 1644 * 735.3656229956036
+   jqPZnb = 3471 / 725.1083571898179
+  if f<x:
+   gRdsCo = 7439 * 688.8263982496311
+   danQZi = 674.3021348939709 / 469.5803883488912
+   eryBpa = 3551 * 2082
+while h<s:
+  if x==p:
+   znjrEF = 778.4525187435353 + 476.7584321802474
+   yTRCck = 686.4313699929374 - 811.483399574545
+   DNwvMT = 524.3228376190864 - 126.46169393530089
+  if u>d:
+   pDHYGW = 553.2454575003479 - 8805
+   QaLgto = 1915 + 875.632546887844
+   ylUwfy = 6263 + 921.4420779935126
+  if o<c:
+   znjrEF = 778.4525187435353 + 476.7584321802474
+   yTRCck = 686.4313699929374 - 811.483399574545
+   DNwvMT = 524.3228376190864 - 126.46169393530089
+while l>s:
+  if e<v:
+   kBTuUN = 6815 - 3993
+   kPfkXQ = 642.9173963291998 + 6518
+   cMMqmS = 679.9105572602062 + 9068
+  if y>n:
+   GFKNtH = 2836 - 872.6133958039775
+   TjmbAr = 1070 * 294.1378418037693
+   jqYJbd = 833.9723231620635 - 28.202977752513675
+  if o<e:
+   kBTuUN = 6815 - 3993
+   kPfkXQ = 642.9173963291998 + 6518
+   cMMqmS = 679.9105572602062 + 9068
+while u<v:
+  if r<l:
+   qYVdrp = False
+   FplZoF = 7965 + 74.19625069532945
+   uSDQIS = 2802 + 305.3268906442472
+  if a<y:
+   xYGQST = 549.0677365397382 / 165
+   NAOHmW = 361.7441609650503 + 853.3700941267952
+   mKmBLp = 384.85490591335883 + 315.9493968992959
+  if q<v:
+   qYVdrp = False
+   FplZoF = 7965 + 74.19625069532945
+   uSDQIS = 2802 + 305.3268906442472
+while g==k:
+  if r==d:
+   LrWVeh = 1102 * 7686
+   QnOASt = True
+   gpPMfI = False
+  if y>x:
+   KPwAtu = 5906 + 94.45117779014335
+   nCGKOP = 547 / 167.86378606778425
+   zzcvGs = 911.3368153881607 / 319
+  if h==i:
+   LrWVeh = 1102 * 7686
+   QnOASt = True
+   gpPMfI = False
+while h>h:
+  if q==f:
+   WdMvXV = 9041 / 3730
+   ByTLwv = True
+   GpjYlt = 2100 * 530.334291481731
+  if w==b:
+   ykwKte = 3647 / 227.0248911614623
+   nRmLDC = 4824 + 1740
+   vLXPYG = 2468 - 382.1771305185661
+  if f<y:
+   WdMvXV = 9041 / 3730
+   ByTLwv = True
+   GpjYlt = 2100 * 530.334291481731
+while z>w:
+  if f<r:
+   WVqtiY = 813.3939119329526 / 4276
+   vHyjay = 283.92162648231556 + 7351
+   poWXhm = 1001 / 8652
+  if x==s:
+   rdsNXy = 2683 + 868.139878181766
+   kiULFF = 836 * 289
+   QbDJxc = 5484 * 524.2936442237839
+  if c>k:
+   WVqtiY = 813.3939119329526 / 4276
+   vHyjay = 283.92162648231556 + 7351
+   poWXhm = 1001 / 8652
+while o>q:
+  if g==p:
+   wIdzQU = 881.681278047526 / 905.1529641955112
+   ppEqWb = 15.408556004154354 / 7690
+   IwdAWo = 973.5267974713853 + 698.4333588183358
+  if l<i:
+   dwiEbA = 2588 + 1364
+   lanPvg = 416.5315888864782 / 260.12076166039407
+   SdtniY = 8928 + 4923
+  if w==s:
+   wIdzQU = 881.681278047526 / 905.1529641955112
+   ppEqWb = 15.408556004154354 / 7690
+   IwdAWo = 973.5267974713853 + 698.4333588183358
+while a>c:
+  if w<u:
+   iErHWp = 764.1748668773823 * 359
+   SWMRPY = 9705 + 572.6992522637327
+   JAMkIU = 412.55276275802896 * 5621
+  if t>v:
+   rfRYLi = 634.7518958999455 * 5322
+   ehtZJK = 482.09111997009217 + 8885
+   xMrvrr = 963.2708851539641 * 917.0907007708504
+  if g<l:
+   iErHWp = 764.1748668773823 * 359
+   SWMRPY = 9705 + 572.6992522637327
+   JAMkIU = 412.55276275802896 * 5621
+while v>p:
+  if y<i:
+   cJSWEa = 5827 - 9080
+   fsndip = 6856 - 6029
+   KibyrH = 786 + 8864
+  if a>a:
+   anwdyW = 586.7938408465274 / 44.083391528999655
+   BNpZVO = 910.2108972623821 + 798.9927078077088
+   zcLEhn = 654.1287613682925 * 751.7264759401364
+  if r>o:
+   cJSWEa = 5827 - 9080
+   fsndip = 6856 - 6029
+   KibyrH = 786 + 8864
+while q>i:
+  if f<z:
+   BTjHgs = 309.87557638471026 * 520.715681501105
+   oeKvVL = True
+   HUbUXs = 2005 / 252.26558100084213
+  if x<n:
+   KRVxjo = 162.19108755091872 / 361.9978226322656
+   FSGybP = 785 + 718.0222974865242
+   wKAEyi = 837.0282059239299 - 5565
+  if z<t:
+   BTjHgs = 309.87557638471026 * 520.715681501105
+   oeKvVL = True
+   HUbUXs = 2005 / 252.26558100084213
+while c==x:
+  if k>l:
+   cCRaSj = 770.6876480604117 * 515.2797309782205
+   IOTlGf = 4515 * 881.9958521217854
+   dpKkgK = 74.5557924258731 + 7475
+  if j==d:
+   ZOVIpK = 2229 * 5426
+   EkoIEx = 469.10161237932243 + 204.02109368312105
+   Vzzczk = False
+  if x>c:
+   cCRaSj = 770.6876480604117 * 515.2797309782205
+   IOTlGf = 4515 * 881.9958521217854
+   dpKkgK = 74.5557924258731 + 7475
+while j<t:
+  if y<d:
+   LcdJjT = True
+   nrUqRz = 9436 + 2001
+   dqbqKt = False
+  if g<p:
+   hhIXYI = 4370 * 4016
+   fIjtzh = 1056 / 36.08785221036586
+   OVRRkV = 54.912482192981855 / 2985
+  if c<m:
+   LcdJjT = True
+   nrUqRz = 9436 + 2001
+   dqbqKt = False
+while t==t:
+  if f>e:
+   boXSQD = 8361 + 7028
+   PSefxE = 3274 / 3935
+   IdWlFY = 465.991840316327 + 5623
+  if q==x:
+   pDRNAq = 5761 * 341.75249284709787
+   lDsGJY = 4874 - 5535
+   iSoMVj = 4750 - 2510
+  if s>t:
+   boXSQD = 8361 + 7028
+   PSefxE = 3274 / 3935
+   IdWlFY = 465.991840316327 + 5623
+while v<p:
+  if a<n:
+   hpDJhA = 4738 + 646.9109883749979
+   ykwKte = 3647 / 227.0248911614623
+   VbSzpD = 271.44292912882935 / 672.5957471971432
+  if o<c:
+   ycgNwx = 3961 - 561.6297659303783
+   PJXUzL = 3561 - 9262
+   tisdiq = 779.7439099268609 * 447.861778671871
+  if m==z:
+   hpDJhA = 4738 + 646.9109883749979
+   ykwKte = 3647 / 227.0248911614623
+   VbSzpD = 271.44292912882935 / 672.5957471971432
+while x>y:
+  if y==r:
+   rMuZov = 7965 / 2974
+   wWcUCb = 4811 + 509.52272155202934
+   ctPIqr = 3208 * 272.06069779202204
+  if j==n:
+   hCybVX = 4590 / 7107
+   NwwQHd = 495.93012802498254 * 371.3881437978903
+   pdoGDz = 573.5912429496166 + 616.8859118294419
+  if j==d:
+   rMuZov = 7965 / 2974
+   wWcUCb = 4811 + 509.52272155202934
+   ctPIqr = 3208 * 272.06069779202204
+while l>e:
+  if w==l:
+   LqSdNd = 6550 + 109.09411136153662
+   hmROsQ = 1667 - 619.4147247708753
+   iVywJx = 138 * 3114
+  if y>e:
+   CfwzBe = 1469 - 767.1877300748841
+   ctYdxL = True
+   mzFuME = False
+  if f<w:
+   LqSdNd = 6550 + 109.09411136153662
+   hmROsQ = 1667 - 619.4147247708753
+   iVywJx = 138 * 3114
+while d>j:
+  if u<b:
+   cZiVzs = 737.0426718393635 * 506.74141755842163
+   wOokDm = 5325 / 5651
+   YSlJtz = 231.9011826947847 / 5165
+  if m>w:
+   pcsjOF = 384 - 3380
+   BegAoA = 490.37430760054093 - 306.6751356204154
+   WyRuoV = 136.9649801229627 / 7630
+  if g<z:
+   cZiVzs = 737.0426718393635 * 506.74141755842163
+   wOokDm = 5325 / 5651
+   YSlJtz = 231.9011826947847 / 5165
+while a>g:
+  if u<z:
+   lIvEab = 1945 + 6274
+   ZLuefE = 23.150569625260268 + 221.3946445828193
+   UyoukN = 5685 / 7796
+  if r<w:
+   zvaijW = 3577 - 682.8666356088892
+   vhXZXJ = 6319 * 716.3410658970336
+   THXjEF = False
+  if q>r:
+   lIvEab = 1945 + 6274
+   ZLuefE = 23.150569625260268 + 221.3946445828193
+   UyoukN = 5685 / 7796
+while g>q:
+  if r<i:
+   ymjtbU = 819.6904266349114 - 1153
+   uZFRIe = 9757 / 9594
+   fBqGDp = 8968 - 3604
+  if w==c:
+   iloUUZ = 8898 + 8090
+   aKWRIW = True
+   yqISAb = 368.57188231204935 - 220.15022178874756
+  if h<j:
+   ymjtbU = 819.6904266349114 - 1153
+   uZFRIe = 9757 / 9594
+   fBqGDp = 8968 - 3604
+while m==b:
+  if n<x:
+   OyrlLS = True
+   MNHJVK = 9032 + 115.33270213132613
+   xwuiLB = 230.8785997321244 / 872.753345703985
+  if c<x:
+   GoYgon = False
+   lSlqSx = 560.4663140112401 - 8187
+   nuAsld = 2013 / 7991
+  if q>g:
+   OyrlLS = True
+   MNHJVK = 9032 + 115.33270213132613
+   xwuiLB = 230.8785997321244 / 872.753345703985
+while c==j:
+  if l==c:
+   Vtyfmg = 2691 + 3688
+   vgMWGf = 384.7868413996181 * 3951
+   szPCdH = 519.4372593848196 / 5028
+  if p==u:
+   vPdAPE = 467.9829372164509 * 7380
+   gpDMGf = 5430 + 5101
+   faeDxm = 377 + 915.9637957565164
+  if o>h:
+   Vtyfmg = 2691 + 3688
+   vgMWGf = 384.7868413996181 * 3951
+   szPCdH = 519.4372593848196 / 5028
+while f==a:
+  if p>j:
+   IJwkFv = 7503 + 606.8394933481832
+   JEnVAX = 6470 * 252.03599277355607
+   HRBqhC = False
+  if p<t:
+   GfaiBQ = 372.2052309243343 - 464.0945420030534
+   CzJMah = 9813 + 8142
+   FJOufh = False
+  if x<w:
+   IJwkFv = 7503 + 606.8394933481832
+   JEnVAX = 6470 * 252.03599277355607
+   HRBqhC = False
+while g<p:
+  if h>q:
+   SDkvhO = 734.8879926955021 + 9739
+   SDkvhO = 734.8879926955021 + 9739
+   hDCIZY = 881.5173532525555 + 9970
+  if u>o:
+   jZWwkw = 9589 + 418.74171998928324
+   UXTYyS = 592.6517822770414 + 236.75275753116736
+   nlasXQ = False
+  if u>k:
+   SDkvhO = 734.8879926955021 + 9739
+   SDkvhO = 734.8879926955021 + 9739
+   hDCIZY = 881.5173532525555 + 9970
+while k==d:
+  if k>e:
+   xUdogk = 8174 - 5643
+   gRkEGE = 4756 / 756.82207560593
+   vachic = 2774 / 8876
+  if z<j:
+   oimGun = False
+   helfmI = 1032 - 831.665331361999
+   BJqyqR = 5189 + 2483
+  if y>n:
+   xUdogk = 8174 - 5643
+   gRkEGE = 4756 / 756.82207560593
+   vachic = 2774 / 8876
+while p>t:
+  if a<c:
+   JMnpcc = 2857 - 2257
+   saKCRr = False
+   teLEqh = 975.8133883387501 - 891.7861264230398
+  if v==z:
+   sSOLWs = 1188 - 67.37201647116758
+   lSlqSx = 560.4663140112401 - 8187
+   hVxSoJ = 8494 + 945.1742112605955
+  if a==m:
+   JMnpcc = 2857 - 2257
+   saKCRr = False
+   teLEqh = 975.8133883387501 - 891.7861264230398
+while b<i:
+  if d==k:
+   NlwyTc = 920 + 9375
+   nlEqIe = 9609 - 51.77738681350055
+   FSmCFy = 3789 / 654.220387989397
+  if s<h:
+   SPWrRn = 647.2183461644095 + 732.8857413645801
+   lqGagm = 7713 - 8698
+   JaRYGZ = 5900 * 3460
+  if g<v:
+   NlwyTc = 920 + 9375
+   nlEqIe = 9609 - 51.77738681350055
+   FSmCFy = 3789 / 654.220387989397
+while w>b:
+  if a==g:
+   RmEEol = 472 / 7610
+   qlZSwX = 5654 + 4442
+   smIEUG = 572.2024865880071 + 5597
+  if k<v:
+   ABHOeP = 546.741415368411 - 729.1412163510594
+   bdnnWe = 722.6581970569853 * 392.5223795318164
+   GoYgon = False
+  if k>f:
+   RmEEol = 472 / 7610
+   qlZSwX = 5654 + 4442
+   smIEUG = 572.2024865880071 + 5597
+while k>p:
+  if y>j:
+   XoRQjL = 13.593687619319859 + 827.5023286141484
+   iynCWu = 550.7755486168512 / 467.18124639436127
+   uwrjWU = 4118 + 370.46070127759464
+  if h==t:
+   ExIGQg = 9906 - 5925
+   HThDGc = 8005 - 24.880287345592066
+   yEFDQx = 602.4546668162851 - 1878
+  if k==x:
+   XoRQjL = 13.593687619319859 + 827.5023286141484
+   iynCWu = 550.7755486168512 / 467.18124639436127
+   uwrjWU = 4118 + 370.46070127759464
+while m>d:
+  if o>r:
+   IQaFmW = 64.54331539355918 - 504.8948183841274
+   NCiFTt = True
+   mnCVnt = False
+  if s==e:
+   OcnSKq = 3958 + 2943
+   mZxsYk = True
+   OyYsHR = 9116 / 664.512196007775
+  if d>z:
+   IQaFmW = 64.54331539355918 - 504.8948183841274
+   NCiFTt = True
+   mnCVnt = False
+while o>t:
+  if p<u:
+   gqUKop = False
+   tnyyAI = 694.2269952824957 * 253.49599463373474
+   xCEdhJ = 8285 + 457.3676441891438
+  if m>d:
+   laUWEs = 680.8589651770326 / 254.94153381359195
+   LuHuBO = 658.1961085502085 - 311.2657308915774
+   NceeUI = False
+  if o>p:
+   gqUKop = False
+   tnyyAI = 694.2269952824957 * 253.49599463373474
+   xCEdhJ = 8285 + 457.3676441891438
+while l>j:
+  if v==l:
+   kFNtKE = 235.27771559475062 / 76
+   sHYgFy = 886.2586159650643 * 554.6492536745799
+   LVxDFF = True
+  if j>l:
+   HrZdiu = 322.29722083894006 + 252.2799417649403
+   FkKOXi = 8816 + 924.6827947856883
+   xQGkUj = 6228 * 705.3569883929605
+  if n<z:
+   kFNtKE = 235.27771559475062 / 76
+   sHYgFy = 886.2586159650643 * 554.6492536745799
+   LVxDFF = True
+while q>h:
+  if u<z:
+   ZsZrCe = 6679 + 5457
+   dEBmvC = 521.7594254247505 + 276.4576660114645
+   FUrEiM = 442.6318412767544 - 5018
+  if a>a:
+   xXAbNr = 1132 - 323.4199514963516
+   hylzvr = 144.89294042545774 + 7885
+   danQZi = 674.3021348939709 / 469.5803883488912
+  if u<q:
+   ZsZrCe = 6679 + 5457
+   dEBmvC = 521.7594254247505 + 276.4576660114645
+   FUrEiM = 442.6318412767544 - 5018
+while n==m:
+  if m>i:
+   fqAVmc = 767.312135223621 * 814.281676982328
+   gvEadS = 5261 * 196.72018872915137
+   EMDpHt = 2143 + 315.4122546147355
+  if u>s:
+   AdcXSG = 9624 * 6004
+   OZpdEw = False
+   mGEfQN = 4218 * 6374
+  if h>p:
+   fqAVmc = 767.312135223621 * 814.281676982328
+   gvEadS = 5261 * 196.72018872915137
+   EMDpHt = 2143 + 315.4122546147355
+while y<k:
+  if t<s:
+   keENHk = 225 + 2993
+   fgpayl = 8546 - 1567
+   wDjSwp = 668.6551573109225 / 8490
+  if q<v:
+   ggrpDX = True
+   Srmdxc = 840.451087364927 + 6188
+   GMMTAs = 951.7032864678872 + 981.9826667270307
+  if a==v:
+   keENHk = 225 + 2993
+   fgpayl = 8546 - 1567
+   wDjSwp = 668.6551573109225 / 8490
+while q>i:
+  if a==t:
+   GsnrUZ = 3459 - 834.2822069141093
+   zabTaE = 9345 * 536.3096326089973
+   DBkhPw = 9919 * 706
+  if i<o:
+   pMeJFa = 9569 - 316.26861278421427
+   dSeOea = 7347 / 495
+   koIXOp = 9382 + 531.2253140806326
+  if s==n:
+   GsnrUZ = 3459 - 834.2822069141093
+   zabTaE = 9345 * 536.3096326089973
+   DBkhPw = 9919 * 706
+while d<c:
+  if i==u:
+   htyOXX = True
+   AIlZgW = 4961 + 54
+   BEvDlo = 8895 / 827.3372025708435
+  if p<e:
+   csxxTq = 346 / 15.539133737112794
+   IoWVif = 2178 / 443
+   oJMeoy = 227.7590040226068 / 1688
+  if t==r:
+   htyOXX = True
+   AIlZgW = 4961 + 54
+   BEvDlo = 8895 / 827.3372025708435
+while k>q:
+  if x==a:
+   SgRfvC = 5191 / 7270
+   wihJHd = 5691 / 2547
+   RgVMXc = True
+  if f>g:
+   GMvSmP = 253.78092469238857 - 211.79927615427778
+   EbTfWR = False
+   vqyKCs = False
+  if j<w:
+   SgRfvC = 5191 / 7270
+   wihJHd = 5691 / 2547
+   RgVMXc = True
+while g<a:
+  if v>o:
+   SbTAAl = 3019 - 2601
+   mwhjTc = 279.85512180274577 / 5.808676281293929
+   XXTTSn = 9673 * 6590
+  if x==w:
+   FerIVy = 7252 * 855.3966984826376
+   UpWmPa = 121.94001061042367 + 326.03780737965695
+   KPdkdC = 535.405973619601 * 957.011940849058
+  if a<y:
+   SbTAAl = 3019 - 2601
+   mwhjTc = 279.85512180274577 / 5.808676281293929
+   XXTTSn = 9673 * 6590
+while k<k:
+  if e<s:
+   oVgWRp = 9942 * 679.9998789352736
+   zwCAlS = 154.18792640272173 / 799.1218984905631
+   AAMgfy = 2844 + 6740
+  if d==v:
+   TNrOHX = 2460 - 612
+   qKNOQT = 6820 / 4998
+   egoryd = 549.7399557101553 - 896.3182489649446
+  if f>u:
+   oVgWRp = 9942 * 679.9998789352736
+   zwCAlS = 154.18792640272173 / 799.1218984905631
+   AAMgfy = 2844 + 6740
+while n==f:
+  if e>h:
+   vAPQjw = 5686 / 306.00617588805545
+   KbELRa = False
+   ziflui = 4038 - 273.97658945230603
+  if d==n:
+   PFObRS = 7059 / 748.6042708118603
+   qzACTb = 693.6332396406835 * 621.6939433361385
+   BfeAsd = 375.8191329901438 + 728.4720467190015
+  if d<a:
+   vAPQjw = 5686 / 306.00617588805545
+   KbELRa = False
+   ziflui = 4038 - 273.97658945230603
+while h<r:
+  if s==l:
+   QNLscu = 830.1536985549452 - 5011
+   WVyJZw = True
+   XuKxJt = True
+  if m<p:
+   fWFbfC = 420.3813947474733 / 634.2810197336188
+   GGXOWj = 6634 / 228.00121189893952
+   fAGTRa = 990.5466237366207 * 5559
+  if j==a:
+   QNLscu = 830.1536985549452 - 5011
+   WVyJZw = True
+   XuKxJt = True
+while g==m:
+  if w>w:
+   zcOEZN = True
+   diMEdP = 4751 + 9379
+   nVrboO = 6313 * 542.8000414796023
+  if l==j:
+   elFdBC = False
+   lnloic = False
+   IYMorA = 6318 * 283.5952043581668
+  if r<h:
+   zcOEZN = True
+   diMEdP = 4751 + 9379
+   nVrboO = 6313 * 542.8000414796023
+while a==g:
+  if n==o:
+   jXsNDy = 590.4424931366568 + 665.2345597078595
+   JKqZuJ = 424.8226767263353 / 1812
+   MyEYvr = 774.5508190647868 / 917.0883675857483
+  if p>a:
+   zNUhmB = 660.3962470983486 - 100.35128921853624
+   CWdnUm = 949.4361639485224 * 9836
+   MwHzVR = True
+  if g<n:
+   jXsNDy = 590.4424931366568 + 665.2345597078595
+   JKqZuJ = 424.8226767263353 / 1812
+   MyEYvr = 774.5508190647868 / 917.0883675857483
+while h>c:
+  if z>x:
+   MgKsTR = True
+   rBfamT = False
+   hlGiNs = 2837 / 2661
+  if v>b:
+   lPWzAy = True
+   eUUOxv = True
+   UXCTzP = 511.41542581576186 / 172.28323346133013
+  if s==f:
+   MgKsTR = True
+   rBfamT = False
+   hlGiNs = 2837 / 2661
+while u>f:
+  if v>l:
+   nTuDon = True
+   gkoXrK = 1247 / 4391
+   iLdjZh = 9699 - 8325
+  if x<z:
+   RmEEol = 472 / 7610
+   zRmaRw = 801.6624553439794 - 477.07353796263953
+   NKodKI = False
+  if g>i:
+   nTuDon = True
+   gkoXrK = 1247 / 4391
+   iLdjZh = 9699 - 8325
+while c==p:
+  if x>e:
+   eYZtlO = 99.76476966664401 + 4312
+   KHdWpx = 4825 / 777.3595942310693
+   qESenn = 181.3975438588309 + 8678
+  if l>l:
+   JqGJmc = 305.95488655088013 * 559.7826038122911
+   vqszWv = 720.8912488852889 - 245
+   pBkhLG = 743.4108331535318 - 6098
+  if q>n:
+   eYZtlO = 99.76476966664401 + 4312
+   KHdWpx = 4825 / 777.3595942310693
+   qESenn = 181.3975438588309 + 8678
+while y>i:
+  if i<z:
+   PKksyN = 8180 / 795.5409019127328
+   HYrqoY = 1984 - 4537
+   yJStBd = 913 / 9835
+  if y>z:
+   sYEbzy = 966.8526441075128 + 3136
+   pQPSEx = 8382 * 4579
+   kFRULJ = 967.8320224806946 - 645.1220663117573
+  if c==b:
+   PKksyN = 8180 / 795.5409019127328
+   HYrqoY = 1984 - 4537
+   yJStBd = 913 / 9835
+while j>j:
+  if i>c:
+   nxrJLR = 4475 * 9368
+   ozdcFP = 209.38349304708484 / 2893
+   iGsJpw = 855.6908482796297 * 963.2370398859596
+  if i<e:
+   LxcPno = 2243 * 9577
+   OEyZJR = 105.88295202771606 - 1896
+   sgiYsM = 581.8712000520804 / 2548
+  if c<b:
+   nxrJLR = 4475 * 9368
+   ozdcFP = 209.38349304708484 / 2893
+   iGsJpw = 855.6908482796297 * 963.2370398859596
+while a>u:
+  if s==a:
+   tHDdqp = 163.9213878867727 + 502
+   kfiiDi = False
+   XlKumz = 666.7101228737296 - 2499
+  if q<l:
+   QiXrMp = False
+   GdMLsS = 4291 * 421.41706371166475
+   CGxNzX = 4034 - 593.5460816815114
+  if a>r:
+   tHDdqp = 163.9213878867727 + 502
+   kfiiDi = False
+   XlKumz = 666.7101228737296 - 2499
+while x>h:
+  if q>j:
+   kEFbIx = 390.9038404501082 * 953.6741968408846
+   iqWgDx = 147.25472752016157 - 6714
+   dxKGWw = False
+  if a<n:
+   akIiGq = 1055 - 4315
+   rtAFDy = True
+   cOYnDZ = 940.3334396808928 * 6040
+  if g>s:
+   kEFbIx = 390.9038404501082 * 953.6741968408846
+   iqWgDx = 147.25472752016157 - 6714
+   dxKGWw = False
+while k<f:
+  if y==r:
+   NKWQNd = 951.4708825053903 - 386.8699639128897
+   ejZWxB = 4516 - 4640
+   TkhVKn = 7891 / 372.1896389440505
+  if e<q:
+   GbboEo = 905.4550722864784 + 3763
+   bPULeR = 601.6685962431069 / 7216
+   ZUrpbe = 1957 * 9027
+  if e>e:
+   NKWQNd = 951.4708825053903 - 386.8699639128897
+   ejZWxB = 4516 - 4640
+   TkhVKn = 7891 / 372.1896389440505
+while u==r:
+  if q==x:
+   KTeqiW = 546.0967085689464 * 920.2176990802107
+   UMTVQS = 2736 * 2051
+   GRXwxD = 3447 + 7135
+  if r>d:
+   IuoRUb = False
+   fLNTAM = 5908 * 34.273988351674724
+   YLSQiI = 329.62314474044194 - 4780
+  if n>s:
+   KTeqiW = 546.0967085689464 * 920.2176990802107
+   UMTVQS = 2736 * 2051
+   GRXwxD = 3447 + 7135
+while u==v:
+  if z>o:
+   UPEazV = 675 + 3627
+   VyBgWj = 547.0355380674163 / 7336
+   LNDKsP = 137 * 932.8215289615804
+  if m==c:
+   IWqYhm = False
+   lDNuaX = 8697 + 456.8278117956419
+   HanWuV = 566.3677762745123 * 817.8919126074263
+  if z==g:
+   UPEazV = 675 + 3627
+   VyBgWj = 547.0355380674163 / 7336
+   LNDKsP = 137 * 932.8215289615804
+while b<s:
+  if w>i:
+   WFeiLv = 556.403809040887 * 5871
+   LKjMFN = 554.0098769575368 - 836.4353196280641
+   SWqmDv = 2318 + 8685
+  if t>i:
+   wmRYXb = 5361 / 4.939974085983979
+   IIWnCo = 405.7709118360106 + 4194
+   PSQVjh = 71 * 3477
+  if y<p:
+   WFeiLv = 556.403809040887 * 5871
+   LKjMFN = 554.0098769575368 - 836.4353196280641
+   SWqmDv = 2318 + 8685
+while h<x:
+  if r==e:
+   ljBfuw = 94.58083953034681 + 5065
+   aYEqfI = False
+   uDlbdh = 2111 / 9413
+  if t<c:
+   DmJnHK = 745.949299971699 + 6.918987525916447
+   zYxquF = True
+   zgpJlG = 3565 / 9729
+  if y<c:
+   ljBfuw = 94.58083953034681 + 5065
+   aYEqfI = False
+   uDlbdh = 2111 / 9413
+while v==s:
+  if t<n:
+   UTjLSa = 598.7319040342172 / 336.0666385965228
+   fZTdjH = 665.7616693228267 / 4805
+   kzjovF = 6729 - 66.55517650541924
+  if e<l:
+   telpkS = 5667 + 9662
+   XAWkJZ = 865.3076299178327 - 507.2473481973053
+   EJAgGn = 8655 / 524.0376182344153
+  if n<k:
+   UTjLSa = 598.7319040342172 / 336.0666385965228
+   fZTdjH = 665.7616693228267 / 4805
+   kzjovF = 6729 - 66.55517650541924
+while l<s:
+  if p>j:
+   jDnAQR = True
+   LuwEDY = 717.6770898533952 / 9538
+   SLYDia = False
+  if r==g:
+   wlWmRK = 589 - 9876
+   mNbmJA = 3767 / 98.61359041056998
+   GxyfhF = 760.5492750046292 + 136.90786137918218
+  if k==z:
+   jDnAQR = True
+   LuwEDY = 717.6770898533952 / 9538
+   SLYDia = False
+while j==c:
+  if q<b:
+   GEelfA = 1319 + 5210
+   XNZRLO = 7176 - 678.0035244929007
+   GgZGVK = 4073 + 7974
+  if m==a:
+   mHFEMg = 305.59954901481814 - 4301
+   pYZVTf = 495.32433802414306 / 421.74360831217376
+   sTNKMw = 446.15486143326615 - 8377
+  if t>d:
+   GEelfA = 1319 + 5210
+   XNZRLO = 7176 - 678.0035244929007
+   GgZGVK = 4073 + 7974
+while n>t:
+  if m>v:
+   OdDuRz = 7903 - 634.0312239802629
+   cjKJNH = True
+   oxAZit = True
+  if i>e:
+   fvmLhK = 1965 + 669.7712156004039
+   lFILdO = False
+   yUCNVm = 734.9626858933635 + 808.9563427030998
+  if l<s:
+   OdDuRz = 7903 - 634.0312239802629
+   cjKJNH = True
+   oxAZit = True
+while i>l:
+  if h<i:
+   aIIRfk = 591.6972695536317 - 4197
+   rnOkdT = True
+   TGXuLq = 93.57034354457335 + 107.74737146899292
+  if h<c:
+   WGVaZr = 302.8409030707342 * 3828
+   krtbTr = 492 / 7965
+   CJLHvT = 1769 + 356.3651600209552
+  if n>j:
+   aIIRfk = 591.6972695536317 - 4197
+   rnOkdT = True
+   TGXuLq = 93.57034354457335 + 107.74737146899292
+while s<v:
+  if s==g:
+   safrcD = True
+   ukOvhT = 2112 - 814.2388189244475
+   NDiBAQ = 846.8546405238671 * 6755
+  if i<h:
+   UohjKc = False
+   hMWLay = 5519 * 7558
+   mRwroE = 244.76296766051405 / 278.4286336281441
+  if t>y:
+   safrcD = True
+   ukOvhT = 2112 - 814.2388189244475
+   NDiBAQ = 846.8546405238671 * 6755
+while y>z:
+  if p<k:
+   DixWIZ = False
+   wqtcnL = 170.97851874622523 / 5537
+   rdsNXy = 2683 + 868.139878181766
+  if w==r:
+   aFPVuo = 3781 / 1974
+   wmPBaz = 705.4253817517604 / 731.3893889838301
+   vjGgen = 785.2268456403709 + 429.8986975537314
+  if l==z:
+   DixWIZ = False
+   wqtcnL = 170.97851874622523 / 5537
+   rdsNXy = 2683 + 868.139878181766
+while l==o:
+  if d==l:
+   Nsvbfz = 4970 - 156.08839388054042
+   rDEISD = 8585 * 9800
+   cxOSOr = 325.92252635483135 * 647.3107709605775
+  if q<p:
+   ZJdYkB = 855 * 3022
+   LNyxiQ = 3575 + 689.6681541871361
+   anlKDC = 295.08469110379895 * 236.92564991590388
+  if w<p:
+   Nsvbfz = 4970 - 156.08839388054042
+   rDEISD = 8585 * 9800
+   cxOSOr = 325.92252635483135 * 647.3107709605775
+while z==f:
+  if b>d:
+   mQQLyB = 6746 + 1022
+   wokxTW = 3552 * 9370
+   KOWBjM = False
+  if k==r:
+   MQlNII = 905.0784771220917 - 6304
+   JOUwOZ = 7914 / 94.02421272923117
+   HSpOOe = False
+  if x==u:
+   mQQLyB = 6746 + 1022
+   wokxTW = 3552 * 9370
+   KOWBjM = False
+while q==v:
+  if h<u:
+   encPwE = False
+   VGsEIF = 735.6588652607926 + 5800
+   SVVanz = 6056 - 2432
+  if j>s:
+   dnkrFb = 905.3078092377852 * 4300
+   rtAFDy = True
+   AeuYMS = False
+  if b==s:
+   encPwE = False
+   VGsEIF = 735.6588652607926 + 5800
+   SVVanz = 6056 - 2432
+while b==u:
+  if g>q:
+   gyhmSv = False
+   biOoEu = 820.114300767917 * 6507
+   RCFbLH = False
+  if n>h:
+   bJvsWd = 575.3057889107943 / 45.04206784554498
+   uklRQU = False
+   mmThcl = 976.9396907878355 * 545.0004032224132
+  if q<o:
+   gyhmSv = False
+   biOoEu = 820.114300767917 * 6507
+   RCFbLH = False
+while y>l:
+  if p>t:
+   MxpYcU = 996.6124194462042 - 5677
+   rGOFqc = 3275 + 237.81530500445925
+   PgDkdS = 885.3315222234555 - 9899
+  if f>c:
+   HptJhJ = False
+   FucwBC = 499.5305607654139 - 5671
+   ybmNYV = 14.865650548307551 * 611.041497634663
+  if y>f:
+   MxpYcU = 996.6124194462042 - 5677
+   rGOFqc = 3275 + 237.81530500445925
+   PgDkdS = 885.3315222234555 - 9899
+while n<y:
+  if z>f:
+   Kmrfld = 6423 / 4115
+   DYawoi = 5250 + 2313
+   XlOHLs = 2947 - 9970
+  if y>r:
+   GRmBhR = 4192 + 541.8994285565146
+   bzPPXj = 255.5092220799145 + 305.8169657714646
+   WvEWzy = 1549 + 72.0175247811959
+  if w>e:
+   Kmrfld = 6423 / 4115
+   DYawoi = 5250 + 2313
+   XlOHLs = 2947 - 9970
+while c<f:
+  if k==e:
+   Vbwgtn = 2762 / 710.3295200480414
+   ydnPdX = 280.7330026446253 * 654.7232196723398
+   CPtXpE = False
+  if k<p:
+   UPJzYc = 533.5934522122618 * 928.1730220695651
+   omPlhz = 2925 / 176.66561783900312
+   MQevbS = 43.79479567171154 - 702.8349635311739
+  if b<k:
+   Vbwgtn = 2762 / 710.3295200480414
+   ydnPdX = 280.7330026446253 * 654.7232196723398
+   CPtXpE = False
+while f>o:
+  if o<c:
+   NjvGVT = 495.7345351854668 + 373.24464811245764
+   vMoVCZ = 791.314147474986 / 357.8733850898934
+   BexUyv = 310.26768056587366 * 4567
+  if x<o:
+   zbfXNv = 372.6032661379264 / 726.4819764599247
+   YNhfDK = 910.6850394074814 * 600.2565158599726
+   kMOqxF = 7199 - 723.5406043630146
+  if u==r:
+   NjvGVT = 495.7345351854668 + 373.24464811245764
+   vMoVCZ = 791.314147474986 / 357.8733850898934
+   BexUyv = 310.26768056587366 * 4567
+while o==f:
+  if q==i:
+   QccqlF = False
+   fFyVyY = 491.5669535802981 - 1038
+   WMbxrO = 7393 / 31.623424020668423
+  if o==u:
+   akvcFq = 400.5601525798432 - 333.87306775033795
+   QwUfwK = 461.0106802615984 - 453.2261491608273
+   wvPDPf = 445 - 1118
+  if p<v:
+   QccqlF = False
+   fFyVyY = 491.5669535802981 - 1038
+   WMbxrO = 7393 / 31.623424020668423
+while m>l:
+  if n<n:
+   IkmkZx = 357.61486403562844 * 503.1564327376218
+   RABIws = False
+   LwUjNk = 845.546930048782 - 705.3671672745122
+  if s<x:
+   VbSzpD = 271.44292912882935 / 672.5957471971432
+   vDxazY = 1128 / 100
+   aOwKSb = 7325 + 272.5711610107661
+  if h==z:
+   IkmkZx = 357.61486403562844 * 503.1564327376218
+   RABIws = False
+   LwUjNk = 845.546930048782 - 705.3671672745122
+while r<k:
+  if f==m:
+   ilpDKY = 3643 + 753.8198344178938
+   kCiRAJ = 7462 / 391.75597557924266
+   EQbSVD = False
+  if n>j:
+   BkcPKB = 11.09675787802302 - 767.0419821600071
+   xtddVR = 345 * 506.4313300910198
+   xABRHq = 557.1589918558004 / 299.30865094476763
+  if o==d:
+   ilpDKY = 3643 + 753.8198344178938
+   kCiRAJ = 7462 / 391.75597557924266
+   EQbSVD = False
+while f==b:
+  if q==w:
+   nYopVq = 367.1123829935882 + 439.873907527891
+   gEjlNT = 52 * 890.6694940563809
+   fbGgmE = 4465 + 4509
+  if n==w:
+   rrmaWV = 54.3111574545846 - 8245
+   aBhuwO = True
+   EPpQTQ = True
+  if c>m:
+   nYopVq = 367.1123829935882 + 439.873907527891
+   gEjlNT = 52 * 890.6694940563809
+   fbGgmE = 4465 + 4509
+while i<e:
+  if b<d:
+   CYWTdv = 13.659132209512553 / 1458
+   ujwNeF = 682.712758982777 - 2268
+   RJhIyv = 7297 + 2206
+  if h==s:
+   cubueA = 556 - 5499
+   RPUzSU = 737 + 6690
+   lMPuXm = 7570 + 812.2907978301511
+  if j==u:
+   CYWTdv = 13.659132209512553 / 1458
+   ujwNeF = 682.712758982777 - 2268
+   RJhIyv = 7297 + 2206
+while w>o:
+  if m<e:
+   xKfgzC = True
+   xCDAdk = 12.10365277197073 * 482
+   MdvNFq = 3156 - 3725
+  if a>i:
+   zRmaRw = 801.6624553439794 - 477.07353796263953
+   gUWsFF = 515.0259085266983 * 3836
+   ANnjjG = 444.9842236701833 * 4338
+  if q==c:
+   xKfgzC = True
+   xCDAdk = 12.10365277197073 * 482
+   MdvNFq = 3156 - 3725
+while b<g:
+  if j==z:
+   XlevNM = 6823 * 6246
+   ImBkwV = 629.0895512098408 - 783.5871606401487
+   ORRNYd = False
+  if d==w:
+   TfNPrB = 145.85116451899546 / 7479
+   AHXpPZ = 217.77127710775696 + 9346
+   vbYAQQ = 853.905943749012 + 14.206763423108352
+  if t>s:
+   XlevNM = 6823 * 6246
+   ImBkwV = 629.0895512098408 - 783.5871606401487
+   ORRNYd = False
+while k>g:
+  if k==p:
+   gcrSWZ = 906.2509450908841 * 502
+   lRtLlG = 8233 / 227.36260513250218
+   jJUiWQ = 845.3727897348464 / 226.30593269494676
+  if i>n:
+   QqMNKO = 762.4658918229795 / 770.6208378353796
+   hEOEio = 277.2903106088508 * 960.4834457164386
+   HsVUJf = 3314 / 4723
+  if o>d:
+   gcrSWZ = 906.2509450908841 * 502
+   lRtLlG = 8233 / 227.36260513250218
+   jJUiWQ = 845.3727897348464 / 226.30593269494676
+while f>g:
+  if t>w:
+   mzfYrF = 523.7430386881065 - 4878
+   MVrbKJ = 3120 * 8866
+   ebmaDO = 528.9550951462124 * 8735
+  if c==h:
+   HHVMiU = True
+   BUfByG = 269.9151807596735 - 421.5737852351412
+   mjAnTm = 7054 * 3971
+  if z<y:
+   mzfYrF = 523.7430386881065 - 4878
+   MVrbKJ = 3120 * 8866
+   ebmaDO = 528.9550951462124 * 8735
+while q==x:
+  if h==s:
+   HRBqhC = False
+   kAYAUD = 5617 + 7020
+   ANnjjG = 444.9842236701833 * 4338
+  if j<d:
+   BxGMCV = False
+   dwQERV = 91 * 464.2086786952131
+   wWafDq = 8342 * 651.8629830107323
+  if m>e:
+   HRBqhC = False
+   kAYAUD = 5617 + 7020
+   ANnjjG = 444.9842236701833 * 4338
+while a>e:
+  if a==z:
+   cWcdum = 247.68355462905632 - 133.97059222906884
+   klrBQd = 7348 + 4319
+   cTulyM = 634.2275423126591 / 435.21446641547914
+  if h>d:
+   nutqLC = 628.7139024868826 - 198.6382390172702
+   xieXJa = False
+   hpDJhA = 4738 + 646.9109883749979
+  if h>p:
+   cWcdum = 247.68355462905632 - 133.97059222906884
+   klrBQd = 7348 + 4319
+   cTulyM = 634.2275423126591 / 435.21446641547914
+while b>e:
+  if t<r:
+   wHmvnI = 7596 + 5977
+   nkWrJz = False
+   FBkEbT = 430.6155239009117 + 3561
+  if k<f:
+   AMVijJ = 429.2601760027453 - 7810
+   jdbfNf = False
+   VKwiDt = 4359 + 725
+  if f>g:
+   wHmvnI = 7596 + 5977
+   nkWrJz = False
+   FBkEbT = 430.6155239009117 + 3561
+while w<w:
+  if j==z:
+   TYYwqK = 3254 + 499.2971447447622
+   jQsfBb = False
+   bquIuZ = 9962 / 941.4178881271747
+  if s==g:
+   KYBcjD = 243.86363126995738 / 5923
+   tYHqNJ = 9767 / 921.9180738502348
+   XyTDoZ = 307.0877407990786 / 7410
+  if i<k:
+   TYYwqK = 3254 + 499.2971447447622
+   jQsfBb = False
+   bquIuZ = 9962 / 941.4178881271747
+while i>c:
+  if x<i:
+   cWcdum = 247.68355462905632 - 133.97059222906884
+   abTdtu = 479 + 326.65539048445
+   QtlyyN = 201.19409932362788 - 727.8480953615883
+  if q>p:
+   ryRouQ = 2007 + 828.5345925528703
+   Ywhfxw = 732.9947046636631 / 8603
+   zVYnYf = 6098 * 6381
+  if c>r:
+   cWcdum = 247.68355462905632 - 133.97059222906884
+   abTdtu = 479 + 326.65539048445
+   QtlyyN = 201.19409932362788 - 727.8480953615883
+while r==a:
+  if p==v:
+   aLTzid = True
+   pNSXHR = 8858 * 586.7720413127764
+   OzCYKF = 453.2488304925358 + 370.4427022394001
+  if d==g:
+   ywbXaO = 84.5484002621201 + 4469
+   eWhMSs = 835.042528526881 - 992.1380709384267
+   tTVTsu = 5805 / 673.9194397777278
+  if b>x:
+   aLTzid = True
+   pNSXHR = 8858 * 586.7720413127764
+   OzCYKF = 453.2488304925358 + 370.4427022394001
+while o<m:
+  if p<s:
+   JKtmDN = False
+   XotnLz = False
+   NDTVQf = True
+  if a>u:
+   wVZjaw = 9577 / 758.8992669074578
+   GoYgon = False
+   RIJuOA = True
+  if g==k:
+   JKtmDN = False
+   XotnLz = False
+   NDTVQf = True
+while p==p:
+  if w==t:
+   TnCGjL = 5547 / 3393
+   eMIEzp = 2589 - 531.0407427853895
+   owgVdc = False
+  if w==o:
+   PhrQyv = False
+   zSkjNu = 8608 + 9405
+   zYGcly = 1149 + 783.7191882121206
+  if r==n:
+   TnCGjL = 5547 / 3393
+   eMIEzp = 2589 - 531.0407427853895
+   owgVdc = False
+while t<i:
+  if x<u:
+   rMQdMT = 4999 / 742.1742623703019
+   lebMou = False
+   jIdeYa = 114.8568664111245 * 98.27864236878253
+  if h>t:
+   VCTeaj = False
+   KkQlQz = 2145 / 657.6153516956565
+   WPOOTC = 5851 * 1792
+  if u==f:
+   rMQdMT = 4999 / 742.1742623703019
+   lebMou = False
+   jIdeYa = 114.8568664111245 * 98.27864236878253
+while b>u:
+  if v<e:
+   cOYnDZ = 940.3334396808928 * 6040
+   IAMUJS = 5150 + 797.138730283173
+   DpTDZc = 397.7501227735943 + 467.52399408938754
+  if o>s:
+   oCmueb = 729.8697909410112 - 334.58588036080806
+   EKBqDb = 3474 + 7324
+   kvOqwJ = 3305 / 668
+  if m==l:
+   cOYnDZ = 940.3334396808928 * 6040
+   IAMUJS = 5150 + 797.138730283173
+   DpTDZc = 397.7501227735943 + 467.52399408938754
+while k>o:
+  if d>l:
+   UyIoZS = 733.8048030616052 + 7951
+   TuoJma = 879.8686445529249 * 231.7022795093941
+   rpYLtY = 363.9078561912977 / 294.88653319816814
+  if s>c:
+   safrcD = True
+   doABcr = 2263 / 148.9530638108613
+   KPLFpc = 8248 + 253.1649989521629
+  if f==r:
+   UyIoZS = 733.8048030616052 + 7951
+   TuoJma = 879.8686445529249 * 231.7022795093941
+   rpYLtY = 363.9078561912977 / 294.88653319816814
+while t<x:
+  if a<x:
+   EXGltj = True
+   XFpYXM = 664.9860181172482 / 4301
+   iAkKyg = 632.2417321429903 * 794.8816631598148
+  if i<o:
+   ydOWpo = 408.0637152780205 + 865.8107008275375
+   hbidry = False
+   OAdZmU = True
+  if b>t:
+   EXGltj = True
+   XFpYXM = 664.9860181172482 / 4301
+   iAkKyg = 632.2417321429903 * 794.8816631598148
+while c>y:
+  if e<e:
+   UTiMbX = 2858 - 612.3124400966938
+   crWcxE = 677 - 444.78462735003393
+   yqISAb = 368.57188231204935 - 220.15022178874756
+  if t==r:
+   NCMTXP = 668.7891463769245 - 1300
+   LfKgdL = 535.9894739517365 * 1272
+   mipwVs = 6822 - 738
+  if d==r:
+   UTiMbX = 2858 - 612.3124400966938
+   crWcxE = 677 - 444.78462735003393
+   yqISAb = 368.57188231204935 - 220.15022178874756
+while h==l:
+  if f==n:
+   ldNyhK = 140.39209661132887 - 717.2431506814022
+   TRHnmU = True
+   sWeGyD = 7241 * 8683
+  if g>j:
+   DXfUir = True
+   rJvZUM = 5351 / 1343
+   kLFYMM = 4782 / 5670
+  if z==y:
+   ldNyhK = 140.39209661132887 - 717.2431506814022
+   TRHnmU = True
+   sWeGyD = 7241 * 8683
+while x==j:
+  if l>r:
+   QUbpMA = 3914 + 1253
+   nfMiRV = False
+   vzGLto = 9139 - 953.4450322874658
+  if z>b:
+   RGKLhS = 2408 / 7388
+   orAMfv = 5014 / 963.6511346800218
+   auEMlM = False
+  if f==g:
+   QUbpMA = 3914 + 1253
+   nfMiRV = False
+   vzGLto = 9139 - 953.4450322874658
+while d>l:
+  if d>l:
+   XOAEoK = 3452 + 689.1483616937181
+   KOVZBD = 971.3182890176291 + 674.6788378473111
+   bHsGhC = 424 / 8957
+  if s>m:
+   gdIDob = 4401 * 8597
+   MgSIvy = True
+   gFkBmK = 3550 + 951.665433523507
+  if n<w:
+   XOAEoK = 3452 + 689.1483616937181
+   KOVZBD = 971.3182890176291 + 674.6788378473111
+   bHsGhC = 424 / 8957
+while i==q:
+  if q<u:
+   iQrrmQ = 860.4511803811765 / 681.0741390473689
+   xDxZpG = 8389 - 951.1855038051638
+   SLtRjB = 7664 + 9869
+  if d==h:
+   Sfhawi = 518.6692642533868 - 5641
+   aFmUxc = False
+   oOrHuz = 225.4358188056124 / 132.61449308185183
+  if v<g:
+   iQrrmQ = 860.4511803811765 / 681.0741390473689
+   xDxZpG = 8389 - 951.1855038051638
+   SLtRjB = 7664 + 9869
+while r>j:
+  if x==f:
+   NzpcIG = 4893 / 32
+   aPiEML = 800.9253390493599 / 5065
+   UOmjzu = 1679 - 641.0501826610657
+  if d<p:
+   tFJWWQ = 388.54962359571596 - 178.81224924944362
+   mjAnTm = 7054 * 3971
+   iQBQEB = 699.3797043652668 - 509.1463140295954
+  if c>j:
+   NzpcIG = 4893 / 32
+   aPiEML = 800.9253390493599 / 5065
+   UOmjzu = 1679 - 641.0501826610657
+while s==n:
+  if s<p:
+   nsdTdl = 9986 + 3976
+   ePvjwA = False
+   BOFqzI = 481.7274810811862 + 405.4038584015256
+  if r<w:
+   goJCpT = 655.3940038467729 - 6590
+   eycSIP = 408.9233921225919 / 302.5839184613701
+   GOmvSO = 800.1562979390128 - 278.98537935738835
+  if a==z:
+   nsdTdl = 9986 + 3976
+   ePvjwA = False
+   BOFqzI = 481.7274810811862 + 405.4038584015256
+while w==a:
+  if x<f:
+   wqCxQn = 5899 - 8247
+   NWkCwe = True
+   CUmoxj = 804.9326370578666 * 8778
+  if d==t:
+   TNYVlG = 340.2642771112288 * 4823
+   fVrQNX = 9964 * 364.5324538251897
+   KPLFpc = 8248 + 253.1649989521629
+  if s>n:
+   wqCxQn = 5899 - 8247
+   NWkCwe = True
+   CUmoxj = 804.9326370578666 * 8778
+while e==h:
+  if f>a:
+   mevbKe = False
+   KlYCzz = False
+   KzNBDN = 8363 / 344.7431805865848
+  if l==w:
+   GKOhbG = 5653 - 3027
+   pbODRm = True
+   ybXFgq = 44.313870585044924 / 265.3626510602195
+  if j<p:
+   mevbKe = False
+   KlYCzz = False
+   KzNBDN = 8363 / 344.7431805865848
+while b<u:
+  if t<i:
+   SVFwCa = 7203 - 405.57010386890306
+   gHaxYg = True
+   JkSSkD = 6273 * 436.6974712946906
+  if j>u:
+   FtSutv = 7270 - 487.4177650398165
+   bbqyPN = 6745 + 4616
+   IPqAlJ = 3582 / 980.6080077868671
+  if j==n:
+   SVFwCa = 7203 - 405.57010386890306
+   gHaxYg = True
+   JkSSkD = 6273 * 436.6974712946906
+while d<e:
+  if u<z:
+   rmpqmk = True
+   oEEGCK = 3962 * 378.92982476435947
+   kPUgRV = 159.3091828257355 + 4961
+  if j<y:
+   hrbxmK = 457.06588490712096 / 1744
+   ulfJsT = 603.5673861319176 + 760.9452752287277
+   yAJQRI = 3153 / 745.2840001785416
+  if b>i:
+   rmpqmk = True
+   oEEGCK = 3962 * 378.92982476435947
+   kPUgRV = 159.3091828257355 + 4961
+while j>c:
+  if u>x:
+   HJIMiS = 494.5980330641133 / 138.6370379791573
+   hsjkdq = False
+   SGogMx = 5259 * 4453
+  if f<e:
+   GAoNYP = 289.12018134905657 + 4547
+   ETxylV = False
+   FRnXbq = False
+  if k<f:
+   HJIMiS = 494.5980330641133 / 138.6370379791573
+   hsjkdq = False
+   SGogMx = 5259 * 4453
+while v>g:
+  if l==f:
+   uvoRhL = 5688 / 2174
+   hrWYqh = 1918 - 870.122774619889
+   XPAajZ = 287.500221326881 - 889.7621057468549
+  if d==x:
+   NkOUnR = 1030 - 988.9716578623006
+   HrZStS = 329.1496384918863 + 3056
+   DTGMYW = 83.13243016853716 * 5919
+  if x<d:
+   uvoRhL = 5688 / 2174
+   hrWYqh = 1918 - 870.122774619889
+   XPAajZ = 287.500221326881 - 889.7621057468549
+while m>g:
+  if a<o:
+   eOydIG = 924.9458590148445 - 433.2993241130121
+   zRkpdV = False
+   yJtQpC = 950.5782178861938 + 9238
+  if c<s:
+   Jjfdwf = 1054 + 1186
+   pXqyzg = 188.88711845763584 * 510.3866403276394
+   cqYrlX = 5231 + 58.06260783526508
+  if u<a:
+   eOydIG = 924.9458590148445 - 433.2993241130121
+   zRkpdV = False
+   yJtQpC = 950.5782178861938 + 9238
+while m==z:
+  if i<i:
+   HJIMiS = 494.5980330641133 / 138.6370379791573
+   BnSBpD = 799.417451523816 / 2570
+   aQSxTq = 2050 - 3826
+  if v>d:
+   keZkCn = 478.9496931480302 * 3433
+   SLtRjB = 7664 + 9869
+   qwcevm = 949.7474029735009 + 863.924743551776
+  if i>q:
+   HJIMiS = 494.5980330641133 / 138.6370379791573
+   BnSBpD = 799.417451523816 / 2570
+   aQSxTq = 2050 - 3826
+while e>l:
+  if w==r:
+   vGQtCW = 7945 - 1638
+   LTnoOz = 7367 * 742.548661240398
+   tzbQZT = 440.07185074416225 - 3098
+  if i>n:
+   pVimQc = 233.57307100381507 - 135.00848553992952
+   UCpanG = 842.8860431026504 + 587.5907439726761
+   ytwxun = True
+  if l<c:
+   vGQtCW = 7945 - 1638
+   LTnoOz = 7367 * 742.548661240398
+   tzbQZT = 440.07185074416225 - 3098
+while m>r:
+  if n==a:
+   EfgJlQ = 1001 / 915.7151340311152
+   apeRDf = 692.7717123728177 - 6189
+   QkESTg = False
+  if g>x:
+   HoHpuc = 3704 / 269.74670794933354
+   JHUjJL = 8405 / 659.6523314184401
+   UnMurh = False
+  if t>w:
+   EfgJlQ = 1001 / 915.7151340311152
+   apeRDf = 692.7717123728177 - 6189
+   QkESTg = False
+while c==n:
+  if v==q:
+   wePxtF = 107.6000621557306 / 8463
+   DAzlJO = True
+   IzdFhW = 7876 / 358.21409164375797
+  if r==i:
+   mKZQno = True
+   eWGtUS = 7152 / 3481
+   mSTjXu = True
+  if s<x:
+   wePxtF = 107.6000621557306 / 8463
+   DAzlJO = True
+   IzdFhW = 7876 / 358.21409164375797
+while z==e:
+  if c==q:
+   nEntYy = True
+   UYTvNK = 357.07771094515306 + 853.1299809717757
+   QumLgz = False
+  if a>t:
+   CYxQcs = 176.55782072646682 / 726.5526427598443
+   fIiDhv = 7449 / 7683
+   YGPjYz = 617.1848961806304 + 979
+  if h>u:
+   nEntYy = True
+   UYTvNK = 357.07771094515306 + 853.1299809717757
+   QumLgz = False
+while b>g:
+  if j<p:
+   bbConl = 527.97477429268 * 5859
+   LnPePJ = True
+   uIWZyx = 3523 + 799.1987501992784
+  if l>m:
+   ApXNCH = 1456 / 872.3594604934395
+   tceiWZ = 434.3769362716121 - 810.125291326139
+   Vfqufn = 42 * 9665
+  if k>p:
+   bbConl = 527.97477429268 * 5859
+   LnPePJ = True
+   uIWZyx = 3523 + 799.1987501992784
+while j==g:
+  if v<o:
+   fooRqr = True
+   WBbacS = 6980 * 2928
+   GYmwma = True
+  if p<f:
+   PgHpli = 414.95995095711385 - 903.1474090308077
+   tGZSya = 5303 + 862.5175285218455
+   dCLxEY = 83.39720677252065 + 3810
+  if m==n:
+   fooRqr = True
+   WBbacS = 6980 * 2928
+   GYmwma = True
+while t==q:
+  if t>x:
+   DjqAgi = 500.25733904916984 / 156.82662306300162
+   SeFQuv = 5158 * 97
+   LtVffc = 304.39840574102163 + 8366
+  if q>b:
+   zAZQfB = 3229 / 270.95804318714914
+   DygEkY = 492.4281665765493 * 594.1863573854929
+   FTwmwT = 664.6886728459759 - 1506
+  if m<p:
+   DjqAgi = 500.25733904916984 / 156.82662306300162
+   SeFQuv = 5158 * 97
+   LtVffc = 304.39840574102163 + 8366
+while y>t:
+  if u==e:
+   lnNXgN = 670.3108001882089 + 789.308024619825
+   OwhdXK = 352.6399801739619 - 1698
+   mnDPIq = 947.2522342071546 / 372.4046802499281
+  if d<v:
+   UyvPAL = 958.0098755426357 / 7235
+   zIQUjH = 953.2722601605429 + 7945
+   KzNBDN = 8363 / 344.7431805865848
+  if d>n:
+   lnNXgN = 670.3108001882089 + 789.308024619825
+   OwhdXK = 352.6399801739619 - 1698
+   mnDPIq = 947.2522342071546 / 372.4046802499281
+while p==h:
+  if c<w:
+   KdvNGz = 726.2356374143116 + 238.99070783007247
+   tFkZhk = 945.3447001283431 * 821.7751125981429
+   aFyqcX = 106.90841826177528 - 223.2619467465112
+  if c<x:
+   KbhNjG = True
+   nQoTwK = 9960 / 9712
+   svxpzQ = 5544 + 2163
+  if f<u:
+   KdvNGz = 726.2356374143116 + 238.99070783007247
+   tFkZhk = 945.3447001283431 * 821.7751125981429
+   aFyqcX = 106.90841826177528 - 223.2619467465112
+while i<f:
+  if c<n:
+   ZjlJSw = 249.85995430705572 - 990.5815691147718
+   JiUBDE = 287.85167645884457 + 6853
+   TcgSmR = 102.96290419294428 - 143.13859697178808
+  if g==z:
+   TTLvRJ = 4023 * 426.1257604911666
+   gZkRvi = 282.38542834127315 * 900.0095485640504
+   xftvwj = 882.8967676853827 / 8736
+  if w==i:
+   ZjlJSw = 249.85995430705572 - 990.5815691147718
+   JiUBDE = 287.85167645884457 + 6853
+   TcgSmR = 102.96290419294428 - 143.13859697178808
+while f<v:
+  if w>l:
+   jzTIOs = 3243 * 741.7472338517448
+   mJqegN = 56.234436360364654 - 6274
+   iwvuPc = 910.3022586175496 - 22.10284284354032
+  if c>w:
+   zMbetb = 727.3110980445928 * 8475
+   pJMbuO = 740.1644300550275 - 3822
+   khujSN = False
+  if x>a:
+   jzTIOs = 3243 * 741.7472338517448
+   mJqegN = 56.234436360364654 - 6274
+   iwvuPc = 910.3022586175496 - 22.10284284354032
+while o>n:
+  if j<z:
+   cJesfo = 7312 * 896.4244674106037
+   ftuciJ = 554.8967334357143 / 6226
+   ATzxNV = 287.9612727377254 - 5912
+  if b==o:
+   Hflokw = 7315 - 1678
+   uldHXe = 450.60368007174634 / 307.8881434151653
+   iicoQB = 8173 * 6101
+  if v>k:
+   cJesfo = 7312 * 896.4244674106037
+   ftuciJ = 554.8967334357143 / 6226
+   ATzxNV = 287.9612727377254 - 5912
+while g>w:
+  if l<u:
+   moAlYZ = True
+   ZUubEN = 1174 / 805.4786065045352
+   AlPqnG = 1298 + 1021
+  if j>a:
+   GFBIpC = 9639 * 3932
+   luVmCw = False
+   bEaVQv = True
+  if s<k:
+   moAlYZ = True
+   ZUubEN = 1174 / 805.4786065045352
+   AlPqnG = 1298 + 1021
+while b==n:
+  if x==i:
+   AuvkPq = True
+   kywvSA = 6664 + 844.9167097058009
+   KZfPju = 744.1580048069369 / 9963
+  if k<h:
+   vHKgcr = False
+   egPXai = False
+   DBkhPw = 9919 * 706
+  if t==c:
+   AuvkPq = True
+   kywvSA = 6664 + 844.9167097058009
+   KZfPju = 744.1580048069369 / 9963
+while j<x:
+  if m>r:
+   qsXNvC = True
+   HtXswO = False
+   gVZXry = 4743 * 322.3062548425313
+  if q<s:
+   dFYcsz = True
+   xgPbZJ = 2416 + 382.58316891925136
+   GspybO = 798.2665226670657 + 6053
+  if o>r:
+   qsXNvC = True
+   HtXswO = False
+   gVZXry = 4743 * 322.3062548425313
+while u>s:
+  if h>f:
+   dOqevf = 1049 / 230.85013888964934
+   iYSNrk = False
+   SDCfrR = 206.74289219046352 - 102.16206556987999
+  if e==s:
+   vdTYbB = False
+   XVuwaj = 44.34196592573514 - 5585
+   VHaaEM = True
+  if a>h:
+   dOqevf = 1049 / 230.85013888964934
+   iYSNrk = False
+   SDCfrR = 206.74289219046352 - 102.16206556987999
+while i<f:
+  if j>w:
+   xdMKjo = 545.1900876482664 + 5077
+   pXiGHs = 6372 - 4023
+   KQtnLr = 8845 + 5671
+  if b==i:
+   XOAEoK = 3452 + 689.1483616937181
+   FIEIHw = True
+   VCTeaj = False
+  if p<n:
+   xdMKjo = 545.1900876482664 + 5077
+   pXiGHs = 6372 - 4023
+   KQtnLr = 8845 + 5671
+while q<v:
+  if s==u:
+   EkEOpF = 939.1818317854244 * 8603
+   GMvSmP = 253.78092469238857 - 211.79927615427778
+   CXGAmr = 293.8827242034957 / 407.0498579431669
+  if r==b:
+   DFVURH = 2214 - 837.22968169742
+   kTdPMX = 4950 * 453.03904871008547
+   GBtkVP = 859.5744929063987 + 693.6682751239114
+  if a>l:
+   EkEOpF = 939.1818317854244 * 8603
+   GMvSmP = 253.78092469238857 - 211.79927615427778
+   CXGAmr = 293.8827242034957 / 407.0498579431669
+while n==u:
+  if c<d:
+   JkYuve = True
+   vOkuLs = 5728 / 6964
+   KTCjmY = False
+  if n<b:
+   vBMcSO = False
+   vqUruM = 879.2127986199578 - 487.2883894249686
+   xZxyhe = 713.8207938059656 - 414.17945710695767
+  if v>h:
+   JkYuve = True
+   vOkuLs = 5728 / 6964
+   KTCjmY = False
+while d>w:
+  if e<b:
+   ODpZTt = 970.6230304013742 * 7367
+   HAvExO = 25.031900824018614 - 414.6816010383573
+   TQRRwg = 3242 - 2954
+  if s==n:
+   TmmTRU = 6780 + 1042
+   Xfazdl = 363.24622315287786 - 3395
+   DRRctp = 325 / 103.98669884928559
+  if m==j:
+   ODpZTt = 970.6230304013742 * 7367
+   HAvExO = 25.031900824018614 - 414.6816010383573
+   TQRRwg = 3242 - 2954
+while h>n:
+  if b>i:
+   sSCnzw = 762.7342525792074 / 511.19464950945724
+   gKtDww = 5295 - 795.8997983498874
+   GckigD = 52 + 287.0777824527213
+  if p>k:
+   LNPasI = 293.3995973398889 * 842
+   stAOMy = 7279 + 2783
+   ibjpWd = True
+  if u>m:
+   sSCnzw = 762.7342525792074 / 511.19464950945724
+   gKtDww = 5295 - 795.8997983498874
+   GckigD = 52 + 287.0777824527213
+while m<w:
+  if f>z:
+   sFNFMT = 4602 * 461.063288773896
+   wSkvQN = 117.34556755703183 - 8008
+   ehtZJK = 482.09111997009217 + 8885
+  if p>z:
+   iiovfa = 8530 + 1340
+   wLNyNd = 836.7532996817146 / 334.40773522220576
+   AloGpy = 5153 + 5063
+  if w==t:
+   sFNFMT = 4602 * 461.063288773896
+   wSkvQN = 117.34556755703183 - 8008
+   ehtZJK = 482.09111997009217 + 8885
+while j>z:
+  if x>h:
+   BKRLmk = True
+   BkQZlh = 745.4745278486248 / 180.377967663202
+   HrZStS = 329.1496384918863 + 3056
+  if x==s:
+   dkDIPo = 3034 + 3054
+   weWECK = 84.37927671371435 * 229.10598642457722
+   GFgOhz = 7585 - 3888
+  if d<n:
+   BKRLmk = True
+   BkQZlh = 745.4745278486248 / 180.377967663202
+   HrZStS = 329.1496384918863 + 3056
+while k>e:
+  if z>p:
+   kwhcAL = 82.2771362080404 / 443.87068824981725
+   SAAGrB = 8396 + 5734
+   UpWmPa = 121.94001061042367 + 326.03780737965695
+  if t>m:
+   wpMkLL = False
+   oltszX = False
+   pGdgNu = 104.95757899686694 / 110.30852313726511
+  if f>r:
+   kwhcAL = 82.2771362080404 / 443.87068824981725
+   SAAGrB = 8396 + 5734
+   UpWmPa = 121.94001061042367 + 326.03780737965695
+while b==p:
+  if j==z:
+   rNiNqi = False
+   aDeDTy = 356.417457566746 + 253.87441563479794
+   yQyYHK = True
+  if w>c:
+   neSwHH = 1942 - 610.0012936773845
+   tzpvLp = 7521 - 6212
+   oxAZit = True
+  if e<w:
+   rNiNqi = False
+   aDeDTy = 356.417457566746 + 253.87441563479794
+   yQyYHK = True
+while u==o:
+  if o>f:
+   KxUeex = 558.402772633053 - 553.9465742164833
+   UtrEZV = 9047 + 169.97816537722576
+   pcgqFO = True
+  if s>d:
+   VaVHhk = 565.9148108717752 * 7927
+   MEgMMD = 5801 + 4267
+   AxMEYE = 149.09718691266352 - 368.98906858295805
+  if e==d:
+   KxUeex = 558.402772633053 - 553.9465742164833
+   UtrEZV = 9047 + 169.97816537722576
+   pcgqFO = True
+while p<w:
+  if j>g:
+   eFLcfe = 703.6955229556874 - 892.4188621647486
+   ljBfuw = 94.58083953034681 + 5065
+   ZLAWgG = 6784 * 93.37696299097938
+  if p<f:
+   ZsZrCe = 6679 + 5457
+   fdgtQa = 622.5561370949509 / 394.96375400459897
+   SkGgKh = 370.48956767224485 * 3547
+  if b==u:
+   eFLcfe = 703.6955229556874 - 892.4188621647486
+   ljBfuw = 94.58083953034681 + 5065
+   ZLAWgG = 6784 * 93.37696299097938
+while f<r:
+  if n<n:
+   LydJlf = 9943 + 930.1032849145877
+   veqoVq = 7145 * 5152
+   tWPkRe = 663.4587050072894 - 4633
+  if y==d:
+   EohTLq = 4712 + 1359
+   vdTYbB = False
+   lsARzK = True
+  if r<t:
+   LydJlf = 9943 + 930.1032849145877
+   veqoVq = 7145 * 5152
+   tWPkRe = 663.4587050072894 - 4633
+while h==g:
+  if m==x:
+   EDeNfC = 2702 / 441.6420189392639
+   PjbyPz = 240.2430384997312 * 51.726773951764194
+   XVlghB = True
+  if w==j:
+   cdLpNO = 132.59030185087653 / 598.0962399815731
+   QkWZEQ = 805.5962709375922 / 1445
+   ltlTfJ = 211.9413852638124 * 665.0270554946956
+  if p<l:
+   EDeNfC = 2702 / 441.6420189392639
+   PjbyPz = 240.2430384997312 * 51.726773951764194
+   XVlghB = True
+while v<k:
+  if c==e:
+   CcxFcJ = 4928 + 4969
+   UJLxVh = 9403 / 6944
+   AJlesi = True
+  if x>p:
+   lXIjIH = 8017 + 5800
+   iuPcda = 691.051097526642 / 8808
+   FimMls = 3367 / 51.53652938053138
+  if q>c:
+   CcxFcJ = 4928 + 4969
+   UJLxVh = 9403 / 6944
+   AJlesi = True
+while f<t:
+  if q==a:
+   wNIWAF = 4581 / 2874
+   PMYELs = False
+   YOZHkw = 409.8442555798309 / 769.4855662526496
+  if q==m:
+   svZzSQ = 210.8387163324305 - 495.0762791174075
+   RyaPKf = True
+   ZJWQex = 5171 * 2883
+  if r==i:
+   wNIWAF = 4581 / 2874
+   PMYELs = False
+   YOZHkw = 409.8442555798309 / 769.4855662526496
+while r>w:
+  if q<f:
+   zdByle = False
+   rblBjc = 863.0143932095198 * 529
+   EUIBmP = 908 * 9874
+  if y>y:
+   eZCsIP = 924.8445746813579 * 5574
+   TsTzBJ = 5121 + 355.5666147330828
+   tnyyAI = 694.2269952824957 * 253.49599463373474
+  if u==f:
+   zdByle = False
+   rblBjc = 863.0143932095198 * 529
+   EUIBmP = 908 * 9874
+while d<h:
+  if z<q:
+   YBuiAj = False
+   IkPwUx = 736.481586954967 + 838.9755565959078
+   lsTWIk = 9404 + 539.6007574415958
+  if r>q:
+   nzpAbr = 152 + 3437
+   dkVskk = False
+   gyFGlJ = 518 - 888.1338030915239
+  if z==w:
+   YBuiAj = False
+   IkPwUx = 736.481586954967 + 838.9755565959078
+   lsTWIk = 9404 + 539.6007574415958
+while x==r:
+  if a<j:
+   kWCumW = 2484 / 518.8159021008402
+   vcYgzS = 8479 + 4597
+   jQmPly = 313.2348720145791 - 535.6413134792228
+  if v>u:
+   NgSulJ = 4844 * 411.71019236154035
+   zlTGQY = 9016 / 543.3528458710535
+   aKgERP = 882.1441118042301 / 349.55583113216045
+  if m>k:
+   kWCumW = 2484 / 518.8159021008402
+   vcYgzS = 8479 + 4597
+   jQmPly = 313.2348720145791 - 535.6413134792228
+while r<u:
+  if h==b:
+   iNGgWz = 180.07411899274263 - 9061
+   XwkXFi = 9028 - 3856
+   jsWDiY = 219.23102640701708 / 535.3007592134283
+  if n<z:
+   YaJSHv = 627 - 8640
+   arSSch = 132 * 830.5420917021977
+   NTgaZV = 5507 * 83.21278597201398
+  if k>m:
+   iNGgWz = 180.07411899274263 - 9061
+   XwkXFi = 9028 - 3856
+   jsWDiY = 219.23102640701708 / 535.3007592134283
+while f>t:
+  if r>a:
+   NDIgOp = 528.9759527542842 / 130.90511697743406
+   pGnasK = 8396 + 641
+   riITIc = 981.4329363790106 + 2070
+  if n==c:
+   LIMaVu = 3816 - 636.9679289511774
+   xxNLfS = False
+   JpYsfT = 611.6585332991904 + 28.89522717933464
+  if r==e:
+   NDIgOp = 528.9759527542842 / 130.90511697743406
+   pGnasK = 8396 + 641
+   riITIc = 981.4329363790106 + 2070
+while h<e:
+  if s>k:
+   CTHDEG = 650.1948985095024 / 183.190647002445
+   EQrTSG = 380 + 823.2021732594551
+   NevNfk = 6477 + 833.845092743834
+  if w>b:
+   POlbOd = 559.768348636154 - 108.8207447448469
+   RpGjOl = 111.92837636435196 / 353.51888246231107
+   grKaPA = 1714 - 9950
+  if g<e:
+   CTHDEG = 650.1948985095024 / 183.190647002445
+   EQrTSG = 380 + 823.2021732594551
+   NevNfk = 6477 + 833.845092743834
+while j>g:
+  if f==l:
+   aObPCz = 504.05376097909186 - 8280
+   GOfBPh = 8134 - 9219
+   jIdeYa = 114.8568664111245 * 98.27864236878253
+  if q==t:
+   bZJfUc = 9429 / 923.3543600584068
+   ArYAdP = True
+   FGJGiG = 203.91358978427763 / 61.780074027380365
+  if x<m:
+   aObPCz = 504.05376097909186 - 8280
+   GOfBPh = 8134 - 9219
+   jIdeYa = 114.8568664111245 * 98.27864236878253
+while i==u:
+  if s==q:
+   BazGIo = 908.2066013993548 * 371.38621080909206
+   WVyJZw = True
+   rfIpnl = 8391 * 311.37199410461733
+  if t==w:
+   umXfBe = False
+   RgZead = 994 + 826.9919572066735
+   LtWIJk = 349.597586144122 + 1890
+  if t==n:
+   BazGIo = 908.2066013993548 * 371.38621080909206
+   WVyJZw = True
+   rfIpnl = 8391 * 311.37199410461733
+while u>d:
+  if k==y:
+   YKzgOZ = 5796 - 2145
+   rEeHKS = 1359 * 633.4965897216598
+   BcHhYv = 627 + 5657
+  if d<c:
+   MhUyfI = 773.4788206525125 - 3794
+   AdZkub = 109.56192201305647 - 431
+   VPsaHS = 566.583986933147 / 1435
+  if e<e:
+   YKzgOZ = 5796 - 2145
+   rEeHKS = 1359 * 633.4965897216598
+   BcHhYv = 627 + 5657
+while k>q:
+  if h<w:
+   OOOvpY = 2576 / 72.4983876688106
+   geJmNK = True
+   VpgVUe = 6746 * 3739
+  if z>l:
+   rKydEH = 5212 * 9742
+   XwkXFi = 9028 - 3856
+   Evhuml = 126.0222892155674 * 497.23218383690215
+  if u<m:
+   OOOvpY = 2576 / 72.4983876688106
+   geJmNK = True
+   VpgVUe = 6746 * 3739
+while x>f:
+  if t<k:
+   YylRJU = 3986 + 538.9698816308919
+   htNKeT = 46.118238739123534 / 2969
+   hRUJJc = True
+  if c>z:
+   QEwREg = 874.0774220525334 * 926.3510268842016
+   CemrHq = 1869 * 16.064137530180098
+   pizQqM = 149.19741800145204 + 351
+  if q<g:
+   YylRJU = 3986 + 538.9698816308919
+   htNKeT = 46.118238739123534 / 2969
+   hRUJJc = True
+while r==v:
+  if x<k:
+   nUUNjo = 7056 + 6546
+   dkDIPo = 3034 + 3054
+   hRMPCP = 749.1468460088709 * 1795
+  if p<g:
+   LLYMjM = 5024 * 605.3049291083197
+   MdvNFq = 3156 - 3725
+   lRmRLb = 483.4303692358954 - 5424
+  if b>d:
+   nUUNjo = 7056 + 6546
+   dkDIPo = 3034 + 3054
+   hRMPCP = 749.1468460088709 * 1795
+while m>d:
+  if z==k:
+   fVqXkr = 5917 + 5474
+   EvlFEi = 9272 - 213
+   DMpWYb = 6352 * 55.609554862050814
+  if g==c:
+   rAFciX = 569.5937492628506 * 729.904666818616
+   vJRcdx = 39.29417153449607 / 7812
+   mSTYqO = True
+  if d>p:
+   fVqXkr = 5917 + 5474
+   EvlFEi = 9272 - 213
+   DMpWYb = 6352 * 55.609554862050814
+while b>n:
+  if k>v:
+   HdpThW = False
+   xBDldF = 88.63157928946067 / 82.1848378312073
+   mKZQno = True
+  if e==j:
+   XRFGUk = True
+   cdwCrX = 436 / 3791
+   fdOUOk = 2422 + 5164
+  if t>r:
+   HdpThW = False
+   xBDldF = 88.63157928946067 / 82.1848378312073
+   mKZQno = True
+while h<e:
+  if x==r:
+   oPOUzK = False
+   YRrVMw = True
+   PyINtS = 5145 - 7098
+  if i>c:
+   Humhdp = 26.140782773743336 * 257.8091492819988
+   VyShJW = False
+   bXAhKM = 7067 / 7883
+  if q<k:
+   oPOUzK = False
+   YRrVMw = True
+   PyINtS = 5145 - 7098
+while i==o:
+  if r==w:
+   izpTZB = 363.49731291077313 * 160.76183308466017
+   KhfcGI = False
+   LMZGRN = 4731 - 4604
+  if x==o:
+   kZKoEx = 268.4505739911811 - 814.1082010371612
+   vLlzmm = 4634 - 170.31422690834222
+   cObYFk = 5972 + 4959
+  if k<y:
+   izpTZB = 363.49731291077313 * 160.76183308466017
+   KhfcGI = False
+   LMZGRN = 4731 - 4604
+while o==i:
+  if q<a:
+   wBmRZb = False
+   fLHPfi = 336.9304166555472 + 947.6130303229647
+   sbhEAX = 6494 / 364.30371466446945
+  if c==t:
+   YUxveV = 1271 / 173.2940388137016
+   CrIxGL = 648.1904066601801 * 948.9919328829566
+   iWstTe = 940.4279090339585 * 42
+  if v==v:
+   wBmRZb = False
+   fLHPfi = 336.9304166555472 + 947.6130303229647
+   sbhEAX = 6494 / 364.30371466446945
+while u<v:
+  if d==u:
+   tVNGlt = True
+   pbzdUV = 882.56354935844 + 995.4106609463158
+   gjbaAn = 3435 - 793.1654540853141
+  if o>e:
+   iFKTYy = 147 / 8917
+   FsmosD = True
+   NuimNM = 349.9381647685947 * 128.18711454229938
+  if m<b:
+   tVNGlt = True
+   pbzdUV = 882.56354935844 + 995.4106609463158
+   gjbaAn = 3435 - 793.1654540853141
+while x==m:
+  if z>n:
+   jxyYMk = 212.47541528932157 / 531.8472266411308
+   hCybVX = 4590 / 7107
+   tOPsNG = 238.89835475794482 - 5138
+  if j>h:
+   IWXCsO = 4590 - 1621
+   XJouOk = 217.9592314366383 * 719.9594779380253
+   NWkCwe = True
+  if q<k:
+   jxyYMk = 212.47541528932157 / 531.8472266411308
+   hCybVX = 4590 / 7107
+   tOPsNG = 238.89835475794482 - 5138
+while x==z:
+  if e==m:
+   DzobGj = 8074 + 7729
+   wpFJrQ = 8615 * 1112
+   AuKltX = 880.2579072382389 * 159.93844503660932
+  if w==s:
+   rHjVHC = 6727 + 773.3473183007465
+   cBmjhi = 7806 + 8062
+   dUFTVp = 431.18344005274287 + 5067
+  if u<h:
+   DzobGj = 8074 + 7729
+   wpFJrQ = 8615 * 1112
+   AuKltX = 880.2579072382389 * 159.93844503660932
+while s==w:
+  if z>s:
+   mkUiRJ = 2513 + 800.9522315861619
+   EqVnit = 550.0167332717034 / 9307
+   pKRbIO = 7426 * 779.6405729062881
+  if t==m:
+   TlrlrV = 7839 - 3479
+   bnIuSk = False
+   uBqZkN = 5788 / 4544
+  if l==h:
+   mkUiRJ = 2513 + 800.9522315861619
+   EqVnit = 550.0167332717034 / 9307
+   pKRbIO = 7426 * 779.6405729062881
+while h==l:
+  if u==b:
+   WzBzyE = 6996 / 7025
+   htLGSp = 299 * 5170
+   iwvuPc = 910.3022586175496 - 22.10284284354032
+  if j==b:
+   aAqBqQ = True
+   JrRiDz = 2900 * 848.0138632162995
+   tzpvLp = 7521 - 6212
+  if a>v:
+   WzBzyE = 6996 / 7025
+   htLGSp = 299 * 5170
+   iwvuPc = 910.3022586175496 - 22.10284284354032
+while f<v:
+  if l<u:
+   kjXmrG = 195.28414867261824 * 911
+   DbYZOm = True
+   OoAgOZ = False
+  if o<z:
+   fgLLUI = 471.51331553605985 + 901.00200610875
+   VpQvWX = 1428 / 4492
+   JnMNBb = 3795 + 869.0823338852562
+  if p==o:
+   kjXmrG = 195.28414867261824 * 911
+   DbYZOm = True
+   OoAgOZ = False
+while o>o:
+  if o==m:
+   Lfzweb = 943.7535951205284 + 1011
+   mMEujO = 9566 + 333.08761545565505
+   wlASRI = 300.9298890801843 - 1875
+  if h==z:
+   jopchc = 427.1865524700159 + 9375
+   LNyxiQ = 3575 + 689.6681541871361
+   wlEcvV = False
+  if s==y:
+   Lfzweb = 943.7535951205284 + 1011
+   mMEujO = 9566 + 333.08761545565505
+   wlASRI = 300.9298890801843 - 1875
+while j==w:
+  if n>c:
+   vZyjJt = False
+   lFILdO = False
+   Exqoqw = 5483 / 3738
+  if s<h:
+   gMEjXP = 4173 - 364.88030241566537
+   ePvjwA = False
+   vrVQrC = 209.90250850829045 / 5429
+  if a<q:
+   vZyjJt = False
+   lFILdO = False
+   Exqoqw = 5483 / 3738
+while i>q:
+  if z==j:
+   wpoXeL = 122.51119423578466 * 7593
+   HbWAmx = 9384 * 120.59624873546106
+   FPeado = 8932 * 417.8884217764666
+  if q>b:
+   GzCwyg = 8764 * 105.96996701052011
+   vjGgen = 785.2268456403709 + 429.8986975537314
+   WhciHm = 31.294308332962537 / 2821
+  if k>r:
+   wpoXeL = 122.51119423578466 * 7593
+   HbWAmx = 9384 * 120.59624873546106
+   FPeado = 8932 * 417.8884217764666
+while t==c:
+  if l==o:
+   CpHCHG = 93.95272554392548 + 817.0648500246648
+   GllaQX = 924.1193770024688 - 7782
+   uiSZBu = True
+  if e==z:
+   zsMjXi = 61.114266372226645 - 8590
+   fLQtzP = 313.34607988277673 / 3096
+   bTQdAr = 646.8626292444794 / 4991
+  if o==w:
+   CpHCHG = 93.95272554392548 + 817.0648500246648
+   GllaQX = 924.1193770024688 - 7782
+   uiSZBu = True
+while j<r:
+  if o<a:
+   GFHZNM = 5272 * 704.2518442163604
+   IIpnnv = 2609 / 6142
+   IXJmLg = 160.0606232098131 / 568.792186198832
+  if v>r:
+   ywbXaO = 84.5484002621201 + 4469
+   SqSlmL = 598.7219300207935 * 1577
+   eMTSnH = 8716 + 2234
+  if e==x:
+   GFHZNM = 5272 * 704.2518442163604
+   IIpnnv = 2609 / 6142
+   IXJmLg = 160.0606232098131 / 568.792186198832
+while i<w:
+  if m>h:
+   BDZpip = 107.17426932359876 / 213.9783921825003
+   zAZQfB = 3229 / 270.95804318714914
+   CJbgzG = 4217 / 495
+  if m==e:
+   iQLZsP = 6783 + 1523
+   eeHUla = False
+   eGydor = 783.6538687075854 - 310.5668313039012
+  if l<f:
+   BDZpip = 107.17426932359876 / 213.9783921825003
+   zAZQfB = 3229 / 270.95804318714914
+   CJbgzG = 4217 / 495
+while g>p:
+  if z>w:
+   CZtZpQ = 425.7341203142393 + 872.9230806818342
+   xiNqOT = 897.2405026471895 / 475.585830193266
+   BkLNlc = False
+  if w>j:
+   BWZJsr = 735.2911968996581 + 349.3600568781192
+   wlEcvV = False
+   nlAEqZ = 785.4509317360537 + 1919
+  if q>l:
+   CZtZpQ = 425.7341203142393 + 872.9230806818342
+   xiNqOT = 897.2405026471895 / 475.585830193266
+   BkLNlc = False
+while b>j:
+  if n>i:
+   LoPaPy = True
+   xIgKUE = 888.3321471352941 - 8382
+   sQytlk = 4775 - 5113
+  if m==l:
+   JfGCww = 5181 * 2335
+   PpnynY = 1155 / 7130
+   jnmdbc = 72.97887163872115 + 5634
+  if t>w:
+   LoPaPy = True
+   xIgKUE = 888.3321471352941 - 8382
+   sQytlk = 4775 - 5113
+while x>m:
+  if a==b:
+   Tcupnb = 701 - 4544
+   MBHTun = 886.4415320283496 + 7072
+   ppHsHy = 76.84340356203862 - 1288
+  if j>j:
+   fYvlaY = 106.08841777610346 * 6310
+   RnxUKi = 122.0954085648285 + 187.8569393892306
+   mVFqdP = 3438 * 3978
+  if h==m:
+   Tcupnb = 701 - 4544
+   MBHTun = 886.4415320283496 + 7072
+   ppHsHy = 76.84340356203862 - 1288
+while r==g:
+  if t==f:
+   PVResw = 817.4575004189611 * 165.37524180339952
+   qlZSwX = 5654 + 4442
+   RDJltw = 5769 * 5563
+  if x>c:
+   cXbqwB = False
+   DjQthA = 4916 - 377.8590836156959
+   iqPeEO = False
+  if a>r:
+   PVResw = 817.4575004189611 * 165.37524180339952
+   qlZSwX = 5654 + 4442
+   RDJltw = 5769 * 5563
+while h<e:
+  if k==m:
+   NkUAIO = 324.59020299835566 * 451.1970725736532
+   ZaqESu = 7301 * 1014
+   QqMNKO = 762.4658918229795 / 770.6208378353796
+  if u>b:
+   CBnYBV = 9735 - 3336
+   ePTweI = 9712 * 224.5929588805646
+   laCCBU = 367.2336554505879 * 5873
+  if w==k:
+   NkUAIO = 324.59020299835566 * 451.1970725736532
+   ZaqESu = 7301 * 1014
+   QqMNKO = 762.4658918229795 / 770.6208378353796
+while j>i:
+  if s>h:
+   vesQfy = False
+   iUVMaY = 859.4078041302243 + 364
+   dceFnr = 241.25534597245627 - 174
+  if t>u:
+   oQPocc = 7636 + 7733
+   xGHoPq = False
+   gLeCPa = 5423 - 183.45464965254519
+  if g<p:
+   vesQfy = False
+   iUVMaY = 859.4078041302243 + 364
+   dceFnr = 241.25534597245627 - 174
+while o<i:
+  if h<m:
+   GkrxTm = 377.12922998393975 * 267.42874038110745
+   MDApGd = 243.84412047530344 / 10
+   hHqLKn = 3778 / 8652
+  if e==e:
+   QIqylY = 815.2519005708767 * 284.0561428799379
+   uTmhik = True
+   hVFIeK = 974.7538990383146 + 6660
+  if z>c:
+   GkrxTm = 377.12922998393975 * 267.42874038110745
+   MDApGd = 243.84412047530344 / 10
+   hHqLKn = 3778 / 8652
+while s>l:
+  if u==b:
+   UyvPAL = 958.0098755426357 / 7235
+   ZckXBV = 381.6567825794974 - 905.1506703060383
+   COJCEA = 112.39112142254159 + 813
+  if f>b:
+   ZPumOk = 6103 * 467.90002038689954
+   LLqVJr = 118.11063204457855 - 868.4922158889777
+   qNHGvf = True
+  if q<x:
+   UyvPAL = 958.0098755426357 / 7235
+   ZckXBV = 381.6567825794974 - 905.1506703060383
+   COJCEA = 112.39112142254159 + 813
+while l<n:
+  if h>y:
+   LNPasI = 293.3995973398889 * 842
+   HvBhZC = 9124 / 898.814361961427
+   kBFLZO = 193.7146874494021 + 175.8404292770877
+  if o==k:
+   aRsrPV = 2377 - 965.21707625318
+   SVFwCa = 7203 - 405.57010386890306
+   WtNxFS = 663.3930929238566 / 4979
+  if z>t:
+   LNPasI = 293.3995973398889 * 842
+   HvBhZC = 9124 / 898.814361961427
+   kBFLZO = 193.7146874494021 + 175.8404292770877
+while t<q:
+  if j==p:
+   dBYwAi = 5906 + 28.371941749009906
+   PlfmCt = 322.5124997911926 / 523.0821006452995
+   JKqZuJ = 424.8226767263353 / 1812
+  if b>o:
+   BIdzck = 1041 / 592.5003654723854
+   dbokjb = 110 / 3532
+   NsdlAz = 7504 * 8410
+  if z<a:
+   dBYwAi = 5906 + 28.371941749009906
+   PlfmCt = 322.5124997911926 / 523.0821006452995
+   JKqZuJ = 424.8226767263353 / 1812
+while b<h:
+  if q==c:
+   ycgNwx = 3961 - 561.6297659303783
+   FLxzHY = True
+   TmAHoN = 261.5215287897136 * 431.90091146778076
+  if i==z:
+   fEwcwq = 463.6883026253777 - 5824
+   zDcAxm = 546.188289563969 / 278.71705892358074
+   dvVpfr = False
+  if z>t:
+   ycgNwx = 3961 - 561.6297659303783
+   FLxzHY = True
+   TmAHoN = 261.5215287897136 * 431.90091146778076
+while v>m:
+  if v<g:
+   hVXNJy = 381.57400764734234 * 760
+   GbboEo = 905.4550722864784 + 3763
+   IAJWlC = 6768 / 2607
+  if n==t:
+   RLJOCB = 3060 * 530.4423883328823
+   gOBheN = 287.82975043355464 - 374.082333323342
+   KhRFOs = 140.1853815167407 - 9490
+  if h==s:
+   hVXNJy = 381.57400764734234 * 760
+   GbboEo = 905.4550722864784 + 3763
+   IAJWlC = 6768 / 2607
+while j>u:
+  if v==l:
+   hfaiMG = 5574 - 94.65375252418862
+   JWmdPQ = True
+   ZsZrCe = 6679 + 5457
+  if r<y:
+   bfYuEs = 470.00917438891327 / 346.33642433817454
+   LeZXrj = False
+   mvtgwi = 910.3189395336802 * 351.47889681221767
+  if v==c:
+   hfaiMG = 5574 - 94.65375252418862
+   JWmdPQ = True
+   ZsZrCe = 6679 + 5457
+while m==e:
+  if o<d:
+   tWPkRe = 663.4587050072894 - 4633
+   kfhKFG = False
+   HvBhZC = 9124 / 898.814361961427
+  if u==n:
+   diJYOs = 953.627032371071 - 457.6844630261397
+   SqHNdm = 6876 / 27.615046726645588
+   GsnrUZ = 3459 - 834.2822069141093
+  if v>p:
+   tWPkRe = 663.4587050072894 - 4633
+   kfhKFG = False
+   HvBhZC = 9124 / 898.814361961427
+while z<q:
+  if a<f:
+   hEOEio = 277.2903106088508 * 960.4834457164386
+   oMcail = 4466 * 9816
+   fbjRJQ = 7903 + 2527
+  if d==m:
+   GHaAJl = 794.9035392353561 * 710.840479413641
+   IQBWlL = 422.9422954764633 + 488.47485985286494
+   WKZrPn = True
+  if j>t:
+   hEOEio = 277.2903106088508 * 960.4834457164386
+   oMcail = 4466 * 9816
+   fbjRJQ = 7903 + 2527
+while i==o:
+  if a==p:
+   WTPjye = False
+   LrZpAg = 405.44255743284634 * 7018
+   fWKzaE = False
+  if i==c:
+   clqcMK = False
+   dAPwMt = 9.202753232280013 + 3592
+   VarHwu = False
+  if o>s:
+   WTPjye = False
+   LrZpAg = 405.44255743284634 * 7018
+   fWKzaE = False
+while c<n:
+  if e<c:
+   NqZjda = 3312 - 8281
+   UoaNvk = 571.2238418701836 - 917.3063170804119
+   YzdKQG = 4714 - 8283
+  if b<w:
+   HYrtgp = 638.7601401146269 + 80.83877694135772
+   cavcTh = 489.767205821155 - 8772
+   qgKrTN = 153.00468953739636 / 673.8204919092818
+  if j==l:
+   NqZjda = 3312 - 8281
+   UoaNvk = 571.2238418701836 - 917.3063170804119
+   YzdKQG = 4714 - 8283
+while z==c:
+  if v==n:
+   smJNkh = 5262 + 5642
+   hZggda = 8922 * 8934
+   KNKzXG = 386.24582301367394 - 511.90110467208564
+  if t>u:
+   qRQPyZ = 6188 / 969.0039370334893
+   xnHAMK = 722.6699122595506 - 2822
+   IUPEts = 450.9989017537269 + 80.7638604309609
+  if j>d:
+   smJNkh = 5262 + 5642
+   hZggda = 8922 * 8934
+   KNKzXG = 386.24582301367394 - 511.90110467208564
+while r>c:
+  if n<x:
+   cWCTkP = 8733 + 763
+   jlFHTP = 474 / 3331
+   hQvGaK = 661.0832830252388 + 6292
+  if o>u:
+   MZqRGm = 763.63658460275 - 585.8763111629041
+   RQjvVe = 7236 + 5467
+   xYGQST = 549.0677365397382 / 165
+  if v<b:
+   cWCTkP = 8733 + 763
+   jlFHTP = 474 / 3331
+   hQvGaK = 661.0832830252388 + 6292
+while n>b:
+  if t==b:
+   NnSDon = True
+   AMLZoS = 7590 + 7303
+   BWGmWG = True
+  if q<e:
+   SAAGrB = 8396 + 5734
+   puEDFP = 1270 * 7948
+   WgVOKr = 5128 - 894.0541300126981
+  if m<z:
+   NnSDon = True
+   AMLZoS = 7590 + 7303
+   BWGmWG = True
+while d==g:
+  if j>s:
+   UQkSDr = 191.76687076995083 / 9630
+   NimeWl = 614.6293604538272 / 6216
+   gSYVvD = True
+  if u<x:
+   mrpIHn = 9236 * 9130
+   qfHpOd = 6622 - 242.90458878845638
+   CYRBrb = 7801 + 939.947032370715
+  if y==y:
+   UQkSDr = 191.76687076995083 / 9630
+   NimeWl = 614.6293604538272 / 6216
+   gSYVvD = True
+while n<h:
+  if x==i:
+   jcSAdo = 620.3854485295399 - 922
+   IgOHNd = 6348 / 2547
+   egIqon = 518.9731640373647 / 5014
+  if h<j:
+   qttWXW = 6632 + 1967
+   COVgNF = False
+   mBHcRF = 54.52786416791232 * 1828
+  if a>r:
+   jcSAdo = 620.3854485295399 - 922
+   IgOHNd = 6348 / 2547
+   egIqon = 518.9731640373647 / 5014
+while t<h:
+  if i>q:
+   jAekUT = 1916 - 248.0664608294799
+   XmtPgZ = 7597 / 762.5281203962131
+   MWfadY = True
+  if a==a:
+   AfAhNz = 3575 * 8141
+   XmtPgZ = 7597 / 762.5281203962131
+   biOoEu = 820.114300767917 * 6507
+  if b<z:
+   jAekUT = 1916 - 248.0664608294799
+   XmtPgZ = 7597 / 762.5281203962131
+   MWfadY = True
+while g<s:
+  if w>u:
+   HThDGc = 8005 - 24.880287345592066
+   vbYAQQ = 853.905943749012 + 14.206763423108352
+   ThcxWx = 6200 - 1890
+  if h<u:
+   tJkLwy = 2682 * 3650
+   FmrPJL = 993.7295872995937 + 4399
+   wgnNZr = 3690 * 9
+  if z>h:
+   HThDGc = 8005 - 24.880287345592066
+   vbYAQQ = 853.905943749012 + 14.206763423108352
+   ThcxWx = 6200 - 1890
+while u<d:
+  if k==l:
+   KIuIRz = 4045 - 2859
+   MrVHEI = 6452 - 763
+   EZpMEc = False
+  if k==o:
+   OIPbKM = 7632 + 7145
+   LtVffc = 304.39840574102163 + 8366
+   vjPKbL = 412.26918480913685 + 8
+  if k<s:
+   KIuIRz = 4045 - 2859
+   MrVHEI = 6452 - 763
+   EZpMEc = False
+while n>y:
+  if p==q:
+   EsCrwg = 934.0527161569739 * 552.0293621814227
+   pJqEwZ = 302.05187878719704 + 377.26886947236375
+   ZOcDQs = 102.60763826194142 - 143.85657949272283
+  if r<z:
+   VOiguh = 8273 * 381.3132608811253
+   ohzMqy = 612 + 3850
+   rJvZUM = 5351 / 1343
+  if i>f:
+   EsCrwg = 934.0527161569739 * 552.0293621814227
+   pJqEwZ = 302.05187878719704 + 377.26886947236375
+   ZOcDQs = 102.60763826194142 - 143.85657949272283
+while i>l:
+  if e==o:
+   INcsrA = False
+   sCGYLr = 5427 - 942.8813489242289
+   ASANEb = 713.6266504908119 + 9534
+  if z<k:
+   LlJnTz = 7855 + 5706
+   SAuAUq = 189.9261639884933 + 4930
+   VYRjTS = 846.6454693967592 / 179.05210711831634
+  if j==j:
+   INcsrA = False
+   sCGYLr = 5427 - 942.8813489242289
+   ASANEb = 713.6266504908119 + 9534
+while f<z:
+  if n==a:
+   CzGpuG = 3483 - 31.411706507492656
+   PqkfjR = 979.8771294439077 - 668.5405874016562
+   FdkVBt = 743.8427015423875 + 154.75243707724843
+  if e<t:
+   SyfUCY = 847.8967147272757 + 6838
+   ApKxwR = False
+   IpnCLD = 317 + 5548
+  if b>k:
+   CzGpuG = 3483 - 31.411706507492656
+   PqkfjR = 979.8771294439077 - 668.5405874016562
+   FdkVBt = 743.8427015423875 + 154.75243707724843
+while v>k:
+  if q==o:
+   MWAZip = 777.3226239377532 / 8207
+   fIRwcK = False
+   tHzuzf = 667 + 7345
+  if s<b:
+   yTvFkT = 755 * 7497
+   NMaoHz = 4860 / 631.158751093002
+   qQkaxE = False
+  if k==g:
+   MWAZip = 777.3226239377532 / 8207
+   fIRwcK = False
+   tHzuzf = 667 + 7345
+while k>x:
+  if x<z:
+   nOzhUF = 355.1509720494477 + 46.69675890279879
+   sGcppS = 9499 / 9798
+   Odqpdl = 4680 - 7269
+  if h==f:
+   VdlIcz = True
+   rWVWzx = 7033 + 2019
+   LNPasI = 293.3995973398889 * 842
+  if k>m:
+   nOzhUF = 355.1509720494477 + 46.69675890279879
+   sGcppS = 9499 / 9798
+   Odqpdl = 4680 - 7269
+while u<i:
+  if t<b:
+   PXZGkC = 3950 / 6380
+   idWYSj = 313.8163398687757 / 216.0336019452143
+   TibDvs = 8863 / 2926
+  if w>m:
+   hZZRhS = 9945 + 3328
+   cjyiJz = 6344 + 2161
+   tRqSMV = True
+  if s>d:
+   PXZGkC = 3950 / 6380
+   idWYSj = 313.8163398687757 / 216.0336019452143
+   TibDvs = 8863 / 2926
+while z==s:
+  if i>f:
+   cWuHlu = True
+   DBIOkD = True
+   aeGmKm = 1328 - 371.81940296698343
+  if x<q:
+   XyTDoZ = 307.0877407990786 / 7410
+   VGehgn = 998.763183307265 * 2921
+   rNazFO = 426.9376905652797 * 9615
+  if v==l:
+   cWuHlu = True
+   DBIOkD = True
+   aeGmKm = 1328 - 371.81940296698343
+while g<z:
+  if a>q:
+   VTrEOM = True
+   wHxkcu = 433.8014901557014 - 2224
+   YHNBCU = 8014 / 1304
+  if b<n:
+   oyITjz = 1242 / 5544
+   cPBfvO = 3877 * 47
+   frrkPY = False
+  if v<d:
+   VTrEOM = True
+   wHxkcu = 433.8014901557014 - 2224
+   YHNBCU = 8014 / 1304
+while p<d:
+  if j==w:
+   IUjwBx = 7660 / 26.083394700641655
+   iYIxSK = 6185 / 3033
+   iYIxSK = 6185 / 3033
+  if x>i:
+   LnFXPY = 543.8765089885403 * 4433
+   dacEiB = 6987 + 666.0755207718802
+   iCOfKw = False
+  if u>m:
+   IUjwBx = 7660 / 26.083394700641655
+   iYIxSK = 6185 / 3033
+   iYIxSK = 6185 / 3033
+while t<b:
+  if e>a:
+   EsNWMU = True
+   ocJbbn = 5673 + 903.3888016518385
+   IaPbgV = 624.8830676042185 + 616.1550383135997
+  if o<u:
+   HWQQhQ = 104.70723904772505 + 9636
+   IxydNU = 406.9262572284867 * 8.543036130438207
+   pQQVSP = False
+  if r>p:
+   EsNWMU = True
+   ocJbbn = 5673 + 903.3888016518385
+   IaPbgV = 624.8830676042185 + 616.1550383135997
+while h<e:
+  if s>n:
+   qESenn = 181.3975438588309 + 8678
+   FhJfkp = True
+   mYgdoK = 356.5332919474094 / 8090
+  if k==d:
+   oqlJzU = 836.2775520762948 * 433.7822223562813
+   jvWhJN = 510.0063252188473 + 992.4313183610504
+   yonTGr = 2124 / 1287
+  if t==z:
+   qESenn = 181.3975438588309 + 8678
+   FhJfkp = True
+   mYgdoK = 356.5332919474094 / 8090
+while k<f:
+  if i<u:
+   wvrTbV = 214.04813934954944 - 774.1058639339627
+   atmrEZ = 1593 * 7756
+   EFYIBp = 796.2970225145078 / 936.3136065336973
+  if q<d:
+   kxOaQh = 8652 - 87.24743627767653
+   GlknPb = 866.8705524503201 / 3125
+   mJCXMW = 6383 * 568.1297534665144
+  if p<g:
+   wvrTbV = 214.04813934954944 - 774.1058639339627
+   atmrEZ = 1593 * 7756
+   EFYIBp = 796.2970225145078 / 936.3136065336973
+while n<f:
+  if n<x:
+   GyOOTa = 557.8081538346987 + 842.1018914707662
+   JjnpgY = 257.5600231050404 * 371.63575887260316
+   vCrUsV = 883 * 23.952910394808285
+  if z<w:
+   GeZoeL = 7759 - 5202
+   pvONTo = 962.9335949027923 - 1275
+   FqXnSQ = 7362 * 8300
+  if o<s:
+   GyOOTa = 557.8081538346987 + 842.1018914707662
+   JjnpgY = 257.5600231050404 * 371.63575887260316
+   vCrUsV = 883 * 23.952910394808285
+while u<a:
+  if w>g:
+   zaNldS = 952.7912656537326 + 3212
+   uZBctw = 8737 - 8195
+   EPmBDa = 305 * 2154
+  if u==n:
+   ROmUpR = 1228 - 5682
+   jaAfMi = 668.0511834745147 * 5266
+   QpmBOj = 411.7643184122672 - 1382
+  if y>a:
+   zaNldS = 952.7912656537326 + 3212
+   uZBctw = 8737 - 8195
+   EPmBDa = 305 * 2154
+while x==i:
+  if h>w:
+   IBbIVU = 876.1809652645055 + 5771
+   ugGsbc = 810.0438235998386 * 5362
+   bRrSPO = 2453 - 358.26399653177276
+  if e==b:
+   BDBMMl = 80.0852127670264 / 4324
+   mwhjTc = 279.85512180274577 / 5.808676281293929
+   hHmZZG = 2197 - 702.6602918665333
+  if g==w:
+   IBbIVU = 876.1809652645055 + 5771
+   ugGsbc = 810.0438235998386 * 5362
+   bRrSPO = 2453 - 358.26399653177276
+while o>j:
+  if g>x:
+   mjPLuc = True
+   kyfXQD = 218.57233987786242 + 9124
+   WaTSGo = 282.9589265357282 * 9663
+  if l<o:
+   JqMwgr = 446.6998574838956 / 7056
+   MlFdhA = 379.7424465231756 * 946.6983176498965
+   TmQxVa = 676.9831077187822 - 3685
+  if k==b:
+   mjPLuc = True
+   kyfXQD = 218.57233987786242 + 9124
+   WaTSGo = 282.9589265357282 * 9663
+while r<x:
+  if u<s:
+   ZvCtQp = 697.2057779394462 - 4045
+   qCuRge = True
+   TLgewb = 3049 * 5168
+  if o==j:
+   gvWAwZ = 2251 + 2221
+   uhiPaq = 990.4517099402568 + 2470
+   ApKxwR = False
+  if w<q:
+   ZvCtQp = 697.2057779394462 - 4045
+   qCuRge = True
+   TLgewb = 3049 * 5168
+while q<b:
+  if f>b:
+   VJEbhk = True
+   YGIOQU = 1045 + 687.791383192161
+   NHEiZK = 7888 + 112.99444497398912
+  if w==j:
+   EnMdZF = 746.7950544330299 + 9412
+   hJqEQY = 4972 + 7554
+   ckwLGl = False
+  if m<g:
+   VJEbhk = True
+   YGIOQU = 1045 + 687.791383192161
+   NHEiZK = 7888 + 112.99444497398912
+while g<e:
+  if h>u:
+   sQUHCC = 742.7865606258174 + 724.5337522588586
+   crhfWu = 934.6256599337688 * 576.2339678197201
+   hDBrtC = 9258 + 569.0500218507102
+  if k==s:
+   gYjpjW = 5820 - 291.1686774817129
+   BHPtSo = 3728 - 577.3773227194963
+   jDdLPu = 771.2211654788646 - 312.9975395853675
+  if q>v:
+   sQUHCC = 742.7865606258174 + 724.5337522588586
+   crhfWu = 934.6256599337688 * 576.2339678197201
+   hDBrtC = 9258 + 569.0500218507102
+while p<t:
+  if g>j:
+   iboROG = 312.2496026228456 + 7589
+   ZyuRFg = 160.82911704767085 - 67.3655651091033
+   MfCiXH = 368.49441634296966 - 329.144873352231
+  if h<u:
+   SyfUCY = 847.8967147272757 + 6838
+   TVFFlE = 697.6222553753058 - 788.9624202110001
+   vYnwpw = 9632 - 3421
+  if h==a:
+   iboROG = 312.2496026228456 + 7589
+   ZyuRFg = 160.82911704767085 - 67.3655651091033
+   MfCiXH = 368.49441634296966 - 329.144873352231
+while z<o:
+  if s>j:
+   iErHWp = 764.1748668773823 * 359
+   uZQXoB = 5087 / 843.1578438173732
+   JOgyDD = 809.8420259437563 * 502.42313217489766
+  if x==n:
+   RbnCHq = 6315 * 1203
+   jijmQB = 1493 + 968.7606437004138
+   PWPNUP = 588.4779023595046 * 148.57220102388152
+  if s<n:
+   iErHWp = 764.1748668773823 * 359
+   uZQXoB = 5087 / 843.1578438173732
+   JOgyDD = 809.8420259437563 * 502.42313217489766
+while p<g:
+  if x>i:
+   ehtZJK = 482.09111997009217 + 8885
+   AooKvS = False
+   WIKINM = 702.2954182841357 - 918.8896650363745
+  if b==w:
+   LrnsKn = 3677 / 772.125052216574
+   JqMwgr = 446.6998574838956 / 7056
+   QFFvZP = False
+  if o<y:
+   ehtZJK = 482.09111997009217 + 8885
+   AooKvS = False
+   WIKINM = 702.2954182841357 - 918.8896650363745
+while r>x:
+  if f==x:
+   zzwgCN = 5228 / 1164
+   AZZREV = 6372 + 8817
+   udbFyI = 940.5403518694885 / 437.4041348465797
+  if w==o:
+   RfWuKL = 952.4356482968294 + 501.05596104119456
+   pwKNYl = False
+   GAgPKH = 152.5005039552172 - 1149
+  if w<t:
+   zzwgCN = 5228 / 1164
+   AZZREV = 6372 + 8817
+   udbFyI = 940.5403518694885 / 437.4041348465797
+while j>t:
+  if w<e:
+   RFqcNl = False
+   wOBiNJ = True
+   gdaVEe = 8190 / 163.101142120317
+  if s>c:
+   KVinGh = 8974 / 5083
+   zOtDQQ = 460.6224041704019 + 335.15409464874574
+   TlrlrV = 7839 - 3479
+  if f>x:
+   RFqcNl = False
+   wOBiNJ = True
+   gdaVEe = 8190 / 163.101142120317
+while i<j:
+  if c<x:
+   RmEEol = 472 / 7610
+   mdtcPq = 3340 / 657.2315322860169
+   fIiQwb = 1784 + 774.581465700862
+  if a<j:
+   ZaTujp = True
+   UhELmI = 1818 + 9544
+   djrSOx = 369.55319904214724 * 447.16642242677204
+  if j<g:
+   RmEEol = 472 / 7610
+   mdtcPq = 3340 / 657.2315322860169
+   fIiQwb = 1784 + 774.581465700862
+while y<h:
+  if p<e:
+   thMzjo = 986.7723072302305 / 200.92524368062936
+   FBkEbT = 430.6155239009117 + 3561
+   ptgrIs = 9315 - 5445
+  if f==p:
+   EHElec = 4933 * 154.93524032457992
+   ferjgx = True
+   NionOE = 372.3563612141013 * 430.45509225803823
+  if w>v:
+   thMzjo = 986.7723072302305 / 200.92524368062936
+   FBkEbT = 430.6155239009117 + 3561
+   ptgrIs = 9315 - 5445
+while f>e:
+  if f==e:
+   jEDimt = 216.6920638420751 / 3206
+   Wstsyr = 927.3589177009956 / 567
+   UOowNo = 341 - 9211
+  if y<k:
+   gGCLwz = 6882 * 256.836066311584
+   EKBqDb = 3474 + 7324
+   GSoSZo = 485.12253355150625 - 2838
+  if t<k:
+   jEDimt = 216.6920638420751 / 3206
+   Wstsyr = 927.3589177009956 / 567
+   UOowNo = 341 - 9211
+while g<v:
+  if a==f:
+   ObmuSl = 9334 - 9608
+   WynKJo = 588.227774788796 * 850.4276629418698
+   FxestD = 67.38811851540329 + 9936
+  if z>b:
+   WuuBAO = 180.46117472850838 * 1062
+   XJBKbU = 781.2098320046049 + 364.23436523178
+   oFNYsn = 6424 + 475.7549019276217
+  if m<l:
+   ObmuSl = 9334 - 9608
+   WynKJo = 588.227774788796 * 850.4276629418698
+   FxestD = 67.38811851540329 + 9936
+while k<s:
+  if w==r:
+   sQUHCC = 742.7865606258174 + 724.5337522588586
+   FeqiXz = 798.7633621573615 / 4378
+   Vzzczk = False
+  if y==c:
+   stehFM = 604.8071461819758 / 5336
+   nEYzRm = 9215 / 352.7093000034804
+   KJyPkp = 24.785631027623545 - 249.44231161142216
+  if v==u:
+   sQUHCC = 742.7865606258174 + 724.5337522588586
+   FeqiXz = 798.7633621573615 / 4378
+   Vzzczk = False
+while a>t:
+  if w>o:
+   mHUlro = 4847 + 491.41214542043605
+   gtyvZV = 3182 / 500.1187032016245
+   FDuKdS = 7499 / 82.15905309392112
+  if t>m:
+   yxrhWK = 617.2028869667564 * 945.4600162336632
+   FrvYXD = 9106 * 642.3098934222518
+   lhCLlq = 1104 + 800.8762431070411
+  if t>s:
+   mHUlro = 4847 + 491.41214542043605
+   gtyvZV = 3182 / 500.1187032016245
+   FDuKdS = 7499 / 82.15905309392112
+while c==a:
+  if n<f:
+   vVxTEi = True
+   SbbDpA = 9041 * 936.1337883068678
+   pMFTow = 972.8709389140892 - 1252
+  if n==d:
+   DkPXnD = 1298 / 101.85812196374378
+   PslbBl = 6850 - 6547
+   tagcVF = 179.93820074609172 * 2408
+  if n<w:
+   vVxTEi = True
+   SbbDpA = 9041 * 936.1337883068678
+   pMFTow = 972.8709389140892 - 1252
+while m>n:
+  if v>t:
+   qpvuZs = 116.69979025893242 + 588.8505568794207
+   Hfjfmh = 8566 + 4151
+   CdlSAT = 4680 - 141.16602518767917
+  if k<b:
+   WsGvCb = True
+   TBntdV = 816.6132614383944 - 58.3460005809358
+   CKHAzp = 995.5941231822233 / 6931
+  if y==j:
+   qpvuZs = 116.69979025893242 + 588.8505568794207
+   Hfjfmh = 8566 + 4151
+   CdlSAT = 4680 - 141.16602518767917
+while j==x:
+  if z==r:
+   CKHYPc = 422.73960208996704 + 8498
+   LopFZe = 114.73316978073863 / 3997
+   ycYmXI = False
+  if h==r:
+   AiFtNb = 421.56500084988414 * 56.58758373786477
+   Ycpolx = False
+   ramJyO = 4978 + 6575
+  if f<c:
+   CKHYPc = 422.73960208996704 + 8498
+   LopFZe = 114.73316978073863 / 3997
+   ycYmXI = False
+while y<s:
+  if r>t:
+   yDlCMT = 2543 * 1029
+   DuKCvA = 17.486140592042336 * 5407
+   niVejS = False
+  if n<w:
+   DKECqd = False
+   dEHJUn = 4578 / 7087
+   RcVKNv = 786.6168052449174 + 4143
+  if u==r:
+   yDlCMT = 2543 * 1029
+   DuKCvA = 17.486140592042336 * 5407
+   niVejS = False
+while f<y:
+  if a>a:
+   FyEpcG = 220.7551616685842 / 993.0457584305981
+   rIbtsu = 890.4921265089415 / 5210
+   xmwlfb = 796.3264631432817 - 3121
+  if u>z:
+   ByTLwv = True
+   jrJUIA = 229.58592886339915 / 7986
+   dqYDUF = 191.04708841558556 - 2068
+  if m>n:
+   FyEpcG = 220.7551616685842 / 993.0457584305981
+   rIbtsu = 890.4921265089415 / 5210
+   xmwlfb = 796.3264631432817 - 3121
+while l>m:
+  if r==t:
+   pBKnpW = 338.79363030214205 + 598.0414349165189
+   gQBKjA = 8690 * 352.3092496451145
+   IFmLNC = 6145 / 2108
+  if m==m:
+   JKtmDN = False
+   uexplr = 889.7729263003953 + 861.6432779125049
+   XDhvsQ = 787.1523544073399 + 641.0394505456591
+  if f<r:
+   pBKnpW = 338.79363030214205 + 598.0414349165189
+   gQBKjA = 8690 * 352.3092496451145
+   IFmLNC = 6145 / 2108
+while z<l:
+  if c<s:
+   BfQAZy = 6442 * 70.27188763065159
+   dQBdaf = 819.8767335015622 - 6982
+   GAoNYP = 289.12018134905657 + 4547
+  if y>q:
+   upCkru = False
+   tHEtOl = 59.02989429968879 + 42.177894532857486
+   NpJBYA = True
+  if d==i:
+   BfQAZy = 6442 * 70.27188763065159
+   dQBdaf = 819.8767335015622 - 6982
+   GAoNYP = 289.12018134905657 + 4547
+while q<k:
+  if j>o:
+   PECJrJ = 4911 * 900
+   gmSVvM = 3747 / 945.6676766531182
+   FufgYu = 6902 * 330.2806166700678
+  if j>f:
+   EFiOEi = False
+   CLjqzH = False
+   aNrDjs = False
+  if q==p:
+   PECJrJ = 4911 * 900
+   gmSVvM = 3747 / 945.6676766531182
+   FufgYu = 6902 * 330.2806166700678
+while p>q:
+  if w<z:
+   TDbHNK = True
+   gQSKvx = False
+   EYGmbD = 383 - 4581
+  if q>a:
+   bcBbMV = 3490 - 510.2191456963027
+   huifMS = True
+   GKhvUJ = 628.4393925106928 - 693.8631769238991
+  if y<n:
+   TDbHNK = True
+   gQSKvx = False
+   EYGmbD = 383 - 4581
+while v==s:
+  if w==q:
+   nWpTHV = 5829 - 3630
+   dwQERV = 91 * 464.2086786952131
+   qpQUKy = 720.8205990067463 + 5306
+  if k>j:
+   fxMdVw = 962.3698278201302 / 531.574037435923
+   JJxekE = True
+   meLYCu = 209.12538384386374 + 675.3584328563262
+  if c==p:
+   nWpTHV = 5829 - 3630
+   dwQERV = 91 * 464.2086786952131
+   qpQUKy = 720.8205990067463 + 5306
+while g>s:
+  if g==t:
+   eWbJxi = 405.12119090419156 + 942.4074166021834
+   QIAROj = 954.0435418386053 - 7589
+   DTGMYW = 83.13243016853716 * 5919
+  if c>n:
+   aCIThN = 65 * 936.3676856833806
+   qHokGM = 100.92557269880956 / 6300
+   ukGuFB = 26.201617937001934 + 8825
+  if z==h:
+   eWbJxi = 405.12119090419156 + 942.4074166021834
+   QIAROj = 954.0435418386053 - 7589
+   DTGMYW = 83.13243016853716 * 5919
+while y<a:
+  if b==c:
+   pJquHQ = False
+   uSMiCL = True
+   qoHySd = False
+  if l>h:
+   eojMqY = 2.584038887979287 - 9068
+   MNHJVK = 9032 + 115.33270213132613
+   zgpJlG = 3565 / 9729
+  if f>c:
+   pJquHQ = False
+   uSMiCL = True
+   qoHySd = False
+while y>n:
+  if p>w:
+   jCGmLO = 691.1626907216537 * 724.9847300349008
+   BhLLQZ = False
+   ZIPJje = 4579 / 925.5618043238087
+  if u==b:
+   GHHSdG = 1420 * 7978
+   jAekUT = 1916 - 248.0664608294799
+   HmKGAp = False
+  if l>o:
+   jCGmLO = 691.1626907216537 * 724.9847300349008
+   BhLLQZ = False
+   ZIPJje = 4579 / 925.5618043238087
+while b==n:
+  if a==h:
+   BtYWAL = 929.9862880784164 - 992.1861834212226
+   qkRzpd = 2335 - 782.6934221892895
+   ZNCSMr = 4758 - 774.9503215321441
+  if a==i:
+   FbwaTp = True
+   QuENtA = 866.7284948510753 / 5166
+   RlGSGu = False
+  if r>w:
+   BtYWAL = 929.9862880784164 - 992.1861834212226
+   qkRzpd = 2335 - 782.6934221892895
+   ZNCSMr = 4758 - 774.9503215321441
+while l>n:
+  if f>m:
+   JDfDAO = 4532 * 847.1338316249409
+   KHdWpx = 4825 / 777.3595942310693
+   VdRtjr = 5974 + 2631
+  if w==i:
+   haYqCk = 814.1482326224498 - 8875
+   AxfWVY = 944.5897514812877 * 8161
+   PoMycJ = 312.6743159109532 / 6441
+  if x==c:
+   JDfDAO = 4532 * 847.1338316249409
+   KHdWpx = 4825 / 777.3595942310693
+   VdRtjr = 5974 + 2631
+while p==y:
+  if a==a:
+   BUfByG = 269.9151807596735 - 421.5737852351412
+   dlWlom = 861.5157599909007 * 6195
+   NevNfk = 6477 + 833.845092743834
+  if t<m:
+   HJsdPo = True
+   teLEqh = 975.8133883387501 - 891.7861264230398
+   EQKpQa = 2934 + 9927
+  if x<p:
+   BUfByG = 269.9151807596735 - 421.5737852351412
+   dlWlom = 861.5157599909007 * 6195
+   NevNfk = 6477 + 833.845092743834
+while t<n:
+  if k>a:
+   Srmdxc = 840.451087364927 + 6188
+   CxxhzQ = 454.4259009793391 * 399.07537345361135
+   sliscT = False
+  if z>f:
+   zrXear = False
+   zXnOEv = True
+   YzjMEz = 818.8696108010703 + 548.4092749333894
+  if e<s:
+   Srmdxc = 840.451087364927 + 6188
+   CxxhzQ = 454.4259009793391 * 399.07537345361135
+   sliscT = False
+while s==r:
+  if v<i:
+   DSXUiO = 778.0962997416694 * 6816
+   dKcfUJ = 141.2621752089207 + 852.704935704452
+   NwhZyS = True
+  if y<g:
+   wOBiNJ = True
+   oODnCc = 122.22139169674453 / 35.37834928160775
+   rGfAPO = 7376 + 8875
+  if z==p:
+   DSXUiO = 778.0962997416694 * 6816
+   dKcfUJ = 141.2621752089207 + 852.704935704452
+   NwhZyS = True
+while t>y:
+  if x==p:
+   KPwAtu = 5906 + 94.45117779014335
+   tnimCX = 3155 - 752.0096404743896
+   VXgveh = 854.1475110621351 / 8731
+  if p>q:
+   vGQtCW = 7945 - 1638
+   GNFMNX = 449.08582390384487 + 854.1300379344674
+   ONZCoA = False
+  if b>b:
+   KPwAtu = 5906 + 94.45117779014335
+   tnimCX = 3155 - 752.0096404743896
+   VXgveh = 854.1475110621351 / 8731
+while y>x:
+  if n>n:
+   AkJXwK = 701.4370589588603 * 7065
+   oKqxNf = 175.04413158505122 * 3.442109381826832
+   VQtWYN = 4.108532464568359 + 7537
+  if c>s:
+   odRwnZ = False
+   GfBcSw = True
+   SRgfgv = 8683 * 27.56453724407681
+  if e>v:
+   AkJXwK = 701.4370589588603 * 7065
+   oKqxNf = 175.04413158505122 * 3.442109381826832
+   VQtWYN = 4.108532464568359 + 7537
+while a<z:
+  if v<l:
+   FnBUSB = 9229 * 5133
+   KHdWpx = 4825 / 777.3595942310693
+   FbwaTp = True
+  if k>p:
+   liDWGZ = 691.0507467588585 / 5762
+   BeQTbQ = 1550 - 6287
+   ljBfuw = 94.58083953034681 + 5065
+  if r<c:
+   FnBUSB = 9229 * 5133
+   KHdWpx = 4825 / 777.3595942310693
+   FbwaTp = True
+while u>o:
+  if i==r:
+   woMiTa = 873.8142558627546 - 5907
+   zXPpBt = 3007 + 791.4543242431631
+   DTGMYW = 83.13243016853716 * 5919
+  if w==y:
+   EQrTSG = 380 + 823.2021732594551
+   DpZxFH = 56.469672642407424 * 6774
+   PbBXTu = 1243 * 372.05542479471956
+  if t>o:
+   woMiTa = 873.8142558627546 - 5907
+   zXPpBt = 3007 + 791.4543242431631
+   DTGMYW = 83.13243016853716 * 5919
+while u<p:
+  if f==c:
+   duGrtd = 817.6936185444819 * 684.2169591031451
+   TCqUIX = 8479 - 878.1142804845115
+   SGBrMw = 813.8109685222271 - 654.5269034673313
+  if k==v:
+   lFuHsc = 4901 / 916.8298412085484
+   xyPkef = 8146 + 505.3016221190549
+   bRvZvp = 4263 - 323.7494259639842
+  if t>f:
+   duGrtd = 817.6936185444819 * 684.2169591031451
+   TCqUIX = 8479 - 878.1142804845115
+   SGBrMw = 813.8109685222271 - 654.5269034673313
+while g==p:
+  if p==d:
+   sliscT = False
+   PufpoZ = 3279 / 970.5224831565694
+   znzafG = 848.8227006928149 / 2673
+  if l<f:
+   vqgIav = True
+   urKuir = 485.3750638046866 * 8736
+   VDgBwu = 707 / 2910
+  if l>w:
+   sliscT = False
+   PufpoZ = 3279 / 970.5224831565694
+   znzafG = 848.8227006928149 / 2673
+while x>i:
+  if p>y:
+   VyBFVj = 1463 / 5973
+   pWgPkH = 716.9717759590077 + 3254
+   NceXCu = 408 / 308.37951366208546
+  if z==e:
+   twaIdJ = 544.9188899966038 - 443.92052379529355
+   qTokZz = 599.9988960795384 + 8447
+   MncXeZ = True
+  if t>n:
+   VyBFVj = 1463 / 5973
+   pWgPkH = 716.9717759590077 + 3254
+   NceXCu = 408 / 308.37951366208546
+while l>d:
+  if q>n:
+   KFzPsa = 4601 * 8290
+   aReRAH = True
+   WQhOjm = 646 / 3298
+  if z>d:
+   uryUXU = 7553 + 651.8366728582864
+   uZGcFD = 1635 - 5480
+   ipkJUL = 7.096812042109763 + 195.5919006859921
+  if d==i:
+   KFzPsa = 4601 * 8290
+   aReRAH = True
+   WQhOjm = 646 / 3298
+while w==p:
+  if d==h:
+   gysUJD = 3387 + 5808
+   ASEenv = 976.8683273022724 + 705.8992392937437
+   iubAbv = 579.9223838962937 + 762.7321334035896
+  if w==x:
+   rTHLMl = True
+   fDCciM = True
+   TZbxQs = True
+  if w==m:
+   gysUJD = 3387 + 5808
+   ASEenv = 976.8683273022724 + 705.8992392937437
+   iubAbv = 579.9223838962937 + 762.7321334035896
+while w<m:
+  if a<j:
+   alxHPb = 937.7910091987645 + 457.4645298257817
+   RiqIib = 784.0746271012786 + 393.1568883715465
+   JHCblK = 3743 + 673.9099678406038
+  if b==y:
+   oxKJcL = 1081 * 3904
+   kpbgFJ = 5807 + 283.2783955098369
+   gysUJD = 3387 + 5808
+  if b<o:
+   alxHPb = 937.7910091987645 + 457.4645298257817
+   RiqIib = 784.0746271012786 + 393.1568883715465
+   JHCblK = 3743 + 673.9099678406038
+while a<n:
+  if w==o:
+   MPIgCZ = 760.3420024086217 / 9413
+   sWeGyD = 7241 * 8683
+   nQoTwK = 9960 / 9712
+  if i==q:
+   vxESVd = 7653 + 662.3807305046504
+   LUPmuP = 198.2891285496857 * 602.1570790816068
+   wutmhW = 549.1334893428711 + 613.425884566938
+  if l>l:
+   MPIgCZ = 760.3420024086217 / 9413
+   sWeGyD = 7241 * 8683
+   nQoTwK = 9960 / 9712
+while t>i:
+  if b<g:
+   dfwWSO = 9727 * 574.1311621566823
+   jZusso = True
+   yRGIdp = 677.0810272448259 * 7195
+  if f<p:
+   oimGun = False
+   zCumVM = False
+   WMbxrO = 7393 / 31.623424020668423
+  if a<w:
+   dfwWSO = 9727 * 574.1311621566823
+   jZusso = True
+   yRGIdp = 677.0810272448259 * 7195
+while v==a:
+  if z==a:
+   fMLiMC = 897.3221149412801 - 3705
+   YOZHkw = 409.8442555798309 / 769.4855662526496
+   arYgur = 512.9276907969197 + 9100
+  if m==g:
+   AQluTN = 672.0610351542448 / 5631
+   qIvtLm = 305.5108586581164 + 7161
+   JAoHdg = 229.52623304904165 / 7156
+  if n==l:
+   fMLiMC = 897.3221149412801 - 3705
+   YOZHkw = 409.8442555798309 / 769.4855662526496
+   arYgur = 512.9276907969197 + 9100
+while x==j:
+  if b<n:
+   GQoptu = True
+   igNKaF = 5606 * 7600
+   moWwso = 6475 * 7386
+  if f>p:
+   OdcJTO = 910.8769894614552 * 281.8277603221
+   Dmajsj = 1230 - 9018
+   uRtexc = 102.94872571945167 * 794.3807026110746
+  if g==o:
+   GQoptu = True
+   igNKaF = 5606 * 7600
+   moWwso = 6475 * 7386
+while h<j:
+  if u==x:
+   AvkvHf = 866.3576040667325 + 2165
+   HBZccU = 48.684824110386174 * 596.2012051456866
+   XMNjqv = 447.0491065587008 + 2383
+  if r==i:
+   KdvNGz = 726.2356374143116 + 238.99070783007247
+   gUOIdu = 768.6325313302493 + 201.79854621969142
+   rREfYt = 199.60611747516808 - 992
+  if c<x:
+   AvkvHf = 866.3576040667325 + 2165
+   HBZccU = 48.684824110386174 * 596.2012051456866
+   XMNjqv = 447.0491065587008 + 2383
+while g>a:
+  if k<m:
+   BaXHRo = False
+   JFAzyU = 6976 * 5430
+   KBihsp = True
+  if d>b:
+   hojDQJ = 8614 + 479.7390609897061
+   hpDJhA = 4738 + 646.9109883749979
+   ZBcauj = True
+  if v<t:
+   BaXHRo = False
+   JFAzyU = 6976 * 5430
+   KBihsp = True
+while e==t:
+  if c==d:
+   WNAPlQ = True
+   sFqbKB = 633.7557738196156 / 350.03689450417306
+   IMKEXw = 990.0862029568855 / 365.0646354578076
+  if r>t:
+   mlMCrc = 763.7081024249555 - 50.446372759726515
+   EdIFlw = True
+   dqYDUF = 191.04708841558556 - 2068
+  if k<y:
+   WNAPlQ = True
+   sFqbKB = 633.7557738196156 / 350.03689450417306
+   IMKEXw = 990.0862029568855 / 365.0646354578076
+while q<r:
+  if y==b:
+   vyLCuW = 2438 + 838.0840938308061
+   OyrlLS = True
+   gmKUPE = 566.0977303474297 - 8150
+  if y>u:
+   yhadaj = True
+   bVvgBf = 456.94330918175274 - 81.4340204570282
+   IKdTEM = 986.833395667933 * 1896
+  if w<o:
+   vyLCuW = 2438 + 838.0840938308061
+   OyrlLS = True
+   gmKUPE = 566.0977303474297 - 8150
+while f==d:
+  if r<q:
+   zfiqeQ = 5953 + 601.9421367750667
+   VsgmTv = 487.7943322442095 - 3224
+   YOUJiX = 4323 * 576.6802771826331
+  if m<a:
+   oifBwT = 7235 * 424.219041112442
+   fNxjMI = 7307 / 199.5420345608482
+   vUCxcv = 10.592451761813766 * 631.7113930708553
+  if i==z:
+   zfiqeQ = 5953 + 601.9421367750667
+   VsgmTv = 487.7943322442095 - 3224
+   YOUJiX = 4323 * 576.6802771826331
+while p<w:
+  if e>k:
+   bVvgBf = 456.94330918175274 - 81.4340204570282
+   OqEJcc = False
+   BzccDN = 922.9493763339024 / 27
+  if h<h:
+   vLXPYG = 2468 - 382.1771305185661
+   lfrern = 536.2564874486008 * 467.483573020639
+   OUjXvc = 160.46482770637198 * 591.1453284590094
+  if n<n:
+   bVvgBf = 456.94330918175274 - 81.4340204570282
+   OqEJcc = False
+   BzccDN = 922.9493763339024 / 27
+while u==a:
+  if e>p:
+   liDWGZ = 691.0507467588585 / 5762
+   qGMWuL = 132.20760952074625 + 7398
+   UoqUYH = 1022 - 2352
+  if m>m:
+   fKMnGf = False
+   aFyDfW = 486.48169483592784 / 6674
+   QVGpYe = 431.7005195562492 - 861.8021371431491
+  if p>n:
+   liDWGZ = 691.0507467588585 / 5762
+   qGMWuL = 132.20760952074625 + 7398
+   UoqUYH = 1022 - 2352
+while d<m:
+  if w==a:
+   dRCTDf = 558.9322610095335 * 744.6757095164456
+   SPpHQz = False
+   boXSQD = 8361 + 7028
+  if z<c:
+   Nsvbfz = 4970 - 156.08839388054042
+   JykIzu = 783.522416255107 - 4540
+   NuNhpR = 401.5734786823613 - 984.0339707409255
+  if n>d:
+   dRCTDf = 558.9322610095335 * 744.6757095164456
+   SPpHQz = False
+   boXSQD = 8361 + 7028
+while x==w:
+  if m>z:
+   MUgLyG = False
+   ZsFNya = True
+   ZOQjjq = 712.9701138949266 - 7800
+  if s>h:
+   QYKjeo = 840.8617178479581 - 8214
+   WwQCQV = 744.1414111838656 + 885.8360569270885
+   AooKvS = False
+  if b>k:
+   MUgLyG = False
+   ZsFNya = True
+   ZOQjjq = 712.9701138949266 - 7800
+while q<o:
+  if z>t:
+   tuXXJj = 827.9416202442878 / 8977
+   sdYaHI = 668.3472663385432 / 7027
+   SFCenB = 273.02996324012213 / 7312
+  if o==z:
+   HWUZfd = True
+   gBglyj = 3612 + 2704
+   oMisZm = 4013 - 265.26835636186274
+  if s>e:
+   tuXXJj = 827.9416202442878 / 8977
+   sdYaHI = 668.3472663385432 / 7027
+   SFCenB = 273.02996324012213 / 7312
+while n<a:
+  if m>n:
+   jItHBh = False
+   nmSVtB = 8157 * 2251
+   SAAGrB = 8396 + 5734
+  if y==w:
+   niSSya = 126.34214548604508 + 438.1333560407439
+   aQHxQK = 8822 * 2673
+   KXpOFy = 43.86493163574259 / 604.0911104370097
+  if w>z:
+   jItHBh = False
+   nmSVtB = 8157 * 2251
+   SAAGrB = 8396 + 5734
+while u<u:
+  if d==e:
+   ojoXUJ = 5528 + 1972
+   OKeOfp = 86.44923903745091 - 517.312898125143
+   AZddeS = 6751 + 823.3996491472379
+  if l>l:
+   MknEib = 6632 - 6550
+   yThcaO = 2461 - 480
+   yCGKAi = 42 + 593.3016603520686
+  if e<l:
+   ojoXUJ = 5528 + 1972
+   OKeOfp = 86.44923903745091 - 517.312898125143
+   AZddeS = 6751 + 823.3996491472379
+while o<y:
+  if f==y:
+   QFFvZP = False
+   TVyljs = 811.0776440458365 / 4860
+   mrpIHn = 9236 * 9130
+  if t==z:
+   ptaSWa = 984 * 5640
+   QUbpMA = 3914 + 1253
+   lYQGUj = 22.72936681419213 / 49.57647096132736
+  if t>x:
+   QFFvZP = False
+   TVyljs = 811.0776440458365 / 4860
+   mrpIHn = 9236 * 9130
+while i==m:
+  if u>d:
+   SqtHiQ = 438.5710911070543 - 1953
+   FerIVy = 7252 * 855.3966984826376
+   wAxzSY = 973.2647443713978 / 40.75666516703901
+  if v==e:
+   Dounry = 65 / 735.634734492422
+   OcnSKq = 3958 + 2943
+   pWUQwp = 862.3535845644034 / 8687
+  if p>l:
+   SqtHiQ = 438.5710911070543 - 1953
+   FerIVy = 7252 * 855.3966984826376
+   wAxzSY = 973.2647443713978 / 40.75666516703901
+while k>a:
+  if a==o:
+   NFKGXm = 2089 * 2279
+   aXjyDN = 239.86908287850446 + 5172
+   QYzYNu = 3319 * 259.4897590605961
+  if j<u:
+   GsBgWY = 8627 / 742
+   cTcZqS = 9615 + 2255
+   NJJuWI = 528.5802299627535 * 4811
+  if h==x:
+   NFKGXm = 2089 * 2279
+   aXjyDN = 239.86908287850446 + 5172
+   QYzYNu = 3319 * 259.4897590605961
+while e==o:
+  if a>k:
+   TZiWqQ = True
+   ojcizQ = 423.02665812734926 / 6196
+   qOoDgm = False
+  if l<s:
+   QoUuBi = 7221 - 9560
+   DJkfNb = 410.50679553928825 * 9217
+   BDZpip = 107.17426932359876 / 213.9783921825003
+  if c>z:
+   TZiWqQ = True
+   ojcizQ = 423.02665812734926 / 6196
+   qOoDgm = False
+while a>e:
+  if m<b:
+   AZZREV = 6372 + 8817
+   MknEib = 6632 - 6550
+   ttEQjh = 594.5962983965053 + 2334
+  if y<d:
+   SnDACZ = 5060 * 339.86646240705295
+   TRHnmU = True
+   qvMhlk = 4331 - 475.51648820541436
+  if w<u:
+   AZZREV = 6372 + 8817
+   MknEib = 6632 - 6550
+   ttEQjh = 594.5962983965053 + 2334
+while w>s:
+  if h<k:
+   cCcHEx = True
+   JhBEre = 1873 / 950.7434013628983
+   zunXef = 456.78127353771464 - 824.954315574132
+  if e==j:
+   ndxlwy = 7546 + 979.5594272013678
+   LOGMtp = 8.247239235196023 + 992.1718060392209
+   atzLBV = 5629 / 9068
+  if r==s:
+   cCcHEx = True
+   JhBEre = 1873 / 950.7434013628983
+   zunXef = 456.78127353771464 - 824.954315574132
+while o>i:
+  if r==h:
+   FrvYXD = 9106 * 642.3098934222518
+   bsQMIJ = 8635 / 2769
+   qGgzmu = 482.01547427689746 * 4800
+  if o>r:
+   xDChfP = True
+   hHqLKn = 3778 / 8652
+   XVpmTp = True
+  if e==a:
+   FrvYXD = 9106 * 642.3098934222518
+   bsQMIJ = 8635 / 2769
+   qGgzmu = 482.01547427689746 * 4800
+while s>f:
+  if e>x:
+   okXeUm = 6409 - 716.5039896915156
+   ilWQwQ = True
+   HKAWoe = 8131 + 11.630551135350562
+  if j>y:
+   WxVYMo = 926.8087707808304 / 362.83609160740286
+   gmSVvM = 3747 / 945.6676766531182
+   Wgqvaj = 619.8075458184347 - 253.12501607098608
+  if s<v:
+   okXeUm = 6409 - 716.5039896915156
+   ilWQwQ = True
+   HKAWoe = 8131 + 11.630551135350562
+while w<y:
+  if a>t:
+   NRMdva = 841.8064354658866 - 9509
+   iUgGEE = 5958 * 6047
+   ZqfbkQ = False
+  if a<c:
+   rPRBCR = 418.92163109654786 - 4255
+   vygmuL = 74.3252160821948 + 147.4326727819355
+   uURNOy = 35.96095702511368 + 845.497976070134
+  if v>c:
+   NRMdva = 841.8064354658866 - 9509
+   iUgGEE = 5958 * 6047
+   ZqfbkQ = False
+while e==j:
+  if v<y:
+   OUjXvc = 160.46482770637198 * 591.1453284590094
+   ThCKLj = 696.8043664474263 / 137.4205116594561
+   AsblZS = 5768 + 353.6395033069896
+  if l<l:
+   jdxIuw = False
+   uorOLp = 555.2596221177491 * 1923
+   iktRtC = 5498 / 149.50762732197845
+  if p<z:
+   OUjXvc = 160.46482770637198 * 591.1453284590094
+   ThCKLj = 696.8043664474263 / 137.4205116594561
+   AsblZS = 5768 + 353.6395033069896
+while x>j:
+  if z>v:
+   ZHRrRp = 1631 + 29
+   VoAPkB = 176.5141036190813 + 576.7422123062768
+   giqDvk = 3757 * 167.90026128091247
+  if k>m:
+   EJKuzM = 354.861573620873 - 4949
+   Zwecdz = 4130 * 6723
+   rsYiSR = 8924 + 544
+  if u<o:
+   ZHRrRp = 1631 + 29
+   VoAPkB = 176.5141036190813 + 576.7422123062768
+   giqDvk = 3757 * 167.90026128091247
+while b>k:
+  if x<y:
+   uaDCjL = 4609 * 693.3721044532595
+   iqPeEO = False
+   zPcxpF = 265.6300336969782 / 930.4379230422736
+  if i<z:
+   XzPNJS = 687.199718924784 / 578
+   ptFccK = 799.4680416134689 / 6230
+   neffeS = True
+  if e>y:
+   uaDCjL = 4609 * 693.3721044532595
+   iqPeEO = False
+   zPcxpF = 265.6300336969782 / 930.4379230422736
+while p<j:
+  if c==y:
+   eKtrKg = 264.263633322324 + 155.2040834776184
+   NLRJxp = 232.744632561175 + 7050
+   RZnGuv = True
+  if v<g:
+   ezWwSi = True
+   EjqnbG = 239.55959605622672 + 439.82254257582326
+   bAJlgF = True
+  if o<b:
+   eKtrKg = 264.263633322324 + 155.2040834776184
+   NLRJxp = 232.744632561175 + 7050
+   RZnGuv = True
+while u>q:
+  if y==t:
+   ezWwSi = True
+   eKPQGi = 5225 / 8701
+   SpEcMM = 8775 / 1165
+  if b==v:
+   xeNyUk = 441.9016134353849 * 8425
+   hhfpsm = 1117 - 230.6257410948583
+   UXTYyS = 592.6517822770414 + 236.75275753116736
+  if f>c:
+   ezWwSi = True
+   eKPQGi = 5225 / 8701
+   SpEcMM = 8775 / 1165
+while j==o:
+  if d<p:
+   wUyPGz = 900.465855364572 / 252.67726520715635
+   FCDLkq = 965.5486420102105 * 189.2792867327514
+   kCWidm = 254.28347474848044 * 858.7022015430159
+  if b>h:
+   cougxN = False
+   KeJzkm = False
+   fcWjNW = 2837 - 977.4716696265854
+  if y==r:
+   wUyPGz = 900.465855364572 / 252.67726520715635
+   FCDLkq = 965.5486420102105 * 189.2792867327514
+   kCWidm = 254.28347474848044 * 858.7022015430159
+while h>j:
+  if e>t:
+   XUMThy = 1732 / 7227
+   pFJckY = 822 - 38.187808813201514
+   qEQuiV = 9141 - 303.80920686502225
+  if g==w:
+   nHBWoB = 317.5821247962823 / 789.8949384106206
+   SsBfJJ = 2470 * 826.038646869686
+   fVrQNX = 9964 * 364.5324538251897
+  if d<q:
+   XUMThy = 1732 / 7227
+   pFJckY = 822 - 38.187808813201514
+   qEQuiV = 9141 - 303.80920686502225
+while m==i:
+  if l==e:
+   mmJDcQ = 4078 / 7319
+   RgZead = 994 + 826.9919572066735
+   fTAzks = 273.73148232530406 + 829.6830469963746
+  if n>t:
+   OTyUOV = 828.6153197505495 * 9483
+   SEnNaK = 897.7882972264013 - 773.96113527026
+   yJtmqP = 9205 + 8867
+  if h>h:
+   mmJDcQ = 4078 / 7319
+   RgZead = 994 + 826.9919572066735
+   fTAzks = 273.73148232530406 + 829.6830469963746
+while q>v:
+  if s>p:
+   SDkvhO = 734.8879926955021 + 9739
+   MLxsmx = 2392 - 9908
+   jfAEdX = 729.9414065198408 - 838.6610408917842
+  if d==g:
+   moeFVY = 8997 - 2570
+   iojnfJ = 6262 / 568.8491618637714
+   jkdeRO = 6088 - 766.7405270220767
+  if e==z:
+   SDkvhO = 734.8879926955021 + 9739
+   MLxsmx = 2392 - 9908
+   jfAEdX = 729.9414065198408 - 838.6610408917842
+while i<k:
+  if f<w:
+   yugbHk = 4472 * 394
+   nwCxuy = 697.6145589729455 * 3857
+   EHJofw = 635 * 750.8835134079853
+  if z==p:
+   SbbDpA = 9041 * 936.1337883068678
+   JmQsJJ = 7871 * 911.6437556684947
+   LbfUYh = 339 / 1871
+  if c==g:
+   yugbHk = 4472 * 394
+   nwCxuy = 697.6145589729455 * 3857
+   EHJofw = 635 * 750.8835134079853
+while c>j:
+  if c<b:
+   vKjKQo = 961.1908924961454 * 4048
+   WAvsUz = 948.5355542328839 / 8309
+   MZqRGm = 763.63658460275 - 585.8763111629041
+  if s<e:
+   ywbXaO = 84.5484002621201 + 4469
+   lRtzHJ = 333.68511101601956 / 949.7488475602719
+   zgEEQX = 863.0365275644331 - 520.0000710915893
+  if c>c:
+   vKjKQo = 961.1908924961454 * 4048
+   WAvsUz = 948.5355542328839 / 8309
+   MZqRGm = 763.63658460275 - 585.8763111629041
+while n<v:
+  if e==q:
+   HfDDku = 2001 / 6022
+   wVZjaw = 9577 / 758.8992669074578
+   ypeoHk = 635.2609575527622 / 66.64917580522825
+  if l==j:
+   UnIbIP = 5176 / 8248
+   LaoReS = 4504 + 7723
+   SieTma = 617.9344026752207 + 3956
+  if f<z:
+   HfDDku = 2001 / 6022
+   wVZjaw = 9577 / 758.8992669074578
+   ypeoHk = 635.2609575527622 / 66.64917580522825
+while u>t:
+  if k>q:
+   LfVgUj = 5283 - 1241
+   Lftczc = 309.1093974990454 + 5925
+   yGyoaH = 6650 - 2911
+  if x>h:
+   akIiGq = 1055 - 4315
+   pNSXHR = 8858 * 586.7720413127764
+   WKSAee = 833.1148342962367 - 568.4510387695709
+  if f>v:
+   LfVgUj = 5283 - 1241
+   Lftczc = 309.1093974990454 + 5925
+   yGyoaH = 6650 - 2911
+while x<n:
+  if z<o:
+   UhJLvO = 9957 - 7638
+   saLzNt = False
+   fEFttK = 2920 * 2492
+  if c<t:
+   hDgadh = 976.8012042542953 / 874.5720437737558
+   uRtexc = 102.94872571945167 * 794.3807026110746
+   MHuGff = 923.7916942421264 + 959.5104209818446
+  if j==d:
+   UhJLvO = 9957 - 7638
+   saLzNt = False
+   fEFttK = 2920 * 2492
+while q==c:
+  if r>z:
+   TGjdnw = 737.3481046237785 / 7244
+   CMWNvZ = 2562 - 818.3305158137509
+   cWCTkP = 8733 + 763
+  if a<f:
+   tUaLvT = 282.76486122963337 + 665.3626616837946
+   bItWHl = 401.3327794647294 - 306
+   bZCDQS = 909.6204090215415 / 764.8141816350163
+  if l<h:
+   TGjdnw = 737.3481046237785 / 7244
+   CMWNvZ = 2562 - 818.3305158137509
+   cWCTkP = 8733 + 763
+while g>j:
+  if h==r:
+   UgxgsW = 4724 + 1894
+   oIRoDD = 6002 - 3096
+   XhzdCo = 6763 + 7339
+  if i==o:
+   MnUpiY = True
+   lnTBIG = 7590 / 671
+   VlcZDU = 757 * 937.0682782237841
+  if w==x:
+   UgxgsW = 4724 + 1894
+   oIRoDD = 6002 - 3096
+   XhzdCo = 6763 + 7339
+while c==x:
+  if l<v:
+   NRfUfd = 6032 * 771.9423056522426
+   iszdSK = 789.2099559418502 / 1643
+   vnHErn = False
+  if q<d:
+   ZOQjjq = 712.9701138949266 - 7800
+   RgmYXc = 1283 / 61.89196337611344
+   PSNHym = False
+  if p==e:
+   NRfUfd = 6032 * 771.9423056522426
+   iszdSK = 789.2099559418502 / 1643
+   vnHErn = False
+while e==w:
+  if o==p:
+   wSsBzB = 5158 / 545.2849735839001
+   IXcNjO = 684.3900217048567 + 608.5186553569566
+   aUxCNq = 835.6439575373149 * 961.0981632935164
+  if j>j:
+   AJZTot = 627.2796102770494 + 7923
+   fBMKbO = 998.2290041833137 * 356.19278606471835
+   PXgSYt = 8500 * 543.070477670292
+  if w<b:
+   wSsBzB = 5158 / 545.2849735839001
+   IXcNjO = 684.3900217048567 + 608.5186553569566
+   aUxCNq = 835.6439575373149 * 961.0981632935164
+while x==p:
+  if z==r:
+   gJkQJv = False
+   StYJvP = 631 - 6123
+   gQSKvx = False
+  if z>t:
+   VVsCiT = True
+   zuukOA = 4649 / 238.83861447004557
+   QiXrMp = False
+  if z<i:
+   gJkQJv = False
+   StYJvP = 631 - 6123
+   gQSKvx = False
+while h==g:
+  if z<g:
+   CMWNvZ = 2562 - 818.3305158137509
+   gMebou = False
+   ymlyXj = 475.53597509944206 / 266.1286339555483
+  if z==o:
+   BYunbl = True
+   viuhYm = 594.8755355179511 / 294
+   myjwCr = 133.05287737811307 * 6249
+  if w<z:
+   CMWNvZ = 2562 - 818.3305158137509
+   gMebou = False
+   ymlyXj = 475.53597509944206 / 266.1286339555483
+while d>a:
+  if v<k:
+   nwsHiP = False
+   WsGvCb = True
+   EOoAaJ = True
+  if m>d:
+   VaSXdP = 802.1858710083833 * 374.5268619946677
+   zYJWWI = 8900 + 861.3105756839238
+   chndKm = 7735 + 600.2778197047716
+  if l==s:
+   nwsHiP = False
+   WsGvCb = True
+   EOoAaJ = True
+while u==d:
+  if x==c:
+   MHuGff = 923.7916942421264 + 959.5104209818446
+   GTRBlc = 5474 + 627.2816922327222
+   GMZhtY = 589.4362253661453 * 68.44421192883566
+  if k>j:
+   BMarrP = 2664 - 932.274133962134
+   lDHeIK = 916.3782611058099 + 913.2981180953849
+   LWYGXW = 929.4885446264998 * 573.878951601845
+  if p>i:
+   MHuGff = 923.7916942421264 + 959.5104209818446
+   GTRBlc = 5474 + 627.2816922327222
+   GMZhtY = 589.4362253661453 * 68.44421192883566
+while y==f:
+  if j<i:
+   sIQPWL = False
+   elFdBC = False
+   RBVuUZ = 907.1677197019955 * 7550
+  if k>s:
+   uIPrLa = 90.74466263513261 + 512
+   fBRIaX = 475.221033491601 / 96.42764774417657
+   JZBBBS = 832 - 9322
+  if y==l:
+   sIQPWL = False
+   elFdBC = False
+   RBVuUZ = 907.1677197019955 * 7550
+while y>m:
+  if q==g:
+   Sjtxhn = 3368 - 931.7482095505433
+   ODpZTt = 970.6230304013742 * 7367
+   yeDFvJ = 2.755314147232583 - 2647
+  if g==w:
+   YGeyCS = 695.4081861258924 - 9919
+   FmhfYS = 580.2318799025879 / 252.68739148557336
+   KdvNGz = 726.2356374143116 + 238.99070783007247
+  if g>o:
+   Sjtxhn = 3368 - 931.7482095505433
+   ODpZTt = 970.6230304013742 * 7367
+   yeDFvJ = 2.755314147232583 - 2647
+while l>n:
+  if q>r:
+   OYpksl = 700.5267386920244 + 332.4650708130093
+   SzCMJb = 521.2819909641908 - 7197
+   TGCZBt = 950 / 7212
+  if a<a:
+   QKojLC = 5209 - 272.93155785573134
+   SVqekB = 7873 / 740
+   xwSULU = 813.0136377778588 + 590.387932960885
+  if e>p:
+   OYpksl = 700.5267386920244 + 332.4650708130093
+   SzCMJb = 521.2819909641908 - 7197
+   TGCZBt = 950 / 7212
+while a<j:
+  if t>h:
+   KkIVGP = 737.841970990802 - 238.8392448005668
+   NDqvbH = 6514 + 711.1363502679376
+   hXjlXb = False
+  if l>c:
+   jkRLtA = 436.8855016736197 + 213.75961721621684
+   tWSjig = 4671 * 470.5489989577113
+   nUUNjo = 7056 + 6546
+  if z<t:
+   KkIVGP = 737.841970990802 - 238.8392448005668
+   NDqvbH = 6514 + 711.1363502679376
+   hXjlXb = False
+while r==e:
+  if y<m:
+   BQhLiq = 182.53304498653554 - 4579
+   nwsHiP = False
+   wzAgpZ = False
+  if g>c:
+   EUDTLr = 185.27243541198322 / 384.8676633258249
+   SWqmDv = 2318 + 8685
+   NIPmfh = 4271 + 853.2674711908825
+  if l<u:
+   BQhLiq = 182.53304498653554 - 4579
+   nwsHiP = False
+   wzAgpZ = False
+while h==n:
+  if p>a:
+   EjVVYi = 713.6929659474546 * 79.8174562499875
+   GdLQMJ = 554.6880535464687 - 789.9122033001678
+   NqqXMX = True
+  if a>f:
+   MTLXJD = 2376 / 295.24965904894566
+   MZmOFD = 840.482360110538 / 5612
+   rFBZWF = 918.9428037332269 * 565
+  if q==e:
+   EjVVYi = 713.6929659474546 * 79.8174562499875
+   GdLQMJ = 554.6880535464687 - 789.9122033001678
+   NqqXMX = True
+while k<v:
+  if e>u:
+   ZsgxNH = 4045 - 339.96586470317766
+   cHlAar = 606.4244687732279 / 592.3336729533122
+   EOxNNB = 1436 / 2362
+  if f==p:
+   kpxHJl = 972 - 2964
+   faonRs = 8728 + 4964
+   bbqyPN = 6745 + 4616
+  if x==a:
+   ZsgxNH = 4045 - 339.96586470317766
+   cHlAar = 606.4244687732279 / 592.3336729533122
+   EOxNNB = 1436 / 2362
+while i>d:
+  if r>x:
+   RugEFe = 20.69239289395797 - 7985
+   gdzyjQ = 302.1295042030225 / 7271
+   RclcZO = 1768 - 8493
+  if l<p:
+   xcYbob = 412.5183864068234 + 52.17353940403257
+   sliscT = False
+   YXiZQM = 5901 + 545.6644112284506
+  if j<x:
+   RugEFe = 20.69239289395797 - 7985
+   gdzyjQ = 302.1295042030225 / 7271
+   RclcZO = 1768 - 8493
+while r<v:
+  if r<r:
+   BuPguq = 7319 - 6341
+   UKvTAO = 996 / 120.4669889115331
+   aLqHVJ = 202.81913301124092 + 9726
+  if x<p:
+   BtusYr = True
+   iUVMaY = 859.4078041302243 + 364
+   eGFEnD = 3990 / 7426
+  if k>u:
+   BuPguq = 7319 - 6341
+   UKvTAO = 996 / 120.4669889115331
+   aLqHVJ = 202.81913301124092 + 9726
+while r>r:
+  if b>l:
+   Xoijle = 630.6396824924923 * 658.6152319483385
+   zMqAel = 93.4976466005974 * 6263
+   cavcTh = 489.767205821155 - 8772
+  if d>o:
+   EEGYcL = 260.7342524198638 / 6251
+   NnSDon = True
+   sPTtNM = 4526 - 457.85613494687226
+  if b<f:
+   Xoijle = 630.6396824924923 * 658.6152319483385
+   zMqAel = 93.4976466005974 * 6263
+   cavcTh = 489.767205821155 - 8772
+while s>y:
+  if i==u:
+   oZDhYw = 6754 * 609.9708435141132
+   Oyxrtx = 3445 * 5856
+   VnYKgP = 155 * 8360
+  if o<x:
+   CYWTdv = 13.659132209512553 / 1458
+   CchbPl = 370.08118517707726 / 114.9895993589206
+   XlevNM = 6823 * 6246
+  if d==q:
+   oZDhYw = 6754 * 609.9708435141132
+   Oyxrtx = 3445 * 5856
+   VnYKgP = 155 * 8360
+while x==w:
+  if l<e:
+   oJtDVK = 2261 / 239.2155054695837
+   tjiWIK = 556.3664636913574 + 9237
+   oLfVQm = 103.83288759521365 + 3020
+  if b<t:
+   EqFwDT = True
+   vFrvJZ = 370.6607405319886 + 5982
+   LBTAHL = 172.30483151930693 - 960.3951486459022
+  if h>y:
+   oJtDVK = 2261 / 239.2155054695837
+   tjiWIK = 556.3664636913574 + 9237
+   oLfVQm = 103.83288759521365 + 3020
+while d<w:
+  if m>v:
+   woIZOv = False
+   gKtDww = 5295 - 795.8997983498874
+   Idwdpk = 9061 / 592.366265907423
+  if q==g:
+   KrgfEU = 5478 / 1810
+   IfMbIi = 7460 * 9595
+   TmxeHU = 377.4642325999944 * 7898
+  if s<m:
+   woIZOv = False
+   gKtDww = 5295 - 795.8997983498874
+   Idwdpk = 9061 / 592.366265907423
+while s>k:
+  if f<x:
+   Oxtlux = False
+   ihnDlC = 426.7195424032594 * 66.1833913202853
+   SmOQEH = 1607 * 848.8914707145161
+  if d==w:
+   HsvskX = 4252 - 619.3031104253572
+   nAIWpG = 1566 / 6335
+   BUTmYQ = 5036 - 768.8557765000442
+  if h<b:
+   Oxtlux = False
+   ihnDlC = 426.7195424032594 * 66.1833913202853
+   SmOQEH = 1607 * 848.8914707145161
+while t>k:
+  if s==l:
+   crWcxE = 677 - 444.78462735003393
+   QcWKYK = 1537 * 52.24865639747761
+   RAYQyh = 106.54211944454774 * 8453
+  if r>b:
+   okXeUm = 6409 - 716.5039896915156
+   wrXXFJ = 220.12057862475763 - 600
+   bkiHpP = False
+  if z>u:
+   crWcxE = 677 - 444.78462735003393
+   QcWKYK = 1537 * 52.24865639747761
+   RAYQyh = 106.54211944454774 * 8453
+while t==i:
+  if j<f:
+   sBhEYO = 9644 * 1182
+   Varyvx = 7433 - 5241
+   EvyWrL = 974.9542521884332 - 5080
+  if l>v:
+   kTnwBL = 5956 * 439.8525650582439
+   XpPzUX = 1188 - 6670
+   DOzLPo = False
+  if s<j:
+   sBhEYO = 9644 * 1182
+   Varyvx = 7433 - 5241
+   EvyWrL = 974.9542521884332 - 5080
+while v==p:
+  if w>o:
+   PFObRS = 7059 / 748.6042708118603
+   wxywUP = 28.503657226064178 * 312.71361483566375
+   ZWhlUT = False
+  if u>g:
+   GnFqHE = 10.31033362278626 + 2835
+   znjrEF = 778.4525187435353 + 476.7584321802474
+   UUsENS = 789.2398989195965 * 85.56052060604488
+  if k<q:
+   PFObRS = 7059 / 748.6042708118603
+   wxywUP = 28.503657226064178 * 312.71361483566375
+   ZWhlUT = False
+while u<r:
+  if d==o:
+   HaApqs = False
+   pDJisR = False
+   hslYcr = 470.9687765187873 * 2123
+  if n>f:
+   HKcGHL = False
+   kVRJnX = 60 + 8163
+   yNpiwG = 2588 / 840.551389041822
+  if c>a:
+   HaApqs = False
+   pDJisR = False
+   hslYcr = 470.9687765187873 * 2123
+while m>z:
+  if x==k:
+   yjoJTV = 9257 - 7657
+   MGsQSi = 1530 - 8512
+   vgaWWc = 508.24946469842024 * 308.9732147256464
+  if h<q:
+   xpRxZw = 457.0711993773969 + 755.3699356105077
+   VHzXSP = 901.8983183554675 / 9340
+   kgDBTN = 620.1547677338908 / 592.2206943723102
+  if a>t:
+   yjoJTV = 9257 - 7657
+   MGsQSi = 1530 - 8512
+   vgaWWc = 508.24946469842024 * 308.9732147256464
+while f>u:
+  if i<u:
+   pbODRm = True
+   wOxSTc = True
+   KkNrVO = 1058 - 264.25327678991425
+  if s==s:
+   KrxIdI = 168.0722153293559 - 906.010950091696
+   MYkwCt = 691.9803164184444 + 743.6346224780275
+   EnTZSl = 165.9473813256196 / 5894
+  if b<b:
+   pbODRm = True
+   wOxSTc = True
+   KkNrVO = 1058 - 264.25327678991425
+while l>w:
+  if c<l:
+   onkKlC = 5605 / 156.3469769594066
+   zowYAR = True
+   GXxqqn = 4720 - 5157
+  if x==m:
+   sMHmbV = 129.1198609740218 / 1001
+   MlFdhA = 379.7424465231756 * 946.6983176498965
+   abTdtu = 479 + 326.65539048445
+  if p>j:
+   onkKlC = 5605 / 156.3469769594066
+   zowYAR = True
+   GXxqqn = 4720 - 5157
+while l<i:
+  if u==j:
+   UmXwfP = 9349 + 726.2074993601015
+   cqYrlX = 5231 + 58.06260783526508
+   XTImti = 181.88712823769472 + 601.1390096430612
+  if x>e:
+   yvNhSK = 714.8239311407184 + 936.9367845696456
+   VfJPcl = False
+   iHvYLS = 3998 / 1574
+  if g>i:
+   UmXwfP = 9349 + 726.2074993601015
+   cqYrlX = 5231 + 58.06260783526508
+   XTImti = 181.88712823769472 + 601.1390096430612
+while b==p:
+  if d==j:
+   neDbdl = 881.1212761783386 + 578.6228065641519
+   CPtXpE = False
+   saLzNt = False
+  if z==p:
+   UFFVBq = 3282 * 3907
+   anlKDC = 295.08469110379895 * 236.92564991590388
+   LxTyvZ = 7521 * 403.1534934896945
+  if d==f:
+   neDbdl = 881.1212761783386 + 578.6228065641519
+   CPtXpE = False
+   saLzNt = False
+while y<j:
+  if k>r:
+   iVywJx = 138 * 3114
+   cPxbkJ = 49.443319100665036 * 694.997176659619
+   nXGprx = 2961 - 560.4471086538222
+  if d<f:
+   ywjrum = 1720 / 4309
+   UGMntP = 5501 / 141.0666238253041
+   QGDfpk = 98 + 561.713627916138
+  if p>x:
+   iVywJx = 138 * 3114
+   cPxbkJ = 49.443319100665036 * 694.997176659619
+   nXGprx = 2961 - 560.4471086538222
+while l==c:
+  if k>u:
+   hvLwbC = 4960 + 277.89969228176255
+   MMCqfE = 10.690787802365517 * 744.2004509663357
+   EGDtTF = False
+  if y==r:
+   rGOFqc = 3275 + 237.81530500445925
+   mdxoPc = 652.9340368289503 - 3490
+   NcbaTh = 3114 * 846.6852902320322
+  if p==p:
+   hvLwbC = 4960 + 277.89969228176255
+   MMCqfE = 10.690787802365517 * 744.2004509663357
+   EGDtTF = False
+while i<h:
+  if x>l:
+   BQCxfU = False
+   dhniUG = False
+   vcNaKx = 337.0310949648121 - 880.2822296487286
+  if v>x:
+   JEnVAX = 6470 * 252.03599277355607
+   geJmNK = True
+   odAssp = 981.2261757624364 - 449.5067194935182
+  if o>a:
+   BQCxfU = False
+   dhniUG = False
+   vcNaKx = 337.0310949648121 - 880.2822296487286
+while o<z:
+  if z==z:
+   UsUaix = 17.926718789740395 * 228
+   ABzOmq = False
+   jSFMbO = 4414 + 56.83776808005708
+  if b<b:
+   rzJFJV = 5127 + 6492
+   dHaeyl = 728 + 524.5204812401483
+   UdKusE = 6613 - 388
+  if r==x:
+   UsUaix = 17.926718789740395 * 228
+   ABzOmq = False
+   jSFMbO = 4414 + 56.83776808005708
+while r<i:
+  if y==m:
+   weWECK = 84.37927671371435 * 229.10598642457722
+   VKGWdT = False
+   AlPqnG = 1298 + 1021
+  if s<g:
+   viBRUC = 856.7328625637433 * 614.6396011660023
+   aDbZrl = 139.56247847601563 - 6126
+   pSdWHq = 6011 - 169.42277843146294
+  if a>h:
+   weWECK = 84.37927671371435 * 229.10598642457722
+   VKGWdT = False
+   AlPqnG = 1298 + 1021
+while t==f:
+  if b==y:
+   BuJkog = False
+   oXCyxT = 7144 + 436.6296965226796
+   hwRkCk = 6618 - 5054
+  if p==i:
+   eLUaCY = 233.07124657973105 * 696.724440892264
+   bZvvtb = 265.6650206007293 * 5007
+   UeNGQo = 941.9255642445612 + 7993
+  if k==p:
+   BuJkog = False
+   oXCyxT = 7144 + 436.6296965226796
+   hwRkCk = 6618 - 5054
+while j==f:
+  if j==e:
+   DOuyvs = 758.0946188112971 * 733.5975295280906
+   PzDrgQ = True
+   XTffRg = True
+  if p>u:
+   VkMySS = 7549 / 7072
+   aBzIuJ = 8182 / 442.9586921977611
+   ypbNYy = 9846 * 1430
+  if x>u:
+   DOuyvs = 758.0946188112971 * 733.5975295280906
+   PzDrgQ = True
+   XTffRg = True
+while w==k:
+  if p<e:
+   fIfGjy = 5115 - 9182
+   AVPzui = 1791 + 4274
+   LqSdNd = 6550 + 109.09411136153662
+  if k>e:
+   RrhgDg = 26.895149757634382 + 8893
+   pTCJrL = 2508 - 987.5646587771716
+   ODpTrS = 3011 / 522.1871915202928
+  if f>j:
+   fIfGjy = 5115 - 9182
+   AVPzui = 1791 + 4274
+   LqSdNd = 6550 + 109.09411136153662
+while z==k:
+  if a<m:
+   AvzGOz = 7737 / 4612
+   Xirkbu = 733.7160588892223 / 6728
+   xAMNRh = 814.505190929726 / 6525
+  if f<k:
+   HWXIUz = 8445 * 8080
+   vRKQfq = 9183 + 989.1102773229017
+   WvQVmy = False
+  if u==e:
+   AvzGOz = 7737 / 4612
+   Xirkbu = 733.7160588892223 / 6728
+   xAMNRh = 814.505190929726 / 6525
+while a==q:
+  if u>l:
+   BpbJtD = 1500 * 3960
+   Dounry = 65 / 735.634734492422
+   ndSrzJ = 7575 - 8396
+  if t<x:
+   bkmsbc = 181.22981131047126 * 738.6323835427751
+   sEKoma = 4353 + 6885
+   TIhwDx = True
+  if w>h:
+   BpbJtD = 1500 * 3960
+   Dounry = 65 / 735.634734492422
+   ndSrzJ = 7575 - 8396
+while o==x:
+  if u<j:
+   qHFIxK = 1426 / 491.5371105210851
+   VirNmc = 668.6233011048295 * 8970
+   FmhfYS = 580.2318799025879 / 252.68739148557336
+  if x==c:
+   XprjAV = 303.91962674495693 + 4644
+   xcYbob = 412.5183864068234 + 52.17353940403257
+   CKHAzp = 995.5941231822233 / 6931
+  if j>p:
+   qHFIxK = 1426 / 491.5371105210851
+   VirNmc = 668.6233011048295 * 8970
+   FmhfYS = 580.2318799025879 / 252.68739148557336
+while a<j:
+  if c<b:
+   TTlFqi = 552.9630262460256 - 7303
+   pxpqli = True
+   htyOXX = True
+  if k<c:
+   tfqQHj = 554.2184137873727 + 9145
+   UpNfQR = 52.4000070371932 - 9744
+   KCjbKS = 2736 - 2593
+  if k<o:
+   TTlFqi = 552.9630262460256 - 7303
+   pxpqli = True
+   htyOXX = True
+while t<f:
+  if v<u:
+   ERtWzA = 4650 / 7163
+   VsolPe = 9791 - 102.24187519890786
+   xGhatH = 248.60166652281444 / 311.1382037266782
+  if v==u:
+   IyjJpO = 54.29451766594338 / 107.80709332635281
+   JsHpvm = 2274 * 1983
+   NRnkEb = 605.6800018537946 * 155.4766202319273
+  if h==v:
+   ERtWzA = 4650 / 7163
+   VsolPe = 9791 - 102.24187519890786
+   xGhatH = 248.60166652281444 / 311.1382037266782
+while e<v:
+  if t==m:
+   HYrtgp = 638.7601401146269 + 80.83877694135772
+   sDZHIW = 673.0221450482771 - 572.7144446690895
+   sFxUMi = 4328 / 129.24116224833577
+  if k>z:
+   PgpRta = 509.0493583510686 - 346.255136979624
+   osHCRN = 987.0610841931656 / 460.46980701402384
+   giMQrx = 964.7850966042263 / 9712
+  if r<i:
+   HYrtgp = 638.7601401146269 + 80.83877694135772
+   sDZHIW = 673.0221450482771 - 572.7144446690895
+   sFxUMi = 4328 / 129.24116224833577
+while o==p:
+  if m==e:
+   FTUSpG = False
+   Xaqgse = 339.15279985868284 - 172.8162668764128
+   AGvgNp = 9028 + 9725
+  if k==b:
+   kJAvGM = 5104 * 676.4139988873449
+   ThcxWx = 6200 - 1890
+   CStlmI = 202 - 910
+  if n>j:
+   FTUSpG = False
+   Xaqgse = 339.15279985868284 - 172.8162668764128
+   AGvgNp = 9028 + 9725
+while u==y:
+  if c==i:
+   PvxHoO = 527.9540037001498 / 4833
+   xuiHCS = 662.7896346110452 + 942.9891723717509
+   iPiYti = 9605 * 429.93662466331057
+  if p>a:
+   ceJXQS = 6671 / 520.2178624552935
+   bITZvX = 1629 * 2036
+   YJjNoX = 5381 * 263.85386301897813
+  if p>y:
+   PvxHoO = 527.9540037001498 / 4833
+   xuiHCS = 662.7896346110452 + 942.9891723717509
+   iPiYti = 9605 * 429.93662466331057
+while x>m:
+  if k>c:
+   iFCzls = True
+   iUVMaY = 859.4078041302243 + 364
+   cCcHEx = True
+  if b>k:
+   JkSSkD = 6273 * 436.6974712946906
+   nQjsgp = 128.23386304225056 + 793.1857542621813
+   qaXOWe = 8455 / 648.7932511474296
+  if b>w:
+   iFCzls = True
+   iUVMaY = 859.4078041302243 + 364
+   cCcHEx = True
+while o<n:
+  if d==s:
+   YihaEO = 378.8545067627186 - 2.1844433394802003
+   hpBFUL = 7773 - 8073
+   sqpCfi = 338.0185117656234 + 732.9808109255042
+  if p>n:
+   IPbeBo = True
+   czXrSh = True
+   skwQWf = 378.34195049352553 * 697.6802122912162
+  if n==x:
+   YihaEO = 378.8545067627186 - 2.1844433394802003
+   hpBFUL = 7773 - 8073
+   sqpCfi = 338.0185117656234 + 732.9808109255042
+while v==d:
+  if v>z:
+   PgDkdS = 885.3315222234555 - 9899
+   pSzvxm = False
+   UvdAkR = True
+  if j==n:
+   BZIVpX = 580.6751517137583 * 283.4642581179096
+   EuCvJJ = 813 / 4081
+   NnRCgu = 2753 + 500.3139747005347
+  if e<c:
+   PgDkdS = 885.3315222234555 - 9899
+   pSzvxm = False
+   UvdAkR = True
+while g<b:
+  if o==t:
+   sparIz = True
+   qomzFl = 3397 / 7947
+   PvUkoZ = 7754 / 232.54831837062687
+  if a<j:
+   DkPXnD = 1298 / 101.85812196374378
+   ZFBFYI = False
+   NSVyQs = 942.519737135024 + 234.86609408647425
+  if d==d:
+   sparIz = True
+   qomzFl = 3397 / 7947
+   PvUkoZ = 7754 / 232.54831837062687
+while c==v:
+  if l<q:
+   hylzvr = 144.89294042545774 + 7885
+   rWdnpA = 1277 - 527.4552505850694
+   KhfcGI = False
+  if d<m:
+   RECEkq = 586.9358533090052 + 5270
+   wXLJQN = 105.94768410243425 + 1347
+   zabTaE = 9345 * 536.3096326089973
+  if d<m:
+   hylzvr = 144.89294042545774 + 7885
+   rWdnpA = 1277 - 527.4552505850694
+   KhfcGI = False
+while e<p:
+  if y<y:
+   yXhWmV = 7946 - 3428
+   leBCoD = True
+   EKvPLY = 6671 + 959.9002810226599
+  if i>o:
+   aiUYdQ = True
+   jrJUIA = 229.58592886339915 / 7986
+   DjcsBQ = 1670 * 880.98533412862
+  if m<a:
+   yXhWmV = 7946 - 3428
+   leBCoD = True
+   EKvPLY = 6671 + 959.9002810226599
+while c<n:
+  if x==j:
+   tnMfNr = 4523 - 9250
+   XeCJyr = True
+   IajhCf = False
+  if f>o:
+   yvLcbm = True
+   odhZSW = 570.0342355488754 - 8667
+   BhLLQZ = False
+  if r==w:
+   tnMfNr = 4523 - 9250
+   XeCJyr = True
+   IajhCf = False
+while n==l:
+  if m>k:
+   poIQoh = 16.46160868500955 + 9719
+   hHNJKX = 112.93404892507756 * 9782
+   UyvPAL = 958.0098755426357 / 7235
+  if u<y:
+   nILGTr = 583.5865616694352 * 4382
+   dwLiHL = 854.1113728486265 + 5000
+   KYBcjD = 243.86363126995738 / 5923
+  if s==c:
+   poIQoh = 16.46160868500955 + 9719
+   hHNJKX = 112.93404892507756 * 9782
+   UyvPAL = 958.0098755426357 / 7235
+while e<h:
+  if w>u:
+   GckigD = 52 + 287.0777824527213
+   svLnNE = 908.8429877687435 - 1491
+   WcVGjg = 2013 * 700.2955408536355
+  if c<u:
+   DDiXPA = True
+   BHPtSo = 3728 - 577.3773227194963
+   dxJhds = False
+  if h<h:
+   GckigD = 52 + 287.0777824527213
+   svLnNE = 908.8429877687435 - 1491
+   WcVGjg = 2013 * 700.2955408536355
+while n<t:
+  if c>y:
+   mvHwKD = 987.8944431736387 * 351.91345134243835
+   PTvlhx = 1381 + 216.62799440589043
+   vwBeuj = 6669 / 131.81083599539423
+  if c==k:
+   AstUgE = 6438 * 4403
+   PjmcBq = 4572 - 102.22888310873488
+   tgqWSA = 30 * 7418
+  if v>m:
+   mvHwKD = 987.8944431736387 * 351.91345134243835
+   PTvlhx = 1381 + 216.62799440589043
+   vwBeuj = 6669 / 131.81083599539423
+while u>z:
+  if i>s:
+   xgMwhg = 38.390192961349456 / 5572
+   ORtJrJ = 800.5843831687208 + 6464
+   sTpyvH = 8244 * 8402
+  if l==h:
+   PPvHvu = 906.0458312982718 * 226.4947621390644
+   RLQegW = False
+   pWOxyL = True
+  if q==r:
+   xgMwhg = 38.390192961349456 / 5572
+   ORtJrJ = 800.5843831687208 + 6464
+   sTpyvH = 8244 * 8402
+while k<d:
+  if p>h:
+   YaJSHv = 627 - 8640
+   kskYxC = True
+   EeunXy = 23.4497647879729 + 5266
+  if x==v:
+   yudSae = False
+   tRecJe = 1048 + 458.0962511164596
+   UgJlqV = 841.5333022580487 * 1768
+  if h<t:
+   YaJSHv = 627 - 8640
+   kskYxC = True
+   EeunXy = 23.4497647879729 + 5266
+while i>t:
+  if d<f:
+   YSMsws = 615.6041866538034 * 249.11062243933333
+   etStnI = 44.85093385515226 * 627.2865013052945
+   FsNUiu = 329.9949011254139 / 690.3928441447144
+  if b>r:
+   sLDUPh = False
+   SsBMsr = 1593 + 9603
+   UILGCO = 4621 / 889.2244884524911
+  if q==b:
+   YSMsws = 615.6041866538034 * 249.11062243933333
+   etStnI = 44.85093385515226 * 627.2865013052945
+   FsNUiu = 329.9949011254139 / 690.3928441447144
+while i<m:
+  if j>o:
+   ImddgZ = True
+   oTsbIW = False
+   eCXIDD = 9138 + 457.8262111935435
+  if r==o:
+   qNztKz = True
+   NXMdPM = 443.1482294326656 / 6852
+   RuTGDg = 578.3715563675031 * 918.073779076039
+  if e==s:
+   ImddgZ = True
+   oTsbIW = False
+   eCXIDD = 9138 + 457.8262111935435
+while w<e:
+  if g==i:
+   MDPdyw = 844.6603417863456 * 5303
+   TGjdnw = 737.3481046237785 / 7244
+   gMEjXP = 4173 - 364.88030241566537
+  if e<z:
+   ZBcauj = True
+   tskQIE = 4536 + 873.4592085358955
+   jIdeYa = 114.8568664111245 * 98.27864236878253
+  if e<n:
+   MDPdyw = 844.6603417863456 * 5303
+   TGjdnw = 737.3481046237785 / 7244
+   gMEjXP = 4173 - 364.88030241566537
+while e<g:
+  if o>i:
+   nzpAbr = 152 + 3437
+   uiDPLK = True
+   eVgKVg = 882.8975284165434 - 34.66043579497638
+  if i<v:
+   nHBWoB = 317.5821247962823 / 789.8949384106206
+   dUEtdM = 4051 - 5911
+   LtVffc = 304.39840574102163 + 8366
+  if m>t:
+   nzpAbr = 152 + 3437
+   uiDPLK = True
+   eVgKVg = 882.8975284165434 - 34.66043579497638
+while t==t:
+  if z>x:
+   neUlhT = True
+   HAvExO = 25.031900824018614 - 414.6816010383573
+   ZUSWZb = 536.4585795697907 / 2635
+  if v>h:
+   NxlwCe = 421.95756555111535 / 9140
+   aiWPRz = 760.3638818091716 + 2919
+   RAyUXB = 7152 - 80.59269208520476
+  if r==z:
+   neUlhT = True
+   HAvExO = 25.031900824018614 - 414.6816010383573
+   ZUSWZb = 536.4585795697907 / 2635
+while d==m:
+  if j==j:
+   HJBVSa = 2113 - 2467
+   QIgiWn = False
+   CYVbkt = 7086 * 330.53176627622986
+  if w>f:
+   rqTKLj = 349.7642337333541 / 423.9124369064836
+   uqAgGP = 6441 * 192.6501022150065
+   brxwAx = True
+  if x>p:
+   HJBVSa = 2113 - 2467
+   QIgiWn = False
+   CYVbkt = 7086 * 330.53176627622986
+while b<e:
+  if n==a:
+   Qpftjo = 8790 / 682.6018310767172
+   qIqHxs = 3099 + 487.868572060506
+   rIQQqv = 350.6762712651132 + 120.13731342801303
+  if p>h:
+   lGrpVd = 4055 / 770.8305254721884
+   usLVrN = 792.9391861001968 + 6525
+   TJuAYY = 301.5430757365665 / 4658
+  if r==n:
+   Qpftjo = 8790 / 682.6018310767172
+   qIqHxs = 3099 + 487.868572060506
+   rIQQqv = 350.6762712651132 + 120.13731342801303
+while j==l:
+  if m==n:
+   vClgHt = 5106 + 4315
+   rQXgFB = True
+   KhfcGI = False
+  if p==m:
+   eLUaCY = 233.07124657973105 * 696.724440892264
+   csxxTq = 346 / 15.539133737112794
+   HfAyOm = 5835 * 7192
+  if h<c:
+   vClgHt = 5106 + 4315
+   rQXgFB = True
+   KhfcGI = False
+while p<g:
+  if u==d:
+   UBqmun = 6700 / 552.2458675103762
+   ybxNXF = 784.9017872279306 / 452.27209379148456
+   JlXsjU = 1405 + 240.27723727322513
+  if m==o:
+   ehVyIk = 913.6182990015051 * 307.20832487829307
+   CJcwXz = 9760 + 7933
+   gKOvuH = 962.1470696868784 * 241.9535166663582
+  if e<z:
+   UBqmun = 6700 / 552.2458675103762
+   ybxNXF = 784.9017872279306 / 452.27209379148456
+   JlXsjU = 1405 + 240.27723727322513
+while f==u:
+  if h==b:
+   toyKQi = 48.07188623897985 - 2892
+   DtUVzM = 8486 / 4516
+   MLGacU = 3684 - 731.2267044342615
+  if e>m:
+   OSMAlH = 132.7394941946921 * 346.25350381174667
+   bHsEYQ = 65.61471473636733 * 8449
+   oKmOZY = True
+  if f>h:
+   toyKQi = 48.07188623897985 - 2892
+   DtUVzM = 8486 / 4516
+   MLGacU = 3684 - 731.2267044342615
+while c>j:
+  if u>u:
+   otqbBu = 946.5819646642256 * 9538
+   KMAvmg = 5970 + 4441
+   kWCumW = 2484 / 518.8159021008402
+  if t<g:
+   ffqNpr = 334.79244535206675 * 651.6216066060875
+   kxGXVc = 1170 / 121.01528466278207
+   UwNoZk = 2549 + 7412
+  if b==r:
+   otqbBu = 946.5819646642256 * 9538
+   KMAvmg = 5970 + 4441
+   kWCumW = 2484 / 518.8159021008402
+while y>d:
+  if i<w:
+   kxGXVc = 1170 / 121.01528466278207
+   mHUlro = 4847 + 491.41214542043605
+   srwBLj = 2199 * 3281
+  if o==o:
+   ZyUbcS = 8667 * 7078
+   tZpNfq = 296.0763495083281 * 4328
+   qobQyn = 431.38828718737216 - 8651
+  if m<m:
+   kxGXVc = 1170 / 121.01528466278207
+   mHUlro = 4847 + 491.41214542043605
+   srwBLj = 2199 * 3281
+while r==p:
+  if f>o:
+   lApKEQ = 8498 * 8906
+   dsDsel = 9305 - 871.052073370121
+   lyeBEd = 1015 - 750
+  if s<m:
+   hWKCJB = 890.7811603124183 / 456.053104303248
+   Unktwg = 47.261567094146365 / 156
+   eJwiSU = 273.79220726733234 * 6186
+  if x<s:
+   lApKEQ = 8498 * 8906
+   dsDsel = 9305 - 871.052073370121
+   lyeBEd = 1015 - 750
+while j==w:
+  if j<g:
+   pQtJwV = False
+   MgKsTR = True
+   SAAGrB = 8396 + 5734
+  if u<h:
+   vuMBSu = False
+   iWstTe = 940.4279090339585 * 42
+   LWdzOC = 146.66655066666178 + 6782
+  if n<n:
+   pQtJwV = False
+   MgKsTR = True
+   SAAGrB = 8396 + 5734
+while k<w:
+  if m<o:
+   MaSKux = 655.8950055693596 * 750.9965527378598
+   SguhTC = True
+   PJHOCT = True
+  if i==n:
+   iqdIid = 895.5361757503235 * 371.39544506409965
+   LoPaPy = True
+   ULqDzi = 1582 - 374.4723395234531
+  if o>h:
+   MaSKux = 655.8950055693596 * 750.9965527378598
+   SguhTC = True
+   PJHOCT = True
+while s==r:
+  if m>f:
+   auBDBe = 174.96594098394166 + 781.6172218502363
+   HNrxyo = False
+   VtLSpW = False
+  if r<k:
+   PFsSvt = 680.9511426484821 / 2542
+   pZdaul = 8896 - 528.1876532214667
+   TxCAFK = 4525 + 973.7085352392426
+  if y>x:
+   auBDBe = 174.96594098394166 + 781.6172218502363
+   HNrxyo = False
+   VtLSpW = False
+while s>w:
+  if f<g:
+   ySGuZW = 379.1316709760576 / 7287
+   HVfLHd = 1115 - 112
+   RwpJCD = 5759 * 178.9397733916364
+  if w>r:
+   uTYvRx = True
+   hBbdGD = False
+   wHkzKD = True
+  if s<u:
+   ySGuZW = 379.1316709760576 / 7287
+   HVfLHd = 1115 - 112
+   RwpJCD = 5759 * 178.9397733916364
+while b<z:
+  if u==n:
+   UpdznF = 3562 - 265.54747726775355
+   LLUGYK = 8693 / 8466
+   PBmzop = False
+  if z==e:
+   eWbJxi = 405.12119090419156 + 942.4074166021834
+   zRCNBx = 2485 * 574
+   JpYsfT = 611.6585332991904 + 28.89522717933464
+  if e>o:
+   UpdznF = 3562 - 265.54747726775355
+   LLUGYK = 8693 / 8466
+   PBmzop = False
+while t<y:
+  if l<l:
+   FMfMyi = False
+   LxYKez = 452.5655283621021 - 9506
+   piAETw = False
+  if n<b:
+   RRyzlD = 8721 + 646
+   ODpTrS = 3011 / 522.1871915202928
+   rYjSzU = True
+  if b<p:
+   FMfMyi = False
+   LxYKez = 452.5655283621021 - 9506
+   piAETw = False
+while k==b:
+  if b<p:
+   FQtxwj = 9785 * 317.52424881356933
+   FSaLHX = 8963 / 234.3957284886518
+   GlKyIk = 256.7920274414529 + 209
+  if c<s:
+   PNszAm = 241.1736800429566 * 132
+   feShLQ = 750.4892326123382 - 549.617276206279
+   kkGVIj = 1644 * 735.3656229956036
+  if b<m:
+   FQtxwj = 9785 * 317.52424881356933
+   FSaLHX = 8963 / 234.3957284886518
+   GlKyIk = 256.7920274414529 + 209
+while b==y:
+  if m<g:
+   NBNFPG = 313.7249027064925 + 8041
+   bgbxBc = 479.47013571061945 * 624.4789164533785
+   SHqRAX = 4695 + 7966
+  if i<o:
+   cyNJZP = 814.5784925193399 / 3159
+   WyRuoV = 136.9649801229627 / 7630
+   qpQUKy = 720.8205990067463 + 5306
+  if p==g:
+   NBNFPG = 313.7249027064925 + 8041
+   bgbxBc = 479.47013571061945 * 624.4789164533785
+   SHqRAX = 4695 + 7966
+while k==f:
+  if g>i:
+   lWyVIt = 9160 * 232.6365340547532
+   QKoeHC = False
+   EdIFlw = True
+  if y==d:
+   TXvzmI = False
+   KrgfEU = 5478 / 1810
+   cVtWNP = False
+  if j>h:
+   lWyVIt = 9160 * 232.6365340547532
+   QKoeHC = False
+   EdIFlw = True
+while q==b:
+  if f==n:
+   GgiXda = False
+   hFhFHl = 7135 * 213.1479656777632
+   hppIUi = 9429 + 678.2330457013794
+  if d<n:
+   QDOgnd = True
+   acQgqi = 967.8947705431708 * 482
+   LRWfOJ = 6981 / 409.97851399217905
+  if p==b:
+   GgiXda = False
+   hFhFHl = 7135 * 213.1479656777632
+   hppIUi = 9429 + 678.2330457013794
+while v>k:
+  if k>i:
+   BfpSIO = False
+   TPaBYm = 6719 + 923
+   QfRLiR = False
+  if e==m:
+   zAhald = 6345 - 166.7775321815802
+   QFamrF = 7842 - 5796
+   yXhWmV = 7946 - 3428
+  if h==a:
+   BfpSIO = False
+   TPaBYm = 6719 + 923
+   QfRLiR = False
+while g>g:
+  if d==n:
+   GgpsMS = True
+   fZURIY = 26.042586895344343 + 5568
+   eYQvsB = 839 - 278.4298971614403
+  if o<c:
+   kKWQKN = False
+   wCNftL = 2377 / 3683
+   osHCRN = 987.0610841931656 / 460.46980701402384
+  if q>f:
+   GgpsMS = True
+   fZURIY = 26.042586895344343 + 5568
+   eYQvsB = 839 - 278.4298971614403
+while b==z:
+  if a<z:
+   zNmTgy = True
+   MpavuP = 366.00364508418534 - 341.47373968510425
+   sYLClL = 32.67270231464695 + 3686
+  if d>k:
+   rZXOJF = False
+   arSSch = 132 * 830.5420917021977
+   cxkdrD = 481.2272026936888 / 3691
+  if c>m:
+   zNmTgy = True
+   MpavuP = 366.00364508418534 - 341.47373968510425
+   sYLClL = 32.67270231464695 + 3686
+while z>k:
+  if h<i:
+   IrHeUT = 331.24415319070846 / 7674
+   BzzIcG = False
+   SOAdHK = 26.658785293644804 - 2761
+  if h>t:
+   NfkQQS = 9335 + 206.87881100110584
+   bQnQDr = 52.02869616210177 - 4158
+   LWdzOC = 146.66655066666178 + 6782
+  if m==v:
+   IrHeUT = 331.24415319070846 / 7674
+   BzzIcG = False
+   SOAdHK = 26.658785293644804 - 2761
+while j<o:
+  if o<b:
+   cFQwXI = True
+   WtNxFS = 663.3930929238566 / 4979
+   HTGfwk = 570.922486112959 + 962.0057029759731
+  if h<a:
+   rQUfPv = 962.7919369902709 + 246.77368728138512
+   bkuXFv = 947.6366398607146 / 721.2014509343351
+   cTNbQN = 325.3056464952354 - 506.5291219273993
+  if r<y:
+   cFQwXI = True
+   WtNxFS = 663.3930929238566 / 4979
+   HTGfwk = 570.922486112959 + 962.0057029759731
+while i==l:
+  if h<p:
+   skDILX = 650.6598318605074 + 6970
+   VZSkiH = False
+   DNbyvK = 534.1771253270983 / 680.9389657497563
+  if x<h:
+   UaIYDH = True
+   WtPlDL = 19.53716105944714 * 80.77270102675827
+   HujqvG = 6819 - 16
+  if c<n:
+   skDILX = 650.6598318605074 + 6970
+   VZSkiH = False
+   DNbyvK = 534.1771253270983 / 680.9389657497563
+while n<y:
+  if n>b:
+   LCErYo = 6351 + 1462
+   OmVLcH = 152.1895517473363 + 7047
+   HutoOo = 307.08132686598054 / 7178
+  if t>a:
+   AkiFEH = 5739 / 3086
+   loHpQJ = 308 * 539.9870292897344
+   PGBFLC = 144.69770015663795 * 322.47888596310617
+  if g<z:
+   LCErYo = 6351 + 1462
+   OmVLcH = 152.1895517473363 + 7047
+   HutoOo = 307.08132686598054 / 7178
+while v>n:
+  if v<m:
+   uylRFo = 2565 / 830.3814508062305
+   mkEYuo = 2753 * 958.9262928582766
+   lopNkJ = False
+  if q==e:
+   thMzjo = 986.7723072302305 / 200.92524368062936
+   WlyORH = True
+   oWfXWF = 575.4056109024216 * 1171
+  if i<w:
+   uylRFo = 2565 / 830.3814508062305
+   mkEYuo = 2753 * 958.9262928582766
+   lopNkJ = False
+while y<t:
+  if a<f:
+   KcvCvW = False
+   foVkgw = 789.8239990372402 + 341.9867622746503
+   dwPxqx = False
+  if o>k:
+   amsReK = 4151 / 2643
+   gbSMHp = 432.1578780203901 + 4124
+   Qpftjo = 8790 / 682.6018310767172
+  if e==c:
+   KcvCvW = False
+   foVkgw = 789.8239990372402 + 341.9867622746503
+   dwPxqx = False
+while k<r:
+  if o==j:
+   cZrPXH = 8402 * 937.9589798313011
+   tZpNfq = 296.0763495083281 * 4328
+   DjqAgi = 500.25733904916984 / 156.82662306300162
+  if y==h:
+   EZxcmz = False
+   dTysAc = 3684 * 7329
+   mWcVsL = 742.1605830461654 - 508.1373422198911
+  if g>a:
+   cZrPXH = 8402 * 937.9589798313011
+   tZpNfq = 296.0763495083281 * 4328
+   DjqAgi = 500.25733904916984 / 156.82662306300162
+while a<d:
+  if d<h:
+   YaXQOw = 9756 - 8295
+   lDjrkV = 8955 - 2413
+   kgrAxW = 9589 + 2412
+  if g<x:
+   JcXmKF = True
+   jZabbb = 8719 + 292.1205981632154
+   xhEXtz = 9047 / 687
+  if q>p:
+   YaXQOw = 9756 - 8295
+   lDjrkV = 8955 - 2413
+   kgrAxW = 9589 + 2412
+while j<v:
+  if z==z:
+   DeHRpJ = 9794 + 638.7428778862474
+   kvBrlE = 9767 - 6649
+   KaRlLX = 6372 - 7595
+  if w<q:
+   mzfYrF = 523.7430386881065 - 4878
+   PDHOdv = 531.1717385929229 * 963.0232668933733
+   uoehWP = 6621 - 206.62326039264894
+  if x>g:
+   DeHRpJ = 9794 + 638.7428778862474
+   kvBrlE = 9767 - 6649
+   KaRlLX = 6372 - 7595
+while n<y:
+  if q==o:
+   eXwvjc = True
+   XUoliH = True
+   UeNGQo = 941.9255642445612 + 7993
+  if u==a:
+   OOmCNo = 909.1562517892917 - 193.51609069125763
+   XsjLHI = 938.9253296206988 / 363.7573146668889
+   PlhCqq = 442.93893702072563 + 491
+  if m==w:
+   eXwvjc = True
+   XUoliH = True
+   UeNGQo = 941.9255642445612 + 7993
+while g==k:
+  if r==j:
+   LRAQoc = 15 + 1019
+   mTAqys = 378.81848760664786 - 602.4542676599684
+   QeWNpz = 3428 + 316.63053157925447
+  if p==a:
+   FRJsAg = False
+   UHJiWG = 8516 / 54.02675315114398
+   WlXOsZ = 488.7540292459358 / 381.84270673241696
+  if r==h:
+   LRAQoc = 15 + 1019
+   mTAqys = 378.81848760664786 - 602.4542676599684
+   QeWNpz = 3428 + 316.63053157925447
+while s<n:
+  if k>y:
+   ewvNdv = False
+   aUGzxJ = 467.0976595856233 + 9385
+   YgxqrY = 9427 * 718.3191548774917
+  if u==q:
+   iZvVlO = 7405 / 954.0979495053869
+   BaXJaR = 4602 / 5162
+   FdmNES = False
+  if b==o:
+   ewvNdv = False
+   aUGzxJ = 467.0976595856233 + 9385
+   YgxqrY = 9427 * 718.3191548774917
+while r<q:
+  if p<s:
+   mMQpPG = 303 * 797.5757972995816
+   ytwxun = True
+   encPwE = False
+  if i==v:
+   KMOwev = 168.29369362909125 - 5291
+   hWOvZI = 887.7127867128715 + 437
+   MnUpiY = True
+  if z==o:
+   mMQpPG = 303 * 797.5757972995816
+   ytwxun = True
+   encPwE = False
+while i>j:
+  if n<l:
+   XlwtVV = False
+   QKVree = 7145 - 7321
+   kUWCMk = 6548 - 126.25493252626734
+  if a<d:
+   AjCICR = 1616 + 961.9435926567346
+   zokTWC = 1656 + 7767
+   QsqxFJ = 887.956009566929 + 672.2284580717005
+  if t<w:
+   XlwtVV = False
+   QKVree = 7145 - 7321
+   kUWCMk = 6548 - 126.25493252626734
+while d<u:
+  if b==j:
+   FDnzIT = 3894 * 4597
+   PcPbkg = 8675 * 8657
+   IVnFXf = 657.8564090702903 - 577.3121769465449
+  if v==o:
+   KwpPDZ = 6435 / 9917
+   ZKohaa = 2510 / 163.43870594307919
+   tQfmzv = 3402 * 35.515816693565796
+  if g<r:
+   FDnzIT = 3894 * 4597
+   PcPbkg = 8675 * 8657
+   IVnFXf = 657.8564090702903 - 577.3121769465449
+while g>h:
+  if x>z:
+   ljBfuw = 94.58083953034681 + 5065
+   JMnpcc = 2857 - 2257
+   ZTegSV = 8803 * 9036
+  if h>e:
+   KuqPKa = 698 * 452.38560957234785
+   ZIPJje = 4579 / 925.5618043238087
+   TTggGg = 745.4242805197651 - 225.95505068563403
+  if h==v:
+   ljBfuw = 94.58083953034681 + 5065
+   JMnpcc = 2857 - 2257
+   ZTegSV = 8803 * 9036
+while w<q:
+  if d<o:
+   hPCxbK = True
+   asadOk = 2242 + 470.60817073688395
+   vhSgQl = 302.7447136602124 - 6859
+  if j==p:
+   xXohzu = 299.5979445996948 + 180.43938846069844
+   rHkNvx = 6079 + 3517
+   NzpcIG = 4893 / 32
+  if r==j:
+   hPCxbK = True
+   asadOk = 2242 + 470.60817073688395
+   vhSgQl = 302.7447136602124 - 6859
+while g>l:
+  if a<m:
+   DiwNuw = 9423 * 8389
+   wjbINQ = False
+   CyUUAE = True
+  if t==v:
+   iOXCkM = 344.4468875269966 / 301.7830092903862
+   rJxKTJ = 4099 - 88.29106782758751
+   cFTROq = 284.46587222377553 / 7976
+  if l>v:
+   DiwNuw = 9423 * 8389
+   wjbINQ = False
+   CyUUAE = True
+while a==m:
+  if y>c:
+   OFgWXJ = 7868 - 640.5870010563781
+   uyThCe = 2310 / 263.6399777170939
+   tJkRmo = False
+  if c==r:
+   rpyZEN = 3217 - 114.55965732536013
+   niVejS = False
+   zwGUkf = 285.9209415319174 + 8283
+  if b==i:
+   OFgWXJ = 7868 - 640.5870010563781
+   uyThCe = 2310 / 263.6399777170939
+   tJkRmo = False
+while z>m:
+  if v==o:
+   HDMMLS = False
+   miyyWj = 9567 + 549.3972581903973
+   lJmSPc = 663.3729840952474 / 587.9890809053888
+  if i==e:
+   urKuir = 485.3750638046866 * 8736
+   hWUkzk = True
+   QZsQaS = 709 / 202.82498130341355
+  if u<d:
+   HDMMLS = False
+   miyyWj = 9567 + 549.3972581903973
+   lJmSPc = 663.3729840952474 / 587.9890809053888
+while q<j:
+  if n<m:
+   ukVETX = 289.4154796501834 + 3102
+   OBAMZc = 237.38272558859668 - 548
+   KDFXPU = 419.24679938697784 + 697.5215822444218
+  if f<g:
+   oJxLTT = 1131 * 3918
+   PSwyiV = 8465 + 702.4824254649735
+   oHlNaM = 2012 + 5590
+  if t==c:
+   ukVETX = 289.4154796501834 + 3102
+   OBAMZc = 237.38272558859668 - 548
+   KDFXPU = 419.24679938697784 + 697.5215822444218
+while w<u:
+  if n==d:
+   QINHxc = 9618 / 3376
+   WiseZK = 22.195928062342254 + 658.1984754667641
+   JtmePk = 8864 * 524.1921765997888
+  if a<b:
+   ZQipMM = 705.0558911283059 * 783.6253894951193
+   ynmYgu = 349.7025414981258 - 405.962552831117
+   QQBFpE = 3229 + 4409
+  if l>p:
+   QINHxc = 9618 / 3376
+   WiseZK = 22.195928062342254 + 658.1984754667641
+   JtmePk = 8864 * 524.1921765997888
+while d==e:
+  if v<k:
+   uzwZNM = 4763 / 97.55768627821111
+   ThcxWx = 6200 - 1890
+   RiLOxP = False
+  if d<m:
+   NFDhMc = 679.1789560657206 * 406.89123978542267
+   UCpanG = 842.8860431026504 + 587.5907439726761
+   hQtsCO = 9483 - 3959
+  if q==h:
+   uzwZNM = 4763 / 97.55768627821111
+   ThcxWx = 6200 - 1890
+   RiLOxP = False
+while c==b:
+  if f<k:
+   kTpTiq = 233.89803042131214 * 4355
+   hSdbEu = 7460 + 4891
+   gewguW = False
+  if g<p:
+   MnCTxe = 4382 - 390.1092824486216
+   IOTGJV = 2.4220209940130975 * 754.7108222856625
+   fFGuIu = 51.526632516386016 - 3387
+  if z<t:
+   kTpTiq = 233.89803042131214 * 4355
+   hSdbEu = 7460 + 4891
+   gewguW = False
+while f>r:
+  if f<t:
+   lQQZak = False
+   RkAczf = 6.460573325867146 / 1581
+   emcWcx = False
+  if w<o:
+   eqZmPA = 572.2251942504176 + 5881
+   yKQnOH = 2695 / 204
+   pPFgfl = False
+  if f==z:
+   lQQZak = False
+   RkAczf = 6.460573325867146 / 1581
+   emcWcx = False
+while q==i:
+  if h<o:
+   PqzhkY = 5157 + 1075
+   pWmBEU = 7781 * 300.0847627196675
+   qRQPyZ = 6188 / 969.0039370334893
+  if u==i:
+   wAmbGg = 4236 - 982
+   BwcQyT = False
+   aReRAH = True
+  if t<o:
+   PqzhkY = 5157 + 1075
+   pWmBEU = 7781 * 300.0847627196675
+   qRQPyZ = 6188 / 969.0039370334893
+while j<v:
+  if o>v:
+   ZTrrhm = 9717 + 986.1183823076562
+   sBhEYO = 9644 * 1182
+   BTjHgs = 309.87557638471026 * 520.715681501105
+  if i==q:
+   RmohOu = 7649 * 531.5973296812913
+   rsjlgR = 3240 + 9199
+   qhgGGm = 5183 - 659.9127102517164
+  if u<o:
+   ZTrrhm = 9717 + 986.1183823076562
+   sBhEYO = 9644 * 1182
+   BTjHgs = 309.87557638471026 * 520.715681501105
+while g>e:
+  if p>b:
+   SyfUCY = 847.8967147272757 + 6838
+   zjhGWU = 783 * 8034
+   SLsjTy = 636.938961749658 * 9053
+  if d<p:
+   gvEadS = 5261 * 196.72018872915137
+   wjxHLj = 7167 / 2731
+   tPOtNm = 440 - 908.2354683116322
+  if d==q:
+   SyfUCY = 847.8967147272757 + 6838
+   zjhGWU = 783 * 8034
+   SLsjTy = 636.938961749658 * 9053
+while x==a:
+  if c==z:
+   UWrHwi = 504.42388187583293 + 4493
+   NlYDqj = 630.3606834136491 * 6344
+   TDTAHi = 13.187618005249261 - 3306
+  if v==c:
+   npdSKb = 9525 / 2490
+   dvtQZv = 449.2598769337927 * 1788
+   yzhhmR = True
+  if h>h:
+   UWrHwi = 504.42388187583293 + 4493
+   NlYDqj = 630.3606834136491 * 6344
+   TDTAHi = 13.187618005249261 - 3306
+while p>b:
+  if x==q:
+   wNcDcX = 171.3445425190831 * 895.1400493727363
+   hZZRhS = 9945 + 3328
+   uklRQU = False
+  if d==f:
+   FRnXbq = False
+   ssDwka = 1986 * 108
+   mLLmvF = 9587 + 686.1551358790077
+  if d>j:
+   wNcDcX = 171.3445425190831 * 895.1400493727363
+   hZZRhS = 9945 + 3328
+   uklRQU = False
+while u>n:
+  if q<e:
+   siZPtp = 1739 / 3091
+   hKDCsP = 9678 - 744.1069049046866
+   TnYXRp = 4077 / 4082
+  if p>f:
+   HyODUF = 1531 - 1040
+   DCyQFt = 6102 - 693.5975102106011
+   hmvTsS = 7334 / 706.8869938388141
+  if k>n:
+   siZPtp = 1739 / 3091
+   hKDCsP = 9678 - 744.1069049046866
+   TnYXRp = 4077 / 4082
+while c>v:
+  if s==k:
+   TNEiYG = 687.6904774313338 / 870.6349351410089
+   XtQvah = 433.90086391888656 - 682.7633997025667
+   BqblQl = 5656 / 1474
+  if l==x:
+   rnfDJj = 3749 / 174.87538822631686
+   AeOJfB = True
+   YyAUan = 2005 * 998.104243775796
+  if y>u:
+   TNEiYG = 687.6904774313338 / 870.6349351410089
+   XtQvah = 433.90086391888656 - 682.7633997025667
+   BqblQl = 5656 / 1474
+while a>m:
+  if k<r:
+   xGMedt = 32.881965680110724 - 6807
+   gMQGiA = 804.5727406478392 + 539.9661250504565
+   aORmDw = 12.45385425035033 * 432.1735568150248
+  if h==k:
+   hHmZZG = 2197 - 702.6602918665333
+   gGhQYr = 8442 - 76.8753300521142
+   MLKWSg = 572.5891769980734 / 1096
+  if f<z:
+   xGMedt = 32.881965680110724 - 6807
+   gMQGiA = 804.5727406478392 + 539.9661250504565
+   aORmDw = 12.45385425035033 * 432.1735568150248
+while w==z:
+  if s==w:
+   JsNghY = False
+   unexkJ = 10.005983966388717 - 7739
+   pDmvMc = 411.3305361153116 + 2323
+  if k==u:
+   QnZjlK = True
+   jnLdUN = 491.8260904380822 / 842.1487104868884
+   xhLWbZ = 310.11669926568277 - 839.2087731268471
+  if o>m:
+   JsNghY = False
+   unexkJ = 10.005983966388717 - 7739
+   pDmvMc = 411.3305361153116 + 2323
+while z>n:
+  if e>i:
+   rFBZWF = 918.9428037332269 * 565
+   raBaAZ = 724.2683421392866 * 307.0835921846379
+   DqVygS = 789.5540482294555 + 623.5610173689399
+  if l==p:
+   AzDcQg = False
+   egNANe = 5148 / 7981
+   yPMxpN = 610.3319614744365 + 8686
+  if t>q:
+   rFBZWF = 918.9428037332269 * 565
+   raBaAZ = 724.2683421392866 * 307.0835921846379
+   DqVygS = 789.5540482294555 + 623.5610173689399
+while a==b:
+  if e>t:
+   mmZAzo = 9532 * 568.3744294428498
+   YPRNpB = 533.7181712515841 - 2664
+   mxOVJy = False
+  if r>q:
+   UyoukN = 5685 / 7796
+   rnOkdT = True
+   iOXCkM = 344.4468875269966 / 301.7830092903862
+  if b>u:
+   mmZAzo = 9532 * 568.3744294428498
+   YPRNpB = 533.7181712515841 - 2664
+   mxOVJy = False
+while e>y:
+  if h==q:
+   cpBmfZ = 6523 / 5774
+   zXPpBt = 3007 + 791.4543242431631
+   bnIuSk = False
+  if h>t:
+   kbmuAf = 5580 * 244.08089110738294
+   uDMCaQ = 6890 + 980.6917103413532
+   lfqjoM = True
+  if s>g:
+   cpBmfZ = 6523 / 5774
+   zXPpBt = 3007 + 791.4543242431631
+   bnIuSk = False
+while x==h:
+  if j<v:
+   NjfCvu = 7052 + 9219
+   faeDxm = 377 + 915.9637957565164
+   VLEjPD = 908.7114206809973 + 9388
+  if f<o:
+   FqXnSQ = 7362 * 8300
+   GtZDmi = 6171 / 6360
+   YVhVGF = False
+  if c>n:
+   NjfCvu = 7052 + 9219
+   faeDxm = 377 + 915.9637957565164
+   VLEjPD = 908.7114206809973 + 9388
+while p==p:
+  if x<t:
+   pMsTAN = True
+   APZfbS = 530.5992070919998 + 602.4088423917844
+   eKtrKg = 264.263633322324 + 155.2040834776184
+  if b==s:
+   fAdLqZ = True
+   xAaMZI = 57.50952327507708 / 5789
+   afOXRl = 761.8816442760751 * 67
+  if v>p:
+   pMsTAN = True
+   APZfbS = 530.5992070919998 + 602.4088423917844
+   eKtrKg = 264.263633322324 + 155.2040834776184
+while w>k:
+  if z>h:
+   mVhYQA = 296.74604610004906 + 292.1876541553449
+   hgwCoJ = 2457 * 8092
+   BIdzck = 1041 / 592.5003654723854
+  if b<x:
+   wbEebA = 353.90129117080363 / 4109
+   APxeQV = 9875 - 994.2524278714938
+   cLxvNq = 5471 - 682.5581312693953
+  if b<p:
+   mVhYQA = 296.74604610004906 + 292.1876541553449
+   hgwCoJ = 2457 * 8092
+   BIdzck = 1041 / 592.5003654723854
+while u==n:
+  if a<a:
+   YrdBuG = False
+   SYSroh = 228.60352491442237 / 8503
+   FHioda = 208.78167654794643 - 557.5698116005208
+  if h==q:
+   AwxJfc = False
+   CtsiMs = 279.5006806692884 - 5723
+   jUSukg = 8653 - 6402
+  if a<j:
+   YrdBuG = False
+   SYSroh = 228.60352491442237 / 8503
+   FHioda = 208.78167654794643 - 557.5698116005208
+while d>q:
+  if x==b:
+   jzUnoe = 7826 / 575
+   hDZqcb = 6172 + 6087
+   jEDimt = 216.6920638420751 / 3206
+  if s<c:
+   oHHkxx = 256.8963394055228 + 167.91981542309458
+   UjwDGo = False
+   UXTYyS = 592.6517822770414 + 236.75275753116736
+  if u>x:
+   jzUnoe = 7826 / 575
+   hDZqcb = 6172 + 6087
+   jEDimt = 216.6920638420751 / 3206
+while n>i:
+  if p==p:
+   ljDqwj = True
+   TqQskq = 5673 - 7048
+   fibYkt = 8634 + 693.3200377787962
+  if m>o:
+   vzsDjD = 157.29715185253846 - 194.40660360720915
+   idFpaF = 634.7199777098958 / 6579
+   oyfdLi = False
+  if k==j:
+   ljDqwj = True
+   TqQskq = 5673 - 7048
+   fibYkt = 8634 + 693.3200377787962
+while s>p:
+  if q>q:
+   bmWheB = 58.06871970011559 + 709.2880617145402
+   jExqWB = 107.88506396917404 * 1353
+   lxKFle = True
+  if r<g:
+   oTbiSl = False
+   BhiTiE = 728.35901587289 - 569.029805992826
+   RCFbLH = False
+  if k<u:
+   bmWheB = 58.06871970011559 + 709.2880617145402
+   jExqWB = 107.88506396917404 * 1353
+   lxKFle = True
+while w<b:
+  if p>h:
+   JdaFRq = 524.5328430178394 / 7147
+   hJzbCY = True
+   BFxFRt = 8193 + 155.21869471727226
+  if b==a:
+   VGviSG = True
+   MHQiiu = 2196 - 7648
+   RctNsq = 146.17674945622437 - 6546
+  if p>f:
+   JdaFRq = 524.5328430178394 / 7147
+   hJzbCY = True
+   BFxFRt = 8193 + 155.21869471727226
+while j>t:
+  if e<l:
+   KbhQbl = 8042 * 9126
+   wHvxww = 5761 * 7095
+   PNBPPc = 689.0555797266948 * 6320
+  if q==k:
+   uZGcFD = 1635 - 5480
+   YgaDiW = 6740 + 465.6104939305697
+   EupVLr = 5201 / 1483
+  if j<m:
+   KbhQbl = 8042 * 9126
+   wHvxww = 5761 * 7095
+   PNBPPc = 689.0555797266948 * 6320
+while o==o:
+  if t==j:
+   ETTtLq = 9049 / 2617
+   iCOfKw = False
+   HJMfru = True
+  if s>f:
+   aFdlnI = 9064 + 16.343577281776007
+   kvSXIc = 1334 / 85
+   psHkzD = 74.3302513276058 / 6611
+  if w<y:
+   ETTtLq = 9049 / 2617
+   iCOfKw = False
+   HJMfru = True
+while d<h:
+  if q>j:
+   ewqLYk = 347.28796040426136 * 6095
+   pyKLIV = 2945 - 2372
+   SdDleO = 435.14130842929325 / 203.34137899978603
+  if n<w:
+   wCNftL = 2377 / 3683
+   aOwKSb = 7325 + 272.5711610107661
+   XNYdyf = True
+  if f==y:
+   ewqLYk = 347.28796040426136 * 6095
+   pyKLIV = 2945 - 2372
+   SdDleO = 435.14130842929325 / 203.34137899978603
+while b==w:
+  if c<z:
+   JqMwgr = 446.6998574838956 / 7056
+   xRzjiN = 126.0804940474063 - 1416
+   TilXyh = 435.263818741725 / 3235
+  if b>j:
+   huYVQI = 789.3651081055392 - 4963
+   xDxZpG = 8389 - 951.1855038051638
+   xkVIIJ = False
+  if e<s:
+   JqMwgr = 446.6998574838956 / 7056
+   xRzjiN = 126.0804940474063 - 1416
+   TilXyh = 435.263818741725 / 3235
+while q<i:
+  if s<n:
+   TlkrYe = False
+   jUSukg = 8653 - 6402
+   rDfvXb = 696 * 2224
+  if s==v:
+   QpvZUV = 2558 * 44.782805626155906
+   zsDdjv = 160.36166477770038 / 121.71606113807796
+   ZxpnAt = 176.75124785819085 - 4149
+  if f==c:
+   TlkrYe = False
+   jUSukg = 8653 - 6402
+   rDfvXb = 696 * 2224
+while z<m:
+  if z<f:
+   FjhdOj = 2309 * 9693
+   uIPrLa = 90.74466263513261 + 512
+   evqzgV = 507 - 135.3530018312757
+  if l==w:
+   icdmOL = 3095 + 8582
+   jweJXj = 503.25843393892984 + 953.7746474911208
+   NkEnDz = 32 + 3424
+  if l>c:
+   FjhdOj = 2309 * 9693
+   uIPrLa = 90.74466263513261 + 512
+   evqzgV = 507 - 135.3530018312757
+while j>q:
+  if c<t:
+   GOhqvp = 16.479306911417538 + 934.1359837162506
+   McasoP = True
+   KfwxVc = 892.2205917190399 / 6139
+  if y<m:
+   XmreER = 575.9508401691809 * 76.15210033721871
+   aQJWLD = 6607 - 1693
+   yRwBiS = 7505 / 541.2989823988999
+  if c==l:
+   GOhqvp = 16.479306911417538 + 934.1359837162506
+   McasoP = True
+   KfwxVc = 892.2205917190399 / 6139
+while p==u:
+  if b>e:
+   FQYZpK = 9145 * 237.2826719919988
+   hOyGhi = 7192 / 2606
+   pNPQNI = 1593 / 4592
+  if i==q:
+   bAJlgF = True
+   vHCUxe = True
+   YWxvMl = 729.9953382329578 / 357.117875977045
+  if h<a:
+   FQYZpK = 9145 * 237.2826719919988
+   hOyGhi = 7192 / 2606
+   pNPQNI = 1593 / 4592
+while r<v:
+  if u==u:
+   MrAleX = 460.84385736575507 + 563.1032973254129
+   esDjQz = 731.24115644654 * 263.3984814537169
+   IvEVkO = 3383 + 4476
+  if s>p:
+   ToewbN = 168.5469651611268 * 6872
+   ZumVyW = False
+   VUSDSQ = 629.4941484516414 - 1035
+  if j==q:
+   MrAleX = 460.84385736575507 + 563.1032973254129
+   esDjQz = 731.24115644654 * 263.3984814537169
+   IvEVkO = 3383 + 4476
+while q==y:
+  if r>d:
+   ByTLwv = True
+   LhkMkl = 125.23246715982806 - 683.8011875283835
+   RFAOFX = 9270 - 880.8093348662518
+  if u==f:
+   HWcihE = 719.0161046719849 - 9657
+   fVqXkr = 5917 + 5474
+   XcPpqy = 2053 / 801.9408891791975
+  if p>z:
+   ByTLwv = True
+   LhkMkl = 125.23246715982806 - 683.8011875283835
+   RFAOFX = 9270 - 880.8093348662518
+while w<w:
+  if x<s:
+   RAOIhZ = 9856 - 6446
+   AkiFEH = 5739 / 3086
+   aqPHRu = 3193 - 351.5126254571012
+  if a>f:
+   iQuPjp = 2612 * 4698
+   xyzsuo = True
+   YtftIY = 711.6273650665615 + 29.50974270853208
+  if g==l:
+   RAOIhZ = 9856 - 6446
+   AkiFEH = 5739 / 3086
+   aqPHRu = 3193 - 351.5126254571012
+while m==a:
+  if a==p:
+   JeQlwe = 257.2153118107342 + 858.8359274661786
+   UuJbJf = 8955 / 2357
+   GvASrQ = 747 * 191
+  if z<f:
+   nefygD = 562.2788397606114 / 5802
+   YBcyLk = 8549 - 624.8746929418679
+   vefjTn = 35.441207919522235 + 2082
+  if l>i:
+   JeQlwe = 257.2153118107342 + 858.8359274661786
+   UuJbJf = 8955 / 2357
+   GvASrQ = 747 * 191
+while q==j:
+  if z>y:
+   piLMuq = False
+   IGHUge = False
+   XqUMpv = 537 * 953.3597608774551
+  if t<n:
+   PfWyUf = 7113 / 813.5836335530136
+   AeXYQA = 936.0430432265182 / 593.7623961311093
+   yRpyLc = 605.8915906683935 / 955.2001057324139
+  if v==o:
+   piLMuq = False
+   IGHUge = False
+   XqUMpv = 537 * 953.3597608774551
+while i<p:
+  if h<i:
+   zIjSsc = 594.4777678810851 + 663.04703471322
+   qsZCWG = 37.80649399238607 * 1140
+   DtkNSG = 2168 + 624.5346431399948
+  if c<f:
+   GYmKHO = False
+   giMQrx = 964.7850966042263 / 9712
+   ssAkFP = True
+  if o<k:
+   zIjSsc = 594.4777678810851 + 663.04703471322
+   qsZCWG = 37.80649399238607 * 1140
+   DtkNSG = 2168 + 624.5346431399948
+while w>r:
+  if k>m:
+   rZXOJF = False
+   cohtDq = 790.6862775355936 + 9750
+   mSlhdz = 5122 / 213.48451924381234
+  if w==e:
+   BvmVSf = 915.205980636714 * 2770
+   ljgheb = 479.1190521007543 * 457.8112450078228
+   sdHoaE = 205.56115139800747 - 6752
+  if k>r:
+   rZXOJF = False
+   cohtDq = 790.6862775355936 + 9750
+   mSlhdz = 5122 / 213.48451924381234
+while u==a:
+  if r>y:
+   tvWkcA = 747.9909343540073 - 1596
+   dPhXTM = 275.24179745003113 - 8064
+   VYSKHo = 8074 / 7631
+  if b==t:
+   piXLCC = 9773 * 4242
+   QErjNa = 3594 - 180.22682511677527
+   tEmvbB = 5847 + 5652
+  if z==c:
+   tvWkcA = 747.9909343540073 - 1596
+   dPhXTM = 275.24179745003113 - 8064
+   VYSKHo = 8074 / 7631
+while n==b:
+  if v>l:
+   XKmwSO = 505.65614067283843 * 4084
+   XAPdVk = 905.4957369247077 / 6309
+   zgEEQX = 863.0365275644331 - 520.0000710915893
+  if q==m:
+   NQoQeO = 858.8000077780515 + 9421
+   ZDPRBE = True
+   HbSEuQ = 6913 / 416.3310844504253
+  if t==f:
+   XKmwSO = 505.65614067283843 * 4084
+   XAPdVk = 905.4957369247077 / 6309
+   zgEEQX = 863.0365275644331 - 520.0000710915893
+while w==w:
+  if w>x:
+   eGydor = 783.6538687075854 - 310.5668313039012
+   FkKOXi = 8816 + 924.6827947856883
+   enebfc = True
+  if l==q:
+   LLqVJr = 118.11063204457855 - 868.4922158889777
+   GeTewv = False
+   XowJqs = 264 - 3801
+  if e==m:
+   eGydor = 783.6538687075854 - 310.5668313039012
+   FkKOXi = 8816 + 924.6827947856883
+   enebfc = True
+while i<y:
+  if b>o:
+   GgBuGu = 800.0562618706606 * 6742
+   hTYAwi = 706.2934994485344 * 187.43176782672586
+   mLffFn = 7831 - 7061
+  if s>e:
+   rrmaWV = 54.3111574545846 - 8245
+   iojnfJ = 6262 / 568.8491618637714
+   aMXgyh = 5560 / 7918
+  if z>o:
+   GgBuGu = 800.0562618706606 * 6742
+   hTYAwi = 706.2934994485344 * 187.43176782672586
+   mLffFn = 7831 - 7061
+while o<c:
+  if q>p:
+   EXLCmA = 7383 / 2177
+   rOliDt = 400.6310497427292 / 884.6410100431218
+   icYVkj = True
+  if x>t:
+   mtYiDn = 797.7339766781031 + 9086
+   Tdkwoe = 49.54118640251251 * 727.3878358601503
+   fAimZB = True
+  if h>q:
+   EXLCmA = 7383 / 2177
+   rOliDt = 400.6310497427292 / 884.6410100431218
+   icYVkj = True
+while t>q:
+  if t<n:
+   GtZDmi = 6171 / 6360
+   zxbsyz = 230.6052917595871 * 646.9130984175595
+   UYLWVL = 873 / 742.243212045987
+  if n>z:
+   oTuVlC = 6117 / 365.6267087254546
+   bHLKIU = True
+   RDGdvl = 9324 - 409
+  if h>w:
+   GtZDmi = 6171 / 6360
+   zxbsyz = 230.6052917595871 * 646.9130984175595
+   UYLWVL = 873 / 742.243212045987
+while c>a:
+  if w==a:
+   ExIGQg = 9906 - 5925
+   ShiWGh = 220 / 1154
+   gZloew = 638.6889048524996 * 226.01005159404926
+  if z>l:
+   TmxeHU = 377.4642325999944 * 7898
+   gOwFou = 9323 - 9499
+   AkOKbC = 19.340440308572667 - 692.5971337772017
+  if t<f:
+   ExIGQg = 9906 - 5925
+   ShiWGh = 220 / 1154
+   gZloew = 638.6889048524996 * 226.01005159404926
+while x>i:
+  if f>i:
+   lJtjXl = 249.07277486590849 / 460.62150058662337
+   hHrOuQ = False
+   cWZZiC = 778.6395607359108 - 1758
+  if h<i:
+   eOeWXs = 6394 / 1503
+   ARKEVW = 423.733974430918 / 49.52740357876406
+   KnoSOd = 9366 * 231.71908362901763
+  if a==x:
+   lJtjXl = 249.07277486590849 / 460.62150058662337
+   hHrOuQ = False
+   cWZZiC = 778.6395607359108 - 1758
+while u<b:
+  if h==n:
+   ngVHAb = 6382 + 496.9414524370201
+   MLxsmx = 2392 - 9908
+   lKylaD = 782.9646120886594 * 657.621704412225
+  if j>w:
+   bcTqDa = 717.5008405328075 + 642
+   CaZtkC = 3614 - 565.225142469186
+   APECJi = 548.1328802009784 + 1556
+  if j<e:
+   ngVHAb = 6382 + 496.9414524370201
+   MLxsmx = 2392 - 9908
+   lKylaD = 782.9646120886594 * 657.621704412225
+while g>y:
+  if r>i:
+   KyARZY = 9031 * 425.4875475622158
+   XcnNzb = False
+   wqeyhB = 496.1226317192828 - 685.1202362549033
+  if w<z:
+   qflqwl = 7870 - 6446
+   XdluHs = False
+   zXnOEv = True
+  if f==o:
+   KyARZY = 9031 * 425.4875475622158
+   XcnNzb = False
+   wqeyhB = 496.1226317192828 - 685.1202362549033
+while i<t:
+  if a>e:
+   xyPkef = 8146 + 505.3016221190549
+   otxtSR = 3081 / 284
+   cneqbk = 3557 * 130.07788519820903
+  if m<l:
+   QyFLim = 397.3904740957577 * 275.16556494449566
+   uURNOy = 35.96095702511368 + 845.497976070134
+   NQoQeO = 858.8000077780515 + 9421
+  if l==q:
+   xyPkef = 8146 + 505.3016221190549
+   otxtSR = 3081 / 284
+   cneqbk = 3557 * 130.07788519820903
+while m<f:
+  if f>r:
+   PuIpjs = 7763 * 869.6877949390905
+   DKSGmo = 404.38541754714186 - 861.080056915414
+   BKwmgu = False
+  if f<b:
+   ytZSMm = 7928 + 1122
+   vFTLty = 233.66129644882514 + 2298
+   KgiPaf = 458.0871360899821 / 182.75263593739894
+  if g>x:
+   PuIpjs = 7763 * 869.6877949390905
+   DKSGmo = 404.38541754714186 - 861.080056915414
+   BKwmgu = False
+while c>c:
+  if w==f:
+   oMFmXN = 250.4350054555762 / 743.3609592121729
+   Oxtlux = False
+   tNTVKs = 182.52674720745742 * 631
+  if i<y:
+   ebpNPH = 3890 - 767.8258517082685
+   UDaYPY = False
+   Nnxxec = 553.032756598734 / 94.17856976375481
+  if w==z:
+   oMFmXN = 250.4350054555762 / 743.3609592121729
+   Oxtlux = False
+   tNTVKs = 182.52674720745742 * 631
+while t>i:
+  if y==h:
+   rfRYLi = 634.7518958999455 * 5322
+   dtzfvJ = 687.1344242553903 * 244.54060168677307
+   qzKtgR = 976.5379988243476 + 551.1851598239299
+  if a==x:
+   fmmSDs = 3359 - 357.64166330019407
+   nSESSL = 5353 + 588.1793527581317
+   DeGAZP = True
+  if l<p:
+   rfRYLi = 634.7518958999455 * 5322
+   dtzfvJ = 687.1344242553903 * 244.54060168677307
+   qzKtgR = 976.5379988243476 + 551.1851598239299
+while s<y:
+  if u>w:
+   evaYUr = 719.0395694668274 - 7247
+   PNdRxd = 9189 + 700.8597481942342
+   NXofzg = 788.0455047723484 - 543.1081378775688
+  if w==v:
+   ixQhzV = 8901 + 8716
+   DOHLHa = 2337 * 213.48792124334412
+   bSHbos = 923.8604564732312 / 50.56579277809967
+  if c==u:
+   evaYUr = 719.0395694668274 - 7247
+   PNdRxd = 9189 + 700.8597481942342
+   NXofzg = 788.0455047723484 - 543.1081378775688
+while s>u:
+  if j<g:
+   sdYaHI = 668.3472663385432 / 7027
+   FDPAed = 5143 / 880.095312389944
+   XZcFrg = True
+  if u>m:
+   MgSIvy = True
+   UtrEZV = 9047 + 169.97816537722576
+   soScKf = 3.6158301195158247 / 123.45148087224959
+  if x==n:
+   sdYaHI = 668.3472663385432 / 7027
+   FDPAed = 5143 / 880.095312389944
+   XZcFrg = True
+while z==g:
+  if v>n:
+   DTdIuA = 435.57415823323316 - 5197
+   rHkNvx = 6079 + 3517
+   WPDMvC = False
+  if e<m:
+   SHZeif = 4401 * 7833
+   LoPCgU = 779.4920733456753 - 946.628176760954
+   etSjRF = 3583 / 936.3200722227463
+  if j==q:
+   DTdIuA = 435.57415823323316 - 5197
+   rHkNvx = 6079 + 3517
+   WPDMvC = False
+while d>e:
+  if t<i:
+   UwBpCe = 273.9362774690314 * 8738
+   dWNcIO = 850.9182351646912 / 47.986634126362695
+   Bzgoyt = 9675 - 736.0878103431041
+  if z==h:
+   QKVree = 7145 - 7321
+   KBIiXe = 2746 - 2263
+   bLxIvS = 4887 + 7063
+  if t<c:
+   UwBpCe = 273.9362774690314 * 8738
+   dWNcIO = 850.9182351646912 / 47.986634126362695
+   Bzgoyt = 9675 - 736.0878103431041
+while w<e:
+  if s>d:
+   vzqeME = False
+   EIIErr = 323.7618694638058 - 2816
+   tKnpvb = 1301 * 4975
+  if z==c:
+   keHPxa = 359.159004169521 / 357
+   QLejkb = 4598 + 362.65743138291435
+   TJqORK = True
+  if s>z:
+   vzqeME = False
+   EIIErr = 323.7618694638058 - 2816
+   tKnpvb = 1301 * 4975
+while q==o:
+  if p==f:
+   DESfVw = 8463 + 779.062056275155
+   czXrSh = True
+   yGbyAd = 8376 / 2508
+  if v<n:
+   zRmaRw = 801.6624553439794 - 477.07353796263953
+   xsvbAC = 234.14500485147423 * 533.7032619913857
+   ZKKnaO = 603.9435149781588 + 738.5477859171965
+  if u>s:
+   DESfVw = 8463 + 779.062056275155
+   czXrSh = True
+   yGbyAd = 8376 / 2508
+while g==n:
+  if w==w:
+   urruEr = 839.732373035923 / 700.5989475719499
+   IQzpQx = False
+   AeZuNR = True
+  if v<e:
+   uBvisN = False
+   DDbALd = 5524 / 2183
+   plUjGY = 1010 / 9649
+  if m<f:
+   urruEr = 839.732373035923 / 700.5989475719499
+   IQzpQx = False
+   AeZuNR = True
+while y==p:
+  if c>v:
+   UdIdSC = 11.924803693707604 - 559.6067225460109
+   flLfXI = 2874 - 176
+   Idwdpk = 9061 / 592.366265907423
+  if i==w:
+   MKZeRL = 299.10953416465816 + 886.8808664511987
+   oTbiSl = False
+   TtVdng = 3686 * 190.02478503424513
+  if m>j:
+   UdIdSC = 11.924803693707604 - 559.6067225460109
+   flLfXI = 2874 - 176
+   Idwdpk = 9061 / 592.366265907423
+while e<q:
+  if h>l:
+   GdMLsS = 4291 * 421.41706371166475
+   HToopP = 1159 - 7233
+   EEiyIs = 6205 / 3243
+  if h>k:
+   lXZIhD = 5235 - 8423
+   fMvyjL = 89.90085299786972 / 6611
+   aiUYdQ = True
+  if t>l:
+   GdMLsS = 4291 * 421.41706371166475
+   HToopP = 1159 - 7233
+   EEiyIs = 6205 / 3243
+while p==r:
+  if g<m:
+   NlwnCh = 192.46163410717696 - 510.450877252429
+   ztqHnS = 553 + 1851
+   LGPcSH = 789.4536322586462 - 424
+  if s<x:
+   IucjVz = 237.63679718202803 - 967.2388289329035
+   atqdeK = 5510 + 893.5781164628576
+   AHuKTt = 243.5603787395656 - 49.11437903295728
+  if j==x:
+   NlwnCh = 192.46163410717696 - 510.450877252429
+   ztqHnS = 553 + 1851
+   LGPcSH = 789.4536322586462 - 424
+while a==u:
+  if c>j:
+   tRCocV = True
+   WYATiV = False
+   xsprrS = 7054 + 478.78292238940236
+  if y==l:
+   BvGyEG = True
+   IWXCsO = 4590 - 1621
+   lRoyUt = 1487 / 2697
+  if m==d:
+   tRCocV = True
+   WYATiV = False
+   xsprrS = 7054 + 478.78292238940236
+while k<h:
+  if i>d:
+   wNIWAF = 4581 / 2874
+   oSPUnV = 6501 - 3879
+   wawowh = 389.85115316745566 / 978.7816644822096
+  if e<d:
+   OwhdXK = 352.6399801739619 - 1698
+   mcaaqd = 954.5574404060651 + 2150
+   Tyuqij = 290.7213227529021 + 833.3047209127583
+  if u>x:
+   wNIWAF = 4581 / 2874
+   oSPUnV = 6501 - 3879
+   wawowh = 389.85115316745566 / 978.7816644822096
+while u==p:
+  if u<l:
+   vqszWv = 720.8912488852889 - 245
+   AkJXwK = 701.4370589588603 * 7065
+   jqYJbd = 833.9723231620635 - 28.202977752513675
+  if h<h:
+   nkmEUz = 562.3512594996612 + 430.04355686182186
+   wOokDm = 5325 / 5651
+   RZhzLb = 437.7262882164901 + 2303
+  if w<g:
+   vqszWv = 720.8912488852889 - 245
+   AkJXwK = 701.4370589588603 * 7065
+   jqYJbd = 833.9723231620635 - 28.202977752513675
+while v>k:
+  if j==e:
+   KHdWpx = 4825 / 777.3595942310693
+   IaPbgV = 624.8830676042185 + 616.1550383135997
+   GjYsuX = 1838 / 794.3898829488278
+  if i>n:
+   Qhktkc = 166.51251457046172 * 399.12970519540795
+   TZTFPR = 411.42542385667804 * 4632
+   YKBgNZ = 4335 + 9304
+  if v==p:
+   KHdWpx = 4825 / 777.3595942310693
+   IaPbgV = 624.8830676042185 + 616.1550383135997
+   GjYsuX = 1838 / 794.3898829488278
+while l<s:
+  if m>g:
+   qybyLZ = True
+   UvdAkR = True
+   NPDoNj = 95.05707853998557 - 195.58159872385025
+  if s<o:
+   KDepZq = 4205 / 588.4710008810117
+   EScbcO = 6807 * 8943
+   rDfvXb = 696 * 2224
+  if d>m:
+   qybyLZ = True
+   UvdAkR = True
+   NPDoNj = 95.05707853998557 - 195.58159872385025
+while w>k:
+  if a==a:
+   yEASMs = 884.4438550670535 - 8065
+   LFGYUi = True
+   fFGuIu = 51.526632516386016 - 3387
+  if v<g:
+   WGbcMp = 699.7526835192366 * 326.27774402931504
+   EMfRjN = 510.1266762546496 + 991.7408443058009
+   yXVsGL = 134.22163796287072 / 843.465728731904
+  if e>x:
+   yEASMs = 884.4438550670535 - 8065
+   LFGYUi = True
+   fFGuIu = 51.526632516386016 - 3387
+while d>y:
+  if z==p:
+   TmlZyV = 4570 - 141.20063584144947
+   KlUlIA = 976.8651214693176 - 4917
+   oJXTys = 101.0109467611475 - 9609
+  if l>z:
+   CdGtCZ = 145.61453905700102 * 6444
+   Balnod = 102.92523709223534 / 409.41682979627984
+   OeMflN = 481.12352561020043 * 1500
+  if p==t:
+   TmlZyV = 4570 - 141.20063584144947
+   KlUlIA = 976.8651214693176 - 4917
+   oJXTys = 101.0109467611475 - 9609
+while e==b:
+  if v<o:
+   ZZUkkg = 4527 + 5001
+   mBygiI = 333.04900789903405 + 177.66144781831824
+   hDBrtC = 9258 + 569.0500218507102
+  if o==w:
+   nBtKxq = 619.9134864963745 - 8779
+   OqZFLh = 6118 - 1883
+   kyaHva = 674.8272674699195 * 7655
+  if h>a:
+   ZZUkkg = 4527 + 5001
+   mBygiI = 333.04900789903405 + 177.66144781831824
+   hDBrtC = 9258 + 569.0500218507102
+while g>z:
+  if g>b:
+   XKzIHh = 2953 / 755.2519879194379
+   ESFylH = 9058 + 305.88338885058255
+   BPrMiQ = 8594 + 176.83378339457158
+  if x==o:
+   bWdOMC = True
+   fgpayl = 8546 - 1567
+   axtEde = False
+  if x>t:
+   XKzIHh = 2953 / 755.2519879194379
+   ESFylH = 9058 + 305.88338885058255
+   BPrMiQ = 8594 + 176.83378339457158
+while z==t:
+  if a==q:
+   BpiHMO = 440.7173313110965 - 409.5737184768537
+   tqSkgU = 942.7348068337282 + 617.2275307996928
+   biGhlp = 618.9503716930161 * 1844
+  if j==t:
+   gEomgE = 855.3431227586831 / 9589
+   XFyTIm = 304.15539645530663 - 119.63829051249883
+   eeAuun = 8383 + 4848
+  if p<b:
+   BpiHMO = 440.7173313110965 - 409.5737184768537
+   tqSkgU = 942.7348068337282 + 617.2275307996928
+   biGhlp = 618.9503716930161 * 1844
+while g>m:
+  if l==p:
+   zaNldS = 952.7912656537326 + 3212
+   SYqEsn = 1038 - 330.7400527649434
+   wMVQvn = 208 * 4280
+  if u==c:
+   yJXhjr = 4452 / 651.6913694137791
+   SDXQYl = 411 * 182.68818023726354
+   QKoeHC = False
+  if d>y:
+   zaNldS = 952.7912656537326 + 3212
+   SYqEsn = 1038 - 330.7400527649434
+   wMVQvn = 208 * 4280
+while i>t:
+  if a>a:
+   LeZXrj = False
+   jmKBgZ = 171.18378329738172 / 416.42042675768937
+   SGogMx = 5259 * 4453
+  if t<y:
+   rVgTRT = True
+   vkBfQc = 9.832023394396945 + 3102
+   ErAtJQ = 1216 - 948.044868932568
+  if u<g:
+   LeZXrj = False
+   jmKBgZ = 171.18378329738172 / 416.42042675768937
+   SGogMx = 5259 * 4453
+while g<y:
+  if j==q:
+   VTrEOM = True
+   BtYWAL = 929.9862880784164 - 992.1861834212226
+   MCtOvY = 209.38675461028618 / 758.9141390538151
+  if d<a:
+   OjBGyj = False
+   SEUtNK = 594.4900586120079 * 434.5534597195903
+   yPHzYX = 785 / 6667
+  if n==r:
+   VTrEOM = True
+   BtYWAL = 929.9862880784164 - 992.1861834212226
+   MCtOvY = 209.38675461028618 / 758.9141390538151
+while c<m:
+  if h>z:
+   vswYOF = False
+   FRIGuG = 197.37852914842918 * 373.15443406196346
+   AhuDkN = 1032 - 8476
+  if w==o:
+   ZGHvVK = 878.0109488293176 + 577.0187351871136
+   ONhond = 208.89366164046302 * 529.9270605958974
+   bAJlgF = True
+  if n<n:
+   vswYOF = False
+   FRIGuG = 197.37852914842918 * 373.15443406196346
+   AhuDkN = 1032 - 8476
+while q<c:
+  if p<m:
+   VVdYGX = 388.61623426480395 + 5381
+   LwUjNk = 845.546930048782 - 705.3671672745122
+   DSXUiO = 778.0962997416694 * 6816
+  if z<k:
+   hHNJKX = 112.93404892507756 * 9782
+   FpWABP = 4260 + 2181
+   BOFqzI = 481.7274810811862 + 405.4038584015256
+  if f<q:
+   VVdYGX = 388.61623426480395 + 5381
+   LwUjNk = 845.546930048782 - 705.3671672745122
+   DSXUiO = 778.0962997416694 * 6816
+while q<w:
+  if f<t:
+   BspsTR = 347.26178705361644 * 422.81585594301845
+   iErHWp = 764.1748668773823 * 359
+   nHugFN = 688.8234837917363 + 306.65063843380113
+  if m>s:
+   weWECK = 84.37927671371435 * 229.10598642457722
+   OgFvGY = 5965 - 636.9321582795733
+   akYkKZ = 1320 - 430.3601941797552
+  if a>g:
+   BspsTR = 347.26178705361644 * 422.81585594301845
+   iErHWp = 764.1748668773823 * 359
+   nHugFN = 688.8234837917363 + 306.65063843380113
+while t>u:
+  if e<g:
+   WXcgRo = 261.02108610234916 * 773.3599559419833
+   NOhbKE = 317.07535351761385 * 401.78125600118227
+   rDfvXb = 696 * 2224
+  if m<v:
+   rGfAPO = 7376 + 8875
+   hrPLDT = 2610 / 107
+   ZcWJya = True
+  if v>c:
+   WXcgRo = 261.02108610234916 * 773.3599559419833
+   NOhbKE = 317.07535351761385 * 401.78125600118227
+   rDfvXb = 696 * 2224
+while x<s:
+  if i>m:
+   bvIADu = True
+   vdoBLY = 7565 - 9012
+   JtmePk = 8864 * 524.1921765997888
+  if c==u:
+   qqVpsh = 6892 - 643.8478821453374
+   xiEtuD = 9646 * 410.2154750400797
+   UpNfQR = 52.4000070371932 - 9744
+  if f<l:
+   bvIADu = True
+   vdoBLY = 7565 - 9012
+   JtmePk = 8864 * 524.1921765997888
+while y<x:
+  if i==v:
+   jDELvG = 400.72428338409173 / 992
+   mmnGjs = 619.5312397574938 * 925
+   GGNbpt = True
+  if f==u:
+   TnCxHV = 492.54909357404136 + 690.4380431989279
+   CgsyRX = 1088 + 466.9364035804766
+   opLbGG = 739 * 7112
+  if m>l:
+   jDELvG = 400.72428338409173 / 992
+   mmnGjs = 619.5312397574938 * 925
+   GGNbpt = True
+while e<x:
+  if p>f:
+   JOUwOZ = 7914 / 94.02421272923117
+   oszXQM = 4842 / 792.065277384327
+   HbWAmx = 9384 * 120.59624873546106
+  if e<q:
+   QOJBvO = 3168 + 4388
+   RHMXGI = 9171 / 8772
+   JDfDAO = 4532 * 847.1338316249409
+  if d<r:
+   JOUwOZ = 7914 / 94.02421272923117
+   oszXQM = 4842 / 792.065277384327
+   HbWAmx = 9384 * 120.59624873546106
+while t==r:
+  if f<j:
+   RJhIyv = 7297 + 2206
+   dsDsel = 9305 - 871.052073370121
+   xAMNRh = 814.505190929726 / 6525
+  if g==o:
+   RtefYo = False
+   vLlzmm = 4634 - 170.31422690834222
+   KHdWpx = 4825 / 777.3595942310693
+  if g==l:
+   RJhIyv = 7297 + 2206
+   dsDsel = 9305 - 871.052073370121
+   xAMNRh = 814.505190929726 / 6525
+while e>d:
+  if z<l:
+   WcREeM = 5596 + 5921
+   RUXCvZ = 54.31958911969511 / 7415
+   XJouOk = 217.9592314366383 * 719.9594779380253
+  if c>o:
+   hEOEio = 277.2903106088508 * 960.4834457164386
+   mKuJfH = 999.7687360078464 / 563.489368213771
+   enebfc = True
+  if r<q:
+   WcREeM = 5596 + 5921
+   RUXCvZ = 54.31958911969511 / 7415
+   XJouOk = 217.9592314366383 * 719.9594779380253
+while s<y:
+  if z==o:
+   yVQAip = 896.6587312733936 * 7907
+   kvKDwS = True
+   gseuSf = 8828 / 169.93424094835498
+  if s<e:
+   BMcaZh = 135.7129638281461 - 884
+   YebHKQ = True
+   aSVMQi = False
+  if s==v:
+   yVQAip = 896.6587312733936 * 7907
+   kvKDwS = True
+   gseuSf = 8828 / 169.93424094835498
+while w<i:
+  if x<y:
+   xFWTdo = 6814 * 4070
+   HbCNYQ = 860.1923158055458 - 551
+   Bfcvtc = 770.1688561810071 + 4917
+  if h<k:
+   KimIqp = 2500 * 537.21719792681
+   zNiLdL = 2448 + 922.6608235896861
+   KVDDnm = 872.6116216884554 - 844.4374972042435
+  if t<h:
+   xFWTdo = 6814 * 4070
+   HbCNYQ = 860.1923158055458 - 551
+   Bfcvtc = 770.1688561810071 + 4917
+while a<j:
+  if a>s:
+   TQuJjD = True
+   srwBLj = 2199 * 3281
+   YhfLMi = False
+  if d>r:
+   WymfcZ = 47.927556864065686 + 3285
+   bhmQsy = 39.70459614425702 - 9557
+   TgGTgJ = 7087 / 376.9853886433094
+  if z>j:
+   TQuJjD = True
+   srwBLj = 2199 * 3281
+   YhfLMi = False
+while q==d:
+  if h<y:
+   OxgNEz = 2778 - 6085
+   KdsVna = False
+   OnwOvh = 8341 + 847.3842144152426
+  if m>k:
+   JqGJmc = 305.95488655088013 * 559.7826038122911
+   HAmjVO = 786.8304484504265 - 7403
+   dBvIkU = False
+  if r==l:
+   OxgNEz = 2778 - 6085
+   KdsVna = False
+   OnwOvh = 8341 + 847.3842144152426
+while o<b:
+  if e>k:
+   QKVree = 7145 - 7321
+   ETAmXU = 8234 + 3403
+   oJmUhO = 4777 - 411.79068614872796
+  if a>b:
+   ucpfcj = 118.86768377591856 / 445.51000932721763
+   ivnZZs = 283.5084502375886 * 4882
+   axqssM = 7751 - 821.6110297474578
+  if e==d:
+   QKVree = 7145 - 7321
+   ETAmXU = 8234 + 3403
+   oJmUhO = 4777 - 411.79068614872796
+while m==m:
+  if j>o:
+   EQKpQa = 2934 + 9927
+   mLLmvF = 9587 + 686.1551358790077
+   qpvuZs = 116.69979025893242 + 588.8505568794207
+  if q<t:
+   nZmWPB = False
+   TNrOHX = 2460 - 612
+   LBvBNa = 230.11785796030733 / 970.1973207681295
+  if v<k:
+   EQKpQa = 2934 + 9927
+   mLLmvF = 9587 + 686.1551358790077
+   qpvuZs = 116.69979025893242 + 588.8505568794207
+while d==i:
+  if d>h:
+   weWECK = 84.37927671371435 * 229.10598642457722
+   HPbnSb = 8826 * 185.46959821545596
+   ugkGrX = 986.5063581737954 / 996.4417090382796
+  if e==c:
+   kpNwAv = 7104 * 8621
+   MSoOlA = 7821 + 4264
+   ZsZrCe = 6679 + 5457
+  if p>s:
+   weWECK = 84.37927671371435 * 229.10598642457722
+   HPbnSb = 8826 * 185.46959821545596
+   ugkGrX = 986.5063581737954 / 996.4417090382796
+while h<v:
+  if y<b:
+   XlKumz = 666.7101228737296 - 2499
+   RvLvSz = 5034 / 262.1898261705721
+   ozoBsg = 3887 - 370.3025108784459
+  if b<i:
+   dvZrYm = 599.9444052468612 - 245.099189043574
+   BxXfzv = False
+   JpKJSk = True
+  if n>g:
+   XlKumz = 666.7101228737296 - 2499
+   RvLvSz = 5034 / 262.1898261705721
+   ozoBsg = 3887 - 370.3025108784459
+while p==d:
+  if o==a:
+   BDBMMl = 80.0852127670264 / 4324
+   aIIRfk = 591.6972695536317 - 4197
+   qwcevm = 949.7474029735009 + 863.924743551776
+  if z==n:
+   esuMeR = 193.28257851799034 * 5945
+   IEQAzf = 210.18803456434287 + 669.1239014669111
+   kbiGIl = 480 / 3777
+  if x==d:
+   BDBMMl = 80.0852127670264 / 4324
+   aIIRfk = 591.6972695536317 - 4197
+   qwcevm = 949.7474029735009 + 863.924743551776
+while s>o:
+  if c==m:
+   GNRFfz = False
+   rQcEHA = True
+   YeCDxP = 6437 * 5464
+  if t<z:
+   DENZkF = 834.1237841157241 * 578
+   xNstQq = True
+   KibyrH = 786 + 8864
+  if x>u:
+   GNRFfz = False
+   rQcEHA = True
+   YeCDxP = 6437 * 5464
+while a>m:
+  if w<v:
+   enClQP = 616.6322269931094 / 799.8601267451724
+   WMUMGy = False
+   LzFERZ = 488.69891489230463 + 9808
+  if m<a:
+   TjBexF = 831.5789618646048 / 1593
+   WJIFMQ = 3654 * 543.079030397956
+   hyXNmX = 908.5365600588685 / 782.6741066612036
+  if m>k:
+   enClQP = 616.6322269931094 / 799.8601267451724
+   WMUMGy = False
+   LzFERZ = 488.69891489230463 + 9808
+while h>g:
+  if k==v:
+   WeWTSH = 9933 + 816.5675472360219
+   ZlEUMN = 1926 / 5975
+   HDkmPp = True
+  if p==r:
+   xiEtuD = 9646 * 410.2154750400797
+   LxTyvZ = 7521 * 403.1534934896945
+   fMvyjL = 89.90085299786972 / 6611
+  if j<y:
+   WeWTSH = 9933 + 816.5675472360219
+   ZlEUMN = 1926 / 5975
+   HDkmPp = True
+while n<e:
+  if u==v:
+   qNsunj = 742.408257391282 + 5189
+   EukDLI = True
+   ZbmVAD = 856.4961302756719 / 630.105052756595
+  if x>s:
+   uEETiz = 652 * 5158
+   NpaSKM = 5035 + 3942
+   siZPtp = 1739 / 3091
+  if w==u:
+   qNsunj = 742.408257391282 + 5189
+   EukDLI = True
+   ZbmVAD = 856.4961302756719 / 630.105052756595
+while p<f:
+  if c<f:
+   hulXPF = 2664 / 363.90959136389364
+   HjfrFG = False
+   Cwghey = 4824 - 4020
+  if q<v:
+   heIAOg = 806.8940044794675 / 5417
+   oODnCc = 122.22139169674453 / 35.37834928160775
+   HbWAmx = 9384 * 120.59624873546106
+  if j>t:
+   hulXPF = 2664 / 363.90959136389364
+   HjfrFG = False
+   Cwghey = 4824 - 4020
+while g==c:
+  if g>g:
+   hsjkdq = False
+   PjmcBq = 4572 - 102.22888310873488
+   QppqAi = 5924 / 640.3859994894578
+  if e>s:
+   sOrhMJ = 750.3479618216729 - 8637
+   ZjMUcw = 789.9035653012385 + 825.5937225766281
+   chndKm = 7735 + 600.2778197047716
+  if n==p:
+   hsjkdq = False
+   PjmcBq = 4572 - 102.22888310873488
+   QppqAi = 5924 / 640.3859994894578
+while a==z:
+  if t==y:
+   FxcWjj = True
+   PJyekq = True
+   aBhuwO = True
+  if i>s:
+   gyXMAS = 653.2333086844159 - 979.2208892186532
+   bGYsge = 6773 + 889.4482099579615
+   thYupN = 3634 / 4936
+  if h==d:
+   FxcWjj = True
+   PJyekq = True
+   aBhuwO = True
+while f==v:
+  if u>t:
+   LCfgnT = 4392 * 5506
+   KgsfIv = True
+   QIAROj = 954.0435418386053 - 7589
+  if i>c:
+   yXpauB = 100.14580634262406 / 164
+   pNPQNI = 1593 / 4592
+   QEjdPk = 370.10829513046497 * 727.350429647261
+  if t==m:
+   LCfgnT = 4392 * 5506
+   KgsfIv = True
+   QIAROj = 954.0435418386053 - 7589
+while n<k:
+  if c<h:
+   NYWaCB = 1462 + 3844
+   sisYhP = 26.413703922546514 - 5998
+   IYMorA = 6318 * 283.5952043581668
+  if y==u:
+   CrIxGL = 648.1904066601801 * 948.9919328829566
+   APOJSI = 686.7459398205771 - 4871
+   pZKDRg = 478.8315831212801 * 769.0043438088373
+  if i>t:
+   NYWaCB = 1462 + 3844
+   sisYhP = 26.413703922546514 - 5998
+   IYMorA = 6318 * 283.5952043581668
+while o==d:
+  if t==n:
+   DpTZAx = 8357 - 725.17078060743
+   GCRmrA = True
+   EkSmPr = 9364 * 6456
+  if x<s:
+   mmnGjs = 619.5312397574938 * 925
+   hJkzWV = 742.2559925444058 / 8849
+   raoPBE = 6820 - 3516
+  if i==f:
+   DpTZAx = 8357 - 725.17078060743
+   GCRmrA = True
+   EkSmPr = 9364 * 6456
+while h<w:
+  if e<v:
+   iADHeM = 4155 + 9291
+   JFCWdG = 523 / 5513
+   SPMVRp = 600.2976709869479 + 799
+  if e>q:
+   mDGNzv = 622.8768050351164 - 3560
+   aKgERP = 882.1441118042301 / 349.55583113216045
+   fzmQcR = 187.77802838607636 + 1186
+  if u>k:
+   iADHeM = 4155 + 9291
+   JFCWdG = 523 / 5513
+   SPMVRp = 600.2976709869479 + 799
+while n==j:
+  if w>t:
+   cEkXHL = 567.0206137876095 - 284.2474537449626
+   alyWqY = 3610 - 1371
+   IfqGxr = 117.03375267163833 + 576.2315747810063
+  if a<t:
+   BILDWU = 312.75305910707954 + 9077
+   QzocrU = 3862 * 494.53317419926015
+   jgExze = 119.7547957231289 / 188.73438924381384
+  if d>d:
+   cEkXHL = 567.0206137876095 - 284.2474537449626
+   alyWqY = 3610 - 1371
+   IfqGxr = 117.03375267163833 + 576.2315747810063
+while b==a:
+  if p>k:
+   KYKbDJ = False
+   djrSOx = 369.55319904214724 * 447.16642242677204
+   GMVuKJ = 2518 / 476
+  if d<t:
+   bHsGhC = 424 / 8957
+   VjGMdx = 337.8702661681423 - 2160
+   GlOyiG = True
+  if g<k:
+   KYKbDJ = False
+   djrSOx = 369.55319904214724 * 447.16642242677204
+   GMVuKJ = 2518 / 476
+while m==q:
+  if m==w:
+   Quiyml = 4882 + 789.6970771229163
+   oJKLny = 595.5619019379955 * 6370
+   YGIOQU = 1045 + 687.791383192161
+  if n<t:
+   zmHQJA = 912.7104960730521 * 7442
+   QHyYFr = 3208 + 455.0421417700631
+   xcdtgY = True
+  if n<a:
+   Quiyml = 4882 + 789.6970771229163
+   oJKLny = 595.5619019379955 * 6370
+   YGIOQU = 1045 + 687.791383192161
+while i>g:
+  if k==z:
+   LxpzZT = 698.9230688968449 - 870.7195028928157
+   AjCICR = 1616 + 961.9435926567346
+   RiqIib = 784.0746271012786 + 393.1568883715465
+  if k<t:
+   LbxvTW = 4689 / 7280
+   BaHkcH = True
+   ihnDlC = 426.7195424032594 * 66.1833913202853
+  if t>w:
+   LxpzZT = 698.9230688968449 - 870.7195028928157
+   AjCICR = 1616 + 961.9435926567346
+   RiqIib = 784.0746271012786 + 393.1568883715465
+while l==b:
+  if i==v:
+   gswxvH = 5000 + 8447
+   gBfxOS = True
+   UlaAPy = 3288 * 4917
+  if h>p:
+   NHutJp = False
+   EOHuRB = True
+   BaXHRo = False
+  if k>f:
+   gswxvH = 5000 + 8447
+   gBfxOS = True
+   UlaAPy = 3288 * 4917
+while b>h:
+  if l==b:
+   AbmZJV = 844.9388890876648 * 1094
+   MUyFBv = 7370 - 9455
+   UmZyze = 7580 * 1641
+  if f>y:
+   VwcHDo = 243.01053941877984 - 640.1585624822064
+   GkrxTm = 377.12922998393975 * 267.42874038110745
+   uwPjLq = False
+  if l<g:
+   AbmZJV = 844.9388890876648 * 1094
+   MUyFBv = 7370 - 9455
+   UmZyze = 7580 * 1641
+while h==o:
+  if z>q:
+   hjzRDp = False
+   qbxXGH = False
+   EUkFVi = 7033 / 48.47301699086241
+  if e<s:
+   FxjlTK = 509.6543889997075 * 405.4692941246923
+   iOXCkM = 344.4468875269966 / 301.7830092903862
+   omJUqp = 777.8063224768426 * 495.26682214746444
+  if e<e:
+   hjzRDp = False
+   qbxXGH = False
+   EUkFVi = 7033 / 48.47301699086241
+while e>h:
+  if n>u:
+   KimIqp = 2500 * 537.21719792681
+   LfqLZe = 2581 / 376.300694676104
+   EuCmms = 2866 * 4440
+  if p<r:
+   yWxRTh = 781.4052795609012 + 694
+   JpTqqN = True
+   wAviAp = 612.7607334680166 + 6124
+  if i>o:
+   KimIqp = 2500 * 537.21719792681
+   LfqLZe = 2581 / 376.300694676104
+   EuCmms = 2866 * 4440
+while g>h:
+  if c<j:
+   bWsHJE = 887.7458273237497 - 2910
+   EUkFVi = 7033 / 48.47301699086241
+   SDtURe = 778.9792947782702 * 9037
+  if l<v:
+   sbEGnR = 5460 - 528.5079146554369
+   DXLcDv = 516.822772257028 + 5864
+   ZaiEiX = 1363 / 5268
+  if v>y:
+   bWsHJE = 887.7458273237497 - 2910
+   EUkFVi = 7033 / 48.47301699086241
+   SDtURe = 778.9792947782702 * 9037
+while x==w:
+  if h<q:
+   lWmKgI = 9227 + 8130
+   BMUNKW = 5513 - 5951
+   SVqekB = 7873 / 740
+  if c==k:
+   NIPmfh = 4271 + 853.2674711908825
+   LTJNVQ = 5686 * 828.7993047344764
+   halrsD = 8075 * 625.5606235868969
+  if f>h:
+   lWmKgI = 9227 + 8130
+   BMUNKW = 5513 - 5951
+   SVqekB = 7873 / 740
+while t==s:
+  if k<l:
+   tzZORK = 897.9673205042927 * 8204
+   EdIFlw = True
+   eQsbNq = 386.9547868062641 - 696.7571627731465
+  if z>r:
+   vBExjn = 5501 + 1030
+   JAMkIU = 412.55276275802896 * 5621
+   kgSElX = 521.9898190983077 / 9299
+  if h>b:
+   tzZORK = 897.9673205042927 * 8204
+   EdIFlw = True
+   eQsbNq = 386.9547868062641 - 696.7571627731465
+while g>d:
+  if k>p:
+   ImrAju = 803.2019188280096 / 3672
+   ojcizQ = 423.02665812734926 / 6196
+   WYhRKQ = 481.4568541725408 * 7067
+  if d>j:
+   fAobDa = 614.1825474665703 - 876.4068425151061
+   GLBPGb = 9742 - 750.127589165795
+   Cyjquc = 9.975024361523321 - 250.14302235407436
+  if y==m:
+   ImrAju = 803.2019188280096 / 3672
+   ojcizQ = 423.02665812734926 / 6196
+   WYhRKQ = 481.4568541725408 * 7067
+while z>y:
+  if t>a:
+   oMFmXN = 250.4350054555762 / 743.3609592121729
+   csxxTq = 346 / 15.539133737112794
+   rpYLtY = 363.9078561912977 / 294.88653319816814
+  if i>h:
+   ACXZzp = 327.02239095019496 - 892.3709877226848
+   rMuZov = 7965 / 2974
+   TBCZEO = 9275 + 189
+  if p<u:
+   oMFmXN = 250.4350054555762 / 743.3609592121729
+   csxxTq = 346 / 15.539133737112794
+   rpYLtY = 363.9078561912977 / 294.88653319816814
+while m<t:
+  if x>d:
+   zwCAlS = 154.18792640272173 / 799.1218984905631
+   uIwfMx = 255.31501119149095 * 651.1099481080126
+   Ylxckw = 482.6124987718336 / 4274
+  if b==e:
+   zJfMUI = 730.9265396894971 * 9548
+   EjiGNv = False
+   BiwVHY = 423.8491881834228 - 48.59538725671479
+  if i<z:
+   zwCAlS = 154.18792640272173 / 799.1218984905631
+   uIwfMx = 255.31501119149095 * 651.1099481080126
+   Ylxckw = 482.6124987718336 / 4274
+while z>k:
+  if g==j:
+   fAGTRa = 990.5466237366207 * 5559
+   HGBFtZ = 6752 / 870.2085660646338
+   jsKfDS = 710.7839666456557 * 2366
+  if p>l:
+   VsolPe = 9791 - 102.24187519890786
+   HkVnbt = 574.7163986056544 / 8792
+   ywxquU = 137.52465295878 / 3133
+  if d<f:
+   fAGTRa = 990.5466237366207 * 5559
+   HGBFtZ = 6752 / 870.2085660646338
+   jsKfDS = 710.7839666456557 * 2366
+while o<u:
+  if j>u:
+   Srmdxc = 840.451087364927 + 6188
+   SOAdHK = 26.658785293644804 - 2761
+   ilxaua = 2982 + 5526
+  if b>t:
+   lPQjaA = True
+   xUdogk = 8174 - 5643
+   MJzxOu = 4253 / 3383
+  if y==q:
+   Srmdxc = 840.451087364927 + 6188
+   SOAdHK = 26.658785293644804 - 2761
+   ilxaua = 2982 + 5526
+while b<h:
+  if y<q:
+   tYENVq = 4532 - 4401
+   oWmhxb = 366 - 1242
+   UAuPom = 878.7006301385055 / 469
+  if o<f:
+   IQRXYb = 577.0635269941714 + 549.7671209326332
+   VKwiDt = 4359 + 725
+   WZAcpo = False
+  if p>y:
+   tYENVq = 4532 - 4401
+   oWmhxb = 366 - 1242
+   UAuPom = 878.7006301385055 / 469
+while e<z:
+  if s>h:
+   QOdOFF = 33.84266273513454 / 562
+   fgLLUI = 471.51331553605985 + 901.00200610875
+   eOPwfQ = 2924 - 641.0451300861604
+  if m==o:
+   SKrNud = 896.8733547934467 - 632.271594010041
+   qCuRge = True
+   HmzDaT = 175.38204148689272 * 6380
+  if k==w:
+   QOdOFF = 33.84266273513454 / 562
+   fgLLUI = 471.51331553605985 + 901.00200610875
+   eOPwfQ = 2924 - 641.0451300861604
+while h==i:
+  if d>z:
+   PqCvvE = False
+   ROzXiW = 2533 / 6186
+   abUWso = 1371 * 6105
+  if o<a:
+   PvUkoZ = 7754 / 232.54831837062687
+   pWmBEU = 7781 * 300.0847627196675
+   GLXUJP = False
+  if l==x:
+   PqCvvE = False
+   ROzXiW = 2533 / 6186
+   abUWso = 1371 * 6105
+while t==a:
+  if l==c:
+   xhwHxc = 701.1109772834369 / 404.5746892601424
+   aDFoUO = 588.7253938778202 * 42.7637433317178
+   qecXHI = False
+  if c>q:
+   RQkuGy = 726.2129157782936 / 373.99652847776497
+   diEcrf = False
+   urHONT = True
+  if o>p:
+   xhwHxc = 701.1109772834369 / 404.5746892601424
+   aDFoUO = 588.7253938778202 * 42.7637433317178
+   qecXHI = False
+while v>b:
+  if e==k:
+   MLKWSg = 572.5891769980734 / 1096
+   TDiTRd = 801.3278122738673 + 133.80684289513346
+   WDoiTL = 8919 / 5388
+  if f==j:
+   Hzobkt = False
+   qpQUKy = 720.8205990067463 + 5306
+   eDrsAS = 8602 * 897.3580800805194
+  if i==v:
+   MLKWSg = 572.5891769980734 / 1096
+   TDiTRd = 801.3278122738673 + 133.80684289513346
+   WDoiTL = 8919 / 5388
+while y<h:
+  if j>a:
+   QtuiZv = 9011 * 159.5759560290592
+   puZBna = 5544 / 2886
+   wgnNZr = 3690 * 9
+  if y<c:
+   qBPtzI = 35.240692730925524 - 480.146949197321
+   XAEGfS = 15 / 8284
+   eNbTVS = 499.1546011947054 * 1903
+  if b>y:
+   QtuiZv = 9011 * 159.5759560290592
+   puZBna = 5544 / 2886
+   wgnNZr = 3690 * 9
+while s>m:
+  if u==q:
+   LLYMjM = 5024 * 605.3049291083197
+   ulwCtG = 418.3280200500067 / 251.97099762245324
+   sqMJFD = 463.28396476584504 * 9635
+  if t==z:
+   qZxnho = 985.2625293250694 * 8114
+   SVTomZ = 8486 + 965
+   uiSZBu = True
+  if i==y:
+   LLYMjM = 5024 * 605.3049291083197
+   ulwCtG = 418.3280200500067 / 251.97099762245324
+   sqMJFD = 463.28396476584504 * 9635
+while m<n:
+  if r<h:
+   YVNDZC = True
+   TtKTua = False
+   VXVbwd = 543.7709370490655 + 7094
+  if x>y:
+   fMmxud = 467.91986097582594 + 73.91406818757098
+   QGrDLO = 7654 - 940.0495849759102
+   ichdVe = 467.03281947598833 - 578
+  if o>z:
+   YVNDZC = True
+   TtKTua = False
+   VXVbwd = 543.7709370490655 + 7094
+while w>y:
+  if i==n:
+   amsReK = 4151 / 2643
+   bZjRoX = 148.1248354818724 - 223.6777921843478
+   hyXNmX = 908.5365600588685 / 782.6741066612036
+  if a<o:
+   KFIUBl = 103 / 6720
+   oKHRnP = 2318 * 8532
+   tJkRmo = False
+  if f<x:
+   amsReK = 4151 / 2643
+   bZjRoX = 148.1248354818724 - 223.6777921843478
+   hyXNmX = 908.5365600588685 / 782.6741066612036
+while d>g:
+  if c==m:
+   ekXpsP = 6049 * 9732
+   SqtHiQ = 438.5710911070543 - 1953
+   jvOFkW = 7955 * 9321
+  if b==b:
+   wqAapO = 969.5801569032637 * 550.9470478553488
+   UiCZqJ = 68.41440364692669 + 60
+   ySJxeG = 4819 * 3532
+  if l>a:
+   ekXpsP = 6049 * 9732
+   SqtHiQ = 438.5710911070543 - 1953
+   jvOFkW = 7955 * 9321
+while w==r:
+  if n<w:
+   tNpTGz = 127.5683346196119 / 7887
+   cTLjhK = 926.8332645092333 * 798.5659992295626
+   LnFXPY = 543.8765089885403 * 4433
+  if f>q:
+   yMhxps = 4284 + 266.7607554186308
+   wmmWsR = True
+   DqVygS = 789.5540482294555 + 623.5610173689399
+  if b<y:
+   tNpTGz = 127.5683346196119 / 7887
+   cTLjhK = 926.8332645092333 * 798.5659992295626
+   LnFXPY = 543.8765089885403 * 4433
+while i<i:
+  if m>f:
+   LxpzZT = 698.9230688968449 - 870.7195028928157
+   NPUXzx = 950.7605518481043 + 230.3594360115193
+   AXveHc = False
+  if q>n:
+   eaEmDL = False
+   CghYSA = 717.1917848455587 + 923.770375189815
+   eGydor = 783.6538687075854 - 310.5668313039012
+  if v>h:
+   LxpzZT = 698.9230688968449 - 870.7195028928157
+   NPUXzx = 950.7605518481043 + 230.3594360115193
+   AXveHc = False
+while d==i:
+  if o<i:
+   sUCRDd = 3221 * 222
+   iBkSzx = 3568 / 39.067383340881165
+   kvOqwJ = 3305 / 668
+  if m<b:
+   xXdYXZ = 322.89105060309686 + 992.0106384396998
+   DNwvMT = 524.3228376190864 - 126.46169393530089
+   foVkgw = 789.8239990372402 + 341.9867622746503
+  if y==q:
+   sUCRDd = 3221 * 222
+   iBkSzx = 3568 / 39.067383340881165
+   kvOqwJ = 3305 / 668
+while t==a:
+  if v==q:
+   KfwxVc = 892.2205917190399 / 6139
+   HaApqs = False
+   KmaMTJ = 922.3907641732736 / 2350
+  if b<u:
+   KBnjsY = False
+   cxOSOr = 325.92252635483135 * 647.3107709605775
+   KkQlQz = 2145 / 657.6153516956565
+  if v==j:
+   KfwxVc = 892.2205917190399 / 6139
+   HaApqs = False
+   KmaMTJ = 922.3907641732736 / 2350
+while f>z:
+  if w>n:
+   bbbCAd = 6785 / 196.67921387242512
+   OJDHMx = 963.7993890142633 * 6128
+   mhCbKn = True
+  if g>z:
+   KBMQRy = 561.7989420285733 + 188.51268575142467
+   nTxEsh = 8722 - 653.8044553985449
+   JpiGjQ = 4792 - 615
+  if c==w:
+   bbbCAd = 6785 / 196.67921387242512
+   OJDHMx = 963.7993890142633 * 6128
+   mhCbKn = True
+while m==e:
+  if z==l:
+   RABIws = False
+   qnlIhU = 8019 * 213.39068600078193
+   heYlOC = 3576 * 79.82063877439664
+  if r>e:
+   QkEwav = 289.37669688914866 / 688.1360379045722
+   iKOEAd = 525.9174531791574 / 598
+   dqNAJN = False
+  if t>r:
+   RABIws = False
+   qnlIhU = 8019 * 213.39068600078193
+   heYlOC = 3576 * 79.82063877439664
+while u>c:
+  if f==t:
+   atMuTq = False
+   znxBBl = 81.61662395543254 - 249.21457416538465
+   kxNxGK = 252.28829529748396 / 26.197282730436704
+  if v==b:
+   qkJfsO = 107.85507092063993 / 902.4663605849707
+   nkmEUz = 562.3512594996612 + 430.04355686182186
+   PllpAM = 5849 + 3737
+  if u==c:
+   atMuTq = False
+   znxBBl = 81.61662395543254 - 249.21457416538465
+   kxNxGK = 252.28829529748396 / 26.197282730436704
+while m>r:
+  if n==c:
+   MDIODC = True
+   JlZHxn = True
+   nbIwtB = 8488 / 1124
+  if s>v:
+   JJeKdD = 928.0999118893966 * 747.2847941533298
+   ffqNpr = 334.79244535206675 * 651.6216066060875
+   BQAeCR = 997.8923670277112 / 1061
+  if c<e:
+   MDIODC = True
+   JlZHxn = True
+   nbIwtB = 8488 / 1124
+while c<a:
+  if e>e:
+   tbWtqd = 66.21838661435669 + 278.7844733666681
+   ZHBVar = 4062 + 4893
+   aQJWLD = 6607 - 1693
+  if i==e:
+   lfyxuY = 643.8274451809108 * 7576
+   RnxUKi = 122.0954085648285 + 187.8569393892306
+   XtqCce = 3512 * 344
+  if j==b:
+   tbWtqd = 66.21838661435669 + 278.7844733666681
+   ZHBVar = 4062 + 4893
+   aQJWLD = 6607 - 1693
+while q==a:
+  if w>v:
+   HoHpuc = 3704 / 269.74670794933354
+   oJJCJG = 687.4809962937964 * 929.9361332460506
+   vjUddz = 279.345620393815 - 880.5898376017994
+  if g<a:
+   cKCxSO = 1712 + 438.72001260392483
+   RcVKNv = 786.6168052449174 + 4143
+   xGHoPq = False
+  if q<g:
+   HoHpuc = 3704 / 269.74670794933354
+   oJJCJG = 687.4809962937964 * 929.9361332460506
+   vjUddz = 279.345620393815 - 880.5898376017994
+while h<t:
+  if d==q:
+   UphRIa = 551 * 4276
+   aUBVkI = 201.5035494242301 - 998.1130856015516
+   XqUMpv = 537 * 953.3597608774551
+  if v==k:
+   uIAqpl = 8130 / 650.7994991367659
+   HAmjVO = 786.8304484504265 - 7403
+   Wgqvaj = 619.8075458184347 - 253.12501607098608
+  if r<m:
+   UphRIa = 551 * 4276
+   aUBVkI = 201.5035494242301 - 998.1130856015516
+   XqUMpv = 537 * 953.3597608774551
+while y==a:
+  if y==b:
+   okRjWY = 662.8128459451588 / 658.1807015573642
+   NlwnCh = 192.46163410717696 - 510.450877252429
+   oJKLny = 595.5619019379955 * 6370
+  if p>f:
+   KVinGh = 8974 / 5083
+   vMqehA = 8400 + 7204
+   JfdcjJ = 8965 * 9295
+  if f==j:
+   okRjWY = 662.8128459451588 / 658.1807015573642
+   NlwnCh = 192.46163410717696 - 510.450877252429
+   oJKLny = 595.5619019379955 * 6370
+while b>h:
+  if u<d:
+   lxUxXH = 453.80289576951776 - 2388
+   aKFuVT = 533 - 7531
+   nSfQoX = True
+  if v<u:
+   APXGPE = 551.9362172906708 * 406
+   MvOzXD = 2121 / 7835
+   BiwVHY = 423.8491881834228 - 48.59538725671479
+  if b==a:
+   lxUxXH = 453.80289576951776 - 2388
+   aKFuVT = 533 - 7531
+   nSfQoX = True
+while m>g:
+  if c==v:
+   USDYrT = 858.0163105791227 + 134.59794485026683
+   XBTEtL = 3396 * 6904
+   oyulNJ = 5470 - 197.09929138833394
+  if h>f:
+   ugkGrX = 986.5063581737954 / 996.4417090382796
+   VgEVPn = 1908 - 257.51539769729783
+   SRVTXa = 9677 - 873.6798983963296
+  if c>k:
+   USDYrT = 858.0163105791227 + 134.59794485026683
+   XBTEtL = 3396 * 6904
+   oyulNJ = 5470 - 197.09929138833394
+while a>w:
+  if i==j:
+   kGseDk = True
+   fOrLzr = 474.3676229274308 - 494.9977607438262
+   vUtGGa = 7528 + 2483
+  if y<o:
+   lVfrJO = 7393 - 9393
+   pqktMT = 4187 + 473.76109819609314
+   NvspVq = True
+  if b==t:
+   kGseDk = True
+   fOrLzr = 474.3676229274308 - 494.9977607438262
+   vUtGGa = 7528 + 2483
+while y<i:
+  if x>f:
+   eQdjFX = 616.4519759891278 + 166.42155367163983
+   IeyNsj = 9475 * 4478
+   Fsglss = 188.19437451498948 - 5037
+  if d==w:
+   omJUqp = 777.8063224768426 * 495.26682214746444
+   YEKvOv = 689.4714694182495 - 7838
+   TpFemm = 739.7604618137394 - 146.38526120547652
+  if x==w:
+   eQdjFX = 616.4519759891278 + 166.42155367163983
+   IeyNsj = 9475 * 4478
+   Fsglss = 188.19437451498948 - 5037
+while p<h:
+  if z>q:
+   yRSXXW = 1476 / 667.9117765698642
+   XLZTuK = 273.0552085091324 + 5615
+   CbxYVw = 694.827845591245 - 6326
+  if x==c:
+   cSSYQZ = True
+   WwQCQV = 744.1414111838656 + 885.8360569270885
+   IucjVz = 237.63679718202803 - 967.2388289329035
+  if o==j:
+   yRSXXW = 1476 / 667.9117765698642
+   XLZTuK = 273.0552085091324 + 5615
+   CbxYVw = 694.827845591245 - 6326
+while j<i:
+  if t<c:
+   RmEEol = 472 / 7610
+   eEmtFo = 416.85664549280284 - 3247
+   xksyGa = 1722 - 356.33304915569977
+  if r<m:
+   PeznFp = 918.4326769849795 + 4655
+   dgLZFO = 1930 / 761.0997985733419
+   kwhcAL = 82.2771362080404 / 443.87068824981725
+  if q>y:
+   RmEEol = 472 / 7610
+   eEmtFo = 416.85664549280284 - 3247
+   xksyGa = 1722 - 356.33304915569977
+while x>h:
+  if n==l:
+   OxESDx = 4708 + 455.59158258371036
+   IQgZrS = True
+   SBdNXN = True
+  if m==m:
+   ruqGTx = 466.77797463587416 * 291.4667031728577
+   mJCXMW = 6383 * 568.1297534665144
+   UgJlqV = 841.5333022580487 * 1768
+  if u==t:
+   OxESDx = 4708 + 455.59158258371036
+   IQgZrS = True
+   SBdNXN = True
+while h==l:
+  if z>z:
+   ZUubEN = 1174 / 805.4786065045352
+   TeJPIY = False
+   VKGWdT = False
+  if m==g:
+   sgmRpZ = 280.86369841907725 + 4258
+   UWrHwi = 504.42388187583293 + 4493
+   mrJPCZ = 8695 / 759.5341315698126
+  if y==j:
+   ZUubEN = 1174 / 805.4786065045352
+   TeJPIY = False
+   VKGWdT = False
+while t<t:
+  if l>p:
+   LOcvTW = False
+   aqTXRL = 5686 + 8941
+   UgxgsW = 4724 + 1894
+  if h<y:
+   uvbAJM = False
+   qqOOXX = 9633 - 353.48401175778315
+   kjtkFR = 4187 - 845.6081759922985
+  if u<w:
+   LOcvTW = False
+   aqTXRL = 5686 + 8941
+   UgxgsW = 4724 + 1894
+while i==f:
+  if q==q:
+   FBRNAM = False
+   rbrnWI = 7819 - 338.9988361241674
+   QGrDLO = 7654 - 940.0495849759102
+  if p>p:
+   rBfamT = False
+   rKwOtq = 3808 + 58.703082779002166
+   eLcUPz = True
+  if r>x:
+   FBRNAM = False
+   rbrnWI = 7819 - 338.9988361241674
+   QGrDLO = 7654 - 940.0495849759102
+while j>c:
+  if m<u:
+   IGHUge = False
+   SZtFJl = 980.5573550658195 + 7404
+   LUYYap = False
+  if g==w:
+   ypPprM = False
+   Coshzj = 380.62703708795334 / 955.2848036482508
+   vjUddz = 279.345620393815 - 880.5898376017994
+  if q>b:
+   IGHUge = False
+   SZtFJl = 980.5573550658195 + 7404
+   LUYYap = False
+while u<y:
+  if g>s:
+   UKoIdc = 9749 / 5018
+   tiGTcO = 986.8808785981963 / 237.62472997923618
+   AidhTf = 803.2161003749798 / 842.3175294934108
+  if f==x:
+   XnLYkw = 679.1557538039756 + 896.9967998910814
+   EIIErr = 323.7618694638058 - 2816
+   uZGcFD = 1635 - 5480
+  if m>k:
+   UKoIdc = 9749 / 5018
+   tiGTcO = 986.8808785981963 / 237.62472997923618
+   AidhTf = 803.2161003749798 / 842.3175294934108
+while q>f:
+  if x>u:
+   WiAIsl = False
+   iKOEAd = 525.9174531791574 / 598
+   gEjlNT = 52 * 890.6694940563809
+  if g==l:
+   wNzJMp = 825 / 4424
+   jrJUIA = 229.58592886339915 / 7986
+   zsDdjv = 160.36166477770038 / 121.71606113807796
+  if w<r:
+   WiAIsl = False
+   iKOEAd = 525.9174531791574 / 598
+   gEjlNT = 52 * 890.6694940563809
+while e>f:
+  if g>l:
+   ZgqDCQ = 6302 * 744.6617885769066
+   tDTNRX = 8020 + 3165
+   iYkWNc = 734.8780365474465 / 26.862177490586728
+  if h<d:
+   geJmNK = True
+   cZpcmI = 382.62709547161734 / 519.8098972982714
+   boGkEO = 665 - 707.0111337118088
+  if r==i:
+   ZgqDCQ = 6302 * 744.6617885769066
+   tDTNRX = 8020 + 3165
+   iYkWNc = 734.8780365474465 / 26.862177490586728
+while e<l:
+  if p>z:
+   gNWLnC = 533.1169611201526 + 637.7260767608553
+   WfqmjF = 2210 / 690.7469699090273
+   LRmJRJ = 8584 + 6726
+  if e<l:
+   dzYCja = 859.6489490328759 * 1151
+   OYpksl = 700.5267386920244 + 332.4650708130093
+   XmtPgZ = 7597 / 762.5281203962131
+  if i<x:
+   gNWLnC = 533.1169611201526 + 637.7260767608553
+   WfqmjF = 2210 / 690.7469699090273
+   LRmJRJ = 8584 + 6726
+while e>e:
+  if x<i:
+   FFsVwW = False
+   zFLHSe = 905.3165670725008 * 853.4724355426679
+   poyggL = 263.71385663198663 / 110.536817123248
+  if k>e:
+   pnIBPB = 41.229603737643416 + 410.48716425440216
+   BegAoA = 490.37430760054093 - 306.6751356204154
+   cyInQH = 3123 / 357.981438750814
+  if e>c:
+   FFsVwW = False
+   zFLHSe = 905.3165670725008 * 853.4724355426679
+   poyggL = 263.71385663198663 / 110.536817123248
+while t==v:
+  if e==l:
+   RMkdNl = 920.1713172925562 * 75.68131271479696
+   vdTYbB = False
+   OznMCs = True
+  if e==r:
+   ensZrE = 6656 / 928.4233158874246
+   XJIMhc = 1320 - 4135
+   KIuIRz = 4045 - 2859
+  if f<s:
+   RMkdNl = 920.1713172925562 * 75.68131271479696
+   vdTYbB = False
+   OznMCs = True
+while m>p:
+  if w<r:
+   FicuWF = True
+   iygpUB = 543.3610884669984 * 876.1583817941827
+   dBxBhw = 3614 * 2130
+  if t>y:
+   MeAubm = 8864 * 6256
+   YTxAMs = 874.6692453350739 * 680.8866293707746
+   OHfJQv = 3403 - 946.2481008994127
+  if a==m:
+   FicuWF = True
+   iygpUB = 543.3610884669984 * 876.1583817941827
+   dBxBhw = 3614 * 2130
+while o>u:
+  if t==f:
+   vJlwlB = 872.7574250120484 - 2983
+   eSmftT = 226.35322451014258 + 962.0895706757045
+   hGSklp = 3114 + 5429
+  if t>t:
+   BQPwBm = 136.5278970733297 - 159.40022959848488
+   SYSroh = 228.60352491442237 / 8503
+   pJRWRC = 3949 * 2105
+  if w<s:
+   vJlwlB = 872.7574250120484 - 2983
+   eSmftT = 226.35322451014258 + 962.0895706757045
+   hGSklp = 3114 + 5429
+while m>q:
+  if e<m:
+   EAKpvT = 4506 * 7713
+   JFZlPy = 548.1533566255266 - 1760
+   jEZGnD = 401.54228889111874 * 788.0301761667985
+  if t>j:
+   zCumVM = False
+   qgkRKz = 828 / 811.1872392357827
+   NpJBYA = True
+  if y==p:
+   EAKpvT = 4506 * 7713
+   JFZlPy = 548.1533566255266 - 1760
+   jEZGnD = 401.54228889111874 * 788.0301761667985
+while o>i:
+  if l<j:
+   ZVXKwR = 8402 * 1184
+   BhiTiE = 728.35901587289 - 569.029805992826
+   NdKydq = 933.7410393708687 - 4906
+  if k>z:
+   BSxAoM = 938.2192433577294 - 146.80007015627595
+   DHyHLq = 2131 - 922.7096722200492
+   poIQoh = 16.46160868500955 + 9719
+  if r<m:
+   ZVXKwR = 8402 * 1184
+   BhiTiE = 728.35901587289 - 569.029805992826
+   NdKydq = 933.7410393708687 - 4906
+while n<n:
+  if t>b:
+   XoDfWy = 7000 * 387.40886957165736
+   dwiEbA = 2588 + 1364
+   BpTEFo = 700.1808787903184 / 229.07038782330073
+  if l>q:
+   KPLFpc = 8248 + 253.1649989521629
+   rBfamT = False
+   EtiwQA = 2225 * 4710
+  if t>v:
+   XoDfWy = 7000 * 387.40886957165736
+   dwiEbA = 2588 + 1364
+   BpTEFo = 700.1808787903184 / 229.07038782330073
+while m==q:
+  if b==j:
+   exykRg = False
+   hHmZZG = 2197 - 702.6602918665333
+   iQkosv = 2522 / 73.85809958507792
+  if m==r:
+   PwBkdq = 202.50092883357516 * 867.4046276966336
+   OTyUOV = 828.6153197505495 * 9483
+   cyNJZP = 814.5784925193399 / 3159
+  if p>w:
+   exykRg = False
+   hHmZZG = 2197 - 702.6602918665333
+   iQkosv = 2522 / 73.85809958507792
+while g==l:
+  if l<n:
+   DDbALd = 5524 / 2183
+   cougxN = False
+   NnSDon = True
+  if g>u:
+   VyjiUB = 5056 + 7426
+   iuemAW = 421.08502811224383 + 46.50217534322045
+   BHPtSo = 3728 - 577.3773227194963
+  if u>h:
+   DDbALd = 5524 / 2183
+   cougxN = False
+   NnSDon = True
+while o==k:
+  if o<m:
+   jWrlUW = 832.253404899403 - 9193
+   AGkWTo = 6644 - 3980
+   XfZNfH = True
+  if r==h:
+   omWigC = 380.6295610043046 + 417.19007056093704
+   LzVDdn = False
+   NVwSoZ = 2721 - 9891
+  if k<u:
+   jWrlUW = 832.253404899403 - 9193
+   AGkWTo = 6644 - 3980
+   XfZNfH = True
+while t==w:
+  if j==j:
+   GsNlMv = 342 / 597.2073681893693
+   gyhmSv = False
+   dAhVvI = 3072 / 2887
+  if x==x:
+   mEWfuz = True
+   DpOdty = False
+   zLAMjw = 9934 + 370.950788054259
+  if d<d:
+   GsNlMv = 342 / 597.2073681893693
+   gyhmSv = False
+   dAhVvI = 3072 / 2887
+while r<a:
+  if s>m:
+   ylUFuA = 649.2304044355918 / 770.0120650046489
+   FrRZpQ = 1157 * 4920
+   XOMIQA = False
+  if y>m:
+   BovecR = 9480 * 240
+   dMsJwA = 317.6808980151139 / 521.3272177735846
+   jTkpQU = 552.2201954183782 - 8273
+  if z>b:
+   ylUFuA = 649.2304044355918 / 770.0120650046489
+   FrRZpQ = 1157 * 4920
+   XOMIQA = False
+while n>y:
+  if p<w:
+   rOHNdU = 9380 - 512.9494041877831
+   hcZbzg = 1047 * 8747
+   BQPwBm = 136.5278970733297 - 159.40022959848488
+  if d<e:
+   GLCPjH = 11.749681105636846 + 4872
+   Odqpdl = 4680 - 7269
+   DrNYgS = 33.53132802504822 + 591.0750485279437
+  if r<h:
+   rOHNdU = 9380 - 512.9494041877831
+   hcZbzg = 1047 * 8747
+   BQPwBm = 136.5278970733297 - 159.40022959848488
+while z==q:
+  if x>v:
+   wMTvXv = 99.61908325603761 + 4130
+   oJmUhO = 4777 - 411.79068614872796
+   iLyMaM = 1827 / 227.5466299819425
+  if k<a:
+   YLSQiI = 329.62314474044194 - 4780
+   gqjKXs = 840.209195029675 - 720
+   SzbYIi = 612.3184955876327 / 207
+  if i==l:
+   wMTvXv = 99.61908325603761 + 4130
+   oJmUhO = 4777 - 411.79068614872796
+   iLyMaM = 1827 / 227.5466299819425
+while l<g:
+  if q<x:
+   rExdIA = 485.11182517615197 + 2609
+   AbTXeY = 350.58700320451106 / 7114
+   DzobGj = 8074 + 7729
+  if t==k:
+   fAHbVt = True
+   TpFemm = 739.7604618137394 - 146.38526120547652
+   GWATQO = True
+  if z==v:
+   rExdIA = 485.11182517615197 + 2609
+   AbTXeY = 350.58700320451106 / 7114
+   DzobGj = 8074 + 7729
+while j<f:
+  if x>g:
+   BtYWAL = 929.9862880784164 - 992.1861834212226
+   zYJWWI = 8900 + 861.3105756839238
+   LUvhlq = True
+  if x<z:
+   pUhvDK = 457.1091005788955 - 948.632408560837
+   hgwCoJ = 2457 * 8092
+   LxpzZT = 698.9230688968449 - 870.7195028928157
+  if y<e:
+   BtYWAL = 929.9862880784164 - 992.1861834212226
+   zYJWWI = 8900 + 861.3105756839238
+   LUvhlq = True
+while f<r:
+  if f==u:
+   isuJWI = 264.4039603739713 * 734.758071160238
+   gljGaG = 846.6776476992045 + 577.8208813958064
+   jJBqHr = 289.88725651590465 / 3499
+  if g<u:
+   UZNypC = 8456 + 6255
+   IZFQRF = True
+   YMTTDG = 221.05110978656475 * 901.9927354810958
+  if a<s:
+   isuJWI = 264.4039603739713 * 734.758071160238
+   gljGaG = 846.6776476992045 + 577.8208813958064
+   jJBqHr = 289.88725651590465 / 3499
+while h==c:
+  if v>i:
+   BxjYEm = 9959 + 5118
+   FQtxwj = 9785 * 317.52424881356933
+   LQokgz = 1953 * 155.56958046009868
+  if q<q:
+   TNEiYG = 687.6904774313338 / 870.6349351410089
+   ETSdrX = 1937 - 352.38824958844896
+   bGYsge = 6773 + 889.4482099579615
+  if z==m:
+   BxjYEm = 9959 + 5118
+   FQtxwj = 9785 * 317.52424881356933
+   LQokgz = 1953 * 155.56958046009868
+while z>s:
+  if d==w:
+   WsGvCb = True
+   xDohuN = 4917 / 2124
+   dnFXWm = 1131 * 437.93757892788176
+  if i>q:
+   iGsJpw = 855.6908482796297 * 963.2370398859596
+   HuEaKg = 315.53094424153954 - 200.24932426690708
+   OBQeBw = 365.5020315684186 / 324
+  if k>y:
+   WsGvCb = True
+   xDohuN = 4917 / 2124
+   dnFXWm = 1131 * 437.93757892788176
+while t<d:
+  if i>k:
+   hNOdMQ = 2387 + 1650
+   GpbleT = 1846 - 169.73362471728862
+   ThcxWx = 6200 - 1890
+  if d<y:
+   bQvwKL = 7893 + 42.92399371604309
+   QNQNFm = 199 * 7310
+   GYjUUI = 7880 / 4241
+  if a>i:
+   hNOdMQ = 2387 + 1650
+   GpbleT = 1846 - 169.73362471728862
+   ThcxWx = 6200 - 1890
+while n==g:
+  if y<l:
+   HHvKCE = 349.3588862118064 * 811.7078641661834
+   ZQipMM = 705.0558911283059 * 783.6253894951193
+   DmpuWM = 940.7319068631632 + 5509
+  if a==i:
+   CghYSA = 717.1917848455587 + 923.770375189815
+   TtKTua = False
+   ySYmiL = 4465 / 364.64638973221076
+  if k==j:
+   HHvKCE = 349.3588862118064 * 811.7078641661834
+   ZQipMM = 705.0558911283059 * 783.6253894951193
+   DmpuWM = 940.7319068631632 + 5509
+while r>t:
+  if q>l:
+   eOKtGy = 2646 - 769.5885197646317
+   UmZyze = 7580 * 1641
+   TnVlpK = 5869 / 728.5045215136863
+  if r>x:
+   gAoTEV = False
+   qbxXGH = False
+   rGRbYR = 812.0799182796661 * 6979
+  if p<v:
+   eOKtGy = 2646 - 769.5885197646317
+   UmZyze = 7580 * 1641
+   TnVlpK = 5869 / 728.5045215136863
+while d<z:
+  if v<x:
+   RgJRjs = 7731 * 521.805698069435
+   bKIjli = 2852 + 9980
+   UxgtIo = 3396 / 964.3291930117493
+  if l>c:
+   PVVFnH = 525.9781974949398 / 659.0405950708563
+   SGogMx = 5259 * 4453
+   BnSBpD = 799.417451523816 / 2570
+  if p==l:
+   RgJRjs = 7731 * 521.805698069435
+   bKIjli = 2852 + 9980
+   UxgtIo = 3396 / 964.3291930117493
+while u<i:
+  if g>y:
+   LPIvGs = 989.1372795524879 * 2054
+   BMarrP = 2664 - 932.274133962134
+   oeTSjX = 567 * 556.1350432530239
+  if q<h:
+   geJmNK = True
+   boNRsB = 365.6335236783109 * 3151
+   IlApSu = True
+  if p==l:
+   LPIvGs = 989.1372795524879 * 2054
+   BMarrP = 2664 - 932.274133962134
+   oeTSjX = 567 * 556.1350432530239
+while c<g:
+  if g==o:
+   QLSWqw = 403.62065151795093 + 793.8160640997849
+   LPMXYl = 8254 - 164.01982859563867
+   NAkxCv = 2669 - 636.3133132664597
+  if z<y:
+   DygEkY = 492.4281665765493 * 594.1863573854929
+   FQtxwj = 9785 * 317.52424881356933
+   foUgiR = 9105 * 424.8200209974862
+  if y==i:
+   QLSWqw = 403.62065151795093 + 793.8160640997849
+   LPMXYl = 8254 - 164.01982859563867
+   NAkxCv = 2669 - 636.3133132664597
+while m<m:
+  if a==c:
+   bfoszn = 736.1638382138733 / 1993
+   VHJDcL = False
+   NZuXhy = 759.1594073601625 / 853.1567169400695
+  if s>f:
+   nlasXQ = False
+   XzPNJS = 687.199718924784 / 578
+   hQtsCO = 9483 - 3959
+  if t==v:
+   bfoszn = 736.1638382138733 / 1993
+   VHJDcL = False
+   NZuXhy = 759.1594073601625 / 853.1567169400695
+while q>b:
+  if z>d:
+   rTMonL = 9572 + 1448
+   WLZgNW = 8809 + 391.4831467757014
+   CuMVdR = 810.3015130906383 + 7731
+  if c>x:
+   zzEQpJ = 3121 * 540.7836154824697
+   UZNypC = 8456 + 6255
+   XmtPgZ = 7597 / 762.5281203962131
+  if k==d:
+   rTMonL = 9572 + 1448
+   WLZgNW = 8809 + 391.4831467757014
+   CuMVdR = 810.3015130906383 + 7731
+while a>e:
+  if j>n:
+   TnFcgG = False
+   damaBL = False
+   oehwPs = 8584 * 4803
+  if v>z:
+   IZakIR = 640.4323434936991 + 1462
+   cXeIdo = 45.13017765966884 / 492.9790067758901
+   tIOsTg = True
+  if y<u:
+   TnFcgG = False
+   damaBL = False
+   oehwPs = 8584 * 4803
+while v>u:
+  if e<x:
+   rpYLtY = 363.9078561912977 / 294.88653319816814
+   pCpcjg = 7813 / 691.1425061384086
+   rFQsAw = False
+  if x==n:
+   xmwlfb = 796.3264631432817 - 3121
+   fNpdFR = 937.9074522283561 * 1980
+   ehtZJK = 482.09111997009217 + 8885
+  if i==r:
+   rpYLtY = 363.9078561912977 / 294.88653319816814
+   pCpcjg = 7813 / 691.1425061384086
+   rFQsAw = False
+while k==t:
+  if r<z:
+   BCgJvB = 814.9261254193984 + 795.4550576336555
+   NRfUfd = 6032 * 771.9423056522426
+   dNhmWH = 9653 + 689.7485789806602
+  if g==x:
+   QErjNa = 3594 - 180.22682511677527
+   ivnZZs = 283.5084502375886 * 4882
+   WjHNqa = True
+  if d==t:
+   BCgJvB = 814.9261254193984 + 795.4550576336555
+   NRfUfd = 6032 * 771.9423056522426
+   dNhmWH = 9653 + 689.7485789806602
+while g==r:
+  if o==g:
+   dCRtML = 981.4123354295579 / 784.0961545718419
+   lqeQEA = False
+   nzKvVr = 5940 + 5581
+  if c<z:
+   pmbDqf = False
+   xcvZHA = 426.85668794938215 * 758.0612437174348
+   jRHvbq = 7490 * 250.93594388468156
+  if w<v:
+   dCRtML = 981.4123354295579 / 784.0961545718419
+   lqeQEA = False
+   nzKvVr = 5940 + 5581
+while n>f:
+  if v<k:
+   UiZePQ = 407.6871909852846 * 159.26292122826123
+   tEXqDM = 272.43587090687873 - 998
+   WArXIN = False
+  if y>f:
+   bLONXx = False
+   QbFNHr = 9.15989252047773 - 5538
+   UtJspN = True
+  if a<j:
+   UiZePQ = 407.6871909852846 * 159.26292122826123
+   tEXqDM = 272.43587090687873 - 998
+   WArXIN = False
+while a==z:
+  if a<o:
+   AugITD = 657.3099710933068 - 6573
+   lYAwbF = 660 / 1382
+   urtcPT = 4.511848921936455 - 8208
+  if s==p:
+   yjkxau = 171.34506612483548 * 420.82837484950653
+   ZEocLa = True
+   vXqesE = 3304 / 802.7973878001939
+  if v>y:
+   AugITD = 657.3099710933068 - 6573
+   lYAwbF = 660 / 1382
+   urtcPT = 4.511848921936455 - 8208
+while i<l:
+  if b>a:
+   JhNcbv = 373.7237962460008 / 3911
+   ypbNYy = 9846 * 1430
+   eFLcfe = 703.6955229556874 - 892.4188621647486
+  if o==n:
+   vYFHsL = False
+   TMCZwu = 657.8755690209082 * 617.4428706945776
+   stehFM = 604.8071461819758 / 5336
+  if n>j:
+   JhNcbv = 373.7237962460008 / 3911
+   ypbNYy = 9846 * 1430
+   eFLcfe = 703.6955229556874 - 892.4188621647486
+while u>p:
+  if i<m:
+   kdIkeS = 7092 * 189.9171250571514
+   TqZKvb = 851.8020945275831 - 9890
+   kcEjCj = 248.65287245273908 - 7660
+  if e==l:
+   QKuLCP = 7168 + 45.83419289559025
+   leuWRQ = True
+   cgkady = 6653 * 6525
+  if n<w:
+   kdIkeS = 7092 * 189.9171250571514
+   TqZKvb = 851.8020945275831 - 9890
+   kcEjCj = 248.65287245273908 - 7660
+while m>m:
+  if u<y:
+   gqjKXs = 840.209195029675 - 720
+   KgUKAl = 9472 - 577.8039248302254
+   RECEkq = 586.9358533090052 + 5270
+  if e>g:
+   wOBiNJ = True
+   QIgiWn = False
+   ctYdxL = True
+  if j==z:
+   gqjKXs = 840.209195029675 - 720
+   KgUKAl = 9472 - 577.8039248302254
+   RECEkq = 586.9358533090052 + 5270
+while w<j:
+  if r==k:
+   WhhTWg = 7788 * 857.2756866720865
+   uTFNZl = 53.0532673912303 / 5079
+   FGtsrB = 747.4471578729664 * 8410
+  if y<f:
+   DRMqNT = 5933 + 509.38879915166143
+   XtNICn = 712.6661461866465 - 5542
+   KVzHTy = 799.0756632105114 - 688.846614633485
+  if w==y:
+   WhhTWg = 7788 * 857.2756866720865
+   uTFNZl = 53.0532673912303 / 5079
+   FGtsrB = 747.4471578729664 * 8410
+while o<u:
+  if f<o:
+   ehtZJK = 482.09111997009217 + 8885
+   GTVByT = 154.73709439131684 + 278.97231605965214
+   zcLEhn = 654.1287613682925 * 751.7264759401364
+  if r==z:
+   GamIpL = 366.84485749834033 * 977.7374424814228
+   sBThZf = False
+   TWLwYB = True
+  if b<w:
+   ehtZJK = 482.09111997009217 + 8885
+   GTVByT = 154.73709439131684 + 278.97231605965214
+   zcLEhn = 654.1287613682925 * 751.7264759401364
+while c==r:
+  if d<t:
+   XQMDkI = 895.9333945036707 - 397.7040746256874
+   UBCzNz = 140.20581637777366 - 3413
+   mSTYqO = True
+  if j>m:
+   GlpTct = 396.00011261697085 - 677.5193535472999
+   NlwyTc = 920 + 9375
+   IucjVz = 237.63679718202803 - 967.2388289329035
+  if v>q:
+   XQMDkI = 895.9333945036707 - 397.7040746256874
+   UBCzNz = 140.20581637777366 - 3413
+   mSTYqO = True
+while e<m:
+  if j==r:
+   lYQGUj = 22.72936681419213 / 49.57647096132736
+   MnUpiY = True
+   hjZjFy = 9230 - 625.9993039987557
+  if u<g:
+   TmxeHU = 377.4642325999944 * 7898
+   cunkSq = 409.41752955883106 / 9826
+   MGsQSi = 1530 - 8512
+  if k==q:
+   lYQGUj = 22.72936681419213 / 49.57647096132736
+   MnUpiY = True
+   hjZjFy = 9230 - 625.9993039987557
+while n>q:
+  if y>i:
+   dAhVvI = 3072 / 2887
+   UTiMbX = 2858 - 612.3124400966938
+   AkaWuy = 2198 - 5818
+  if f<g:
+   TDiTRd = 801.3278122738673 + 133.80684289513346
+   mSamXy = 777.1766017381552 * 388.7303439004461
+   lsqQsf = 344.7346362901629 + 5414
+  if b<r:
+   dAhVvI = 3072 / 2887
+   UTiMbX = 2858 - 612.3124400966938
+   AkaWuy = 2198 - 5818
+while y>r:
+  if p>d:
+   IZakIR = 640.4323434936991 + 1462
+   FQtxwj = 9785 * 317.52424881356933
+   xMuBTm = False
+  if e<t:
+   kxGXVc = 1170 / 121.01528466278207
+   CBuQTW = 346.2139530216005 + 2457
+   hZHqAp = 842.2581952092983 - 9738
+  if n<s:
+   IZakIR = 640.4323434936991 + 1462
+   FQtxwj = 9785 * 317.52424881356933
+   xMuBTm = False
+while f<j:
+  if p==e:
+   njCURd = 6310 + 578.0687561491932
+   SqkPmA = True
+   aJYFRc = 1742 - 9408
+  if v<w:
+   vgMWGf = 384.7868413996181 * 3951
+   flbDFP = 5002 * 409
+   kvHFhO = 59.37466219711041 * 151.91917218425064
+  if s<i:
+   njCURd = 6310 + 578.0687561491932
+   SqkPmA = True
+   aJYFRc = 1742 - 9408
+while i<p:
+  if l>z:
+   DKECqd = False
+   zgpJlG = 3565 / 9729
+   GFHZNM = 5272 * 704.2518442163604
+  if a<g:
+   MUgLyG = False
+   tYHqNJ = 9767 / 921.9180738502348
+   aJCoeZ = 892.7908854288632 / 8967
+  if b>w:
+   DKECqd = False
+   zgpJlG = 3565 / 9729
+   GFHZNM = 5272 * 704.2518442163604
+while d==s:
+  if l<l:
+   iVywJx = 138 * 3114
+   cRncXc = True
+   bWdOMC = True
+  if p==z:
+   QCuriH = 861.8581845491799 - 383.8505808175383
+   OutDpQ = 2892 * 9595
+   FfZlGt = 285.021301006536 * 3745
+  if u>m:
+   iVywJx = 138 * 3114
+   cRncXc = True
+   bWdOMC = True
+while c<c:
+  if v<f:
+   WvQVmy = False
+   Nihywq = 4277 - 940.0330712293811
+   KIXwTX = 9780 / 5523
+  if e==x:
+   jmnhMj = 3246 / 508.92701782505674
+   wCIgXa = 2991 - 827
+   hpDOsW = 427.95917478712084 - 9362
+  if f==l:
+   WvQVmy = False
+   Nihywq = 4277 - 940.0330712293811
+   KIXwTX = 9780 / 5523
+while t==b:
+  if r<q:
+   vJJEKU = 7544 / 5050
+   IjvtQm = 574.6328260271488 * 587.1370625533325
+   ddXsiI = False
+  if j>n:
+   SqHeRg = 3280 / 3970
+   OBXdFB = 2678 - 8061
+   RZSsvZ = 5103 + 639.3355619498333
+  if n>q:
+   vJJEKU = 7544 / 5050
+   IjvtQm = 574.6328260271488 * 587.1370625533325
+   ddXsiI = False
+while a==g:
+  if z<i:
+   iafMeS = 835.4110088313356 * 728.4853923063478
+   DRhwom = True
+   UsIOWt = 1051 * 4178
+  if q<j:
+   NsRDMh = 2195 * 1556
+   ldbfeq = 190.64243861834638 - 438
+   cEaCOq = 151.57281605267775 * 335
+  if l<k:
+   iafMeS = 835.4110088313356 * 728.4853923063478
+   DRhwom = True
+   UsIOWt = 1051 * 4178
+while y==i:
+  if f>k:
+   aUGzxJ = 467.0976595856233 + 9385
+   jjJgKv = 312.5632919098239 * 520.5148028425348
+   FygCuw = 2738 / 791.3760677445952
+  if e<m:
+   BilqFn = True
+   AyFwHo = 2835 + 6688
+   kEFbIx = 390.9038404501082 * 953.6741968408846
+  if p<n:
+   aUGzxJ = 467.0976595856233 + 9385
+   jjJgKv = 312.5632919098239 * 520.5148028425348
+   FygCuw = 2738 / 791.3760677445952
+while t==e:
+  if d==x:
+   CRcuTA = 396.5245787951719 / 622.1356633575049
+   GXxqqn = 4720 - 5157
+   eqQSwG = 691.8790150932291 - 922.1502988154756
+  if b>c:
+   ezFKZm = 245.01482243987112 - 573.5034403470853
+   UBmaRX = 5324 * 1881
+   AYbVmq = 826.3796261486992 / 421
+  if w>x:
+   CRcuTA = 396.5245787951719 / 622.1356633575049
+   GXxqqn = 4720 - 5157
+   eqQSwG = 691.8790150932291 - 922.1502988154756
+while y==g:
+  if x<z:
+   VSlAtS = 856.9624011272475 / 951.5677966556217
+   ptjVQP = 8384 * 5957
+   ZZzSeP = 824.742581793133 + 792.8405520379616
+  if l>k:
+   QIEOYO = 8100 * 761.5232325501128
+   LLdbrp = 5001 / 5942
+   vUHffK = 727.7741196081083 * 9401
+  if u>n:
+   VSlAtS = 856.9624011272475 / 951.5677966556217
+   ptjVQP = 8384 * 5957
+   ZZzSeP = 824.742581793133 + 792.8405520379616
+while j>r:
+  if s<w:
+   fAimZB = True
+   OwqJLk = 809 / 198
+   UPMjZm = 9225 * 5538
+  if s==i:
+   oHbuLz = 6046 + 6636
+   xecpzU = True
+   PSwyiV = 8465 + 702.4824254649735
+  if z==s:
+   fAimZB = True
+   OwqJLk = 809 / 198
+   UPMjZm = 9225 * 5538
+while k<y:
+  if r<a:
+   wGIPWV = 2819 * 4158
+   oDuHvs = 5763 / 1188
+   muoJnb = 240.8216598174676 - 895.0691535690461
+  if p<f:
+   OqZFLh = 6118 - 1883
+   kAYMLu = 8329 / 6955
+   wOWKST = 222.92196902982957 * 1650
+  if z==f:
+   wGIPWV = 2819 * 4158
+   oDuHvs = 5763 / 1188
+   muoJnb = 240.8216598174676 - 895.0691535690461
+while r<u:
+  if y<j:
+   cHZFUz = True
+   irwTiR = False
+   eACxWi = 937.3549485634659 + 6838
+  if z<n:
+   vyVuzs = 453.1863140419616 + 8132
+   EUJaTf = 2601 / 229.6749937697035
+   gmufuX = 466.30429614413424 * 8231
+  if o<g:
+   cHZFUz = True
+   irwTiR = False
+   eACxWi = 937.3549485634659 + 6838
+while z==b:
+  if z>k:
+   DJAzHY = 8172 + 9707
+   bXAhKM = 7067 / 7883
+   yNPMBy = 9766 * 76.67189467875315
+  if h>l:
+   QHTduX = 513 - 635.0891233939536
+   rEzHgc = 7521 / 519.187745842252
+   zGUODi = 8420 - 3876
+  if m<s:
+   DJAzHY = 8172 + 9707
+   bXAhKM = 7067 / 7883
+   yNPMBy = 9766 * 76.67189467875315
+while t>h:
+  if a<t:
+   GRFvkV = 8183 * 232.40720689399075
+   QsYVMS = 625.2364464740328 - 2983
+   OsxOcM = 422.36679553283113 * 219.32954107365117
+  if y<r:
+   PeMVjy = True
+   QGIGhL = 709.1379989239695 + 463.0451825388019
+   LwUjNk = 845.546930048782 - 705.3671672745122
+  if x>i:
+   GRFvkV = 8183 * 232.40720689399075
+   QsYVMS = 625.2364464740328 - 2983
+   OsxOcM = 422.36679553283113 * 219.32954107365117
+while s<t:
+  if k<l:
+   pObhKt = False
+   xTATcX = 561.796621027623 * 9925
+   mHUlro = 4847 + 491.41214542043605
+  if q<v:
+   IQzpQx = False
+   QgTFuj = 87.29869266287926 * 1350
+   DNbyvK = 534.1771253270983 / 680.9389657497563
+  if t<r:
+   pObhKt = False
+   xTATcX = 561.796621027623 * 9925
+   mHUlro = 4847 + 491.41214542043605
+while o<j:
+  if n==c:
+   uwADba = 8220 - 424.98507521541063
+   bsQMIJ = 8635 / 2769
+   kAauVB = 154.099237019596 * 2834
+  if c>u:
+   UAlpSL = 570.5413357542565 / 914.0312538717028
+   vcGGxz = 554.637209827244 + 651.7171299911199
+   VDlGtO = False
+  if e>b:
+   uwADba = 8220 - 424.98507521541063
+   bsQMIJ = 8635 / 2769
+   kAauVB = 154.099237019596 * 2834
+while d>d:
+  if y==s:
+   uaWVLn = 641.741684664071 - 761.27659505693
+   ljFUMJ = 1479 * 4055
+   upCkru = False
+  if x==u:
+   EucRKW = 6446 - 211.3091932023213
+   UyxUcu = 2024 - 8340
+   zPBJuc = False
+  if v>c:
+   uaWVLn = 641.741684664071 - 761.27659505693
+   ljFUMJ = 1479 * 4055
+   upCkru = False
+while h>q:
+  if x<v:
+   cflKPf = 8900 + 1920
+   pDJisR = False
+   rtlYuK = 992 + 132.36339977103128
+  if e>e:
+   CCAAvV = True
+   SPuvpA = 9354 / 3503
+   QNESaZ = 734.2373214667956 * 601.6413144579975
+  if y==p:
+   cflKPf = 8900 + 1920
+   pDJisR = False
+   rtlYuK = 992 + 132.36339977103128
+while x<r:
+  if n<k:
+   SqHNdm = 6876 / 27.615046726645588
+   MOolbC = 358.2582809137916 * 761.6649725838839
+   vSjtTO = 156.56619745970733 / 3789
+  if d>p:
+   CTtDIv = 2117 / 2943
+   VKGWdT = False
+   QZlIvS = 3481 * 7491
+  if i>r:
+   SqHNdm = 6876 / 27.615046726645588
+   MOolbC = 358.2582809137916 * 761.6649725838839
+   vSjtTO = 156.56619745970733 / 3789
+while i==w:
+  if z==q:
+   KYAYVQ = 9709 * 514.3675818242878
+   TPgdMA = 672.1419972442819 * 3077
+   VGehgn = 998.763183307265 * 2921
+  if p==a:
+   QYXLoi = 7830 * 9925
+   yzZzbK = 877.0373487678166 * 980.5353830440672
+   OanCxM = 962.6462198637422 - 612.5621885949339
+  if n<f:
+   KYAYVQ = 9709 * 514.3675818242878
+   TPgdMA = 672.1419972442819 * 3077
+   VGehgn = 998.763183307265 * 2921
+while c<v:
+  if x<b:
+   gfwjma = True
+   OyrlLS = True
+   BzuIJF = 455.77708197969434 / 668.9953242474561
+  if o<k:
+   cRiYcr = 1860 - 719
+   huYVQI = 789.3651081055392 - 4963
+   mbxiMh = False
+  if c==u:
+   gfwjma = True
+   OyrlLS = True
+   BzuIJF = 455.77708197969434 / 668.9953242474561
+while m<m:
+  if n>l:
+   zbTCSe = 2083 * 4065
+   FtSnSm = True
+   MLGacU = 3684 - 731.2267044342615
+  if a==w:
+   ZaqESu = 7301 * 1014
+   UcSuZp = 662.5836822112826 * 8253
+   IjvtQm = 574.6328260271488 * 587.1370625533325
+  if h==h:
+   zbTCSe = 2083 * 4065
+   FtSnSm = True
+   MLGacU = 3684 - 731.2267044342615
+while b<f:
+  if d==s:
+   XTffRg = True
+   vhSgQl = 302.7447136602124 - 6859
+   LtcNsa = False
+  if e>j:
+   NHrcDG = 2615 + 182.35714263216025
+   cXeIdo = 45.13017765966884 / 492.9790067758901
+   KBIatX = True
+  if o==b:
+   XTffRg = True
+   vhSgQl = 302.7447136602124 - 6859
+   LtcNsa = False
+while e==e:
+  if c>z:
+   PViCZd = 355.60982402294013 / 9743
+   ooqQNE = 825.4891704994309 * 6743
+   aOdusR = 4989 - 908.6111475009291
+  if f<e:
+   ITdUhl = True
+   HNlfqX = 571.3166158129908 + 4888
+   coSCni = True
+  if i<a:
+   PViCZd = 355.60982402294013 / 9743
+   ooqQNE = 825.4891704994309 * 6743
+   aOdusR = 4989 - 908.6111475009291
+while y<u:
+  if o==p:
+   jEDimt = 216.6920638420751 / 3206
+   PQHcbh = 8353 * 909.9742542750338
+   mevbKe = False
+  if f<l:
+   oJBgXe = 451.86545393912905 + 325.7501105261904
+   LLekfA = 735.8207405291898 * 288.69190386590867
+   cqfGis = 354.1639453975672 / 1635
+  if a==w:
+   jEDimt = 216.6920638420751 / 3206
+   PQHcbh = 8353 * 909.9742542750338
+   mevbKe = False
+while x<l:
+  if e==o:
+   pTyvRN = False
+   RZoEvX = 7120 / 657.9037180087163
+   wfSwQC = 162.08894645391672 * 3406
+  if r==o:
+   AOBNvg = 69.23759124040144 + 384.01361719758603
+   sbDCLO = 933.2982053972275 * 3620
+   SBFPQs = 8953 * 391.2528047106104
+  if a<b:
+   pTyvRN = False
+   RZoEvX = 7120 / 657.9037180087163
+   wfSwQC = 162.08894645391672 * 3406
+while n<g:
+  if i>n:
+   eClLxz = 137.28876588013313 + 7209
+   bXAhKM = 7067 / 7883
+   VCpAjA = True
+  if j==i:
+   oqjpLU = 3185 - 453.9335395847017
+   meLYCu = 209.12538384386374 + 675.3584328563262
+   Dkmsgs = 958.6233292493378 - 829.7082328756754
+  if u==h:
+   eClLxz = 137.28876588013313 + 7209
+   bXAhKM = 7067 / 7883
+   VCpAjA = True
+while a>s:
+  if m==b:
+   cijFcO = 8174 - 747.830579062462
+   UYzVTq = False
+   HmzDaT = 175.38204148689272 * 6380
+  if i<s:
+   QrRYqj = 6755 - 7605
+   mKmBLp = 384.85490591335883 + 315.9493968992959
+   hHUuwy = 40.84751888034926 * 931.4092452039571
+  if i==s:
+   cijFcO = 8174 - 747.830579062462
+   UYzVTq = False
+   HmzDaT = 175.38204148689272 * 6380
+while t==v:
+  if r>p:
+   XWtiSY = 336.7951799027387 * 7530
+   qZZgKH = 910.15526349101 + 381.52484042577413
+   MQbOzz = 66.54953274340146 + 8763
+  if v>g:
+   SmcMgV = 366.0890069220043 * 352.8806751421245
+   vwzcUm = 459.51241379998083 * 3585
+   QcfjDY = 8463 + 200.7265260331772
+  if u<c:
+   XWtiSY = 336.7951799027387 * 7530
+   qZZgKH = 910.15526349101 + 381.52484042577413
+   MQbOzz = 66.54953274340146 + 8763
+while y<n:
+  if c==q:
+   PdqXSa = 865.7516961165054 * 228.8493998863476
+   LXDUNP = 491.9114108098813 / 3766
+   flLfXI = 2874 - 176
+  if q==n:
+   fTRBQm = 848.2721653587827 / 5331
+   eWKQRr = True
+   QbdtVc = 6321 - 511.1942410026989
+  if y==d:
+   PdqXSa = 865.7516961165054 * 228.8493998863476
+   LXDUNP = 491.9114108098813 / 3766
+   flLfXI = 2874 - 176
+while i<k:
+  if t==e:
+   MrPMfo = 3320 / 8034
+   FDnzIT = 3894 * 4597
+   WnMaZc = True
+  if p==x:
+   fbwYlK = 542.8515805611598 + 5338
+   saDdbY = 9872 / 2033
+   wrXXFJ = 220.12057862475763 - 600
+  if w<p:
+   MrPMfo = 3320 / 8034
+   FDnzIT = 3894 * 4597
+   WnMaZc = True
+while s>x:
+  if w==i:
+   qdcQWA = 380.3090762429547 - 7239
+   RmEEol = 472 / 7610
+   TPgdMA = 672.1419972442819 * 3077
+  if a>t:
+   tJvAuU = 706.8501674923641 + 6101
+   BtYWAL = 929.9862880784164 - 992.1861834212226
+   fLsAWm = 218.94297412579957 * 5321
+  if h>m:
+   qdcQWA = 380.3090762429547 - 7239
+   RmEEol = 472 / 7610
+   TPgdMA = 672.1419972442819 * 3077
+while i==g:
+  if g<p:
+   mNGVIm = True
+   CkkAAE = 978.8833120661028 - 3414
+   zKSHfE = 895.9466819516647 - 638.4422875152571
+  if v>g:
+   XbmnCE = 8980 + 920.3188881784122
+   AKXnhC = 313 - 6336
+   IFrvBv = 7802 * 9804
+  if i==j:
+   mNGVIm = True
+   CkkAAE = 978.8833120661028 - 3414
+   zKSHfE = 895.9466819516647 - 638.4422875152571
+while x<o:
+  if t==y:
+   BJRLFo = 958.6061076499329 / 1031
+   IymgRG = 2307 + 524.3891198159108
+   ZguOsq = 990.4382159010988 + 10.073025596234752
+  if l<h:
+   qgjGAy = 7939 + 830.6796089970677
+   jVmvNI = 6377 + 938.9554088183722
+   KdsVna = False
+  if s<x:
+   BJRLFo = 958.6061076499329 / 1031
+   IymgRG = 2307 + 524.3891198159108
+   ZguOsq = 990.4382159010988 + 10.073025596234752
+while k>x:
+  if y>t:
+   FBRNAM = False
+   hGhkHB = 6240 - 874.3727688496193
+   FLxMaS = 35.69846690337466 + 2087
+  if z>l:
+   hgOont = 1874 * 178.51793259491254
+   OxESDx = 4708 + 455.59158258371036
+   wIdzQU = 881.681278047526 / 905.1529641955112
+  if u>x:
+   FBRNAM = False
+   hGhkHB = 6240 - 874.3727688496193
+   FLxMaS = 35.69846690337466 + 2087
+while k>g:
+  if i>y:
+   TGCZBt = 950 / 7212
+   WMUMGy = False
+   uqgWUw = False
+  if m>j:
+   mgpHCb = True
+   Lverbq = 168.51145500202705 * 343.64431211189515
+   BebnzX = 4674 * 464.6014463302215
+  if r==w:
+   TGCZBt = 950 / 7212
+   WMUMGy = False
+   uqgWUw = False
+while t==o:
+  if b>t:
+   YdDsTQ = 8852 + 5115
+   YANoBI = 8476 - 2819
+   Sbfdly = 3866 - 792
+  if j<b:
+   BZIVpX = 580.6751517137583 * 283.4642581179096
+   OrRjZH = 9799 * 855.7894746425467
+   yeDFvJ = 2.755314147232583 - 2647
+  if i==k:
+   YdDsTQ = 8852 + 5115
+   YANoBI = 8476 - 2819
+   Sbfdly = 3866 - 792
+while s==p:
+  if m==q:
+   aVshAs = 78.87742243635644 - 6390
+   iUgGEE = 5958 * 6047
+   NSQLzP = 7544 + 3977
+  if d==l:
+   TQRRwg = 3242 - 2954
+   njsmmI = 1238 / 4274
+   JNbIfV = 952.0089105911803 / 1071
+  if n<t:
+   aVshAs = 78.87742243635644 - 6390
+   iUgGEE = 5958 * 6047
+   NSQLzP = 7544 + 3977
+while t>q:
+  if p<k:
+   PBEuEt = True
+   UpJAWK = 4532 + 469.129912618332
+   jKbsNk = 8377 / 6575
+  if c<p:
+   LsvhkW = 765.6670629235581 - 9683
+   usRszr = 786.434969049584 + 3114
+   EbdDjH = 132.4461624244921 - 1977
+  if f<c:
+   PBEuEt = True
+   UpJAWK = 4532 + 469.129912618332
+   jKbsNk = 8377 / 6575
+while j>r:
+  if p<i:
+   XtqojD = True
+   UPEKPD = 376.9350914123752 * 2563
+   KPLFpc = 8248 + 253.1649989521629
+  if m<d:
+   thzOuk = 875.2043165798169 * 9461
+   GtoIfu = 4830 * 534.4193626504086
+   ZWnOtr = 780 - 650.9428074225283
+  if h==f:
+   XtqojD = True
+   UPEKPD = 376.9350914123752 * 2563
+   KPLFpc = 8248 + 253.1649989521629
+while z==w:
+  if r>c:
+   hOyGhi = 7192 / 2606
+   sXZmdB = 46.0818918950082 * 537.1979408879713
+   wokxTW = 3552 * 9370
+  if h<n:
+   ymbrOY = 5145 - 8465
+   gLeCPa = 5423 - 183.45464965254519
+   tiGTcO = 986.8808785981963 / 237.62472997923618
+  if c>s:
+   hOyGhi = 7192 / 2606
+   sXZmdB = 46.0818918950082 * 537.1979408879713
+   wokxTW = 3552 * 9370
+while e==j:
+  if v<d:
+   qmPrul = True
+   CZHGPL = True
+   YBeHwg = False
+  if x<l:
+   BegAoA = 490.37430760054093 - 306.6751356204154
+   UUsENS = 789.2398989195965 * 85.56052060604488
+   hTkjTh = 302.9663207944653 * 2208
+  if t==u:
+   qmPrul = True
+   CZHGPL = True
+   YBeHwg = False
+while a>r:
+  if u==o:
+   wNcDcX = 171.3445425190831 * 895.1400493727363
+   OBNFvq = 3249 + 3622
+   zrTMbZ = True
+  if x>h:
+   rnOkdT = True
+   XExuHs = 49.10373323143633 * 2707
+   iIMrby = 7549 + 887
+  if m==g:
+   wNcDcX = 171.3445425190831 * 895.1400493727363
+   OBNFvq = 3249 + 3622
+   zrTMbZ = True
+while v>b:
+  if i>n:
+   hCcouU = False
+   QQzLFE = 747.6592918003832 * 930.6073126172992
+   olpdsY = True
+  if q==s:
+   txuMkD = 5088 - 993.6834021281721
+   usLVrN = 792.9391861001968 + 6525
+   iZMoLX = 658 * 371.42584086535845
+  if g<o:
+   hCcouU = False
+   QQzLFE = 747.6592918003832 * 930.6073126172992
+   olpdsY = True
+while c>i:
+  if t<y:
+   PKOHXn = 659.2962219972885 / 8258
+   SauJEj = 121.70607491490301 / 3738
+   EvyWrL = 974.9542521884332 - 5080
+  if y<z:
+   Kbvefn = 5308 * 8616
+   PfbBOX = 977.4983022688381 * 702
+   ebmaDO = 528.9550951462124 * 8735
+  if s==a:
+   PKOHXn = 659.2962219972885 / 8258
+   SauJEj = 121.70607491490301 / 3738
+   EvyWrL = 974.9542521884332 - 5080
+while p<r:
+  if h>r:
+   UpdznF = 3562 - 265.54747726775355
+   HpYPtx = 316.9701980932024 + 9518
+   ivnZZs = 283.5084502375886 * 4882
+  if q<y:
+   CLjqzH = False
+   caSxjG = 522.3536800204308 + 9923
+   VrelQy = 530.8248322616981 * 2790
+  if d==h:
+   UpdznF = 3562 - 265.54747726775355
+   HpYPtx = 316.9701980932024 + 9518
+   ivnZZs = 283.5084502375886 * 4882
+while p<l:
+  if d>v:
+   AaUTou = 92.38784511804647 - 2169
+   JvbvmX = 6142 * 657.9574546007138
+   yJwcTU = 1715 - 3292
+  if m>x:
+   fBeanK = 7688 / 22.896494659890642
+   CSmwxM = True
+   GWDjGC = 407.9170933633244 / 4071
+  if p>y:
+   AaUTou = 92.38784511804647 - 2169
+   JvbvmX = 6142 * 657.9574546007138
+   yJwcTU = 1715 - 3292
+while m<n:
+  if e>i:
+   ggepza = 920.8588745169533 - 810.0997895365451
+   EQbSVD = False
+   eukUyM = 639 - 2477
+  if z==u:
+   uZGcFD = 1635 - 5480
+   WGFJQn = False
+   YgxqrY = 9427 * 718.3191548774917
+  if k==q:
+   ggepza = 920.8588745169533 - 810.0997895365451
+   EQbSVD = False
+   eukUyM = 639 - 2477
+while p<k:
+  if a<s:
+   RAOIhZ = 9856 - 6446
+   CvDWfJ = 156.90677148348263 - 3047
+   QuENtA = 866.7284948510753 / 5166
+  if r>c:
+   zwbdNB = 7490 + 488.15938981829197
+   GGNbpt = True
+   BCgJvB = 814.9261254193984 + 795.4550576336555
+  if c<a:
+   RAOIhZ = 9856 - 6446
+   CvDWfJ = 156.90677148348263 - 3047
+   QuENtA = 866.7284948510753 / 5166
+while e>f:
+  if j<x:
+   gbSMHp = 432.1578780203901 + 4124
+   TTlNqL = 472.22603580002306 - 2854
+   XExuHs = 49.10373323143633 * 2707
+  if f>a:
+   EOxNNB = 1436 / 2362
+   CDQLZY = False
+   DDYIoh = 7970 / 230.1741508726615
+  if b>a:
+   gbSMHp = 432.1578780203901 + 4124
+   TTlNqL = 472.22603580002306 - 2854
+   XExuHs = 49.10373323143633 * 2707
+while h==u:
+  if c<t:
+   RreqnS = 7628 * 718.6568592853306
+   dsDsel = 9305 - 871.052073370121
+   ZBSKxH = 4529 * 5849
+  if v<s:
+   cOLkHp = 907.0397043311078 + 437.4521578856251
+   EQKpQa = 2934 + 9927
+   djrSOx = 369.55319904214724 * 447.16642242677204
+  if m<c:
+   RreqnS = 7628 * 718.6568592853306
+   dsDsel = 9305 - 871.052073370121
+   ZBSKxH = 4529 * 5849
+while b==o:
+  if a<j:
+   xDkBJs = 3016 + 3864
+   vcXsNl = 931.6947305373606 * 662.2724002650557
+   sHYgFy = 886.2586159650643 * 554.6492536745799
+  if k==q:
+   DIJSkM = 675.7206997539022 / 261.1667386782216
+   QOrdvP = 132.50539546075285 * 3436
+   lMUglU = 6961 / 343.08977048087957
+  if y>o:
+   xDkBJs = 3016 + 3864
+   vcXsNl = 931.6947305373606 * 662.2724002650557
+   sHYgFy = 886.2586159650643 * 554.6492536745799
+while k<w:
+  if x<a:
+   rNazFO = 426.9376905652797 * 9615
+   JoCiSq = 892.7775224969281 / 388.6830937474435
+   iUrqWq = 9141 + 4967
+  if x>d:
+   EPrMst = False
+   xxNBPe = 901.8553095983705 / 4541
+   mKZQno = True
+  if q>o:
+   rNazFO = 426.9376905652797 * 9615
+   JoCiSq = 892.7775224969281 / 388.6830937474435
+   iUrqWq = 9141 + 4967
+while i==u:
+  if f>v:
+   kSpDxt = False
+   QQHCds = 208.73283093032805 - 4292
+   jWFHfW = False
+  if w==z:
+   bhLrIB = 2062 * 235.89161858050318
+   pvPtfe = 245.71573429197818 * 668.2420815977767
+   AKXnhC = 313 - 6336
+  if n==q:
+   kSpDxt = False
+   QQHCds = 208.73283093032805 - 4292
+   jWFHfW = False
+while k<s:
+  if g==z:
+   cnFfcr = 5395 - 377.1885339894898
+   AziInj = 799.6267295516724 / 7404
+   tzwaJx = 5197 + 58.93569081366839
+  if a<n:
+   EJKuzM = 354.861573620873 - 4949
+   GluDzV = 3477 * 869
+   KMejlU = 8597 - 639.3440402618992
+  if g>r:
+   cnFfcr = 5395 - 377.1885339894898
+   AziInj = 799.6267295516724 / 7404
+   tzwaJx = 5197 + 58.93569081366839
+while n<q:
+  if o<c:
+   sipwfI = 309.99814043776814 * 6371
+   TERCHW = 853.1839686765538 * 784.9890186561007
+   JTOqix = 1962 + 553.9975776510246
+  if l<m:
+   VNmecD = 549 - 1987
+   ZJWQex = 5171 * 2883
+   ODFuCS = 726.7301161611277 / 9145
+  if l<z:
+   sipwfI = 309.99814043776814 * 6371
+   TERCHW = 853.1839686765538 * 784.9890186561007
+   JTOqix = 1962 + 553.9975776510246
+while w<n:
+  if w==h:
+   jiEeKR = 5.252105282696837 + 764
+   CQamcy = 873.0859402651248 + 759.6397829544364
+   kyfXQD = 218.57233987786242 + 9124
+  if a==w:
+   oWfXWF = 575.4056109024216 * 1171
+   urfcLl = 3054 / 3834
+   NnSDon = True
+  if s==p:
+   jiEeKR = 5.252105282696837 + 764
+   CQamcy = 873.0859402651248 + 759.6397829544364
+   kyfXQD = 218.57233987786242 + 9124
+while x==e:
+  if h<u:
+   kkxlwH = 16.690371424065596 * 602.8124017148034
+   EMDpHt = 2143 + 315.4122546147355
+   MrBJZF = 3739 / 393.11047818277285
+  if c<r:
+   BIkJqw = 871.5901318503961 + 5590
+   FTUSpG = False
+   mbxiMh = False
+  if e<e:
+   kkxlwH = 16.690371424065596 * 602.8124017148034
+   EMDpHt = 2143 + 315.4122546147355
+   MrBJZF = 3739 / 393.11047818277285
+while l>p:
+  if d>m:
+   SmcMgV = 366.0890069220043 * 352.8806751421245
+   akIiGq = 1055 - 4315
+   nqEiFr = 3398 - 2167
+  if t<x:
+   lBUnBv = 908.3497947352356 + 924.0637096604383
+   zYahUa = False
+   SpEcMM = 8775 / 1165
+  if y<c:
+   SmcMgV = 366.0890069220043 * 352.8806751421245
+   akIiGq = 1055 - 4315
+   nqEiFr = 3398 - 2167
+while i==r:
+  if b==g:
+   ypbNYy = 9846 * 1430
+   hQtsCO = 9483 - 3959
+   EiLJVa = 199.0607580457869 / 505.4872993198625
+  if s>l:
+   WlyORH = True
+   tHnCUw = 980.7513484803789 / 938.1992514393806
+   gWDIpr = 816.9244669595196 / 803
+  if p<r:
+   ypbNYy = 9846 * 1430
+   hQtsCO = 9483 - 3959
+   EiLJVa = 199.0607580457869 / 505.4872993198625
+while h<d:
+  if q==t:
+   YuNegu = 5602 + 592.7384852791721
+   iKIiHd = 4166 + 3729
+   cBmjhi = 7806 + 8062
+  if t<s:
+   SJEsPE = 352.66213240303273 / 6966
+   asadOk = 2242 + 470.60817073688395
+   nbtaGU = 7969 - 550.977209346707
+  if y>f:
+   YuNegu = 5602 + 592.7384852791721
+   iKIiHd = 4166 + 3729
+   cBmjhi = 7806 + 8062
+while a<n:
+  if h<b:
+   gGVFlh = 4884 * 999.7563319038527
+   ddXsiI = False
+   WuPnUu = 7910 + 2549
+  if g>n:
+   Xjpzib = 234.17289474912351 + 955.0657049704326
+   IaPbgV = 624.8830676042185 + 616.1550383135997
+   Adkwuc = 432.47805203242024 * 988.0294371174457
+  if b>f:
+   gGVFlh = 4884 * 999.7563319038527
+   ddXsiI = False
+   WuPnUu = 7910 + 2549
+while t>d:
+  if d<s:
+   tPWYMp = True
+   BkBDQO = 2726 * 358.95012979898246
+   HCNLHZ = 5480 - 348.61149023452293
+  if e<x:
+   cMMqmS = 679.9105572602062 + 9068
+   ATzxNV = 287.9612727377254 - 5912
+   xhEXtz = 9047 / 687
+  if u<z:
+   tPWYMp = True
+   BkBDQO = 2726 * 358.95012979898246
+   HCNLHZ = 5480 - 348.61149023452293
+while w==v:
+  if j==t:
+   xUhxVy = 759.175453489638 - 524.3973994476663
+   ThSGep = False
+   lUFhXk = 4418 / 2230
+  if b==e:
+   bFtjAZ = 3570 * 1629
+   rFQsAw = False
+   Unktwg = 47.261567094146365 / 156
+  if e<r:
+   xUhxVy = 759.175453489638 - 524.3973994476663
+   ThSGep = False
+   lUFhXk = 4418 / 2230
+while f==n:
+  if o==e:
+   jrPevI = 218.6169644333981 - 2063
+   bkvrHC = 231.6321631404188 / 6751
+   mYgdoK = 356.5332919474094 / 8090
+  if u>l:
+   VUpiyk = 5923 - 435.9245244587665
+   HaApqs = False
+   QkLYsT = 845.8938956601896 / 8865
+  if f>m:
+   jrPevI = 218.6169644333981 - 2063
+   bkvrHC = 231.6321631404188 / 6751
+   mYgdoK = 356.5332919474094 / 8090
+while o<d:
+  if y==s:
+   aaogDQ = 546.2680569268218 - 807.0577335167744
+   XJBKbU = 781.2098320046049 + 364.23436523178
+   kKBLmc = False
+  if t==r:
+   CkGEBL = 717.0957372053261 + 489.06789148933257
+   GQmtJp = 821.831320088458 - 6292
+   FRuunG = 1988 / 7367
+  if x==j:
+   aaogDQ = 546.2680569268218 - 807.0577335167744
+   XJBKbU = 781.2098320046049 + 364.23436523178
+   kKBLmc = False
+while x>g:
+  if o<z:
+   wVPdTx = 724.0924667893009 - 599.2771123336892
+   RNWoAf = 202.57832529240042 * 110.50738596868811
+   ShiWGh = 220 / 1154
+  if o<i:
+   XlevNM = 6823 * 6246
+   VXVbwd = 543.7709370490655 + 7094
+   ZUuEaJ = 404.17122004209534 - 92.46948527037347
+  if c>q:
+   wVPdTx = 724.0924667893009 - 599.2771123336892
+   RNWoAf = 202.57832529240042 * 110.50738596868811
+   ShiWGh = 220 / 1154
+while f==p:
+  if r==h:
+   bCNnUM = 652.8004517554226 * 285.8888184892095
+   dMtACu = True
+   MirMiG = 958.3779004152542 * 7358
+  if f<p:
+   oxLosi = 601.0802153520324 - 947.1165990981347
+   UMRqVp = 884.582989227724 / 8170
+   LWblnr = 295.87483633758063 / 116.48668109145564
+  if y==q:
+   bCNnUM = 652.8004517554226 * 285.8888184892095
+   dMtACu = True
+   MirMiG = 958.3779004152542 * 7358
+while m>p:
+  if t>p:
+   dyZdXg = 132.89313130076113 + 812.3151325936562
+   mhQQRr = 316.111954078644 + 8194
+   EHPoWp = 9182 * 261.95256858063664
+  if y>j:
+   KfqorB = 802.6963498461779 * 234.0313053897708
+   otqbBu = 946.5819646642256 * 9538
+   nqEiFr = 3398 - 2167
+  if e==q:
+   dyZdXg = 132.89313130076113 + 812.3151325936562
+   mhQQRr = 316.111954078644 + 8194
+   EHPoWp = 9182 * 261.95256858063664
+while v>a:
+  if g<z:
+   QGjMpl = 975 - 866.309225198093
+   WKmACo = 577.693303317451 - 9644
+   aMHDgY = 6367 + 7410
+  if e==m:
+   UUfxUn = 7500 + 598.5562206306539
+   ABzOmq = False
+   iYOGQW = 2257 / 5067
+  if t>i:
+   QGjMpl = 975 - 866.309225198093
+   WKmACo = 577.693303317451 - 9644
+   aMHDgY = 6367 + 7410
+while n<l:
+  if w<r:
+   iXnyCS = False
+   XDhvsQ = 787.1523544073399 + 641.0394505456591
+   CCYqhQ = 5019 - 1531
+  if e==k:
+   UzAVMf = False
+   CcxFcJ = 4928 + 4969
+   cJSWEa = 5827 - 9080
+  if s==s:
+   iXnyCS = False
+   XDhvsQ = 787.1523544073399 + 641.0394505456591
+   CCYqhQ = 5019 - 1531
+while u<c:
+  if w<p:
+   LnrzNI = 9185 / 173
+   uQwfdC = 313.2310068540817 * 607
+   NxEwKp = False
+  if m==a:
+   tisdiq = 779.7439099268609 * 447.861778671871
+   encPwE = False
+   KjBNpn = 6727 / 4423
+  if s==a:
+   LnrzNI = 9185 / 173
+   uQwfdC = 313.2310068540817 * 607
+   NxEwKp = False
+while m<y:
+  if g>p:
+   WlyORH = True
+   YDoXaq = True
+   aDeDTy = 356.417457566746 + 253.87441563479794
+  if u>p:
+   ABHOeP = 546.741415368411 - 729.1412163510594
+   XotnLz = False
+   sEvWPO = 601.8108746995609 / 747.3255058958115
+  if s<j:
+   WlyORH = True
+   YDoXaq = True
+   aDeDTy = 356.417457566746 + 253.87441563479794
+while f==x:
+  if l>k:
+   vSxbvk = 8653 / 794.2016981990911
+   wOEGBb = 6245 * 558.3865036323263
+   EGIAbg = 70.36001720061066 * 7006
+  if f>v:
+   mWcVsL = 742.1605830461654 - 508.1373422198911
+   RxnVPO = 713.3385446159838 - 3547
+   cPxbkJ = 49.443319100665036 * 694.997176659619
+  if v==q:
+   vSxbvk = 8653 / 794.2016981990911
+   wOEGBb = 6245 * 558.3865036323263
+   EGIAbg = 70.36001720061066 * 7006
+while p==l:
+  if r<a:
+   KVbjdf = 857.3842576718062 * 41.33471598617587
+   YFzlHl = False
+   KwRDhu = 8879 - 736.9679436285056
+  if l<i:
+   PaIUVZ = False
+   RuTGDg = 578.3715563675031 * 918.073779076039
+   ddzkeL = False
+  if l==i:
+   KVbjdf = 857.3842576718062 * 41.33471598617587
+   YFzlHl = False
+   KwRDhu = 8879 - 736.9679436285056
+while y>j:
+  if z<r:
+   MrPMfo = 3320 / 8034
+   mhCbKn = True
+   EOZaUj = 402 / 855.988844530997
+  if c==u:
+   MLXbIk = False
+   CLyFMA = 120.0016496705955 * 910.9231645376458
+   SMJeqF = 8305 + 156
+  if t<x:
+   MrPMfo = 3320 / 8034
+   mhCbKn = True
+   EOZaUj = 402 / 855.988844530997
+while v==l:
+  if e>j:
+   WOLCev = 599.1375028931828 * 652.8384644259244
+   DtUVzM = 8486 / 4516
+   IoXFaL = 930.2940715581984 - 621.0392531108249
+  if l<r:
+   TxJqmq = 486.1330387081038 * 9399
+   eVynVe = 973 - 211.14947966061138
+   JDUwMV = 3210 * 675
+  if g<r:
+   WOLCev = 599.1375028931828 * 652.8384644259244
+   DtUVzM = 8486 / 4516
+   IoXFaL = 930.2940715581984 - 621.0392531108249
+while h<f:
+  if n<q:
+   pqRZMW = 679 + 270.16953737370415
+   TpFemm = 739.7604618137394 - 146.38526120547652
+   mPJseF = 283 / 317.21054044927405
+  if d>z:
+   jtztvy = 2427 / 9712
+   KCqrOk = 7259 / 3684
+   NoYxOQ = 2514 + 630.8606784779513
+  if y>w:
+   pqRZMW = 679 + 270.16953737370415
+   TpFemm = 739.7604618137394 - 146.38526120547652
+   mPJseF = 283 / 317.21054044927405
+while t<t:
+  if z<l:
+   PufpoZ = 3279 / 970.5224831565694
+   pmbDqf = False
+   caSxjG = 522.3536800204308 + 9923
+  if w==p:
+   TXXSjS = 726.6196133614649 * 6773
+   dSmTdR = 4625 / 1072
+   PBQloX = 90.19109701460357 * 257.94380337814994
+  if q==p:
+   PufpoZ = 3279 / 970.5224831565694
+   pmbDqf = False
+   caSxjG = 522.3536800204308 + 9923
+while q>u:
+  if e==m:
+   lEiCwi = 722.8040452735914 / 856
+   VkMySS = 7549 / 7072
+   ZjMUcw = 789.9035653012385 + 825.5937225766281
+  if i<d:
+   piXLCC = 9773 * 4242
+   PCYuGI = 9641 * 6474
+   gZQNzC = 5845 * 2446
+  if u>b:
+   lEiCwi = 722.8040452735914 / 856
+   VkMySS = 7549 / 7072
+   ZjMUcw = 789.9035653012385 + 825.5937225766281
+while l==z:
+  if v==p:
+   AissDX = 844.8243140445231 + 89.11038212207043
+   sLNYqx = 2106 - 2728
+   swIgNA = 795.9700211748578 / 830.954320929795
+  if r==m:
+   qUvGEb = 627.550758183347 - 8981
+   IBOCTl = 72.96215088300572 + 703.4619034434833
+   FsdnWm = 2946 + 506.15179650984334
+  if m>v:
+   AissDX = 844.8243140445231 + 89.11038212207043
+   sLNYqx = 2106 - 2728
+   swIgNA = 795.9700211748578 / 830.954320929795
+while y<j:
+  if o==l:
+   mNCRPC = 752.4404287342257 + 131.55627918081345
+   bOidHv = 2273 - 4779
+   COJCEA = 112.39112142254159 + 813
+  if p==w:
+   slXltD = 287.3786926727921 + 4292
+   kTdPMX = 4950 * 453.03904871008547
+   uEgOfX = 135.57368746131635 / 497.8404772623465
+  if l==b:
+   mNCRPC = 752.4404287342257 + 131.55627918081345
+   bOidHv = 2273 - 4779
+   COJCEA = 112.39112142254159 + 813
+while m<l:
+  if y==f:
+   jvOFkW = 7955 * 9321
+   JPxHzd = False
+   vhXZXJ = 6319 * 716.3410658970336
+  if l<h:
+   fsndip = 6856 - 6029
+   KftGAH = 805.5331140626454 / 2130
+   rDhhKM = 781.7940880050365 / 4683
+  if t==w:
+   jvOFkW = 7955 * 9321
+   JPxHzd = False
+   vhXZXJ = 6319 * 716.3410658970336
+while u>y:
+  if m<f:
+   FuKapp = False
+   TuDLZq = 9899 - 1701
+   ykMXxO = 156.28718642006365 * 519.7515426370157
+  if q==x:
+   HCNLHZ = 5480 - 348.61149023452293
+   ZelDsQ = 7847 * 949.6720077180039
+   rfAXBx = 9410 + 8669
+  if q<c:
+   FuKapp = False
+   TuDLZq = 9899 - 1701
+   ykMXxO = 156.28718642006365 * 519.7515426370157
+while r==a:
+  if k==n:
+   CtxfzP = True
+   XPTELK = True
+   foUgiR = 9105 * 424.8200209974862
+  if v>y:
+   HntLfd = False
+   qNHGvf = True
+   eOYzPY = 845.5945324486902 - 1880
+  if u==g:
+   CtxfzP = True
+   XPTELK = True
+   foUgiR = 9105 * 424.8200209974862
+while f>h:
+  if n==o:
+   RgZead = 994 + 826.9919572066735
+   WTmmHw = 77.48523459285241 + 5901
+   hZZRhS = 9945 + 3328
+  if j<e:
+   ErAtJQ = 1216 - 948.044868932568
+   ePTweI = 9712 * 224.5929588805646
+   Srbeja = 4759 / 396.3051500657929
+  if e==j:
+   RgZead = 994 + 826.9919572066735
+   WTmmHw = 77.48523459285241 + 5901
+   hZZRhS = 9945 + 3328
+while i==z:
+  if c<r:
+   WnPqCH = 973.1284308509477 - 4158
+   yJOZcg = 944.4554074909498 + 623.1816295548834
+   HaVjtG = 477.8769008866268 - 157.07552618293718
+  if t==q:
+   wHxkcu = 433.8014901557014 - 2224
+   JlBwLg = 2920 + 426
+   gReocD = 2440 - 235.23704088943688
+  if j<z:
+   WnPqCH = 973.1284308509477 - 4158
+   yJOZcg = 944.4554074909498 + 623.1816295548834
+   HaVjtG = 477.8769008866268 - 157.07552618293718
+while d>q:
+  if y==t:
+   TsTzBJ = 5121 + 355.5666147330828
+   UUsZIn = 767.0112454758793 * 7400
+   xDChfP = True
+  if f==q:
+   DJqGAp = 779.4662638543941 / 4669
+   EcbNdR = 8886 - 918.397067650644
+   poAnpN = 582.3200295994696 + 9934
+  if l<y:
+   TsTzBJ = 5121 + 355.5666147330828
+   UUsZIn = 767.0112454758793 * 7400
+   xDChfP = True
+while l>i:
+  if p>a:
+   cXbqwB = False
+   pDGhWk = 663.8212237638921 * 859.1748042810952
+   VEIDRN = True
+  if v>b:
+   TxWShD = 5032 + 7858
+   JOgyDD = 809.8420259437563 * 502.42313217489766
+   TBwPAt = True
+  if u>b:
+   cXbqwB = False
+   pDGhWk = 663.8212237638921 * 859.1748042810952
+   VEIDRN = True
+while b==x:
+  if i<f:
+   wESbMQ = 975.5005324895271 * 8562
+   XHQgDv = 4624 / 248.72998882132367
+   vjPKbL = 412.26918480913685 + 8
+  if k<r:
+   TBWxpf = 4365 / 7627
+   PymWgG = 9929 * 1895
+   JALaeV = 6503 - 1689
+  if r>y:
+   wESbMQ = 975.5005324895271 * 8562
+   XHQgDv = 4624 / 248.72998882132367
+   vjPKbL = 412.26918480913685 + 8
+while r==g:
+  if w==j:
+   nBtKxq = 619.9134864963745 - 8779
+   LHBmGk = True
+   iHvYLS = 3998 / 1574
+  if j==a:
+   BRwmpQ = 751.6825047355364 * 960.6471114978018
+   SZtFJl = 980.5573550658195 + 7404
+   kZwzMR = 482.58005297046054 * 4987
+  if j<q:
+   nBtKxq = 619.9134864963745 - 8779
+   LHBmGk = True
+   iHvYLS = 3998 / 1574
+while q>n:
+  if r>r:
+   OGqYqM = 369.8072410569611 * 7079
+   SLkzzR = 838.4733403907574 / 1824
+   iMuIto = 675.5817106033815 + 534.0892872976052
+  if o==z:
+   VsolPe = 9791 - 102.24187519890786
+   arYgur = 512.9276907969197 + 9100
+   hUmhrB = 292.8136188796899 / 169.1162080891723
+  if x>n:
+   OGqYqM = 369.8072410569611 * 7079
+   SLkzzR = 838.4733403907574 / 1824
+   iMuIto = 675.5817106033815 + 534.0892872976052
+while r>p:
+  if n==r:
+   MRTWNh = True
+   yNEkFY = 830.9543701806167 + 372.7026081279301
+   poAnpN = 582.3200295994696 + 9934
+  if v>s:
+   IYMorA = 6318 * 283.5952043581668
+   asUjxd = 118.37652470681722 + 392.1182671056479
+   lnloic = False
+  if i>a:
+   MRTWNh = True
+   yNEkFY = 830.9543701806167 + 372.7026081279301
+   poAnpN = 582.3200295994696 + 9934
+while r==b:
+  if t==f:
+   Fsglss = 188.19437451498948 - 5037
+   eaLlOT = 870.090726799034 / 2800
+   usRszr = 786.434969049584 + 3114
+  if h<n:
+   BxXfzv = False
+   PjmcBq = 4572 - 102.22888310873488
+   aUsOzN = True
+  if l==e:
+   Fsglss = 188.19437451498948 - 5037
+   eaLlOT = 870.090726799034 / 2800
+   usRszr = 786.434969049584 + 3114
+while o==m:
+  if m==h:
+   xAzaSN = 5996 + 193.38679358847313
+   NqZjda = 3312 - 8281
+   SAggXz = 65.23251314972299 / 166.5988683895831
+  if x==u:
+   eOYzPY = 845.5945324486902 - 1880
+   Jacmgi = 451.1853172118795 + 211.58199435958227
+   HDkmPp = True
+  if o>r:
+   xAzaSN = 5996 + 193.38679358847313
+   NqZjda = 3312 - 8281
+   SAggXz = 65.23251314972299 / 166.5988683895831
+while o>s:
+  if l>f:
+   stehFM = 604.8071461819758 / 5336
+   bgllga = True
+   XKyLHv = 510.33424192927646 * 9012
+  if u<m:
+   nWOJgW = 1685 * 2300
+   GEllRL = False
+   PqfFFD = 576.6763032062489 + 764.3031224573277
+  if l>q:
+   stehFM = 604.8071461819758 / 5336
+   bgllga = True
+   XKyLHv = 510.33424192927646 * 9012
+while m==f:
+  if j>m:
+   ZgqDCQ = 6302 * 744.6617885769066
+   PFIorF = 954.7000372017782 + 497.6272637058553
+   tEDLfA = False
+  if j>s:
+   UzLzCe = 3425 * 4926
+   NSQLzP = 7544 + 3977
+   umPwji = 703.5435441899385 / 6558
+  if l>l:
+   ZgqDCQ = 6302 * 744.6617885769066
+   PFIorF = 954.7000372017782 + 497.6272637058553
+   tEDLfA = False
+while f>q:
+  if y>e:
+   ZHEWdH = 153.96092063009726 + 513.4068292068006
+   wEoVuq = 323.924985390827 + 422.20506340286
+   TblnRl = 367.234379498852 / 262.8199492556915
+  if t>b:
+   jlFHTP = 474 / 3331
+   JpYsfT = 611.6585332991904 + 28.89522717933464
+   mhQQRr = 316.111954078644 + 8194
+  if a<f:
+   ZHEWdH = 153.96092063009726 + 513.4068292068006
+   wEoVuq = 323.924985390827 + 422.20506340286
+   TblnRl = 367.234379498852 / 262.8199492556915
+while a>k:
+  if r<t:
+   HmKGAp = False
+   TQRRwg = 3242 - 2954
+   yuxmEw = True
+  if k>x:
+   PBmzop = False
+   JrxiUm = 5690 + 97.89748478915433
+   agiRaG = 426.03835984232757 * 9256
+  if r==p:
+   HmKGAp = False
+   TQRRwg = 3242 - 2954
+   yuxmEw = True
+while v==g:
+  if z==d:
+   VUSDSQ = 629.4941484516414 - 1035
+   OdgCnD = 708.488071464542 + 699.2502388069079
+   AgiILq = 8536 - 8139
+  if w==i:
+   OKeOfp = 86.44923903745091 - 517.312898125143
+   ThSGep = False
+   SMlxiE = 615.7059824816813 * 6187
+  if c<f:
+   VUSDSQ = 629.4941484516414 - 1035
+   OdgCnD = 708.488071464542 + 699.2502388069079
+   AgiILq = 8536 - 8139
+while h==f:
+  if s<j:
+   NlwyTc = 920 + 9375
+   AJZTot = 627.2796102770494 + 7923
+   XHQgDv = 4624 / 248.72998882132367
+  if a<b:
+   yfOrRh = 644.3016995540862 / 4803
+   zKSHfE = 895.9466819516647 - 638.4422875152571
+   oafaXA = 401.55848020604225 + 9650
+  if b>b:
+   NlwyTc = 920 + 9375
+   AJZTot = 627.2796102770494 + 7923
+   XHQgDv = 4624 / 248.72998882132367
+while u<a:
+  if l==w:
+   kGelKl = 39.19015187540367 - 2887
+   xieXJa = False
+   dIjcGG = 206.75704143290295 + 241.80783972544276
+  if g==r:
+   pFkpyj = 413.208494529735 - 3080
+   sgiYsM = 581.8712000520804 / 2548
+   kxeaKG = 3467 * 116.20597429976972
+  if n>u:
+   kGelKl = 39.19015187540367 - 2887
+   xieXJa = False
+   dIjcGG = 206.75704143290295 + 241.80783972544276
+while w<u:
+  if m>r:
+   ryRouQ = 2007 + 828.5345925528703
+   MspdaD = 122.87687002365497 - 2694
+   gRubUP = 218.32844835705956 * 9252
+  if r==n:
+   mkUiRJ = 2513 + 800.9522315861619
+   MnPwEp = 67.33880517120062 * 358.60928627905014
+   QIXxRu = True
+  if p>n:
+   ryRouQ = 2007 + 828.5345925528703
+   MspdaD = 122.87687002365497 - 2694
+   gRubUP = 218.32844835705956 * 9252
+while r<z:
+  if p<j:
+   IKeyWa = True
+   dlWlom = 861.5157599909007 * 6195
+   mzZkws = 5780 - 9823
+  if x<e:
+   RxuCNJ = 6541 - 801.9673612142769
+   ZlPAQb = 813.9576635977251 + 8426
+   cFBlnr = 8633 / 830.6512760721748
+  if y<n:
+   IKeyWa = True
+   dlWlom = 861.5157599909007 * 6195
+   mzZkws = 5780 - 9823
+while x==j:
+  if y>v:
+   pSAYTN = False
+   YMBlOJ = 9909 - 7766
+   XVJuyx = 7941 - 6509
+  if n<r:
+   pdNPfg = 390.05919922117505 - 1998
+   uBSIRc = 6607 * 9873
+   ybXFgq = 44.313870585044924 / 265.3626510602195
+  if a>e:
+   pSAYTN = False
+   YMBlOJ = 9909 - 7766
+   XVJuyx = 7941 - 6509
+while z==p:
+  if x<m:
+   MrBEbt = 48.89229364323477 * 3543
+   VIDXRu = 754.6369276305386 / 758.4899043944397
+   oDxDSX = 7889 * 426.84298535876434
+  if f>l:
+   TGyqZi = 6127 * 8308
+   PepbBN = True
+   LqroGh = 516.2876792351768 - 1977
+  if c==v:
+   MrBEbt = 48.89229364323477 * 3543
+   VIDXRu = 754.6369276305386 / 758.4899043944397
+   oDxDSX = 7889 * 426.84298535876434
+while c<n:
+  if q==n:
+   HYrtgp = 638.7601401146269 + 80.83877694135772
+   MOolbC = 358.2582809137916 * 761.6649725838839
+   XywWgB = 8192 + 58.215847194967026
+  if d>i:
+   iHvYLS = 3998 / 1574
+   VyBFVj = 1463 / 5973
+   AvpkJQ = False
+  if b>d:
+   HYrtgp = 638.7601401146269 + 80.83877694135772
+   MOolbC = 358.2582809137916 * 761.6649725838839
+   XywWgB = 8192 + 58.215847194967026
+while u==y:
+  if y<o:
+   FmHdwG = 813.2716323124273 / 3545
+   VtJycQ = 208.24311607994053 - 242.24926338662982
+   nRItqh = False
+  if h<j:
+   rdFcAN = 2327 * 601.4966320543015
+   RBWCBZ = 822.6048725211963 / 1690
+   HzehQn = 847.612861834487 + 2947
+  if l>k:
+   FmHdwG = 813.2716323124273 / 3545
+   VtJycQ = 208.24311607994053 - 242.24926338662982
+   nRItqh = False
+while f>c:
+  if g==x:
+   Idwdpk = 9061 / 592.366265907423
+   yPFMGZ = False
+   oVvXRh = 6863 / 303.16027413231717
+  if r<v:
+   CKlQDE = 6319 * 594.1744133879068
+   QGDfpk = 98 + 561.713627916138
+   ycsntu = 3820 / 37.53646321459267
+  if o>i:
+   Idwdpk = 9061 / 592.366265907423
+   yPFMGZ = False
+   oVvXRh = 6863 / 303.16027413231717
+while h==v:
+  if b==q:
+   lzISDj = 9466 + 598.3178561842004
+   ESMFXv = 76.35903863080969 + 7747
+   RamrPE = 2140 / 33.70366557949151
+  if x<o:
+   fNWJGT = 435.0917945657741 + 9087
+   eQsbNq = 386.9547868062641 - 696.7571627731465
+   kLBroF = True
+  if y<j:
+   lzISDj = 9466 + 598.3178561842004
+   ESMFXv = 76.35903863080969 + 7747
+   RamrPE = 2140 / 33.70366557949151
+while u<e:
+  if v==j:
+   tuYgOH = 261.98621855489296 / 9742
+   oowggL = 969.5097526466567 / 237.88513740934667
+   MnONxt = 615.256054410558 * 4040
+  if k<l:
+   crWcxE = 677 - 444.78462735003393
+   yUclJT = False
+   IAivPi = 3141 * 746.81351973734
+  if w<b:
+   tuYgOH = 261.98621855489296 / 9742
+   oowggL = 969.5097526466567 / 237.88513740934667
+   MnONxt = 615.256054410558 * 4040
+while m==t:
+  if b>a:
+   aJCoeZ = 892.7908854288632 / 8967
+   owgVdc = False
+   IQBWlL = 422.9422954764633 + 488.47485985286494
+  if r==m:
+   VuLXgg = 558.7112325483946 * 3226
+   FCDLkq = 965.5486420102105 * 189.2792867327514
+   bfnYPB = 614.3413300744116 + 468.1220652062291
+  if b>a:
+   aJCoeZ = 892.7908854288632 / 8967
+   owgVdc = False
+   IQBWlL = 422.9422954764633 + 488.47485985286494
+while x>p:
+  if o<b:
+   vSxbvk = 8653 / 794.2016981990911
+   lSlqSx = 560.4663140112401 - 8187
+   DKsuLq = False
+  if j>z:
+   OqsnRe = 294.4557502290441 - 3472
+   hSHsIJ = 9024 - 7318
+   xAaMZI = 57.50952327507708 / 5789
+  if n<v:
+   vSxbvk = 8653 / 794.2016981990911
+   lSlqSx = 560.4663140112401 - 8187
+   DKsuLq = False
+while b==t:
+  if r>h:
+   XADVtp = 2414 * 934.2936854979554
+   RppGqE = 583.4397438264895 + 600.5378662931963
+   gHhNAF = 4891 - 960.6421095807441
+  if y<l:
+   fdoKde = 7901 + 58.51461970494187
+   QZHQRd = 978.0438885480526 * 280
+   DIRnBb = False
+  if b==e:
+   XADVtp = 2414 * 934.2936854979554
+   RppGqE = 583.4397438264895 + 600.5378662931963
+   gHhNAF = 4891 - 960.6421095807441
+while p==u:
+  if w==z:
+   gcwtca = 1081 / 495.5563643797742
+   SWKdgV = 1648 + 4801
+   tnzySP = 762.1257350049932 - 736.9837070620638
+  if q<q:
+   VgIPkR = False
+   cFmYid = 506.60244875781746 * 884.6176336922055
+   eGydor = 783.6538687075854 - 310.5668313039012
+  if l<e:
+   gcwtca = 1081 / 495.5563643797742
+   SWKdgV = 1648 + 4801
+   tnzySP = 762.1257350049932 - 736.9837070620638
+while j>x:
+  if x<j:
+   HzOCyu = True
+   BBtRCB = 320 + 701.7678191925776
+   tngqix = 7645 / 702.4161979760598
+  if q<p:
+   HEYSlR = 267 * 5078
+   AdZkub = 109.56192201305647 - 431
+   LoSVvr = 486.488572353772 / 7508
+  if v<e:
+   HzOCyu = True
+   BBtRCB = 320 + 701.7678191925776
+   tngqix = 7645 / 702.4161979760598
+while z>d:
+  if c<n:
+   lRoyUt = 1487 / 2697
+   FMJIVC = True
+   xyiwFh = 9047 + 6897
+  if w<e:
+   ScDPZP = 7751 / 834.9132418464485
+   xgOzYG = 496.137006683752 - 55
+   QIEOYO = 8100 * 761.5232325501128
+  if l<l:
+   lRoyUt = 1487 / 2697
+   FMJIVC = True
+   xyiwFh = 9047 + 6897
+while p==o:
+  if z<d:
+   dpkqZU = 814.0787085322357 + 7111
+   ZNCSMr = 4758 - 774.9503215321441
+   KgBewt = 63.977252704503414 / 931
+  if f<o:
+   BjShjC = 820.6965604271031 + 671.2954934951316
+   gcbOzL = True
+   ulfJsT = 603.5673861319176 + 760.9452752287277
+  if u>c:
+   dpkqZU = 814.0787085322357 + 7111
+   ZNCSMr = 4758 - 774.9503215321441
+   KgBewt = 63.977252704503414 / 931
+while w==g:
+  if j<b:
+   oLTTmI = 612.3495309153261 / 755.9592816598696
+   OoAIGE = 9702 - 162.6032292734144
+   uJSqov = 2246 + 613.4009549294918
+  if l<b:
+   MhIVwV = 7347 - 6795
+   zSFlLT = 664 + 6891
+   wqkiNi = 966.9799554282753 + 9997
+  if a==x:
+   oLTTmI = 612.3495309153261 / 755.9592816598696
+   OoAIGE = 9702 - 162.6032292734144
+   uJSqov = 2246 + 613.4009549294918
+while c>m:
+  if j<b:
+   lxqiqV = 861.3918992706099 / 5162
+   lMvtDi = 797.7496138753244 / 345.1808759964237
+   nkmEUz = 562.3512594996612 + 430.04355686182186
+  if b<b:
+   OrRjZH = 9799 * 855.7894746425467
+   NJBgFb = 717.5925147758277 + 8369
+   wNcDcX = 171.3445425190831 * 895.1400493727363
+  if a==d:
+   lxqiqV = 861.3918992706099 / 5162
+   lMvtDi = 797.7496138753244 / 345.1808759964237
+   nkmEUz = 562.3512594996612 + 430.04355686182186
+while a<d:
+  if r<v:
+   vdTYbB = False
+   pQQVSP = False
+   mcBDcB = 3433 - 245.8750256431339
+  if s==t:
+   ReHqky = True
+   TtMbJu = 1869 + 228.47177385831876
+   WkNRYt = False
+  if f>f:
+   vdTYbB = False
+   pQQVSP = False
+   mcBDcB = 3433 - 245.8750256431339
+while c>g:
+  if j<c:
+   dqJRbG = False
+   bQkRWu = 258.7559689888496 * 416.51437399585893
+   AhCKom = 4324 + 545.8137606987011
+  if h<i:
+   OqEJcc = False
+   UyxTap = 10000 / 288.98575649050326
+   RTfiSs = 5465 / 953.0070088332271
+  if a==w:
+   dqJRbG = False
+   bQkRWu = 258.7559689888496 * 416.51437399585893
+   AhCKom = 4324 + 545.8137606987011
+while p>e:
+  if a>r:
+   QSBmTA = False
+   FVxQKF = True
+   bZvvtb = 265.6650206007293 * 5007
+  if c>v:
+   AqQkrB = 3722 * 6305
+   SPuvpA = 9354 / 3503
+   bjKJnr = 599.4628038546255 + 3362
+  if i>v:
+   QSBmTA = False
+   FVxQKF = True
+   bZvvtb = 265.6650206007293 * 5007
+while x>o:
+  if u>t:
+   bDxwVI = 4743 + 8946
+   mkEYuo = 2753 * 958.9262928582766
+   URffZZ = 206.92938291018018 / 5116
+  if s==j:
+   Maytle = 9298 * 9070
+   GtUZTg = 812.6780536414253 + 802.3395753763863
+   Pfoqpa = 320.25103963742816 + 174.06956743457175
+  if t<q:
+   bDxwVI = 4743 + 8946
+   mkEYuo = 2753 * 958.9262928582766
+   URffZZ = 206.92938291018018 / 5116
+while s==g:
+  if g<q:
+   ftPqcl = 5269 - 1504
+   dHocsR = 2003 - 951.7206125141319
+   XyXhDo = 962.4804249221764 + 7893
+  if d>p:
+   nAtHdh = 683.4616324702805 * 1175
+   uvwEAj = 4474 + 6034
+   HvBhZC = 9124 / 898.814361961427
+  if q<e:
+   ftPqcl = 5269 - 1504
+   dHocsR = 2003 - 951.7206125141319
+   XyXhDo = 962.4804249221764 + 7893
+while a>c:
+  if p>a:
+   YSMsws = 615.6041866538034 * 249.11062243933333
+   jgExze = 119.7547957231289 / 188.73438924381384
+   tjiWIK = 556.3664636913574 + 9237
+  if c>b:
+   ljuwCN = 9353 - 84.79787585406636
+   KXeOHr = 472.92597985584143 / 9217
+   cJesfo = 7312 * 896.4244674106037
+  if e==x:
+   YSMsws = 615.6041866538034 * 249.11062243933333
+   jgExze = 119.7547957231289 / 188.73438924381384
+   tjiWIK = 556.3664636913574 + 9237
+while f<c:
+  if c==a:
+   muaMNS = False
+   zgpJlG = 3565 / 9729
+   jtIkab = 7205 + 415.53920701519735
+  if x==c:
+   DKpnEZ = 7579 - 568.8145052523091
+   NyxQjV = 133.7900063173761 - 915.1272371094327
+   zvkIxV = 999.0599244477338 - 234.71921023194523
+  if f==j:
+   muaMNS = False
+   zgpJlG = 3565 / 9729
+   jtIkab = 7205 + 415.53920701519735
+while b>z:
+  if m<d:
+   htLGSp = 299 * 5170
+   RugEFe = 20.69239289395797 - 7985
+   LixOHf = 9533 * 7133
+  if w>d:
+   kTnwBL = 5956 * 439.8525650582439
+   yudSae = False
+   IHuzCx = 7214 + 5702
+  if h<v:
+   htLGSp = 299 * 5170
+   RugEFe = 20.69239289395797 - 7985
+   LixOHf = 9533 * 7133
+while m<r:
+  if b==p:
+   dceFnr = 241.25534597245627 - 174
+   yblQjf = False
+   yPMxpN = 610.3319614744365 + 8686
+  if s>q:
+   fVLwSO = False
+   wyqXWb = 85 / 869.7089747153789
+   KexOuj = 6236 / 8034
+  if r<l:
+   dceFnr = 241.25534597245627 - 174
+   yblQjf = False
+   yPMxpN = 610.3319614744365 + 8686
+while i>g:
+  if w==c:
+   vnOShP = 480.0221188235154 - 572.8196400610283
+   HPgvUn = 416 * 8016
+   Dcydbx = 8345 - 5090
+  if y>f:
+   RqQwZU = 628 - 5754
+   QNanUw = 726.0619815557931 * 716.6232129111826
+   tknfyT = 724.8363724348224 + 998.0990786460354
+  if g<x:
+   vnOShP = 480.0221188235154 - 572.8196400610283
+   HPgvUn = 416 * 8016
+   Dcydbx = 8345 - 5090
+while b>n:
+  if v<u:
+   hGSklp = 3114 + 5429
+   fjKfni = 8826 + 5046
+   BaXJaR = 4602 / 5162
+  if b>y:
+   XwtSRf = 268.99527209487013 * 984
+   SlWijf = True
+   YeXHKn = 691.0986984645684 / 2090
+  if r==k:
+   hGSklp = 3114 + 5429
+   fjKfni = 8826 + 5046
+   BaXJaR = 4602 / 5162
+while z<c:
+  if b<k:
+   XxPsZP = False
+   txZDwN = 162.84151627637627 * 1555
+   GpjYlt = 2100 * 530.334291481731
+  if q>f:
+   CPtXpE = False
+   jADbTD = 581.6010233841529 + 903.1904693166576
+   jIWnjT = 611.6673233027246 + 70
+  if z<o:
+   XxPsZP = False
+   txZDwN = 162.84151627637627 * 1555
+   GpjYlt = 2100 * 530.334291481731
+while p<e:
+  if m<y:
+   nbcmNf = 992.713305488629 - 453.4355251273651
+   iMAdKM = False
+   Lfzweb = 943.7535951205284 + 1011
+  if y==i:
+   NaipOj = False
+   gcnkAZ = 689.6887189177846 / 895.8650131548853
+   SklAiM = 1746 * 3176
+  if t==z:
+   nbcmNf = 992.713305488629 - 453.4355251273651
+   iMAdKM = False
+   Lfzweb = 943.7535951205284 + 1011
+while w<s:
+  if j==b:
+   EQNAJd = 9689 / 313.86433395011255
+   tCsFJO = 9534 / 9628
+   LGOuSa = 65.89264316702177 / 845.6793442180924
+  if v==z:
+   IMJXxm = 8845 / 4266
+   oMFmXN = 250.4350054555762 / 743.3609592121729
+   JEnVAX = 6470 * 252.03599277355607
+  if a<y:
+   EQNAJd = 9689 / 313.86433395011255
+   tCsFJO = 9534 / 9628
+   LGOuSa = 65.89264316702177 / 845.6793442180924
+while t==p:
+  if u>l:
+   TMCZwu = 657.8755690209082 * 617.4428706945776
+   mtMWPx = 4539 - 8427
+   oBJPId = 3162 - 1011
+  if o<e:
+   KGxWTz = False
+   FYTkGT = True
+   ULXggz = 621.5292093712178 / 7219
+  if j>o:
+   TMCZwu = 657.8755690209082 * 617.4428706945776
+   mtMWPx = 4539 - 8427
+   oBJPId = 3162 - 1011
+while s>t:
+  if a>o:
+   LOYTeu = 416.3608439409415 + 969.9497493817402
+   IoLYWq = 1488 + 22.813964082218725
+   BtggPx = 155.95415912743422 * 1282
+  if g==y:
+   JPqXKJ = 6541 * 315.17062081531157
+   BajKVH = 309 + 8513
+   HVqVkV = 174.55502288583278 / 7234
+  if l>y:
+   LOYTeu = 416.3608439409415 + 969.9497493817402
+   IoLYWq = 1488 + 22.813964082218725
+   BtggPx = 155.95415912743422 * 1282
+while m>y:
+  if z<a:
+   hEPbXB = 162.80334186963108 / 239.96582165400176
+   UWTIer = 914.8577690247363 + 188.4060247136257
+   ZYXACa = False
+  if h>x:
+   iWlpky = 417 / 554.0756311257774
+   Xirkbu = 733.7160588892223 / 6728
+   vPdAPE = 467.9829372164509 * 7380
+  if i<u:
+   hEPbXB = 162.80334186963108 / 239.96582165400176
+   UWTIer = 914.8577690247363 + 188.4060247136257
+   ZYXACa = False
+while q>i:
+  if f==h:
+   LXrbFW = 295.29657010294284 / 874.0331619672669
+   CUoHPj = 231.85625158134874 * 2605
+   iXlCUu = 470.7754141817365 - 610.29082668945
+  if b>w:
+   yNAZIk = 628 / 679.4475563207307
+   AstUgE = 6438 * 4403
+   Bpjrtx = 4470 - 813.3445655196747
+  if s==m:
+   LXrbFW = 295.29657010294284 / 874.0331619672669
+   CUoHPj = 231.85625158134874 * 2605
+   iXlCUu = 470.7754141817365 - 610.29082668945
+while m>g:
+  if y>r:
+   Tggaqz = 34.923823030601575 / 114.50393190297854
+   ZHBVar = 4062 + 4893
+   WdhSwU = 172.62185049944685 / 476.3148243058427
+  if k>p:
+   LArirP = 751.5030717988614 + 721.3744894806692
+   agiRaG = 426.03835984232757 * 9256
+   NLRJxp = 232.744632561175 + 7050
+  if z>s:
+   Tggaqz = 34.923823030601575 / 114.50393190297854
+   ZHBVar = 4062 + 4893
+   WdhSwU = 172.62185049944685 / 476.3148243058427
+while s==a:
+  if e==m:
+   DqGeeO = False
+   kKoQsF = True
+   ecWRil = 586.5193816323471 + 1084
+  if c==u:
+   ASGbaX = True
+   dLgWad = False
+   KizQFF = 81 / 459.7416486185921
+  if c==q:
+   DqGeeO = False
+   kKoQsF = True
+   ecWRil = 586.5193816323471 + 1084
+while j<v:
+  if u<a:
+   jmKBgZ = 171.18378329738172 / 416.42042675768937
+   XXAlkf = True
+   CgooEI = 869.0519440395129 + 587.5023260190953
+  if a==z:
+   CybQJU = 1110 / 830.1966714567401
+   GIeMJL = 248.00096928444842 + 355.9398205398466
+   jINLue = 687.0286248280048 + 8880
+  if l>u:
+   jmKBgZ = 171.18378329738172 / 416.42042675768937
+   XXAlkf = True
+   CgooEI = 869.0519440395129 + 587.5023260190953
+while c==h:
+  if i>f:
+   aDfXmp = 709.9348821144949 / 5765
+   XwkXFi = 9028 - 3856
+   JsNghY = False
+  if b>m:
+   TdAavy = 6459 - 740.1629591801532
+   AvyXUN = True
+   NFzsoY = 2240 * 5290
+  if x>b:
+   aDfXmp = 709.9348821144949 / 5765
+   XwkXFi = 9028 - 3856
+   JsNghY = False
+while u<b:
+  if j<q:
+   CsZYHP = 3519 * 1113
+   nkPaun = True
+   mTAqys = 378.81848760664786 - 602.4542676599684
+  if p<b:
+   vYqlYu = 2313 / 5335
+   kfywWf = 1233 + 281.28530223382495
+   ODLxbb = 5552 - 8049
+  if u>x:
+   CsZYHP = 3519 * 1113
+   nkPaun = True
+   mTAqys = 378.81848760664786 - 602.4542676599684
+while j<j:
+  if s<m:
+   YBPaip = 8256 * 972.9829652119482
+   LxYKez = 452.5655283621021 - 9506
+   rjGxxV = 7533 * 303.0441491366012
+  if s<r:
+   JdaFRq = 524.5328430178394 / 7147
+   fqzNOY = 274.2016589444083 * 42.723924875738106
+   qNmXma = True
+  if n<y:
+   YBPaip = 8256 * 972.9829652119482
+   LxYKez = 452.5655283621021 - 9506
+   rjGxxV = 7533 * 303.0441491366012
+while h>g:
+  if r>b:
+   bnRPzy = 399.8640076202191 * 527.8755884966718
+   ctghWQ = 614.2098945548604 * 8701
+   JFAzyU = 6976 * 5430
+  if c<l:
+   HWUZfd = True
+   Xrgbpj = 5012 + 648.4675163273927
+   JwsSwO = 5976 / 151.88723025905415
+  if k>q:
+   bnRPzy = 399.8640076202191 * 527.8755884966718
+   ctghWQ = 614.2098945548604 * 8701
+   JFAzyU = 6976 * 5430
+while e<g:
+  if q>t:
+   NceXCu = 408 / 308.37951366208546
+   HSDfiQ = 3921 * 5583
+   nnOJmC = 375.7022645628258 + 6706
+  if i==x:
+   jsWDiY = 219.23102640701708 / 535.3007592134283
+   ckwLGl = False
+   JgoOCC = 7712 / 919.0795677771108
+  if z<p:
+   NceXCu = 408 / 308.37951366208546
+   HSDfiQ = 3921 * 5583
+   nnOJmC = 375.7022645628258 + 6706
+while i>x:
+  if r>m:
+   SqSlmL = 598.7219300207935 * 1577
+   QIBeIA = 4235 + 3477
+   egigXr = 944.7223521318383 + 8596
+  if l>a:
+   mvtgwi = 910.3189395336802 * 351.47889681221767
+   YqkumF = False
+   qwKbHP = False
+  if c==b:
+   SqSlmL = 598.7219300207935 * 1577
+   QIBeIA = 4235 + 3477
+   egigXr = 944.7223521318383 + 8596
+while j>t:
+  if j<g:
+   qwPajt = 171.10622479575446 / 1162
+   tYENVq = 4532 - 4401
+   VsXfbq = True
+  if y<i:
+   JbAUxe = 829.6435403426154 / 294.7324522817603
+   lkMfBq = 8891 + 83.53758230344341
+   NYgHLj = False
+  if k<i:
+   qwPajt = 171.10622479575446 / 1162
+   tYENVq = 4532 - 4401
+   VsXfbq = True
+while w==d:
+  if c==w:
+   DaBlNA = 385.2095789727874 - 84.41513560378249
+   WynKJo = 588.227774788796 * 850.4276629418698
+   jLUurU = 223.64358286730817 - 437.2719347246509
+  if z==n:
+   XeSiML = True
+   LnPePJ = True
+   UiCZqJ = 68.41440364692669 + 60
+  if v==p:
+   DaBlNA = 385.2095789727874 - 84.41513560378249
+   WynKJo = 588.227774788796 * 850.4276629418698
+   jLUurU = 223.64358286730817 - 437.2719347246509
+while j<g:
+  if v<j:
+   YexYSQ = 2929 - 672.9334644333061
+   gEOyzo = 937.8618239587701 + 9567
+   kUWCMk = 6548 - 126.25493252626734
+  if x>g:
+   lcOAbm = 249.3181946102421 / 853.9425933085192
+   sGcppS = 9499 / 9798
+   LuHuBO = 658.1961085502085 - 311.2657308915774
+  if k==x:
+   YexYSQ = 2929 - 672.9334644333061
+   gEOyzo = 937.8618239587701 + 9567
+   kUWCMk = 6548 - 126.25493252626734
+while k<q:
+  if g<w:
+   iErHWp = 764.1748668773823 * 359
+   YWySHd = 4971 - 9570
+   KBIiXe = 2746 - 2263
+  if f==w:
+   MwZYeL = 665.0494268837095 + 363.69079266538887
+   oyPoWH = 862.9699114229462 - 871.5303979667691
+   yhadaj = True
+  if i>l:
+   iErHWp = 764.1748668773823 * 359
+   YWySHd = 4971 - 9570
+   KBIiXe = 2746 - 2263
+while z>o:
+  if t>t:
+   FCDLkq = 965.5486420102105 * 189.2792867327514
+   GHHSdG = 1420 * 7978
+   PRRUoH = 214.83861387689382 / 9931
+  if p==n:
+   JDUwMV = 3210 * 675
+   cKVsFc = 8748 - 469.1039630794176
+   NOhbKE = 317.07535351761385 * 401.78125600118227
+  if i>z:
+   FCDLkq = 965.5486420102105 * 189.2792867327514
+   GHHSdG = 1420 * 7978
+   PRRUoH = 214.83861387689382 / 9931
+while l==r:
+  if v<h:
+   pIXdEl = 7145 + 7678
+   VTrEOM = True
+   fagEFd = 1528 * 312.9579493054682
+  if t==v:
+   Cwghey = 4824 - 4020
+   nGPqWF = 162 + 1405
+   JrRiDz = 2900 * 848.0138632162995
+  if c==x:
+   pIXdEl = 7145 + 7678
+   VTrEOM = True
+   fagEFd = 1528 * 312.9579493054682
+while e<f:
+  if q<h:
+   MMypXT = 820.5886009914838 / 5891
+   njCURd = 6310 + 578.0687561491932
+   jUDbNU = 2733 / 9786
+  if u<p:
+   RxnVPO = 713.3385446159838 - 3547
+   wqQuIj = 343.0354280167176 / 8819
+   yeIPHE = 927.9030150856122 * 849.4352510008268
+  if n==g:
+   MMypXT = 820.5886009914838 / 5891
+   njCURd = 6310 + 578.0687561491932
+   jUDbNU = 2733 / 9786
+while x==f:
+  if a<a:
+   OwtwYz = 1848 * 276.8104024586726
+   OglCWy = True
+   FBSIqv = 6723 * 892.2729566588046
+  if v==m:
+   gyXMAS = 653.2333086844159 - 979.2208892186532
+   XJlbHw = 731.9311192183886 + 2136
+   jubikd = 5333 * 783
+  if f==b:
+   OwtwYz = 1848 * 276.8104024586726
+   OglCWy = True
+   FBSIqv = 6723 * 892.2729566588046
+while m>k:
+  if g<n:
+   jiRFow = 45.46078289281132 - 692.0108872096083
+   wTbQMK = 395.47144089827594 - 9758
+   DAIEFX = True
+  if n<k:
+   ClywHd = 2008 * 1401
+   UdIdSC = 11.924803693707604 - 559.6067225460109
+   HCmafL = 737.0529945218697 + 6529
+  if o<t:
+   jiRFow = 45.46078289281132 - 692.0108872096083
+   wTbQMK = 395.47144089827594 - 9758
+   DAIEFX = True
+while u<o:
+  if t<s:
+   kSpDxt = False
+   ZwIfYW = 286.84849640286444 - 4282
+   ZIPJje = 4579 / 925.5618043238087
+  if a<s:
+   oQrRhb = 572 - 103.1356978712518
+   FIEIHw = True
+   QOwXdv = 934.3246832577576 + 6419
+  if d==u:
+   kSpDxt = False
+   ZwIfYW = 286.84849640286444 - 4282
+   ZIPJje = 4579 / 925.5618043238087
+while m==g:
+  if z==w:
+   hAOyUx = 4704 + 4381
+   qvnfTe = 919.9330389937114 - 2874
+   ZMorjP = 3237 + 2450
+  if x==w:
+   HYTNsH = 364.0081758947865 * 212.54199902146368
+   urtcPT = 4.511848921936455 - 8208
+   BPgbBx = 315.46636275260244 / 991.7919953567653
+  if f>p:
+   hAOyUx = 4704 + 4381
+   qvnfTe = 919.9330389937114 - 2874
+   ZMorjP = 3237 + 2450
+while m>k:
+  if e==a:
+   AGoUcf = 864.8874414010286 * 7593
+   YGPjYz = 617.1848961806304 + 979
+   UHWssf = 756.805440070415 - 7043
+  if h==r:
+   gWpmxX = True
+   tMSjgy = 251 * 805
+   fxMdVw = 962.3698278201302 / 531.574037435923
+  if f<n:
+   AGoUcf = 864.8874414010286 * 7593
+   YGPjYz = 617.1848961806304 + 979
+   UHWssf = 756.805440070415 - 7043
+while t>t:
+  if k<y:
+   QccAeP = 4859 * 272.12553465863414
+   BPiZFL = False
+   hRSGRp = 5759 - 1194
+  if q>q:
+   lDHmtC = 4734 - 3772
+   UpdznF = 3562 - 265.54747726775355
+   TEIeWR = 4064 - 375
+  if s==x:
+   QccAeP = 4859 * 272.12553465863414
+   BPiZFL = False
+   hRSGRp = 5759 - 1194
+while y==y:
+  if f<l:
+   NtQoSt = 8644 + 755.7634130585878
+   nBtKxq = 619.9134864963745 - 8779
+   BxGMCV = False
+  if e==u:
+   BhCpue = 3800 + 682.429853091888
+   jyAzqb = 5665 - 682.0452329151136
+   BQvTqa = 8942 / 2460
+  if z>x:
+   NtQoSt = 8644 + 755.7634130585878
+   nBtKxq = 619.9134864963745 - 8779
+   BxGMCV = False
+while n>x:
+  if f>u:
+   yXOBnb = 146.49083099711 * 925.3839933418243
+   HCTHLw = 155.8653789765539 * 7801
+   VbLEeu = 6292 - 103.61744401614006
+  if r>q:
+   kfvidf = 2163 + 198.39415048198785
+   truuCE = 340.1901673031474 * 388.6452457027575
+   SPXnke = 7433 * 7271
+  if p==t:
+   yXOBnb = 146.49083099711 * 925.3839933418243
+   HCTHLw = 155.8653789765539 * 7801
+   VbLEeu = 6292 - 103.61744401614006
+while c<k:
+  if s==h:
+   dBxBhw = 3614 * 2130
+   ccOjyY = 367.7410968702442 / 467.56638612605724
+   KfwxVc = 892.2205917190399 / 6139
+  if g==h:
+   UUKQCr = 4735 - 861.1482166701389
+   cqfGis = 354.1639453975672 / 1635
+   Gxoeyj = 6828 / 557.996472968282
+  if b==h:
+   dBxBhw = 3614 * 2130
+   ccOjyY = 367.7410968702442 / 467.56638612605724
+   KfwxVc = 892.2205917190399 / 6139
+while f>u:
+  if d<o:
+   VQkVHD = 778.6550458868634 / 3672
+   IscSbH = 1482 - 106.53802629509586
+   uunmes = 3219 + 388.94999721611555
+  if u<h:
+   wyqXWb = 85 / 869.7089747153789
+   hjzRDp = False
+   BFxFRt = 8193 + 155.21869471727226
+  if o==e:
+   VQkVHD = 778.6550458868634 / 3672
+   IscSbH = 1482 - 106.53802629509586
+   uunmes = 3219 + 388.94999721611555
+while m==h:
+  if h>y:
+   APkfea = False
+   EWxuoy = 8945 * 7556
+   uRdsIA = False
+  if s<e:
+   fxIejg = 9626 + 7170
+   IuwLFJ = 3246 * 420
+   erCuRC = 2518 + 1283
+  if u==f:
+   APkfea = False
+   EWxuoy = 8945 * 7556
+   uRdsIA = False
+while j>z:
+  if v>c:
+   AuQpOv = 356.8585912631526 + 910.1173782593777
+   PkzIWF = 839.4149933259397 - 7838
+   ucDgcu = False
+  if h>t:
+   xcdtgY = True
+   FxlSnV = 242.83067569382385 - 9713
+   CUHRZE = 363.35305959567336 * 9386
+  if d>r:
+   AuQpOv = 356.8585912631526 + 910.1173782593777
+   PkzIWF = 839.4149933259397 - 7838
+   ucDgcu = False
+while u<m:
+  if h>t:
+   pObhKt = False
+   WJIFMQ = 3654 * 543.079030397956
+   XcPpqy = 2053 / 801.9408891791975
+  if x<w:
+   eqQSwG = 691.8790150932291 - 922.1502988154756
+   Etkwpm = 1874 * 43.29688316086869
+   HVqVkV = 174.55502288583278 / 7234
+  if m<k:
+   pObhKt = False
+   WJIFMQ = 3654 * 543.079030397956
+   XcPpqy = 2053 / 801.9408891791975
+while e>u:
+  if u==s:
+   eeSDYD = 7823 + 974.7774297338161
+   FicuWF = True
+   atmrEZ = 1593 * 7756
+  if f>f:
+   htEzwK = 343.95780033870045 + 5366
+   XMNjqv = 447.0491065587008 + 2383
+   lLRRvZ = 307.3699646347532 * 298.61101432986044
+  if c<m:
+   eeSDYD = 7823 + 974.7774297338161
+   FicuWF = True
+   atmrEZ = 1593 * 7756
+while y>c:
+  if b<e:
+   BaXHRo = False
+   aHArzm = 903.8093381345975 * 886.6743089059206
+   UmZyze = 7580 * 1641
+  if j==n:
+   vsSmcW = 846.3817176086978 + 137.79219915672945
+   qOoDgm = False
+   stehFM = 604.8071461819758 / 5336
+  if r>w:
+   BaXHRo = False
+   aHArzm = 903.8093381345975 * 886.6743089059206
+   UmZyze = 7580 * 1641
+while x>d:
+  if r<z:
+   fYOxzz = True
+   bbtcxM = 422.5470408365905 - 227.39438557025287
+   ueMdFY = 86.93713099855496 * 8587
+  if g<f:
+   mDhjru = 8547 * 5172
+   aIIRfk = 591.6972695536317 - 4197
+   kwmZBe = 3467 - 6633
+  if k<o:
+   fYOxzz = True
+   bbtcxM = 422.5470408365905 - 227.39438557025287
+   ueMdFY = 86.93713099855496 * 8587
+while t>a:
+  if y>h:
+   cDVppF = 460.4131749744293 / 2937
+   mByZqC = 2353 / 168.1239123743472
+   wBavUm = 5401 - 312.3049998027016
+  if s>f:
+   IydZGj = 261.16457968746033 * 1262
+   QWcgjh = 3264 + 3763
+   czWpuP = 365.1123701335038 + 6427
+  if n>f:
+   cDVppF = 460.4131749744293 / 2937
+   mByZqC = 2353 / 168.1239123743472
+   wBavUm = 5401 - 312.3049998027016
+while h<q:
+  if r<y:
+   fMaFtb = 8975 / 9993
+   XEYtzf = 8747 - 698.6517736130579
+   eSFhEb = 824.1603533269468 - 599.4359658961763
+  if u>g:
+   Jacmgi = 451.1853172118795 + 211.58199435958227
+   ukuDuf = 965.2585008902093 - 5872
+   aKeezU = True
+  if d>h:
+   fMaFtb = 8975 / 9993
+   XEYtzf = 8747 - 698.6517736130579
+   eSFhEb = 824.1603533269468 - 599.4359658961763
+while i==v:
+  if j<b:
+   EkoIEx = 469.10161237932243 + 204.02109368312105
+   kOPPel = 4130 + 5973
+   UjxjeA = 191.33773509405893 + 668.2360721198378
+  if u<x:
+   DwojqY = 6026 - 792.5712813414543
+   AxMEYE = 149.09718691266352 - 368.98906858295805
+   UIWBOw = 260.4216793495991 * 664.0196390977644
+  if b>c:
+   EkoIEx = 469.10161237932243 + 204.02109368312105
+   kOPPel = 4130 + 5973
+   UjxjeA = 191.33773509405893 + 668.2360721198378
+while p==s:
+  if f>u:
+   yUCNVm = 734.9626858933635 + 808.9563427030998
+   eeHUla = False
+   swzCJp = 17.866348768065407 / 5453
+  if i>i:
+   AeuzLX = 4988 / 1061
+   SPsQBz = 699.8035597454241 / 187.4096252683596
+   kUWCMk = 6548 - 126.25493252626734
+  if p==e:
+   yUCNVm = 734.9626858933635 + 808.9563427030998
+   eeHUla = False
+   swzCJp = 17.866348768065407 / 5453
+while u<r:
+  if r==y:
+   fWEcIY = True
+   ccOjyY = 367.7410968702442 / 467.56638612605724
+   kvBrlE = 9767 - 6649
+  if b<v:
+   WOLCev = 599.1375028931828 * 652.8384644259244
+   uUohCp = 994.6138160015082 + 420.01596237695844
+   PWsNfV = 427.195046031783 + 5328
+  if g==p:
+   fWEcIY = True
+   ccOjyY = 367.7410968702442 / 467.56638612605724
+   kvBrlE = 9767 - 6649
+while q>w:
+  if p>t:
+   dPCjdC = 846.0169250036705 + 815.3525992064219
+   VZedDH = True
+   bPULeR = 601.6685962431069 / 7216
+  if p>w:
+   SDUGlA = 804.9259400502808 / 8228
+   GfRZic = 253 * 2322
+   NjPkVu = 3587 + 709.14728431977
+  if c>i:
+   dPCjdC = 846.0169250036705 + 815.3525992064219
+   VZedDH = True
+   bPULeR = 601.6685962431069 / 7216
+while o<l:
+  if h<n:
+   LzXkHS = 359 * 3699
+   RAYQyh = 106.54211944454774 * 8453
+   DjLNSi = 7804 - 5886
+  if y==c:
+   awCMVW = 61.306980791837375 * 1652
+   fQCiSQ = 6580 + 2098
+   kLbIEm = True
+  if s>g:
+   LzXkHS = 359 * 3699
+   RAYQyh = 106.54211944454774 * 8453
+   DjLNSi = 7804 - 5886
+while c==g:
+  if q>k:
+   BIyeEp = 912.5682282098145 - 281.39020467457726
+   qqxPff = 529 - 229.49135355585074
+   WHkbtW = 244.84728562191967 + 4934
+  if z>l:
+   VVUJPp = 111.3624231686871 / 716.7724515206745
+   CvqWtM = 552 - 473.1225105023158
+   MYkwCt = 691.9803164184444 + 743.6346224780275
+  if h<r:
+   BIyeEp = 912.5682282098145 - 281.39020467457726
+   qqxPff = 529 - 229.49135355585074
+   WHkbtW = 244.84728562191967 + 4934
+while l==e:
+  if e==o:
+   NCMTXP = 668.7891463769245 - 1300
+   qkMfFS = 9881 + 3785
+   ESMFXv = 76.35903863080969 + 7747
+  if o>e:
+   ourATH = 982.0884061727916 + 1912
+   jsNuwI = 5110 - 377.21172658884944
+   KPLFpc = 8248 + 253.1649989521629
+  if t<o:
+   NCMTXP = 668.7891463769245 - 1300
+   qkMfFS = 9881 + 3785
+   ESMFXv = 76.35903863080969 + 7747
+while h<k:
+  if f>a:
+   gHYPhB = 4075 * 748.0545104473251
+   iNGgWz = 180.07411899274263 - 9061
+   BtggPx = 155.95415912743422 * 1282
+  if g==u:
+   EwNOeY = 6215 + 494.9632488805419
+   whLWRo = 611.7284508998149 + 4236
+   rGaBdr = True
+  if q<d:
+   gHYPhB = 4075 * 748.0545104473251
+   iNGgWz = 180.07411899274263 - 9061
+   BtggPx = 155.95415912743422 * 1282
+while z==i:
+  if j==v:
+   nbUXIC = 2412 / 7540
+   pTyvRN = False
+   cMdFVM = 5355 / 1941
+  if u>m:
+   iUrqWq = 9141 + 4967
+   RamrPE = 2140 / 33.70366557949151
+   nUUNjo = 7056 + 6546
+  if y==p:
+   nbUXIC = 2412 / 7540
+   pTyvRN = False
+   cMdFVM = 5355 / 1941
+while x==i:
+  if r==n:
+   fBLuOl = 6689 + 413.68473944368554
+   zzMYji = 1168 / 250.5199592894161
+   MmaeSk = 805.1514640687037 + 873.0209623556142
+  if i>w:
+   gbSMHp = 432.1578780203901 + 4124
+   mrpIHn = 9236 * 9130
+   iUrqWq = 9141 + 4967
+  if w>z:
+   fBLuOl = 6689 + 413.68473944368554
+   zzMYji = 1168 / 250.5199592894161
+   MmaeSk = 805.1514640687037 + 873.0209623556142
+while y>w:
+  if p<y:
+   GvtLNK = 354.00915261253004 * 670.533929896543
+   HlNWgZ = 744.0458873255052 + 3021
+   QaFcLX = False
+  if m<a:
+   sgiYsM = 581.8712000520804 / 2548
+   LNPasI = 293.3995973398889 * 842
+   aFdlnI = 9064 + 16.343577281776007
+  if m>p:
+   GvtLNK = 354.00915261253004 * 670.533929896543
+   HlNWgZ = 744.0458873255052 + 3021
+   QaFcLX = False
+while k>n:
+  if p<u:
+   ggbOsm = True
+   FyEpcG = 220.7551616685842 / 993.0457584305981
+   UhELmI = 1818 + 9544
+  if e>p:
+   VpgVUe = 6746 * 3739
+   LZyDEZ = True
+   NwszBy = 2541 / 1912
+  if s<f:
+   ggbOsm = True
+   FyEpcG = 220.7551616685842 / 993.0457584305981
+   UhELmI = 1818 + 9544
+while v<m:
+  if t<h:
+   PcOmvo = True
+   bgJcmJ = 795.5003639396019 * 3714
+   PbhJRO = 9439 / 7729
+  if m==j:
+   ysmkGf = 6563 + 8092
+   AGkWTo = 6644 - 3980
+   ijuYJY = 361.05076875558376 * 4841
+  if l==x:
+   PcOmvo = True
+   bgJcmJ = 795.5003639396019 * 3714
+   PbhJRO = 9439 / 7729
+while x==y:
+  if s<d:
+   VQMbBd = 6086 - 402.4214703612409
+   FqEjGB = False
+   CfwzBe = 1469 - 767.1877300748841
+  if w>f:
+   LexjtX = True
+   LGPcSH = 789.4536322586462 - 424
+   CWdnUm = 949.4361639485224 * 9836
+  if f>c:
+   VQMbBd = 6086 - 402.4214703612409
+   FqEjGB = False
+   CfwzBe = 1469 - 767.1877300748841
+while v==r:
+  if g<w:
+   CbxYVw = 694.827845591245 - 6326
+   bzPPXj = 255.5092220799145 + 305.8169657714646
+   BzuIJF = 455.77708197969434 / 668.9953242474561
+  if l==q:
+   kbxoLn = True
+   dfTcNZ = False
+   BWvuPp = 6653 + 7658
+  if k<a:
+   CbxYVw = 694.827845591245 - 6326
+   bzPPXj = 255.5092220799145 + 305.8169657714646
+   BzuIJF = 455.77708197969434 / 668.9953242474561
+while z>l:
+  if a>j:
+   jfmzeR = 59.12546753774028 + 413.66624663680545
+   BvqdsR = False
+   sgHLOM = 827.0765998778406 / 259.5791335079055
+  if u==b:
+   AkOKbC = 19.340440308572667 - 692.5971337772017
+   DbYZOm = True
+   GpbleT = 1846 - 169.73362471728862
+  if e>c:
+   jfmzeR = 59.12546753774028 + 413.66624663680545
+   BvqdsR = False
+   sgHLOM = 827.0765998778406 / 259.5791335079055
+while q==w:
+  if s<y:
+   rAqicH = 597.7555620515811 + 566.1291138490199
+   vuMBSu = False
+   fuANWC = 7638 / 496.9430275970378
+  if q<h:
+   bhmQsy = 39.70459614425702 - 9557
+   dqNAJN = False
+   lUFhXk = 4418 / 2230
+  if q>n:
+   rAqicH = 597.7555620515811 + 566.1291138490199
+   vuMBSu = False
+   fuANWC = 7638 / 496.9430275970378
+while q==j:
+  if d>p:
+   qOqkLw = True
+   HBgxsH = False
+   GzCwyg = 8764 * 105.96996701052011
+  if v==d:
+   nbUXIC = 2412 / 7540
+   MknEib = 6632 - 6550
+   LCErYo = 6351 + 1462
+  if a<l:
+   qOqkLw = True
+   HBgxsH = False
+   GzCwyg = 8764 * 105.96996701052011
+while a>a:
+  if a>n:
+   KikBQi = 2138 / 6721
+   ThGUif = False
+   aDPbvC = 2964 + 3731
+  if v>z:
+   sLNYqx = 2106 - 2728
+   EtiwQA = 2225 * 4710
+   Wgqvaj = 619.8075458184347 - 253.12501607098608
+  if u==k:
+   KikBQi = 2138 / 6721
+   ThGUif = False
+   aDPbvC = 2964 + 3731
+while l==q:
+  if a>b:
+   gedPEf = 3236 - 904.8511020407199
+   uSsYnv = True
+   DFeAmY = False
+  if u<d:
+   thYupN = 3634 / 4936
+   OOOvpY = 2576 / 72.4983876688106
+   UromqV = 745.9232957279048 / 6606
+  if a==k:
+   gedPEf = 3236 - 904.8511020407199
+   uSsYnv = True
+   DFeAmY = False
+while m==c:
+  if f>w:
+   KJGKcy = 478.0227567975903 * 324.0624093170799
+   TTggGg = 745.4242805197651 - 225.95505068563403
+   GtcGdx = 706.3728509188303 / 1937
+  if o==u:
+   LDklJE = 8877 - 828.6588258761202
+   aamqiM = True
+   Rnzyyd = 759.6677123073297 * 1836
+  if s>w:
+   KJGKcy = 478.0227567975903 * 324.0624093170799
+   TTggGg = 745.4242805197651 - 225.95505068563403
+   GtcGdx = 706.3728509188303 / 1937
+while q==y:
+  if h>a:
+   nWpTHV = 5829 - 3630
+   SdKUYX = 711 * 103
+   AeZuNR = True
+  if t>m:
+   afOXRl = 761.8816442760751 * 67
+   sWUniu = 3295 - 674.607303590546
+   WcZiLa = 2429 - 6744
+  if l>i:
+   nWpTHV = 5829 - 3630
+   SdKUYX = 711 * 103
+   AeZuNR = True
+while y<i:
+  if z==q:
+   hBbdGD = False
+   EZWaXX = 1987 + 734.0289733708679
+   WYFnkv = False
+  if q==p:
+   IBbIVU = 876.1809652645055 + 5771
+   hnDlzC = 2781 - 684.2877503560504
+   YavJcd = 886.5809790494326 + 34
+  if k<x:
+   hBbdGD = False
+   EZWaXX = 1987 + 734.0289733708679
+   WYFnkv = False
+while j<c:
+  if x>p:
+   NMaoHz = 4860 / 631.158751093002
+   Asgoql = 6035 + 5396
+   fJUDxp = 1923 + 532.7813778153784
+  if l==j:
+   MDPdyw = 844.6603417863456 * 5303
+   EVpRAk = False
+   kJAvGM = 5104 * 676.4139988873449
+  if a==v:
+   NMaoHz = 4860 / 631.158751093002
+   Asgoql = 6035 + 5396
+   fJUDxp = 1923 + 532.7813778153784
+while y>q:
+  if r<e:
+   rvCuym = 794.2404600519811 * 2193
+   Cnwjua = 169.44217568823956 + 457.6912477968667
+   lHtyxY = 417.93302957523537 / 7298
+  if k>m:
+   cebVhs = True
+   WQMIyl = 973.2608110246922 + 6557
+   NDgTFS = 427 + 403.6803424932167
+  if l==z:
+   rvCuym = 794.2404600519811 * 2193
+   Cnwjua = 169.44217568823956 + 457.6912477968667
+   lHtyxY = 417.93302957523537 / 7298
+while u>k:
+  if p>d:
+   XeZoia = 606.7835027026391 - 960.9042391272093
+   VSYPql = 265.2438209278999 - 8819
+   PUKDmz = 8445 / 3300
+  if o==a:
+   bbrGGD = True
+   oJXTys = 101.0109467611475 - 9609
+   fijMjt = True
+  if d==g:
+   XeZoia = 606.7835027026391 - 960.9042391272093
+   VSYPql = 265.2438209278999 - 8819
+   PUKDmz = 8445 / 3300
+while n==l:
+  if q==w:
+   hMHUMU = 3876 * 8167
+   ZKVaXp = False
+   jkRLtA = 436.8855016736197 + 213.75961721621684
+  if j==p:
+   hfcUes = 788.4226473388794 + 188.74594693273977
+   tWSjig = 4671 * 470.5489989577113
+   QCglFQ = 947.1789619696474 - 515.6901921555124
+  if p>l:
+   hMHUMU = 3876 * 8167
+   ZKVaXp = False
+   jkRLtA = 436.8855016736197 + 213.75961721621684
+while w==r:
+  if w>l:
+   ZOnLhF = 9764 * 1216
+   WTmmHw = 77.48523459285241 + 5901
+   TtzREU = False
+  if l==h:
+   eAJuer = 454 - 438.2700930372496
+   yRpyLc = 605.8915906683935 / 955.2001057324139
+   PNpOTd = 7036 / 9485
+  if n<v:
+   ZOnLhF = 9764 * 1216
+   WTmmHw = 77.48523459285241 + 5901
+   TtzREU = False
+while l<c:
+  if d>u:
+   AVPzui = 1791 + 4274
+   SKrNud = 896.8733547934467 - 632.271594010041
+   WtNxFS = 663.3930929238566 / 4979
+  if v==h:
+   CyOGEC = 779.8991328412541 / 205.3745741437168
+   aMCyfn = 851.4799774860189 - 158.28472323731876
+   pAtFIU = 31.213425207168193 - 651.6903855977276
+  if m>i:
+   AVPzui = 1791 + 4274
+   SKrNud = 896.8733547934467 - 632.271594010041
+   WtNxFS = 663.3930929238566 / 4979
+while u>l:
+  if z<w:
+   faonRs = 8728 + 4964
+   pQlzYa = 467.46442783893275 - 4320
+   QsqxFJ = 887.956009566929 + 672.2284580717005
+  if r<w:
+   lxieER = 5655 + 248.70012501170672
+   DifHpj = True
+   hXZlRn = False
+  if u>x:
+   faonRs = 8728 + 4964
+   pQlzYa = 467.46442783893275 - 4320
+   QsqxFJ = 887.956009566929 + 672.2284580717005
+while r<j:
+  if e>c:
+   CxigpE = 6519 - 832.2843344058716
+   MruuJM = 667.8393840818844 + 930
+   nWOJgW = 1685 * 2300
+  if v>u:
+   ZkXuQq = 4269 / 763.6435124393801
+   IaPbgV = 624.8830676042185 + 616.1550383135997
+   tfKixv = 390.09096931828515 / 326.7251040102801
+  if r>y:
+   CxigpE = 6519 - 832.2843344058716
+   MruuJM = 667.8393840818844 + 930
+   nWOJgW = 1685 * 2300
+while i<n:
+  if o>g:
+   KUaHFm = 4437 / 522.0643145478675
+   HoHpuc = 3704 / 269.74670794933354
+   WWisew = 188.34774568262227 + 6636
+  if b<p:
+   zfiqeQ = 5953 + 601.9421367750667
+   DLKRRx = 558.5915595460096 * 842.3800290044858
+   NyqKyo = 14 + 919.3137220578442
+  if o<m:
+   KUaHFm = 4437 / 522.0643145478675
+   HoHpuc = 3704 / 269.74670794933354
+   WWisew = 188.34774568262227 + 6636
+while p<s:
+  if q<j:
+   CNixBX = True
+   Dxnggm = 6276 / 9896
+   CzDMjJ = 2557 * 786.6602959192435
+  if e<e:
+   ySJxeG = 4819 * 3532
+   cqbnEa = 2106 * 677.4887085675529
+   ZkoqaG = 8633 / 1804
+  if k<p:
+   CNixBX = True
+   Dxnggm = 6276 / 9896
+   CzDMjJ = 2557 * 786.6602959192435
+while e>r:
+  if m>t:
+   sBThZf = False
+   bSfhOt = 403.8352998991488 + 2867
+   SUUKIq = False
+  if e==o:
+   iEDzfe = 8310 - 331.75053228786874
+   KmfHGN = True
+   ssAkFP = True
+  if u==h:
+   sBThZf = False
+   bSfhOt = 403.8352998991488 + 2867
+   SUUKIq = False
+while n>v:
+  if u==g:
+   JmQsJJ = 7871 * 911.6437556684947
+   uURNOy = 35.96095702511368 + 845.497976070134
+   zrTMbZ = True
+  if z==b:
+   xVzIyC = 1746 + 9591
+   EbMbfr = False
+   LEJnPF = 809 + 198.00829216872611
+  if u==w:
+   JmQsJJ = 7871 * 911.6437556684947
+   uURNOy = 35.96095702511368 + 845.497976070134
+   zrTMbZ = True
+while c>r:
+  if q>y:
+   OZpdEw = False
+   lzISDj = 9466 + 598.3178561842004
+   QuENtA = 866.7284948510753 / 5166
+  if s<w:
+   nhoyCU = 66.18203991490637 - 4676
+   ThONLu = 2468 / 794.422082076033
+   iKOEAd = 525.9174531791574 / 598
+  if p<l:
+   OZpdEw = False
+   lzISDj = 9466 + 598.3178561842004
+   QuENtA = 866.7284948510753 / 5166
+while j<l:
+  if w<q:
+   HCmafL = 737.0529945218697 + 6529
+   MSlczd = 8804 * 309.4043014906071
+   zmKjPy = 518.9158217008518 + 9315
+  if i==i:
+   CLjqzH = False
+   tcDBan = 5863 - 6532
+   UsIOWt = 1051 * 4178
+  if t<n:
+   HCmafL = 737.0529945218697 + 6529
+   MSlczd = 8804 * 309.4043014906071
+   zmKjPy = 518.9158217008518 + 9315
+while u<m:
+  if y<e:
+   RRyzlD = 8721 + 646
+   EpEuwL = 5525 / 3747
+   wXJHhT = 36.82257677653584 / 8846
+  if k>r:
+   uxJFNZ = True
+   WAvsUz = 948.5355542328839 / 8309
+   wLkHup = 3588 / 184.91782841195032
+  if b==n:
+   RRyzlD = 8721 + 646
+   EpEuwL = 5525 / 3747
+   wXJHhT = 36.82257677653584 / 8846
+while h>b:
+  if q<d:
+   RjxgVM = 7459 * 7335
+   ooPDLV = 890.5881226852583 - 9417
+   DcPHOK = 509.7010266566679 + 127.46870346890029
+  if e==o:
+   efoOGJ = 991.3814021261718 / 330.7695086441058
+   sTNKMw = 446.15486143326615 - 8377
+   QbovmV = 9511 + 317
+  if y>u:
+   RjxgVM = 7459 * 7335
+   ooPDLV = 890.5881226852583 - 9417
+   DcPHOK = 509.7010266566679 + 127.46870346890029
+while i>w:
+  if o==i:
+   WBrxYv = 807.3314533643859 - 1282
+   Thfkli = False
+   gTmjfS = 4311 * 223.0600570365789
+  if s>u:
+   aipDOs = 9946 * 9525
+   DbSFTn = 951.4912199962413 + 3670
+   YgaDiW = 6740 + 465.6104939305697
+  if j==q:
+   WBrxYv = 807.3314533643859 - 1282
+   Thfkli = False
+   gTmjfS = 4311 * 223.0600570365789
+while p==l:
+  if t>g:
+   wgnNZr = 3690 * 9
+   bjKJnr = 599.4628038546255 + 3362
+   EosiJO = 6216 / 659.0083724216871
+  if a<q:
+   xyqwzT = 5377 * 498.02912390943965
+   eyWRNA = 403.2190548907646 / 2565
+   mQPbdE = 1923 / 747.4441312387428
+  if w<v:
+   wgnNZr = 3690 * 9
+   bjKJnr = 599.4628038546255 + 3362
+   EosiJO = 6216 / 659.0083724216871
+while n<q:
+  if p==y:
+   bzQaJf = False
+   qAiMln = 5972 + 2558
+   laniOB = 235.45043124642066 + 780.6873786754519
+  if v==u:
+   yBBGIG = 149.69973416664678 + 7462
+   MXyMiA = 5177 + 883.393941373208
+   WtNxFS = 663.3930929238566 / 4979
+  if u<h:
+   bzQaJf = False
+   qAiMln = 5972 + 2558
+   laniOB = 235.45043124642066 + 780.6873786754519
+while j>o:
+  if c==w:
+   UtrEZV = 9047 + 169.97816537722576
+   uMxCPv = False
+   ThcxWx = 6200 - 1890
+  if z<e:
+   GBwsts = 405.25747506632155 * 146.98439118403562
+   NJROHs = 5979 + 708.2460608804631
+   ptUnIx = 8756 / 7317
+  if q>a:
+   UtrEZV = 9047 + 169.97816537722576
+   uMxCPv = False
+   ThcxWx = 6200 - 1890
+while x>a:
+  if n==s:
+   EdzVpW = True
+   oyulNJ = 5470 - 197.09929138833394
+   Clfmnf = 2696 / 5858
+  if y==z:
+   dJLjwG = True
+   uUohCp = 994.6138160015082 + 420.01596237695844
+   mMzdhr = 57 * 903.8861695733519
+  if o==g:
+   EdzVpW = True
+   oyulNJ = 5470 - 197.09929138833394
+   Clfmnf = 2696 / 5858
+while h==n:
+  if t>h:
+   RmohOu = 7649 * 531.5973296812913
+   HDXWGR = 125 + 658.5205206728168
+   MaAwFF = 254.95310466851612 - 3019
+  if h<o:
+   SqtHiQ = 438.5710911070543 - 1953
+   rvCuym = 794.2404600519811 * 2193
+   DDXYhY = 4377 * 935.8522884395011
+  if g>c:
+   RmohOu = 7649 * 531.5973296812913
+   HDXWGR = 125 + 658.5205206728168
+   MaAwFF = 254.95310466851612 - 3019
+while e>h:
+  if b<e:
+   NAGLLH = 288.66053216317135 / 6132
+   BQYafn = 1324 + 106.11603940775043
+   rHBXKx = 385.54391847090164 / 429.70671053753694
+  if n>s:
+   aMCyfn = 851.4799774860189 - 158.28472323731876
+   uvWRum = 998.640775914811 * 71.78915263508915
+   gTpjOg = True
+  if h>f:
+   NAGLLH = 288.66053216317135 / 6132
+   BQYafn = 1324 + 106.11603940775043
+   rHBXKx = 385.54391847090164 / 429.70671053753694
+while p<q:
+  if f<y:
+   eClBWD = 397.4197494770135 - 8562
+   VjIXPg = True
+   MGsJoi = 521.9730663200414 / 1682
+  if h>m:
+   PlfmCt = 322.5124997911926 / 523.0821006452995
+   xDohuN = 4917 / 2124
+   NhogjG = 891.0377872966928 - 7807
+  if w==u:
+   eClBWD = 397.4197494770135 - 8562
+   VjIXPg = True
+   MGsJoi = 521.9730663200414 / 1682
+while k==z:
+  if x==h:
+   OkruEn = 3730 * 95.31209197721557
+   CwJGLm = 7460 + 545
+   LLqVJr = 118.11063204457855 - 868.4922158889777
+  if t<w:
+   OdriAl = 578.2735156762052 + 8675
+   vFkovn = 416.075280686517 * 5645
+   tvVXvC = False
+  if b<t:
+   OkruEn = 3730 * 95.31209197721557
+   CwJGLm = 7460 + 545
+   LLqVJr = 118.11063204457855 - 868.4922158889777
+while n>s:
+  if r==n:
+   PTcBCU = True
+   qTPMAp = 4110 - 4779
+   sJgeLE = 600.4167946810038 * 160.51610786169408
+  if x==l:
+   eojMqY = 2.584038887979287 - 9068
+   xWLQXb = 2589 - 2957
+   OLTBIi = True
+  if c<s:
+   PTcBCU = True
+   qTPMAp = 4110 - 4779
+   sJgeLE = 600.4167946810038 * 160.51610786169408
+while i==x:
+  if b<e:
+   VOiguh = 8273 * 381.3132608811253
+   FqXnSQ = 7362 * 8300
+   IyxIgB = 7029 + 227.08304496938652
+  if i<n:
+   GsoFWn = False
+   jJRrjh = False
+   lwuKJe = 1483 * 2638
+  if b>p:
+   VOiguh = 8273 * 381.3132608811253
+   FqXnSQ = 7362 * 8300
+   IyxIgB = 7029 + 227.08304496938652
+while m>a:
+  if j<a:
+   gpPMfI = False
+   uvoRhL = 5688 / 2174
+   ZTrrhm = 9717 + 986.1183823076562
+  if z>o:
+   wPPCpH = 321.7426462958899 - 199
+   KlhSBG = 846.415513120496 / 761.0439313184092
+   yCGKAi = 42 + 593.3016603520686
+  if k<w:
+   gpPMfI = False
+   uvoRhL = 5688 / 2174
+   ZTrrhm = 9717 + 986.1183823076562
+while y>u:
+  if b<a:
+   Idwdpk = 9061 / 592.366265907423
+   aMNCzv = 7567 * 672.47582317258
+   IQBWlL = 422.9422954764633 + 488.47485985286494
+  if n==s:
+   qkGsAa = 931.4378107399924 - 9024
+   ZXslmO = 674.9916404212896 / 738.622523791919
+   ZNinhV = 8937 * 569.075865540428
+  if h<u:
+   Idwdpk = 9061 / 592.366265907423
+   aMNCzv = 7567 * 672.47582317258
+   IQBWlL = 422.9422954764633 + 488.47485985286494
+while a==u:
+  if r>r:
+   yNEkFY = 830.9543701806167 + 372.7026081279301
+   elcmST = 925.6116744568337 / 9899
+   xEJZLa = 7457 / 3852
+  if n==q:
+   htyOXX = True
+   QcWKYK = 1537 * 52.24865639747761
+   KSIqrf = False
+  if x>w:
+   yNEkFY = 830.9543701806167 + 372.7026081279301
+   elcmST = 925.6116744568337 / 9899
+   xEJZLa = 7457 / 3852
+while s>v:
+  if e<p:
+   njaLPr = 622.8180637505124 - 5856
+   oNNtmG = 5278 - 859.1480104889322
+   zoQGnD = 5903 - 6279
+  if g==q:
+   PxQRAe = 2134 + 821.646298808602
+   UaZJkO = 150.56858019075852 / 929.9194113529261
+   sFxUMi = 4328 / 129.24116224833577
+  if h==u:
+   njaLPr = 622.8180637505124 - 5856
+   oNNtmG = 5278 - 859.1480104889322
+   zoQGnD = 5903 - 6279
+while h==w:
+  if d<c:
+   GlAHOJ = 507.2699593342079 * 4288
+   UsSpIb = 818.5740488076488 / 6630
+   oFkdlD = 369.16395325689035 - 2791
+  if g>z:
+   nPugbc = True
+   RmohOu = 7649 * 531.5973296812913
+   RfOWpd = 426.6491814429785 + 343.7764766496192
+  if j>b:
+   GlAHOJ = 507.2699593342079 * 4288
+   UsSpIb = 818.5740488076488 / 6630
+   oFkdlD = 369.16395325689035 - 2791
+while i>d:
+  if d==o:
+   AbmZJV = 844.9388890876648 * 1094
+   NkUAIO = 324.59020299835566 * 451.1970725736532
+   gSsogp = 3393 * 633.7814601264377
+  if r<z:
+   UHWssf = 756.805440070415 - 7043
+   xlJxbw = 208.58213066582425 + 3844
+   KiOQLf = 1581 - 392.4678026339124
+  if x<p:
+   AbmZJV = 844.9388890876648 * 1094
+   NkUAIO = 324.59020299835566 * 451.1970725736532
+   gSsogp = 3393 * 633.7814601264377
+while i==i:
+  if i==r:
+   FplZoF = 7965 + 74.19625069532945
+   UiCZqJ = 68.41440364692669 + 60
+   SauJEj = 121.70607491490301 / 3738
+  if k==e:
+   FyMlTD = True
+   eJwiSU = 273.79220726733234 * 6186
+   DwjJaL = 871.051065196772 / 1478
+  if b<c:
+   FplZoF = 7965 + 74.19625069532945
+   UiCZqJ = 68.41440364692669 + 60
+   SauJEj = 121.70607491490301 / 3738
+while s==o:
+  if h>c:
+   jshduh = 2052 * 131.2119056216387
+   xXmOGq = True
+   ejZWxB = 4516 - 4640
+  if x>a:
+   zNVkuw = False
+   dARbcn = 566.0081573583881 / 8622
+   YihaEO = 378.8545067627186 - 2.1844433394802003
+  if g==p:
+   jshduh = 2052 * 131.2119056216387
+   xXmOGq = True
+   ejZWxB = 4516 - 4640
+while q>p:
+  if z==s:
+   lHlwDl = 8398 * 629.5870924822672
+   vSGklE = 375.0681698309667 - 3806
+   bhZhrF = 236.82403295511926 / 4032
+  if w>q:
+   sHcQFe = 2274 + 415.82084571776704
+   rDTMDp = 3464 * 2122
+   MeAubm = 8864 * 6256
+  if d>q:
+   lHlwDl = 8398 * 629.5870924822672
+   vSGklE = 375.0681698309667 - 3806
+   bhZhrF = 236.82403295511926 / 4032
+while c>i:
+  if r<v:
+   BKPAxj = False
+   ukVETX = 289.4154796501834 + 3102
+   bTrojs = 916.1749717919955 * 526.5917101609717
+  if k==c:
+   fqNpoA = False
+   zVKklP = 896.499760040199 + 7312
+   WngNFH = 498.54801008802093 - 6607
+  if v>b:
+   BKPAxj = False
+   ukVETX = 289.4154796501834 + 3102
+   bTrojs = 916.1749717919955 * 526.5917101609717
+while p==z:
+  if j>p:
+   JphoyA = 115.73515936045665 + 8054
+   BUDvTw = True
+   RDoVMF = 920.324764537946 * 7298
+  if z<z:
+   DOUFeq = 679.3731068235818 + 734.4427436137845
+   xdvzFm = 260.00579752507724 / 2183
+   sbEGnR = 5460 - 528.5079146554369
+  if q>r:
+   JphoyA = 115.73515936045665 + 8054
+   BUDvTw = True
+   RDoVMF = 920.324764537946 * 7298
+while r>p:
+  if w<w:
+   wvPDPf = 445 - 1118
+   ARKEVW = 423.733974430918 / 49.52740357876406
+   ZPcpmA = False
+  if j>p:
+   kpixrO = 6152 / 1654
+   EoFfqq = 2494 / 39.86050485749544
+   DfvWcP = 711.3163328194586 - 704.4521943639477
+  if g<w:
+   wvPDPf = 445 - 1118
+   ARKEVW = 423.733974430918 / 49.52740357876406
+   ZPcpmA = False
+while w>v:
+  if h>k:
+   ZiEpXa = 4503 / 772.4209511830912
+   WnPqCH = 973.1284308509477 - 4158
+   GDzjph = 6165 * 813.5384866034891
+  if o==o:
+   xBbQeo = 46.515143822053204 - 402.588688382447
+   dQBdaf = 819.8767335015622 - 6982
+   lkLHSH = True
+  if r>g:
+   ZiEpXa = 4503 / 772.4209511830912
+   WnPqCH = 973.1284308509477 - 4158
+   GDzjph = 6165 * 813.5384866034891
+while k>k:
+  if c==c:
+   KrxIdI = 168.0722153293559 - 906.010950091696
+   cWcdum = 247.68355462905632 - 133.97059222906884
+   GlknPb = 866.8705524503201 / 3125
+  if t<q:
+   icYVkj = True
+   uQwfdC = 313.2310068540817 * 607
+   cQvoFt = 153.91649792107205 / 501.78992892930006
+  if s==p:
+   KrxIdI = 168.0722153293559 - 906.010950091696
+   cWcdum = 247.68355462905632 - 133.97059222906884
+   GlknPb = 866.8705524503201 / 3125
+while a==s:
+  if p==f:
+   Ixhjnj = 9954 * 9066
+   dBxBhw = 3614 * 2130
+   hjzRDp = False
+  if t<f:
+   zptcAa = 7308 * 876
+   zBdMcO = 328.6174871900079 * 1846
+   ihvJjF = True
+  if n==z:
+   Ixhjnj = 9954 * 9066
+   dBxBhw = 3614 * 2130
+   hjzRDp = False
+while u<t:
+  if v<a:
+   lwKvhg = True
+   vdoBLY = 7565 - 9012
+   UzAVMf = False
+  if v==d:
+   bDWjwx = False
+   aDerYY = 873.4831597537742 + 177
+   eypbkU = 6438 + 611.6022620279767
+  if p==v:
+   lwKvhg = True
+   vdoBLY = 7565 - 9012
+   UzAVMf = False
+while t==i:
+  if j<c:
+   lrKhVd = False
+   EMDpHt = 2143 + 315.4122546147355
+   jzfDaJ = 479.046542839705 - 976.3293276903207
+  if d>w:
+   OwqJLk = 809 / 198
+   SaHDqC = 416.12037459654147 / 5362
+   XkucrE = 1625 + 4653
+  if q<x:
+   lrKhVd = False
+   EMDpHt = 2143 + 315.4122546147355
+   jzfDaJ = 479.046542839705 - 976.3293276903207
+while a==j:
+  if k<d:
+   mxcCNq = 1927 * 6553
+   nGlMHO = False
+   RADDBZ = False
+  if t>c:
+   NUujIG = 990.11461371086 + 524
+   DpZxFH = 56.469672642407424 * 6774
+   GtcGdx = 706.3728509188303 / 1937
+  if w<h:
+   mxcCNq = 1927 * 6553
+   nGlMHO = False
+   RADDBZ = False
+while n==r:
+  if a>w:
+   SDfpvX = 1451 + 393
+   ofcABW = 592 - 707.6726064837982
+   puEDFP = 1270 * 7948
+  if y>n:
+   lWmKgI = 9227 + 8130
+   ZBgKLR = 42.92203705632602 - 2204
+   ShmoJT = 186.88298563701693 / 6957
+  if m==a:
+   SDfpvX = 1451 + 393
+   ofcABW = 592 - 707.6726064837982
+   puEDFP = 1270 * 7948
+while p>q:
+  if f<a:
+   VyjiUB = 5056 + 7426
+   CwGKiu = 5039 + 3496
+   VMolqp = 968.8703924855461 * 9612
+  if k<r:
+   dvVpfr = False
+   qgjGAy = 7939 + 830.6796089970677
+   sUIqsC = 530.050544614732 / 2772
+  if e==n:
+   VyjiUB = 5056 + 7426
+   CwGKiu = 5039 + 3496
+   VMolqp = 968.8703924855461 * 9612
+while o<x:
+  if l>i:
+   PKZIqb = 9475 - 5145
+   efrAEY = False
+   yBXeSS = 445.2795128128849 * 4620
+  if e>e:
+   ENWcSu = 713.0544541029626 * 6239
+   zCMmgG = 500.5376258890599 / 2611
+   NwszBy = 2541 / 1912
+  if v==e:
+   PKZIqb = 9475 - 5145
+   efrAEY = False
+   yBXeSS = 445.2795128128849 * 4620
+while w>e:
+  if j<h:
+   MvhWyG = True
+   RgmYXc = 1283 / 61.89196337611344
+   pTOXgJ = True
+  if h<e:
+   WKpPZS = 3778 - 674.0450304156736
+   ZUuEaJ = 404.17122004209534 - 92.46948527037347
+   PuwDGp = True
+  if c==x:
+   MvhWyG = True
+   RgmYXc = 1283 / 61.89196337611344
+   pTOXgJ = True
+while i>w:
+  if i>h:
+   HJBVSa = 2113 - 2467
+   JASkPe = 9248 + 467.3682035181411
+   Vzzczk = False
+  if y==s:
+   zDSdBh = 34.303110360546015 + 313.53639952802286
+   lZFPZs = 9649 + 264.4135700728696
+   pbpjzw = True
+  if s>w:
+   HJBVSa = 2113 - 2467
+   JASkPe = 9248 + 467.3682035181411
+   Vzzczk = False
+while b<e:
+  if y<j:
+   eUUOxv = True
+   lqBHhw = 9011 * 901.7562776174198
+   frBgcS = 7627 + 3408
+  if c>g:
+   KpTgtj = 104.6309227652168 - 446.478538742589
+   GqcVZk = 855 - 8204
+   Wvupqj = True
+  if o==w:
+   eUUOxv = True
+   lqBHhw = 9011 * 901.7562776174198
+   frBgcS = 7627 + 3408
+while n<j:
+  if m>o:
+   irYTeX = True
+   LGaZEW = 2331 / 840.3210563704729
+   KAeRHF = 5767 / 3800
+  if g==y:
+   YZOsxB = True
+   FplZoF = 7965 + 74.19625069532945
+   TnQRxN = False
+  if q<n:
+   irYTeX = True
+   LGaZEW = 2331 / 840.3210563704729
+   KAeRHF = 5767 / 3800
+while h==a:
+  if x>p:
+   rqGhna = 2323 + 109.24469297269239
+   qZZgKH = 910.15526349101 + 381.52484042577413
+   RgVMXc = True
+  if v<x:
+   pfZhhE = 2623 / 909.7707513469602
+   bmDGrg = True
+   aRsrPV = 2377 - 965.21707625318
+  if c<p:
+   rqGhna = 2323 + 109.24469297269239
+   qZZgKH = 910.15526349101 + 381.52484042577413
+   RgVMXc = True
+while t<w:
+  if f<l:
+   oJtDVK = 2261 / 239.2155054695837
+   eFLcfe = 703.6955229556874 - 892.4188621647486
+   EFeEic = 189.82162547337649 - 2037
+  if y>a:
+   psyFnR = False
+   HJKTKO = 458.5163430934691 * 1489
+   fMmxud = 467.91986097582594 + 73.91406818757098
+  if w==s:
+   oJtDVK = 2261 / 239.2155054695837
+   eFLcfe = 703.6955229556874 - 892.4188621647486
+   EFeEic = 189.82162547337649 - 2037
+while s==n:
+  if h>w:
+   TNEYCq = 192.64956504177843 - 8975
+   pXBGYS = 921.783688179909 - 365.3000076442039
+   KUaHFm = 4437 / 522.0643145478675
+  if r>f:
+   mPJseF = 283 / 317.21054044927405
+   AVAUUh = 449.84952686105675 * 1499
+   vbAhKt = 173.46699213487824 * 6908
+  if f==b:
+   TNEYCq = 192.64956504177843 - 8975
+   pXBGYS = 921.783688179909 - 365.3000076442039
+   KUaHFm = 4437 / 522.0643145478675
+while q<g:
+  if i==x:
+   BhCpue = 3800 + 682.429853091888
+   fKrqkD = 554.9453057819338 - 9779
+   GGXOWj = 6634 / 228.00121189893952
+  if x>p:
+   bZMrRP = 553.5290322209772 / 8379
+   EFiWIo = 5105 + 12.91309276436302
+   WwWDTB = 959 * 4270
+  if s>u:
+   BhCpue = 3800 + 682.429853091888
+   fKrqkD = 554.9453057819338 - 9779
+   GGXOWj = 6634 / 228.00121189893952
+while b==o:
+  if a==u:
+   nRWZai = 791.6955370284804 + 561.6561723667743
+   GDDwle = 4836 / 9072
+   hdAZqr = True
+  if o<j:
+   vjAnnH = 9077 - 8795
+   sdMnrK = 1890 - 9880
+   BYcMGg = 251.62376709010564 + 346.23050919055754
+  if n>b:
+   nRWZai = 791.6955370284804 + 561.6561723667743
+   GDDwle = 4836 / 9072
+   hdAZqr = True
+while m==g:
+  if f>x:
+   pNWreN = 394.2206493783833 - 412
+   hZZRhS = 9945 + 3328
+   YaAFrv = 4452 / 58.093823361260085
+  if i<r:
+   SyMYOG = True
+   MoKXvR = 4351 + 740.3811346263313
+   hgmRsf = 8534 * 790.1095938564843
+  if t==i:
+   pNWreN = 394.2206493783833 - 412
+   hZZRhS = 9945 + 3328
+   YaAFrv = 4452 / 58.093823361260085
+while v>w:
+  if i==o:
+   TYzAbj = 731.3342844875104 + 7139
+   WkThYe = 3045 / 9623
+   lEhKVF = 1756 - 867.2629561851378
+  if a>j:
+   cBnNEq = False
+   RAYQyh = 106.54211944454774 * 8453
+   eClLxz = 137.28876588013313 + 7209
+  if q==k:
+   TYzAbj = 731.3342844875104 + 7139
+   WkThYe = 3045 / 9623
+   lEhKVF = 1756 - 867.2629561851378
+while v>g:
+  if a<r:
+   UeNGQo = 941.9255642445612 + 7993
+   sisYhP = 26.413703922546514 - 5998
+   IYMorA = 6318 * 283.5952043581668
+  if b<k:
+   hfAgKB = 456.0462375866595 - 300.56708732687946
+   DnRVwb = 7981 * 5320
+   hQtsCO = 9483 - 3959
+  if f==b:
+   UeNGQo = 941.9255642445612 + 7993
+   sisYhP = 26.413703922546514 - 5998
+   IYMorA = 6318 * 283.5952043581668
+while d>x:
+  if i==q:
+   sXnYUg = 820 + 480.3681938808672
+   mrwxzg = 895 - 34.83553519241714
+   Hwzogv = 9643 - 592.2289712239827
+  if d<m:
+   rbLNQJ = 4633 - 9261
+   WVaucT = 5487 + 330.5224496652488
+   loHpQJ = 308 * 539.9870292897344
+  if z<a:
+   sXnYUg = 820 + 480.3681938808672
+   mrwxzg = 895 - 34.83553519241714
+   Hwzogv = 9643 - 592.2289712239827
+while a==f:
+  if l<c:
+   bzAjLb = 4966 + 821.978594122875
+   FJOufh = False
+   vFkovn = 416.075280686517 * 5645
+  if x==k:
+   GMVuKJ = 2518 / 476
+   BYnzsn = 952.1197782297862 / 3767
+   iktRtC = 5498 / 149.50762732197845
+  if f>t:
+   bzAjLb = 4966 + 821.978594122875
+   FJOufh = False
+   vFkovn = 416.075280686517 * 5645
+while c>m:
+  if t<z:
+   SMJeqF = 8305 + 156
+   hljywV = 436 - 5643
+   GeTewv = False
+  if b==w:
+   ChWmjV = 825.0697125847661 + 225
+   nxrJLR = 4475 * 9368
+   uNfAZh = 245.77358641193342 + 285.12837830266363
+  if s<r:
+   SMJeqF = 8305 + 156
+   hljywV = 436 - 5643
+   GeTewv = False
+while r==c:
+  if i==d:
+   lMPuXm = 7570 + 812.2907978301511
+   NkEJvf = 381.3580235354378 / 7131
+   ydOWpo = 408.0637152780205 + 865.8107008275375
+  if q<v:
+   mnCVnt = False
+   cEJHsq = True
+   DgTDmU = False
+  if e>m:
+   lMPuXm = 7570 + 812.2907978301511
+   NkEJvf = 381.3580235354378 / 7131
+   ydOWpo = 408.0637152780205 + 865.8107008275375
+while h==b:
+  if h<q:
+   mlXxif = 855.1203966038345 + 8206
+   HRwLaT = 7829 - 4866
+   qsxjdj = 31.152392520862495 - 601.2218766441815
+  if x>c:
+   wMTvXv = 99.61908325603761 + 4130
+   KncdfA = 2360 - 101.19217524273597
+   LMcMTR = 686.1562326672006 + 5418
+  if h>l:
+   mlXxif = 855.1203966038345 + 8206
+   HRwLaT = 7829 - 4866
+   qsxjdj = 31.152392520862495 - 601.2218766441815
+while w>g:
+  if a==z:
+   LxTyvZ = 7521 * 403.1534934896945
+   mipwVs = 6822 - 738
+   qobQyn = 431.38828718737216 - 8651
+  if f==z:
+   yaQwMQ = 57.38657663265705 - 592.6421393824487
+   sYVCBR = 49 + 286.77149882376716
+   oxqdYS = 417.71321397904137 * 3062
+  if e==j:
+   LxTyvZ = 7521 * 403.1534934896945
+   mipwVs = 6822 - 738
+   qobQyn = 431.38828718737216 - 8651
+while t<a:
+  if z>o:
+   vmZyfQ = 900.0925914849038 / 928.8463090033677
+   gYCVZx = 824.0337819286377 * 644.9204455080846
+   zZuwlz = 291.2166714230357 + 5364
+  if k>u:
+   cougxN = False
+   vjUddz = 279.345620393815 - 880.5898376017994
+   GxyfhF = 760.5492750046292 + 136.90786137918218
+  if d>m:
+   vmZyfQ = 900.0925914849038 / 928.8463090033677
+   gYCVZx = 824.0337819286377 * 644.9204455080846
+   zZuwlz = 291.2166714230357 + 5364
+while f==q:
+  if p<q:
+   rSgFGW = 7755 * 738.2875077888053
+   ghzvkk = 308.41533406744026 - 566.4739812939422
+   tvlNhw = 1051 + 9892
+  if q<t:
+   nFiATd = False
+   MvOzXD = 2121 / 7835
+   jubikd = 5333 * 783
+  if b<z:
+   rSgFGW = 7755 * 738.2875077888053
+   ghzvkk = 308.41533406744026 - 566.4739812939422
+   tvlNhw = 1051 + 9892
+while m<d:
+  if j==c:
+   HBhRYv = 350.668415410156 * 5564
+   PzbftY = True
+   rqTKLj = 349.7642337333541 / 423.9124369064836
+  if y==u:
+   nQjcWF = False
+   xzEUOs = 682.089936962048 / 9476
+   JFehAf = 91.43576111186235 * 8563
+  if z<b:
+   HBhRYv = 350.668415410156 * 5564
+   PzbftY = True
+   rqTKLj = 349.7642337333541 / 423.9124369064836
+while j<a:
+  if t>z:
+   qAPBFi = 877.8104940500104 - 2099
+   VkMySS = 7549 / 7072
+   aiUYdQ = True
+  if z<c:
+   IJAuxZ = 6267 * 9544
+   McWfDI = 1627 / 790.0881139009032
+   mjzHLP = False
+  if g==r:
+   qAPBFi = 877.8104940500104 - 2099
+   VkMySS = 7549 / 7072
+   aiUYdQ = True
+while n<p:
+  if a<j:
+   TOABiP = 348.61016802264993 - 657.3878804940897
+   QpmBOj = 411.7643184122672 - 1382
+   BzqqiB = 861.5363075333435 - 6245
+  if l<x:
+   cyWmVm = 229.46062612775617 * 81.5929747091525
+   PXZGkC = 3950 / 6380
+   qESenn = 181.3975438588309 + 8678
+  if v<c:
+   TOABiP = 348.61016802264993 - 657.3878804940897
+   QpmBOj = 411.7643184122672 - 1382
+   BzqqiB = 861.5363075333435 - 6245
+while h==w:
+  if i<d:
+   vnHErn = False
+   XGnMsI = 649.1499836049549 - 3606
+   UmXwfP = 9349 + 726.2074993601015
+  if i<e:
+   UoqUYH = 1022 - 2352
+   fMmxud = 467.91986097582594 + 73.91406818757098
+   BWAlks = 5477 - 57.87368553824647
+  if s<t:
+   vnHErn = False
+   XGnMsI = 649.1499836049549 - 3606
+   UmXwfP = 9349 + 726.2074993601015
+while h==q:
+  if o==e:
+   TkNCMq = 8573 / 655.8512901949337
+   hnDlzC = 2781 - 684.2877503560504
+   WtNxFS = 663.3930929238566 / 4979
+  if n>m:
+   DCPcGK = False
+   GyjoRR = 126.37273285496458 / 967.7373925666717
+   WOLCev = 599.1375028931828 * 652.8384644259244
+  if l<f:
+   TkNCMq = 8573 / 655.8512901949337
+   hnDlzC = 2781 - 684.2877503560504
+   WtNxFS = 663.3930929238566 / 4979
+while b==e:
+  if s<n:
+   MdXGne = True
+   writOG = 7252 + 628.7934532225812
+   RLHiaL = True
+  if e>h:
+   KHFoNi = 894.0736753464184 * 137.5744132139953
+   aqakBp = 3031 / 592.1165936071964
+   uEHJpK = 783.4823791605518 + 9590
+  if u<p:
+   MdXGne = True
+   writOG = 7252 + 628.7934532225812
+   RLHiaL = True
+while h==r:
+  if c<n:
+   ZZNwzK = True
+   pWmBEU = 7781 * 300.0847627196675
+   CEPacg = True
+  if a<r:
+   arlMMz = 863.9760441594233 * 3527
+   qhgGGm = 5183 - 659.9127102517164
+   ulfJsT = 603.5673861319176 + 760.9452752287277
+  if y>g:
+   ZZNwzK = True
+   pWmBEU = 7781 * 300.0847627196675
+   CEPacg = True
+while o<y:
+  if i<u:
+   uYtsie = 148.58145699235106 * 572
+   mPXGPn = True
+   EFoXId = 4660 + 803.8813513056134
+  if z>w:
+   HkEORS = 2135 - 481.6261767170088
+   GTFinx = 661.072773296616 / 760.4759826147297
+   RZPWfj = 6078 * 667.7469166710064
+  if f==m:
+   uYtsie = 148.58145699235106 * 572
+   mPXGPn = True
+   EFoXId = 4660 + 803.8813513056134
+while o>k:
+  if p==e:
+   WoVwkm = 278.1275170078837 * 841.918993411664
+   vRxcjO = False
+   vnoMFF = 168.2427736394811 * 748.1226977659869
+  if s>s:
+   qcLiRN = 1582 * 6614
+   QUfPOH = 599.3309268041986 - 3667
+   GQmtJp = 821.831320088458 - 6292
+  if w>v:
+   WoVwkm = 278.1275170078837 * 841.918993411664
+   vRxcjO = False
+   vnoMFF = 168.2427736394811 * 748.1226977659869
+while k==g:
+  if a>d:
+   iunBGW = 3596 / 9816
+   IiEEWL = 24 / 2291
+   zdAIcc = 484.27629914240777 + 401.42508085443046
+  if h>w:
+   Vpuwzn = 544.982375578979 * 696.6736742579031
+   zYGcly = 1149 + 783.7191882121206
+   yBapLL = 4066 * 1472
+  if c==e:
+   iunBGW = 3596 / 9816
+   IiEEWL = 24 / 2291
+   zdAIcc = 484.27629914240777 + 401.42508085443046
+while x>v:
+  if c<e:
+   qTxCTQ = 6657 + 396.56905966214885
+   WyRuoV = 136.9649801229627 / 7630
+   rTMonL = 9572 + 1448
+  if w>p:
+   umXfBe = False
+   wWafDq = 8342 * 651.8629830107323
+   ZZUkkg = 4527 + 5001
+  if n==d:
+   qTxCTQ = 6657 + 396.56905966214885
+   WyRuoV = 136.9649801229627 / 7630
+   rTMonL = 9572 + 1448
+while c>u:
+  if u<h:
+   oKZjVE = 8045 / 614.4690423211537
+   dqJRbG = False
+   VdRtjr = 5974 + 2631
+  if u>v:
+   EFiOEi = False
+   iPXMpE = 6481 / 78.64916080042964
+   pxbtrT = 3596 + 791.493137418119
+  if y>t:
+   oKZjVE = 8045 / 614.4690423211537
+   dqJRbG = False
+   VdRtjr = 5974 + 2631
+while o>k:
+  if o<m:
+   aeGmKm = 1328 - 371.81940296698343
+   cZpcmI = 382.62709547161734 / 519.8098972982714
+   RNcihJ = 5049 - 924.2475336319446
+  if z>a:
+   UeNGQo = 941.9255642445612 + 7993
+   lhVwPx = 744.4295120530663 / 958
+   BKYIlV = 2051 / 1829
+  if q<n:
+   aeGmKm = 1328 - 371.81940296698343
+   cZpcmI = 382.62709547161734 / 519.8098972982714
+   RNcihJ = 5049 - 924.2475336319446

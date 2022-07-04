@@ -1,0 +1,62 @@
+{
+    "ALLOCATION": {
+        "(module (expression_statement (assignment left: (identifier) right: (integer))))": "name = value",
+        "(program (local_variable_declaration type: (integral_type) declarator: (variable_declarator name: (identifier) value: (decimal_integer_literal))))": "type name = value;",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (number_literal))))": "type name = value;"
+    },
+    "add_short": {
+        "(module (expression_statement (augmented_assignment left: (identifier) right: (integer))))": "name += value",
+        "(program (expression_statement (update_expression (identifier))))": "nameoperator;",
+        "(translation_unit (expression_statement (update_expression argument: (identifier))))": "nameoperator;"
+    },
+    "sub_short": {
+        "(module (expression_statement (augmented_assignment left: (identifier) right: (integer))))": "name -= value",
+        "(program (expression_statement (update_expression (identifier))))": "nameoperator;",
+        "(translation_unit (expression_statement (update_expression argument: (identifier))))": "nameoperator;"
+    },
+    "1": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (identifier) right: (integer)))))": "name = name operator value\n",
+        "(program (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (identifier) right: (decimal_integer_literal)))))": "name = name operator value;\n",
+        "(translation_unit (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (identifier) right: (number_literal)))))": "name = name operator value;\n"
+    },
+    "2": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (identifier) right: (integer)))))": "name = name operator value\n",
+        "(program (local_variable_declaration type: (integral_type) declarator: (variable_declarator name: (identifier) value: (binary_expression left: (identifier) right: (decimal_integer_literal)))))": "type name = name operator value;\n",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (binary_expression left: (identifier) right: (number_literal)))))": "type name = name operator value;\n"
+    },
+    "3": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (identifier) right: (identifier)))))": "name = name operator name\n",
+        "(program (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (identifier) right: (identifier)))))": "name = name operator name;\n",
+        "(translation_unit (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (identifier) right: (identifier)))))": "name = name operator name;\n"
+    },
+    "4": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (identifier) right: (identifier)))))": "name = name operator name\n",
+        "(program (local_variable_declaration type: (integral_type) declarator: (variable_declarator name: (identifier) value: (binary_expression left: (identifier) right: (identifier)))))": "type name = name operator name;\n",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (binary_expression left: (identifier) right: (identifier)))))": "type name = name operator name;\n"
+    },
+    "5": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (integer) right: (integer)))))": "name = value operator value\n",
+        "(program (local_variable_declaration type: (integral_type) declarator: (variable_declarator name: (identifier) value: (binary_expression left: (decimal_integer_literal) right: (decimal_integer_literal)))))": "type name = value operator value;\n",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (binary_expression left: (number_literal) right: (number_literal)))))": "type name = value operator value;\n"
+    },
+    "6": {
+        "(module (expression_statement (assignment left: (identifier) right: (binary_operator left: (integer) right: (integer)))))": "name = value operator value\n",
+        "(program (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (decimal_integer_literal) right: (decimal_integer_literal)))))": "name = value operator value;\n",
+        "(translation_unit (expression_statement (assignment_expression left: (identifier) right: (binary_expression left: (number_literal) right: (number_literal)))))": "name = value operator value;\n"
+    },
+    "7": {
+        "(module (expression_statement (assignment left: (identifier) right: (true))))": "name = value\n",
+        "(program (local_variable_declaration type: (boolean_type) declarator: (variable_declarator name: (identifier) value: (true))))": "type name = value;\n",
+        "(translation_unit (declaration type: (primitive_type) declarator: (init_declarator declarator: (identifier) value: (true))))": "type name = value;\n"
+    },
+    "8": {
+        "(module (expression_statement (unary_operator argument: (identifier))))": "operatorname\n",
+        "(program (expression_statement (assignment_expression left: (identifier) right: (unary_expression operand: (identifier)))))": "name = operatorname;\n",
+        "(translation_unit (expression_statement (assignment_expression left: (identifier) right: (unary_expression argument: (identifier)))))": "name = operatorname;\n"
+    },
+    "9": {
+        "(module (expression_statement (binary_operator left: (identifier) right: (identifier))))": "name operator name\n",
+        "(program (expression_statement (binary_expression left: (identifier) right: (identifier))))": "name operator name;\n",
+        "(translation_unit (expression_statement (binary_expression left: (identifier) right: (identifier))))": "name operator name;\n"
+    }
+}
