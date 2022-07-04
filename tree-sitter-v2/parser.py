@@ -240,7 +240,7 @@ class RuleSet:
     def translate(self, file_name, language):
         """translate given input file"""
         translations = []
-        with open("data/"+file_name, 'r+',  encoding="utf8") as file:
+        with open(file_name, 'r+',  encoding="utf8") as file:
             code_lines = file.readlines()
 
         j = -1 # tracking code blocks like if_statements

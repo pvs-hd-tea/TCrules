@@ -85,7 +85,7 @@ if __name__ == "__main__":
 
         file_name = re.sub(r"([\w,-]*)(\.[a-z]*)", r"\1", source_file)
 
-        ground_truth_files = ["data/" + file_name + type for type in [".cpp",".java",".py"]]
+        ground_truth_files = [file_name + type for type in [".cpp",".java",".py"]]
         translation_files = ["data/translations/translation_"+file_name+"_from_"+input_language.lower()+type for type in [".cpp",".java",".py"]]
 
         translate(source_file, input_language, file_name)
