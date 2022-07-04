@@ -14,27 +14,18 @@ logging.getLogger().setLevel(logging.ERROR)
 
 rule_set = parser.RuleSet()
 
-def translate(input_file, language):
+def translate(input_file, language, input_file_name):
     """translate the given input code and store the translations in separate files"""
     translations = rule_set.translate(input_file, language)
 
-    with open("data/translations/translations.cpp", "a+", encoding="utf8") as file:
-        file.truncate(0)
-        file.seek(0)
-        for code_line in translations:
-            file.write(code_line[0])
+    file_end = [".cpp", ".java", ".py"]
 
-    with open("data/translations/translations.java", "a+", encoding="utf8") as file:
-        file.truncate(0)
-        file.seek(0)
-        for code_line in translations:
-            file.write(code_line[1])
-
-    with open("data/translations/translations.py", "a+", encoding="utf8") as file:
-        file.truncate(0)
-        file.seek(0)
-        for code_line in translations:
-            file.write(code_line[2])
+    for i in range(3):
+        with open("data/translations/translation_"+input_file_name+"_from_"+language.lower()+file_end[i], "a+", encoding="utf8") as file:
+            file.truncate(0)
+            file.seek(0)
+            for code_line in translations:
+                file.write(code_line[i])
 
 
 def evaluate_translations(ground_truth, translations):
@@ -92,10 +83,10 @@ if __name__ == "__main__":
         input_language = process.extractOne(input_language,
                     [parser.CPP, parser.JAVA, parser.PYTHON], scorer=fuzz.ratio)[0]
 
-        file_name = re.sub(r"([\w,-]*\.)([a-z]*)", r"\1", source_file)
+        file_name = re.sub(r"([\w,-]*)(\.[a-z]*)", r"\1", source_file)
 
-        ground_truth_files = ["data/" + file_name + type for type in ["cpp","java","py"]]
-        translation_files = ["data/translations/translations." + type for type in ["cpp","java","py"]]
+        ground_truth_files = ["data/" + file_name + type for type in [".cpp",".java",".py"]]
+        translation_files = ["data/translations/translation_"+file_name+"_from_"+input_language.lower()+type for type in [".cpp",".java",".py"]]
 
-        translate(source_file, input_language)
+        translate(source_file, input_language, file_name)
         evaluate_translations(ground_truth_files, translation_files)
