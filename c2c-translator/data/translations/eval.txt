@@ -1,0 +1,144 @@
+2022/07/04
+
+
+Source: data/test_files/test.cpp
+Translation: data/translations/translation_test_from_java.cpp
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test.java
+Translation: data/translations/translation_test_from_java.java
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test.py
+Translation: data/translations/translation_test_from_java.py
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test.cpp
+Translation: data/translations/translation_test_from_cpp.cpp
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test.java
+Translation: data/translations/translation_test_from_cpp.java
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test.py
+Translation: data/translations/translation_test_from_cpp.py
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test.cpp
+Translation: data/translations/translation_test_from_python.cpp
+Precision: 80.95238095238095
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test.java
+Translation: data/translations/translation_test_from_python.java
+Precision: 80.95238095238095
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test.py
+Translation: data/translations/translation_test_from_python.py
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test_blocks.cpp
+Translation: data/translations/translation_test_blocks_from_java.cpp
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test_blocks.java
+Translation: data/translations/translation_test_blocks_from_java.java
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test_blocks.py
+Translation: data/translations/translation_test_blocks_from_java.py
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test_blocks.cpp
+Translation: data/translations/translation_test_blocks_from_cpp.cpp
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test_blocks.java
+Translation: data/translations/translation_test_blocks_from_cpp.java
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test_blocks.py
+Translation: data/translations/translation_test_blocks_from_cpp.py
+Precision: 100.0
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test_blocks.cpp
+Translation: data/translations/translation_test_blocks_from_python.cpp
+Precision: 94.11764705882352
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test_blocks.java
+Translation: data/translations/translation_test_blocks_from_python.java
+Precision: 94.11764705882352
+________________________________________
+
+2022/07/04
+
+
+Source: data/test_files/test_blocks.py
+Translation: data/translations/translation_test_blocks_from_python.py
+Precision: 100.0
+________________________________________
+

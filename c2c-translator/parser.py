@@ -12,17 +12,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    [
-      '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-      '/Users/jonas/Documents/GitHub/tree-sitter-java',
-      '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    ]
+    #[
+    #  '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+    #  '/Users/jonas/Documents/GitHub/tree-sitter-java',
+    #  '/Users/jonas/Documents/GitHub/tree-sitter-python'
+    #]
     # Vivian
-    # [
-    #     '/home/vivi/src/tree-sitter-python',
-    #     '/home/vivi/src/tree-sitter-java',
-    #     '/home/vivi/src/tree-sitter-cpp'
-    # ]
+    [
+        '/home/vivi/src/tree-sitter-python',
+        '/home/vivi/src/tree-sitter-java',
+        '/home/vivi/src/tree-sitter-cpp'
+    ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -261,8 +261,13 @@ class RuleSet:
                 best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
                 if best_match[-1] == 100:
                     flag = False
+                    index = 0
+                    if language == JAVA:
+                        index = 1
+                    elif language == PYTHON:
+                        index = 2
                     for entry in self.rules[best_match[0]]:
-                        if self.create_generic_expression(line, language.lower()) in entry:
+                        if self.create_generic_expression(line, language.lower()) == entry[index]:
                             translations.append(self.transform(entry, line))
                             flag = True
                             break
@@ -282,9 +287,16 @@ class RuleSet:
         if keyword not in ["MISSING", "ERROR"]:
             best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
             if best_match[-1] == 100:
-                for entry in self.rules[best_match[0]]:
-                    if fuzz.token_set_ratio(self.create_generic_expression(code_input, language.lower()), entry) == 100:
-                        return self.transform(entry, code_input), False
+                index = 0
+                if language == JAVA:
+                    index = 1
+                elif language == PYTHON:
+                    index = 2
+                
+                entry_match = process.extractOne(self.create_generic_expression(code_input, language.lower()), {k: entry[index] for k, entry in enumerate(self.rules[best_match[0]])}, scorer=fuzz.ratio)
+                if entry_match[1] != 100:
+                    print(f"The closest matching rule for {code_input} hasn't ratio 100 -> {best_match[0]}: {entry_match}")
+                return self.transform(self.rules[best_match[0]][entry_match[-1]], code_input), False
             return None, False
         return None, True
 
@@ -296,14 +308,13 @@ class RuleSet:
         for i, entry in enumerate(generic_expressions):
             if language in [CPP,JAVA]:
                 condition = re.findall(r'\(([^()]*)\) \{', statement)
-
                 if len(condition) > 1:
                     temp = statement
 
                     # for cases with blocks in block
                     while re.findall(r'(\{([^{}]*)})', temp):
                         block_in_block.append(re.findall(r'(\{([^{}]*)})', temp)[0][0])
-                        temp = temp.replace(re.findall(r'(\{([^{}]*)})', temp)[0][0], "")
+                        temp = temp.replace(re.findall(r'(\{([^{}]*)})', temp)[0][0], "", 1)
 
                     block = block_in_block[-1].split("\n") # first block
                     block_in_block.remove(block_in_block[-1]) # subblocks in order

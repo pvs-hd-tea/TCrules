@@ -44,22 +44,33 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
     correct = 0 # count correct translations
     i = 0 # track relevant lines
 
-    for line_source in lines_source:
-        if line_source != "\n": # non-empty line
-            if i < len(lines_translation) and line_source == lines_translation[i]:
-                correct += 1
-            i += 1
+    if len(lines_source) >= len(lines_translation):
+        for j,line_source in enumerate(lines_source):
+            if line_source.lstrip() != "": # non-empty line
+                if i < len(lines_translation) and line_source.rstrip() == lines_translation[i].rstrip():
+                    correct += 1
+                elif i < len(lines_translation) and not write_eval_in_file:
+                    print(f"wrong translation: {i,lines_translation[i]} of source: {j,line_source}")
+                i += 1
+    else:
+        for j, line_translation in enumerate(lines_translation):
+            if line_translation.lstrip() != "": # non-empty line
+                if i < len(lines_source) and line_translation.rstrip() == lines_source[i].rstrip():
+                    correct += 1
+                elif i < len(lines_source) and not write_eval_in_file:
+                    print(f"wrong translation: {j,line_translation} of source: {i, lines_source[i]}")
+                i += 1
 
     precision = correct / total_lines
     if write_eval_in_file:
         with open("data/translations/eval.txt", "a+", encoding="utf8") as evaluation:
             evaluation.write(datetime.datetime.now().strftime("%Y/%m/%d")+"\n\n")
-            evaluation.write("Source: " + input_file + "\nTranslation: " + translation_file + "\n")
+            evaluation.write("\nSource: " + input_file + "\nTranslation: " + translation_file + "\n")
             evaluation.write("Precision: " + str(precision*100) + "\n")
             evaluation.write("________________________________________\n\n")
     else:
-        print("\nSource: " + input_file + "\nTranslation: " + translation_file)
-        print("Precision: " + str(precision*100))
+        print(f"Source: {input_file} \nTranslation: {translation_file}")
+        print(f"Precision: {precision*100}\n")
 
 
 
@@ -77,7 +88,7 @@ if __name__ == "__main__":
     output_language = arguments.outputlanguage
 
     if input_language == output_language:
-        print("Input Language and output language are the same!")
+        print(f"Input Language and output language are the same!: {input_language}")
 
     else:
         input_language = process.extractOne(input_language,
@@ -85,8 +96,8 @@ if __name__ == "__main__":
 
         file_name = re.sub(r"([\w,-]*)(\.[a-z]*)", r"\1", source_file)
 
-        ground_truth_files = [file_name + type for type in [".cpp",".java",".py"]]
-        translation_files = ["data/translations/translation_"+file_name+"_from_"+input_language.lower()+type for type in [".cpp",".java",".py"]]
+        ground_truth_files = ["data/test_files/" + file_name + type for type in [".cpp",".java",".py"]]
+        translation_files = ["data/translations/translation_" + file_name + "_from_" + input_language.lower() + type for type in [".cpp",".java",".py"]]
 
-        translate(source_file, input_language, file_name)
+        translate("data/test_files/" + source_file, input_language, file_name)
         evaluate_translations(ground_truth_files, translation_files)
