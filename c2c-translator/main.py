@@ -3,7 +3,6 @@ import parser
 import logging
 import re
 
-from nbformat import write
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 from argparse import ArgumentParser
@@ -72,7 +71,8 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
         print(f"Source: {input_file} \nTranslation: {translation_file}")
         print(f"Precision: {precision*100}\n")
 
-
+def big_eval():
+    pass
 
 if __name__ == "__main__":
 

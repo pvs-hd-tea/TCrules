@@ -16,8 +16,8 @@ true_false = ["true", "false"]
 
 
 def create_python_dataset():
-    with open('python_assignment_dataset.py', 'w') as f:
-        for i in range(1, 10000):
+    with open('../../test_files/python_assignment_dataset.py', 'w') as f:
+        for i in range(1, 100):
             random_name = ''.join(random.choices(
                 string.ascii_uppercase + string.ascii_lowercase, k=6))
             random_operator = random.choice(operators)
@@ -34,8 +34,8 @@ def create_python_dataset():
 
 
 def create_java_dataset():
-    with open('java_assignment_dataset.java', 'w') as f:
-        for i in range(1, 10000):
+    with open('../../test_files/java_assignment_dataset.java', 'w') as f:
+        for i in range(1, 100):
             random_name = ''.join(random.choices(
                 string.ascii_uppercase + string.ascii_lowercase, k=6))
             random_operator = random.choice(operators)
@@ -58,8 +58,8 @@ def create_java_dataset():
 
 
 def create_cpp_dataset():
-    with open('cpp_assignment_dataset.cpp', 'w') as f:
-        for i in range(1, 10000):
+    with open('../../test_files/cpp_assignment_dataset.cpp', 'w') as f:
+        for i in range(1, 100):
             random_name = ''.join(random.choices(
                 string.ascii_uppercase + string.ascii_lowercase, k=6))
             random_operator = random.choice(operators)

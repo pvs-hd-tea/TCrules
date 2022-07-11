@@ -1,27 +1,16 @@
 import parser
+from argparse import ArgumentParser
 
 rule_set = parser.RuleSet()
+arg_parser = ArgumentParser()
 
-TRANSLATE_FLAG = False
+arg_parser = ArgumentParser()
+arg_parser.add_argument("-f", "--file", type=str,
+                            help="input file to be translated", metavar="FILE", required=True)
+arg_parser.add_argument("-i", "--inputlanguage", choices=["CPP","JAVA","PYTHON"], required=True)
 
-if TRANSLATE_FLAG:
-    translations = rule_set.translate("data/test_files/test.cpp", parser.CPP)
-    print(f"\ntranslate from {parser.CPP} ({len(translations)})\n")
-    for code_line in translations:
-        print(code_line)
+arguments = arg_parser.parse_args()
+source_file = arguments.file
+input_language = arguments.inputlanguage
 
-    translations = rule_set.translate("data/test_files/test.java", parser.JAVA)
-    print(f"\ntranslate from {parser.JAVA} ({len(translations)})\n")
-    for code_line in translations:
-        print(code_line)
-
-    translations = rule_set.translate("data/test_files/test.py", parser.PYTHON)
-    print(f"\ntranslate from {parser.PYTHON} ({len(translations)})\n")
-    for code_line in translations:
-        print(code_line)
-
-else:
-    rule_set.derive_rules(parser.files)
-    rule_set.save_rules()
-
-rule_set.save_keywords()
+translation = rule_set.translate(source_file,input_language)
