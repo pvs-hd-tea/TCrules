@@ -12,17 +12,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    #[
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-java',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    #]
-    # Vivian
     [
-       '/home/vivi/src/tree-sitter-python',
-       '/home/vivi/src/tree-sitter-java',
-       '/home/vivi/src/tree-sitter-cpp'
+        '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+        '/Users/jonas/Documents/GitHub/tree-sitter-java',
+        '/Users/jonas/Documents/GitHub/tree-sitter-python'
     ]
+    # Vivian
+    # [
+    #  '/home/vivi/src/tree-sitter-python',
+    # '/home/vivi/src/tree-sitter-java',
+    # '/home/vivi/src/tree-sitter-cpp'
+    # ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -36,7 +36,8 @@ CPP = "CPP"
 types = ["int", "float", "double", "boolean", "bool"]
 
 operators = [["==", "!=", ">=", "<=", ">", "<"],  # comparison
-             ["++", "+=", "+", "--", "-=", "-", "//", "/=", "/", "%=", "%", "**", "*=", "*"],
+             ["++", "+=", "+", "--", "-=", "-", "//",
+                 "/=", "/", "%=", "%", "**", "*=", "*"],
              # arithmetic and assignment
              ["&&", "||", "!", "and", "or", "not"],  # logical
              ["is not", "is"],  # identity
@@ -75,7 +76,8 @@ class RuleSet:
         else:
             with open("tree-keywords.txt", encoding="utf8") as file:
                 self.tree_keywords = file.read().split(",")
-                print(f"Loading {len(self.tree_keywords)} keywords for parse tree ... Done ...")
+                print(
+                    f"Loading {len(self.tree_keywords)} keywords for parse tree ... Done ...")
 
     def save_rules(self):
         """store derived rules in json format"""
@@ -134,11 +136,13 @@ class RuleSet:
         values = extract_value(code)
         if values:
             for value in values:
-                generic_code = generic_code.replace(value[0], "value", value[1])
+                generic_code = generic_code.replace(
+                    value[0], "value", value[1])
 
         variable_type = extract_type(code)
         if variable_type:
-            generic_code = re.sub(rf"\b{variable_type}\b", "type", generic_code)
+            generic_code = re.sub(
+                rf"\b{variable_type}\b", "type", generic_code)
 
         operators = extract_operator(code)
         if operators:
@@ -200,7 +204,8 @@ class RuleSet:
         for line_cpp in lines_cpp:
             tree_sexp, tree = create_parse_tree(line_cpp, CPP)
             if self.check_for_keyword(tree_sexp, tree) == keyword:
-                generic_statements.append(create_generic_statement(lines_cpp, line_cpp, CPP)[0])
+                generic_statements.append(
+                    create_generic_statement(lines_cpp, line_cpp, CPP)[0])
 
         # JAVA
         with open(jv_file, 'r+', encoding="utf8") as java:
@@ -208,7 +213,8 @@ class RuleSet:
         for line_jv in lines_jv:
             tree_sexp, tree = create_parse_tree(line_jv, JAVA)
             if self.check_for_keyword(tree_sexp, tree) == keyword:
-                generic_statements.append(create_generic_statement(lines_jv, line_jv, JAVA)[0])
+                generic_statements.append(
+                    create_generic_statement(lines_jv, line_jv, JAVA)[0])
 
         # PYTHON
         with open(py_file, 'r+', encoding="utf8") as python:
@@ -216,7 +222,8 @@ class RuleSet:
         for line_py in lines_py:
             tree_sexp, tree = create_parse_tree(line_py, PYTHON)
             if self.check_for_keyword(tree_sexp, tree) == keyword:
-                generic_statements.append(create_generic_statement(lines_py, line_py, PYTHON)[0])
+                generic_statements.append(
+                    create_generic_statement(lines_py, line_py, PYTHON)[0])
 
         return generic_statements
 
@@ -226,11 +233,12 @@ class RuleSet:
             with open("data/parallel_corpus/" + file + ".py", 'r', encoding="utf8") as python, open(
                     "data/parallel_corpus/" + file + ".java", 'r', encoding="utf8") as java, open(
                     "data/parallel_corpus/" + file + ".cpp", "r", encoding="utf8") as cpp:
-                for line_py, line_jv, line_cpp in zip(python, java, cpp):  # lines should match
+                # lines should match
+                for line_py, line_jv, line_cpp in zip(python, java, cpp):
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
 
-                    if keyword in ["if_statement", "while_statement"]:
+                    if keyword in ["if_statement", "while_statement", "function_definition"]:
                         if keyword not in self.rules.keys():
                             self.rules.update({keyword: [
                                 self.determine_statement(keyword, "data/parallel_corpus/" + file + ".cpp",
@@ -238,20 +246,28 @@ class RuleSet:
                                                          "data/parallel_corpus/" + file + ".py")]})
 
                     elif keyword and keyword != "ERROR":
-                        best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
+                        best_match = process.extractOne(
+                            keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
                         if not best_match or best_match[-1] != 100:
                             self.add_rule(line_cpp, line_jv, line_py, keyword)
                         else:
-                            self.extend_rule(line_cpp, line_jv, line_py, best_match[0])
+                            self.extend_rule(
+                                line_cpp, line_jv, line_py, best_match[0])
 
-                        tree_sexp_py, tree_py = create_parse_tree(line_py, PYTHON)  # since sometimes differ
-                        keyword_py = self.check_for_keyword(tree_sexp_py, tree_py)
+                        tree_sexp_py, tree_py = create_parse_tree(
+                            line_py, PYTHON)  # since sometimes differ
+                        keyword_py = self.check_for_keyword(
+                            tree_sexp_py, tree_py)
                         if keyword_py and keyword_py != "ERROR" and fuzz.partial_ratio(keyword_py, keyword) != 100:
-                            best_match_py = process.extractOne(keyword_py, self.rules.keys(), scorer=fuzz.partial_ratio)
+                            best_match_py = process.extractOne(
+                                keyword_py, self.rules.keys(), scorer=fuzz.partial_ratio)
                             if not best_match_py or best_match_py[-1] != 100:
-                                self.add_rule(line_cpp, line_jv, line_py, keyword_py)
+                                self.add_rule(line_cpp, line_jv,
+                                              line_py, keyword_py)
                             else:
-                                self.extend_rule(line_cpp, line_jv, line_py, best_match_py[0])
+                                self.extend_rule(
+                                    line_cpp, line_jv, line_py, best_match_py[0])
+    
 
     def translate(self, file_name, language):
         """translate given input file"""
@@ -262,14 +278,15 @@ class RuleSet:
         j = -1  # tracking code blocks like if_statements
 
         for i, line in enumerate(code_lines):
-            #print("line",line)
+            # print("line",line)
             if j >= i:
                 continue
 
             tree_sexp, tree = create_parse_tree(line, language)
             keyword = self.check_for_keyword(tree_sexp, tree)
-            if keyword in ["if_statement", "while_statement"] and keyword in self.rules.keys():
-                generic_statement, statement, j, else_index = create_generic_statement(code_lines, line, language)
+            if keyword in ["if_statement", "while_statement", "function_definition"] and keyword in self.rules.keys():
+                generic_statement, statement, j, else_index = create_generic_statement(
+                    code_lines, line, language)
                 #print("gen expr",generic_statement)
 
                 index = 0
@@ -278,14 +295,17 @@ class RuleSet:
                 elif language == PYTHON:
                     index = 2
                 entry_match = process.extractOne(generic_statement,
-                                                 {k: entry[index] for k, entry in enumerate(self.rules[keyword])},
+                                                 {k: entry[index] for k, entry in enumerate(
+                                                     self.rules[keyword])},
                                                  scorer=fuzz.ratio)
 
                 if entry_match[1] == 100:
-                    translations.append(self.transform_statement(self.rules[keyword][entry_match[-1]], statement, language, else_index))
+                    translations.append(self.transform_statement(
+                        self.rules[keyword][entry_match[-1]], statement, language, else_index))
 
             elif keyword and keyword not in ["ERROR"]:
-                best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
+                best_match = process.extractOne(
+                    keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
                 if best_match[-1] == 100:
                     flag = False
                     index = 0
@@ -308,7 +328,8 @@ class RuleSet:
                             pass
 
                 else:
-                    print(f"No appropriate rule for {keyword} was found in the database...do you want to add it? y/n")
+                    print(
+                        f"No appropriate rule for {keyword} was found in the database...do you want to add it? y/n")
                     answer = input()
                     if answer == "y":
                         self.user_input(keyword)
@@ -323,7 +344,8 @@ class RuleSet:
         keyword = self.check_for_keyword(tree_sexp, tree, single_line=True)
 
         if keyword not in ["MISSING", "ERROR"]:
-            best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
+            best_match = process.extractOne(
+                keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
             if best_match[-1] == 100:
                 index = 0
                 if language == JAVA:
@@ -332,10 +354,12 @@ class RuleSet:
                     index = 2
 
                 entry_match = process.extractOne(self.create_generic_expression(code_input, language.lower()),
-                                                 {k: entry[index] for k, entry in enumerate(self.rules[best_match[0]])},
+                                                 {k: entry[index] for k, entry in enumerate(
+                                                     self.rules[best_match[0]])},
                                                  scorer=fuzz.ratio)
                 if entry_match[1] != 100:
-                    print(f"The closest matching rule for {code_input} hasn't ratio 100 -> {best_match[0]}: {entry_match}")
+                    print(
+                        f"The closest matching rule for {code_input} hasn't ratio 100 -> {best_match[0]}: {entry_match}")
 
                 return self.transform(self.rules[best_match[0]][entry_match[-1]], code_input), False
             return None, False
@@ -355,20 +379,25 @@ class RuleSet:
 
                     # for cases with blocks in block
                     while re.findall(r'(\{([^{}]*)})', temp):
-                        block_in_block.append(re.findall(r'(\{([^{}]*)})', temp)[0][0])
-                        temp = temp.replace(re.findall(r'(\{([^{}]*)})', temp)[0][0], "", 1)
+                        block_in_block.append(re.findall(
+                            r'(\{([^{}]*)})', temp)[0][0])
+                        temp = temp.replace(re.findall(
+                            r'(\{([^{}]*)})', temp)[0][0], "", 1)
 
                     block = block_in_block[-1].split("\n")  # first block
-                    block_in_block.remove(block_in_block[-1])  # subblocks in order
+                    # subblocks in order
+                    block_in_block.remove(block_in_block[-1])
 
                     condition = condition[0]
 
                 elif condition:
                     condition = condition[0]
-                    block = re.findall(r'\{([^}]+)\}', statement)[0].split("\n")
-                
+                    block = re.findall(
+                        r'\{([^}]+)\}', statement)[0].split("\n")
+
                 if else_index:
-                    else_block = re.findall(r'} else \{([^}]+)\}', statement)[0].split("\n")
+                    else_block = re.findall(
+                        r'} else \{([^}]+)\}', statement)[0].split("\n")
 
             else:  # PYTHON
                 condition = re.findall('([if|while]+ (.*):)', statement)
@@ -376,22 +405,27 @@ class RuleSet:
                 if len(condition) > 1:
                     # for cases with blocks in block
                     for j in range(1, len(condition) + 1):
-                        pot_block = statement[statement.index(condition[-j][0]):].split("\n")[1:]
-                        indent = (len(pot_block[0]) - len(pot_block[0].lstrip()))
+                        pot_block = statement[statement.index(
+                            condition[-j][0]):].split("\n")[1:]
+                        indent = (len(pot_block[0]) -
+                                  len(pot_block[0].lstrip()))
                         extend_blocks = ['']
                         for line in pot_block:
                             if (len(line) - len(line.lstrip())) == indent:
                                 if "while" in line or "if" in line:
-                                    extend_blocks[-1] = extend_blocks[-1] + str(line[:-1]) + "\n"
+                                    extend_blocks[-1] = extend_blocks[-1] + \
+                                        str(line[:-1]) + "\n"
                                 else:
-                                    extend_blocks[-1] = extend_blocks[-1] + str(line) + "\n"
+                                    extend_blocks[-1] = extend_blocks[-1] + \
+                                        str(line) + "\n"
                             elif (len(line) - len(line.lstrip())) < indent:
                                 break
                         block_in_block.extend(extend_blocks)
 
                     block = block_in_block[-1].split("\n")
                     block_in_block.remove(block_in_block[-1])
-                    block_in_block = block_in_block[::-1]  # reverse -> subblocks in order
+                    # reverse -> subblocks in order
+                    block_in_block = block_in_block[::-1]
 
                     condition = condition[0][1]
 
@@ -399,59 +433,73 @@ class RuleSet:
                     condition = condition[0][1]
                     block = statement[statement.index(":") + 1:].split("\n")
                     if any("else" in line for line in block):
-                        block = block[:["else" in line for line in block].index(True)] # consider only block before else
+                        # consider only block before else
+                        block = block[:[
+                            "else" in line for line in block].index(True)]
 
                 if else_index:
-                    else_block = statement[statement.index(":") + 1:].split("\n")
+                    else_block = statement[statement.index(
+                        ":") + 1:].split("\n")
                     if any("else" in line for line in else_block):
-                        else_block = else_block[["else" in line for line in else_block].index(True)+1:] # consider only block in else
-            
+                        else_block = else_block[["else" in line for line in else_block].index(
+                            True)+1:]  # consider only block in else
+
             block = [item + "\n" for item in block if textwrap.dedent(item)]
-            
+
             if else_index:
-                else_block = [item + "\n" for item in else_block if textwrap.dedent(item)]
-            
+                else_block = [
+                    item + "\n" for item in else_block if textwrap.dedent(item)]
+
             entry = entry.replace("@", condition, 1)
 
             # translate the block via rules
             if "@" in entry:
                 for line in block:
-                    translated_line, missing_flag = self.translate_line(line, language)
+                    translated_line, missing_flag = self.translate_line(
+                        line, language)
                     if missing_flag and len(line) > 2:
-                        
+
                         if language in [CPP, JAVA]:
-                            line = line[:-1] + block_in_block[0].split("\n")[0] + line[-1]
+                            line = line[:-1] + \
+                                block_in_block[0].split("\n")[0] + line[-1]
                             lines = [line]
-                            lines.extend([b + "\n" for b in block_in_block[0].split("\n")[1:]])
-                        
+                            lines.extend(
+                                [b + "\n" for b in block_in_block[0].split("\n")[1:]])
+
                         else:  # PYTHON
                             line = line[:-1] + ":" + line[-1]
                             lines = [line]
-                            lines.extend([b + "\n" for b in block_in_block[0].split("\n")])
+                            lines.extend(
+                                [b + "\n" for b in block_in_block[0].split("\n")])
 
                         block_in_block.remove(block_in_block[0])
 
                         tree_sexp, tree = create_parse_tree(line, language)
                         keyword = self.check_for_keyword(tree_sexp, tree)
 
-                        generic_statement, block_statement, _, _ = create_generic_statement(lines, line, language)
+                        generic_statement, block_statement, _, _ = create_generic_statement(
+                            lines, line, language)
 
                         if fuzz.token_set_ratio(generic_statement, self.rules[keyword][0]) == 100:
                             block_translations = self.transform_statement(self.rules[keyword][0], block_statement,
                                                                           language)
 
                             for block_line in block_translations[i].split("\n"):
-                                entry = re.sub('@', block_line + "\n" + "    @", entry, 1)
+                                entry = re.sub(
+                                    '@', block_line + "\n" + "    @", entry, 1)
 
                     elif translated_line:
-                        entry = re.sub('@', translated_line[i] + "    @", entry, 1)
-                
+                        entry = re.sub(
+                            '@', translated_line[i] + "    @", entry, 1)
+
                 entry = re.sub('\n    @', '', entry, 1)
 
                 if else_index:
                     for line in else_block:
-                        translated_line, missing_flag = self.translate_line(line, language)
-                        entry = re.sub('@', translated_line[i] + "    @", entry, 1)
+                        translated_line, missing_flag = self.translate_line(
+                            line, language)
+                        entry = re.sub(
+                            '@', translated_line[i] + "    @", entry, 1)
 
             entry = re.sub('\n    @', '', entry)
 
@@ -459,30 +507,26 @@ class RuleSet:
 
         return translations
 
-    def transform(self, generic_expressions, code):
-        """transform generic expressions for single line using the input code line"""
-        translations = []
 
-        tokens = code.split()
-        keywords = []
-        tokens_to_replace = []
+    def keywords(self, tokens_to_replace, keywords, i):
+        for index, token in enumerate(tokens_to_replace):
+            if i == 0 and token != keywords[index]["cpp"]:
+                updated_input = re.sub(
+                    token, keywords[index]["cpp"], updated_input)
+            elif i == 1 and token != keywords[index]["java"]:
+                updated_input = re.sub(
+                    token, keywords[index]["java"], updated_input)
+            elif token != keywords[index]["python"]:
+                updated_input = re.sub(
+                    token, keywords[index]["python"], updated_input)
+        return updated_input
 
-        for token in tokens:
-            best_match = process.extractOne(token, self.keywords.keys(), scorer=fuzz.ratio)
-            if best_match[-1] >= 70:
-                keywords.append(self.keywords[best_match[0]])
-                tokens_to_replace.append(token)
+    def transform_detail(self, generic_expressions, code, translations, keywords, tokens_to_replace):
 
         for i, entry in enumerate(generic_expressions):
             updated_input = code
             if keywords:
-                for index, token in enumerate(tokens_to_replace):
-                    if i == 0 and token != keywords[index]["cpp"]:
-                        updated_input = re.sub(token, keywords[index]["cpp"], updated_input)
-                    elif i == 1 and token != keywords[index]["java"]:
-                        updated_input = re.sub(token, keywords[index]["java"], updated_input)
-                    elif token != keywords[index]["python"]:
-                        updated_input = re.sub(token, keywords[index]["python"], updated_input)
+                updated_input = self.keywords(tokens_to_replace, keywords, i)
 
             values = extract_value(updated_input)
             if values:
@@ -492,9 +536,11 @@ class RuleSet:
             in_keywords, names = extract_name(self, updated_input)
             if in_keywords:
                 if "@" in entry:
-                    string_argument = re.findall(r'\(([^\()]*)\)', code)  # print argument in java and python
+                    # print argument in java and python
+                    string_argument = re.findall(r'\(([^\()]*)\)', code)
                     if not string_argument:
-                        string_argument = re.findall('<<([^<]*);', code)  # print argument in cpp
+                        string_argument = re.findall(
+                            '<<([^<]*);', code)  # print argument in cpp
                     for string in string_argument:
                         entry = re.sub('@', string + "@", entry)
                     entry = re.sub('@', '', entry)
@@ -507,14 +553,18 @@ class RuleSet:
 
             type = extract_type(updated_input)
             if type == "bool":
-                best_match = process.extractOne("bool", self.keywords.keys(), scorer=fuzz.ratio)
+                best_match = process.extractOne(
+                    "bool", self.keywords.keys(), scorer=fuzz.ratio)
                 if best_match[-1] >= 70:
                     if i == 0:
-                        entry = re.sub("type", self.keywords[best_match[0]]["cpp"], entry)
+                        entry = re.sub(
+                            "type", self.keywords[best_match[0]]["cpp"], entry)
                     elif i == 1:
-                        entry = re.sub("type", self.keywords[best_match[0]]["java"], entry)
+                        entry = re.sub(
+                            "type", self.keywords[best_match[0]]["java"], entry)
                     else:
-                        entry = re.sub("type", self.keywords[best_match[0]]["python"], entry)
+                        entry = re.sub(
+                            "type", self.keywords[best_match[0]]["python"], entry)
             elif type:
                 entry = entry.replace("type", type)
 
@@ -528,6 +578,22 @@ class RuleSet:
         return translations
 
 
+    def transform(self, generic_expressions, code):
+        """transform generic expressions for single line using the input code line"""
+        translations = []
+
+        tokens = code.split()
+        keywords = []
+        tokens_to_replace = []
+
+        for token in tokens:
+            best_match = process.extractOne(
+                token, self.keywords.keys(), scorer=fuzz.ratio)
+            if best_match[-1] >= 70:
+                keywords.append(self.keywords[best_match[0]])
+                tokens_to_replace.append(token)
+        
+        return self.transform_detail(generic_expressions, code, translations, keywords, tokens_to_replace)
 
 
 def create_parse_tree(input_code, input_language):
@@ -551,38 +617,14 @@ def create_generic_statement(lines, line, language=JAVA):
 
     # CPP and JAVA
     if language in [CPP, JAVA]:
-        statement += lines[j]
-
-        while "MISSING" in create_parse_tree(statement, language)[0] or "ERROR" in \
-                create_parse_tree(statement, language)[0] or (j+1 < len(lines) and "else" in lines[j+1]):
-            j += 1
-            statement += lines[j]  # completing
-            if "else" in lines[j]:
-                else_index = j
-
-        gen_statement = line
-
-        if else_index:
-            gen_statement += (len(lines[j - 1]) - len(lines[j - 1].lstrip())) * " " + "@\n" + lines[else_index]
-
-        gen_statement += (len(lines[j - 1]) - len(lines[j - 1].lstrip())) * " " + "@\n" + lines[j]
-
-        gen_statement = re.sub(r'if \(([^"]*)\)', 'if (@)', gen_statement)
-        gen_statement = re.sub(r'while \(([^"]*)\)', 'while (@)', gen_statement)
-
-        block = re.findall(r'(\{([^{}]*)})', statement)
-        temp = statement
-        # for cases with block in block
-        while re.findall(r'(\{([^{}]*)})', temp):
-            block = re.findall(r'(\{([^{}]*)})', temp)
-            temp = temp.replace(re.findall(r'(\{([^{}]*)})', temp)[0][0], "")
-
-        block = block[0][-1].split("\n")
-        block = [entry for entry in [textwrap.dedent(item) for item in block if item] if entry]
-
-        return gen_statement, statement, j + 1 + i, else_index
+        return create_generic_statement_cpp_java(i, lines, line, statement, j, else_index, language)
 
     # PYTHON
+
+    return create_generic_statement_python(i, lines, line, statement, j, else_index, language)
+
+
+def create_generic_statement_python(i, lines, line, statement, j, else_index, language):
     while (j < len(lines) and lines[j] != "\n" and len(lines[j]) - len(lines[j].lstrip()) != 0) or (j < len(lines) and "else" in lines[j]):  # indent
         statement += lines[j]  # completing
         if "else" in lines[j]:
@@ -597,12 +639,47 @@ def create_generic_statement(lines, line, language=JAVA):
     if else_index:
         gen_statement += lines[else_index]
         gen_statement += lines[else_index + 1]
-        gen_statement = gen_statement.replace(textwrap.dedent(lines[else_index + 1]), '@\n')
+        gen_statement = gen_statement.replace(
+            textwrap.dedent(lines[else_index + 1]), '@\n')
 
     gen_statement = re.sub('if (.*):', 'if @:', gen_statement)
     gen_statement = re.sub('while (.*):', 'while @:', gen_statement)
 
     return gen_statement, statement, j + i, else_index
+
+
+def create_generic_statement_cpp_java(i, lines, line, statement, j, else_index, language):
+    statement += lines[j]
+    while "MISSING" in create_parse_tree(statement, language)[0] or "ERROR" in create_parse_tree(statement, language)[0] or (j+1 < len(lines) and "else" in lines[j+1]):
+        j += 1
+        statement += lines[j]  # completing
+        if "else" in lines[j]:
+            else_index = j
+
+    gen_statement = line
+
+    if else_index:
+        gen_statement += (len(lines[j - 1]) - len(lines[j -
+                          1].lstrip())) * " " + "@\n" + lines[else_index]
+
+    gen_statement += (len(lines[j - 1]) -
+                      len(lines[j - 1].lstrip())) * " " + "@\n" + lines[j]
+
+    gen_statement = re.sub(r'if \(([^"]*)\)', 'if (@)', gen_statement)
+    gen_statement = re.sub(r'while \(([^"]*)\)', 'while (@)', gen_statement)
+
+    block = re.findall(r'(\{([^{}]*)})', statement)
+    temp = statement
+    # for cases with block in block
+    while re.findall(r'(\{([^{}]*)})', temp):
+        block = re.findall(r'(\{([^{}]*)})', temp)
+        temp = temp.replace(re.findall(r'(\{([^{}]*)})', temp)[0][0], "")
+
+    block = block[0][-1].split("\n")
+    block = [entry for entry in [textwrap.dedent(
+        item) for item in block if item] if entry]
+
+    return gen_statement, statement, j + 1 + i, else_index
 
 
 def extract_type(input_string):
@@ -651,7 +728,8 @@ def extract_value(input_string):
 def extract_name(self, input_string):
     """return variable names from given input"""
     string = re.sub('true|false|True|False', '', input_string)
-    string = re.sub(r'\(([^\()]*)\)', '@', string)  # print argument in java and python
+    # print argument in java and python
+    string = re.sub(r'\(([^\()]*)\)', '@', string)
     string = re.sub('<<([^<]*);', '@', string)  # print argument in cpp
     tokens = string.split()
     for token in tokens:
@@ -661,7 +739,8 @@ def extract_name(self, input_string):
             if token in op_list:
                 tokens.remove(token)
     string = " ".join(tokens)
-    best_match = process.extractOne(string, self.keywords.keys(), scorer=fuzz.token_set_ratio)
+    best_match = process.extractOne(
+        string, self.keywords.keys(), scorer=fuzz.token_set_ratio)
     if best_match[-1] >= 45:
         return True, best_match[0]
 

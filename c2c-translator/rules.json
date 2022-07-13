@@ -101,5 +101,11 @@
             "while (@) {\n    @\n}\n",
             "while @:\n    @\n"
         ]
+    ],
+    "function_definition": [
+        "public type name(@) {\n    @\n}\n",
+        "type name(@) {\n    @\n}\n",
+        "def name(@):\n   @\n"
     ]
+
 }
