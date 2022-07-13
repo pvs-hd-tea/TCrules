@@ -12,17 +12,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    [
-        '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-        '/Users/jonas/Documents/GitHub/tree-sitter-java',
-        '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    ]
+    #[
+    #    '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+    #    '/Users/jonas/Documents/GitHub/tree-sitter-java',
+    #    '/Users/jonas/Documents/GitHub/tree-sitter-python'
+    #]
     # Vivian
-    # [
-    #    '/home/vivi/src/tree-sitter-python',
-    #   '/home/vivi/src/tree-sitter-java',
-    #  '/home/vivi/src/tree-sitter-cpp'
-    # ]
+    [
+       '/home/vivi/src/tree-sitter-python',
+       '/home/vivi/src/tree-sitter-java',
+       '/home/vivi/src/tree-sitter-cpp'
+    ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -174,28 +174,21 @@ class RuleSet:
             self.rules.update({key: [[generic_cpp, generic_jv, generic_py]]})
 
     def user_input(self, keyword=None):
-        if keyword not in self.rules.keys():
-            print("Please enter your code below")
-            print("Please try to consider newlines and indents for better accuracy in translations")
-            print("CPP:")
-            cpp = input()
-            print("JAVA:")
-            java = input()
-            print("PYTHON:")
-            python = input()
-            print("Rule will be added...")
-            self.add_rule(cpp, java, python, keyword)
-        else:
-            print("Please enter your code below")
-            print("Please try to consider newlines and indents for better accuracy in translations")
-            print("CPP:")
-            cpp = input()
-            print("JAVA:")
-            java = input()
-            print("PYTHON:")
-            python = input()
-            print("Rule will be added...")
+        print("Please enter your code below")
+        print("Please try to consider newlines and indents for better accuracy in translations")
+        print("CPP:")
+        cpp = input()
+        print("JAVA:")
+        java = input()
+        print("PYTHON:")
+        python = input()
+
+        if keyword in self.rules.keys():
             self.extend_rule(cpp, java, python, keyword)
+        else:
+            self.add_rule(cpp, java, python, keyword)
+
+        print("Rule is successfully added...")
 
     def determine_statement(self, keyword, cpp_file, jv_file, py_file):
         """determine if_statement or while_statement in the tree-sitter parse tree"""

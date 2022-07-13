@@ -101,3 +101,5 @@ if __name__ == "__main__":
 
         translate("data/test_files/" + source_file, input_language, file_name)
         evaluate_translations(ground_truth_files, translation_files)
+
+        rule_set.save_rule() # since user may add/extend rules
