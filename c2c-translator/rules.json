@@ -88,6 +88,11 @@
             "if (@) {\n    @\n}\n",
             "if (@) {\n    @\n}\n",
             "if @:\n    @\n"
+        ],
+        [
+            "if (@) {\n    @\n} else {\n    @\n}\n",
+            "if (@) {\n    @\n} else {\n    @\n}\n",
+            "if @:\n    @\nelse:\n    @\n"
         ]
     ],
     "while_statement": [
