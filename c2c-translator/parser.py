@@ -267,16 +267,10 @@ class RuleSet:
                             else:
                                 self.extend_rule(
                                     line_cpp, line_jv, line_py, best_match_py[0])
-    
+                                    
 
-    def translate(self, file_name, language):
-        """translate given input file"""
-        translations = []
-        with open(file_name, 'r+', encoding="utf8") as file:
-            code_lines = file.readlines()
-
-        j = -1  # tracking code blocks like if_statements
-
+    def translate_detail(self, code_lines, language, translations):
+        j = -1 
         for i, line in enumerate(code_lines):
             # print("line",line)
             if j >= i:
@@ -335,6 +329,14 @@ class RuleSet:
                         self.user_input(keyword)
                     else:
                         pass
+
+    def translate(self, file_name, language):
+        """translate given input file"""
+        translations = []
+        with open(file_name, 'r+', encoding="utf8") as file:
+            code_lines = file.readlines()
+
+        translations = self.translate_detail(code_lines, language, translations)
 
         return translations
 
@@ -507,8 +509,7 @@ class RuleSet:
 
         return translations
 
-
-    def keywords(self, tokens_to_replace, keywords, i):
+    def _keywords_(self, tokens_to_replace, keywords, i):
         for index, token in enumerate(tokens_to_replace):
             if i == 0 and token != keywords[index]["cpp"]:
                 updated_input = re.sub(
@@ -526,7 +527,7 @@ class RuleSet:
         for i, entry in enumerate(generic_expressions):
             updated_input = code
             if keywords:
-                updated_input = self.keywords(tokens_to_replace, keywords, i)
+                updated_input = self._keywords_(tokens_to_replace, keywords, i)
 
             values = extract_value(updated_input)
             if values:
@@ -577,7 +578,6 @@ class RuleSet:
 
         return translations
 
-
     def transform(self, generic_expressions, code):
         """transform generic expressions for single line using the input code line"""
         translations = []
@@ -592,7 +592,7 @@ class RuleSet:
             if best_match[-1] >= 70:
                 keywords.append(self.keywords[best_match[0]])
                 tokens_to_replace.append(token)
-        
+
         return self.transform_detail(generic_expressions, code, translations, keywords, tokens_to_replace)
 
 
@@ -620,7 +620,6 @@ def create_generic_statement(lines, line, language=JAVA):
         return create_generic_statement_cpp_java(i, lines, line, statement, j, else_index, language)
 
     # PYTHON
-
     return create_generic_statement_python(i, lines, line, statement, j, else_index, language)
 
 
