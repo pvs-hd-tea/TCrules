@@ -194,36 +194,39 @@ class RuleSet:
 
         print("Rule is successfully added...")
 
+    def add_entries(self, new_data, data_one, data_two, data_three):
+        for entry in data_one:
+            new_data.append(entry)
+
+        for entry in data_two:
+            new_data.append(entry)
+
+        for entry in data_three:
+            new_data.append(entry)
+
+        return new_data
+
+    def open_files(self, generic_statements, file, language, keyword):
+        name = language.lower()
+        with open(file, 'r+', encoding="utf8") as name:
+            lines = name.readlines()
+        for line in lines:
+            tree_sexp, tree = create_parse_tree(line, language)
+            if self.check_for_keyword(tree_sexp, tree) == keyword:
+                generic_statements.append(
+                    create_generic_statement(lines, line, language)[0])
+        return generic_statements
+
     def determine_statement(self, keyword, cpp_file, jv_file, py_file):
         """determine if_statement or while_statement in the tree-sitter parse tree"""
         generic_statements = []
 
-        # CPP
-        with open(cpp_file, 'r+', encoding="utf8") as cpp:
-            lines_cpp = cpp.readlines()
-        for line_cpp in lines_cpp:
-            tree_sexp, tree = create_parse_tree(line_cpp, CPP)
-            if self.check_for_keyword(tree_sexp, tree) == keyword:
-                generic_statements.append(
-                    create_generic_statement(lines_cpp, line_cpp, CPP)[0])
+        gen_cpp = self.open_files(generic_statements, cpp_file, CPP, keyword)
+        gen_jv = self.open_files(generic_statements, jv_file, JAVA, keyword)
+        gen_py = self.open_files(generic_statements, py_file, PYTHON, keyword)
 
-        # JAVA
-        with open(jv_file, 'r+', encoding="utf8") as java:
-            lines_jv = java.readlines()
-        for line_jv in lines_jv:
-            tree_sexp, tree = create_parse_tree(line_jv, JAVA)
-            if self.check_for_keyword(tree_sexp, tree) == keyword:
-                generic_statements.append(
-                    create_generic_statement(lines_jv, line_jv, JAVA)[0])
-
-        # PYTHON
-        with open(py_file, 'r+', encoding="utf8") as python:
-            lines_py = python.readlines()
-        for line_py in lines_py:
-            tree_sexp, tree = create_parse_tree(line_py, PYTHON)
-            if self.check_for_keyword(tree_sexp, tree) == keyword:
-                generic_statements.append(
-                    create_generic_statement(lines_py, line_py, PYTHON)[0])
+        generic_statements = self.add_entries(
+            generic_statements, gen_cpp, gen_jv, gen_py)
 
         return generic_statements
 
@@ -267,10 +270,9 @@ class RuleSet:
                             else:
                                 self.extend_rule(
                                     line_cpp, line_jv, line_py, best_match_py[0])
-                                    
 
     def translate_detail(self, code_lines, language, translations):
-        j = -1 
+        j = -1
         for i, line in enumerate(code_lines):
             # print("line",line)
             if j >= i:
@@ -336,7 +338,8 @@ class RuleSet:
         with open(file_name, 'r+', encoding="utf8") as file:
             code_lines = file.readlines()
 
-        translations = self.translate_detail(code_lines, language, translations)
+        translations = self.translate_detail(
+            code_lines, language, translations)
 
         return translations
 
