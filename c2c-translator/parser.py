@@ -44,7 +44,9 @@ operators = [["==", "!=", ">=", "<=", ">", "<"],  # comparison
              ["not in", "in"]  # membership
              ]
 
-files = ["simple", "if", "while"]  # parallel corpus
+files = ["simple", "if", "while","break","for", "if-else","if-var", "op", "sum_two_num"]  # parallel corpus
+
+
 
 # Create Parsers for the three languages
 parser_py = Parser()
@@ -331,6 +333,7 @@ class RuleSet:
                         self.user_input(keyword)
                     else:
                         pass
+        return translations
 
     def translate(self, file_name, language):
         """translate given input file"""

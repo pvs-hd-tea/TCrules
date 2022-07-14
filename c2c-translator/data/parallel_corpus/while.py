@@ -1,5 +1,4 @@
-j = 1
-while j < 5:
-    print(j)
-    j = j + 1
-
+count = 0
+while count < 5:
+    print(count)
+    count += 1

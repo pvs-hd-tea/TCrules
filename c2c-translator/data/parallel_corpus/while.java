@@ -1,5 +1,9 @@
-int j = 0;
-while (j < 5) {
-    System.out.println(j);
-    j = j + 1;
-}
+public class Main {
+    public static void main(String[] args) {
+      int count = 0;
+      while (count < 5) {
+        System.out.println(count);
+        count += 1;
+      }  
+    }
+  }
