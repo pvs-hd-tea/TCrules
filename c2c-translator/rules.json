@@ -21,6 +21,11 @@
             "name = value operator value\n"
         ],
         [
+            "type name = 'name';\n",
+            "type name = 'name';\n",
+            "name = 'name'\n"
+        ],
+        [
             "&&",
             "System.out.println(@);\n",
             "print(@)\n"
@@ -36,6 +41,11 @@
             "name = value;\n",
             "name = value;\n",
             "name = value\n"
+        ],
+        [
+            "type name = 'name';\n",
+            "type name = 'name';\n",
+            "name = 'name'\n"
         ],
         [
             "name = name operator value;\n",

@@ -49,6 +49,11 @@
         "java": "boolean",
         "python": ""
     },
+    "stringString": {
+        "cpp": "string",
+        "java": "String",
+        "python": ""
+    },
     "stdcoutprintln": {
         "cpp": "std::cout<<@;\n",
         "java": "System.out.println(@);\n",
