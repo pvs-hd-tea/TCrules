@@ -29,7 +29,6 @@ def translate(input_file, language, input_file_name, return_translations=False):
     if return_translations:
         return translations
 
-
 def evaluate_translations(ground_truth, translations):
     """call evaluation on the given ground truth and translation"""
     for source, translation in zip(ground_truth, translations):
@@ -75,14 +74,38 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
         print(f"Precision: {precision*100}\n")
 
 
+def big_eval(source_file,input_language):
+    translation = rule_set.translate(source_file, input_language)
+    with open("translation" + input_language + "to" + "JAVA.java") as jv, open("translation" + input_language + "to" + "CPP.cpp") as cpp,open("translation" + input_language + "to" + "PYTHON.py") as py:
+        for code_line in translation:
+            cpp.write(code_line[0])
+            jv.write(code_line[1])
+            py.write(code_line[2])
+        translation_two = rule_set.translate(cpp, "CPP")
+    with open("backtranslation" + input_language + "to" + "JAVA.java") as jv, open("backtranslation" + input_language + "to" + "CPP.cpp") as cpp,open("backtranslation" + input_language + "to" + "PYTHON.py") as py:
+        for code_line in translation_two:
+            cpp.write(code_line[0])
+            jv.write(code_line[1])
+            py.write(code_line[2])
+        
+
+        
+    
+
+      
+    
+
+
+
 if __name__ == "__main__":
 
     arg_parser = ArgumentParser()
-    arg_parser.add_argument("-f", "--file", type=str, help="input file to be translated", metavar="FILE", required=True)
+    arg_parser.add_argument("-f", "--file", type=str,
+                            help="input file to be translated", metavar="FILE", required=True)
     arg_parser.add_argument("-i", "--inputlanguage", choices=["CPP","JAVA","PYTHON"], required=True)
     arg_parser.add_argument("-o", "--outputlanguage", choices=["CPP","JAVA","PYTHON"], required=False)
     arg_parser.add_argument("-p","--parallel",type=bool,required=False)
-    arg_parser.add_argument("-c","--customeval", required=False)
+    arg_parser.add_argument("-c","--customeval", type=bool, required=False)
 
 
     arguments = arg_parser.parse_args()
@@ -96,7 +119,8 @@ if __name__ == "__main__":
         print(f"Input Language and output language are the same!: {input_language}")
 
     if parallel:
-        input_language = process.extractOne(input_language, [parser.CPP, parser.JAVA, parser.PYTHON], scorer=fuzz.ratio)[0]
+        input_language = process.extractOne(input_language,
+                    [parser.CPP, parser.JAVA, parser.PYTHON], scorer=fuzz.ratio)[0]
 
         file_name = re.sub(r"([\w,-]*)(\.[a-z]*)", r"\1", source_file)
 
@@ -108,5 +132,18 @@ if __name__ == "__main__":
 
         rule_set.save_rules() # since user may add/extend rules
 
-    #if customeval:
-    #    translations_test_file = translate("data/test_files/" + source_file, input_language, file_name, True)
+    if customeval:
+        big_eval(source_file,input_language)
+        evaluate_translations(source_file, "backtranslation" + input_language + "to" + "CPP.cpp")
+        evaluate_translations(source_file, "backtranslation" + input_language + "to" + "JAVA.java")
+        evaluate_translations(source_file, "backtranslation" + input_language + "to" + "PYTHON.py")
+        
+
+
+
+
+
+
+                
+        
+

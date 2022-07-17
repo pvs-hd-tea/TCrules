@@ -44,7 +44,7 @@ operators = [["==", "!=", ">=", "<=", ">", "<"],  # comparison
              ["not in", "in"]  # membership
              ]
 
-files = ["simple", "if", "while","break","for"]#, "ifelse","ifvar", "op", "sum_two_num"]  # parallel corpus
+files = ["simple", "if", "while","for"]#,"break","for", "ifelse","ifvar", "op", "sum_two_num"]  # parallel corpus
 
 
 
