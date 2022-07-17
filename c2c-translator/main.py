@@ -71,8 +71,6 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
         print(f"Source: {input_file} \nTranslation: {translation_file}")
         print(f"Precision: {precision*100}\n")
 
-def big_eval():
-    pass
 
 if __name__ == "__main__":
 
@@ -81,16 +79,21 @@ if __name__ == "__main__":
                             help="input file to be translated", metavar="FILE", required=True)
     arg_parser.add_argument("-i", "--inputlanguage", choices=["CPP","JAVA","PYTHON"], required=True)
     arg_parser.add_argument("-o", "--outputlanguage", choices=["CPP","JAVA","PYTHON"], required=False)
+    arg_parser.add_argument("-p","--parallel",type=bool,required=False)
+    arg_parser.add_argument("-c","--customeval", required=False)
+
 
     arguments = arg_parser.parse_args()
     source_file = arguments.file
     input_language = arguments.inputlanguage
     output_language = arguments.outputlanguage
+    parallel = arguments.parallel
+    customeval = arguments.customeval
 
     if input_language == output_language:
         print(f"Input Language and output language are the same!: {input_language}")
 
-    else:
+    if parallel:
         input_language = process.extractOne(input_language,
                     [parser.CPP, parser.JAVA, parser.PYTHON], scorer=fuzz.ratio)[0]
 
@@ -103,3 +106,8 @@ if __name__ == "__main__":
         evaluate_translations(ground_truth_files, translation_files)
 
         rule_set.save_rules() # since user may add/extend rules
+
+    if customeval:
+        translation = translate("data/test_files/" + source_file, input_language, file_name)
+        
+

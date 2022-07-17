@@ -26,14 +26,9 @@
             "name = 'name'\n"
         ],
         [
-            "&&",
-            "System.out.println(@);\n",
-            "print(@)\n"
-        ],
-        [
-            "&&",
-            "        type name = value;\n",
-            "print(@)\n"
+            "string",
+            "  type name = 'name';\n",
+            "        name = 'name'\n"
         ]
     ],
     "expression_statement": [
@@ -93,14 +88,19 @@
             "name operator name\n"
         ],
         [
-            "std::cout<<@;\n",
-            "System.out.println(@);\n",
-            "print(@)\n"
-        ],
-        [
             "name = name operator name operator name;\n",
             "name = name operator name operator name;\n",
             "name = name operator name operator name\n"
+        ],
+        [
+            "string",
+            "  type name = 'name';\n",
+            "        name = 'name'\n"
+        ],
+        [
+            "std::cout<<@;\n",
+            "System.out.println(@);\n",
+            "print(@)\n"
         ]
     ],
     "if_statement": [
@@ -124,7 +124,7 @@
     ],
     "function_definition": [
         [
-            "public static type name(@) {\n    @\n}\n",
+            "type type type name(@) {\n    @\n}\n",
             "type name(@) {\n    @\n}\n",
             "def name(@):\n   @\n"
         ]
@@ -140,7 +140,7 @@
         [
             "for (@) {\n    @\n}\n",
             "for (@) {\n    @\n}\n",
-            "for name in range(@): \n    @\n "
+            "for name in range(value): \n    @\n "
         ],
         [
             "for",
@@ -163,6 +163,85 @@
             "return name;\n",
             "return name;\n",
             "return name\n"
+        ]
+    ],
+    "class_definition": [
+        [
+            "type name {\n    @\n};\n",
+            "type type name {\n    @\n}\n",
+            "type name: \n   @\n"
+        ],
+        [
+            "while",
+            "while",
+            "while"
+        ],
+        [
+            "type name{\n",
+            "public type name {\n",
+            "type name:\n"
+        ],
+        [
+            "for",
+            "public type name{\n",
+            "for"
+        ],
+        [
+            "else {",
+            "else",
+            "else"
+        ],
+        [
+            "if (@) {\n    @\n}\n",
+            "else if",
+            "if @:\n    @"
+        ],
+        [
+            "||",
+            "public type name{\n",
+            "or"
+        ],
+        [
+            "type Sum_two_num{\n",
+            "public type Sum_two_num{\n",
+            "type Sum_two_num:\n"
+        ]
+    ],
+    "class_declaration": [
+        [
+            "while",
+            "while",
+            "while"
+        ],
+        [
+            "type name{\n",
+            "public type name {\n",
+            "type name:\n"
+        ],
+        [
+            "for",
+            "public type name{\n",
+            "for"
+        ],
+        [
+            "else {",
+            "else",
+            "else"
+        ],
+        [
+            "if (@) {\n    @\n}\n",
+            "else if",
+            "if @:\n    @"
+        ],
+        [
+            "||",
+            "public type name{\n",
+            "or"
+        ],
+        [
+            "type Sum_two_num{\n",
+            "public type Sum_two_num{\n",
+            "type Sum_two_num:\n"
         ]
     ]
 }

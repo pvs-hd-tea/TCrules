@@ -12,17 +12,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    #[
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-java',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    #]
-    # Vivian
     [
-        '/home/vivi/src/tree-sitter-python',
-        '/home/vivi/src/tree-sitter-java',
-        '/home/vivi/src/tree-sitter-cpp'
+       '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+       '/Users/jonas/Documents/GitHub/tree-sitter-java',
+       '/Users/jonas/Documents/GitHub/tree-sitter-python'
     ]
+    # Vivian
+    # [
+    #     '/home/vivi/src/tree-sitter-python',
+    #     '/home/vivi/src/tree-sitter-java',
+    #     '/home/vivi/src/tree-sitter-cpp'
+    # ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -33,7 +33,7 @@ PYTHON = "PYTHON"
 JAVA = "JAVA"
 CPP = "CPP"
 
-types = ["int", "float", "double", "boolean", "bool", "string", "String"]
+types = ["int", "float", "double", "boolean", "bool", "string", "String","class","public","void"]
 
 operators = [["==", "!=", ">=", "<=", ">", "<"],  # comparison
              ["++", "+=", "+", "--", "-=", "-", "//",
@@ -44,7 +44,7 @@ operators = [["==", "!=", ">=", "<=", ">", "<"],  # comparison
              ["not in", "in"]  # membership
              ]
 
-files = ["simple", "if", "while","break","for", "if-else","if-var", "op", "sum_two_num"]  # parallel corpus
+files = ["simple", "if", "While","Break","For_loop", "Ifelse","Ifvar", "Op", "Sum_two_num"]  # parallel corpus
 
 
 
@@ -219,7 +219,7 @@ class RuleSet:
         return generic_statements
 
     def determine_statement(self, keyword, cpp_file, jv_file, py_file):
-        """determine if_statement or while_statement in the tree-sitter parse tree"""
+        """determine statements in the tree-sitter parse tree"""
         generic_statements = []
 
         gen_cpp = self.open_files(generic_statements, cpp_file, CPP, keyword)
@@ -242,7 +242,7 @@ class RuleSet:
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
 
-                    if keyword in ["if_statement", "while_statement", "function_definition"]:
+                    if keyword in ["if_statement", "while_statement", "for_statement"]:
                         if keyword not in self.rules.keys():
                             self.rules.update({keyword: [
                                 self.determine_statement(keyword, "data/parallel_corpus/" + file + ".cpp",
@@ -281,7 +281,7 @@ class RuleSet:
 
             tree_sexp, tree = create_parse_tree(line, language)
             keyword = self.check_for_keyword(tree_sexp, tree)
-            if keyword in ["if_statement", "while_statement", "function_definition"] and keyword in self.rules.keys():
+            if keyword in ["if_statement", "while_statement", "for_statement"] and keyword in self.rules.keys():
                 generic_statement, statement, j, else_index = create_generic_statement(code_lines, line, language)
                 #print("gen expr",generic_statement)
 
@@ -360,7 +360,7 @@ class RuleSet:
                                                      self.rules[best_match[0]])},
                                                  scorer=fuzz.ratio)
                 if entry_match[1] != 100:
-                    print(f"The closest matching rule for {code_input} hasn't ratio 100 -> {best_match[0]}: {entry_match}")
+                    print(f"The closest matching rule for {code_input} hasn't got ratio 100 -> {best_match[0]}: {entry_match}")
 
                 return self.transform(self.rules[best_match[0]][entry_match[-1]], code_input), False
             return None, False
@@ -401,7 +401,7 @@ class RuleSet:
                         r'} else \{([^}]+)\}', statement)[0].split("\n")
 
             else:  # PYTHON
-                condition = re.findall('([if|while]+ (.*):)', statement)
+                condition = re.findall('([if|while|for]+ (.*):)', statement)
 
                 if len(condition) > 1:
                     # for cases with blocks in block
