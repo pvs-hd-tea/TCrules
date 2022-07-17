@@ -13,7 +13,7 @@ logging.getLogger().setLevel(logging.ERROR)
 
 rule_set = parser.RuleSet()
 
-def translate(input_file, language, input_file_name):
+def translate(input_file, language, input_file_name, return_translations=False):
     """translate the given input code and store the translations in separate files"""
     translations = rule_set.translate(input_file, language)
 
@@ -25,6 +25,9 @@ def translate(input_file, language, input_file_name):
             file.seek(0)
             for code_line in translations:
                 file.write(code_line[i])
+
+    if return_translations:
+        return translations
 
 
 def evaluate_translations(ground_truth, translations):
@@ -75,8 +78,7 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
 if __name__ == "__main__":
 
     arg_parser = ArgumentParser()
-    arg_parser.add_argument("-f", "--file", type=str,
-                            help="input file to be translated", metavar="FILE", required=True)
+    arg_parser.add_argument("-f", "--file", type=str, help="input file to be translated", metavar="FILE", required=True)
     arg_parser.add_argument("-i", "--inputlanguage", choices=["CPP","JAVA","PYTHON"], required=True)
     arg_parser.add_argument("-o", "--outputlanguage", choices=["CPP","JAVA","PYTHON"], required=False)
     arg_parser.add_argument("-p","--parallel",type=bool,required=False)
@@ -94,8 +96,7 @@ if __name__ == "__main__":
         print(f"Input Language and output language are the same!: {input_language}")
 
     if parallel:
-        input_language = process.extractOne(input_language,
-                    [parser.CPP, parser.JAVA, parser.PYTHON], scorer=fuzz.ratio)[0]
+        input_language = process.extractOne(input_language, [parser.CPP, parser.JAVA, parser.PYTHON], scorer=fuzz.ratio)[0]
 
         file_name = re.sub(r"([\w,-]*)(\.[a-z]*)", r"\1", source_file)
 
@@ -107,7 +108,5 @@ if __name__ == "__main__":
 
         rule_set.save_rules() # since user may add/extend rules
 
-    if customeval:
-        translation = translate("data/test_files/" + source_file, input_language, file_name)
-        
-
+    #if customeval:
+    #    translations_test_file = translate("data/test_files/" + source_file, input_language, file_name, True)

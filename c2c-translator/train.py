@@ -24,11 +24,9 @@ if training:
     rule_set.derive_rules(parser.files)
     rule_set.save_rules()
 
-
 if translate:  # translate given file
     translations = rule_set.translate(source_file, input_language)
     for code_line in translations:
         print(code_line)
-
 
 rule_set.save_keywords()
