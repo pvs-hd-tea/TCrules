@@ -26,7 +26,13 @@ if training:
 
 if translate:  # translate given file
     translations = rule_set.translate(source_file, input_language)
-    for code_line in translations:
-        print(code_line)
+    print(f"Translations from {input_language}")
+    if len(translations) > 1: # multiple parts
+        zipped = zip(*translations)
+        for code in zipped:
+            print(code)
+    else:
+        for code_line in translations:
+            print(code_line)
 
 rule_set.save_keywords()
