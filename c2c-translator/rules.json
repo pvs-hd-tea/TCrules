@@ -29,6 +29,11 @@
             "&&",
             "System.out.println(@);\n",
             "print(@)\n"
+        ],
+        [
+            "&&",
+            "        type name = value;\n",
+            "print(@)\n"
         ]
     ],
     "expression_statement": [
@@ -96,26 +101,6 @@
             "name = name operator name operator name;\n",
             "name = name operator name operator name;\n",
             "name = name operator name operator name\n"
-        ],
-        [
-            "#name operatornameoperator\n",
-            "name name name {\n",
-            "print(@)\n"
-        ],
-        [
-            "&&",
-            "System.out.println(@);\n",
-            "print(@)\n"
-        ],
-        [
-            "while",
-            "System.out.println(@);\n",
-            "if @:\n    @"
-        ],
-        [
-            "if (@) {\n    @\n}\n",
-            "System.out.println(@);\n",
-            "print(@)\n"
         ]
     ],
     "if_statement": [
@@ -128,11 +113,6 @@
             "if (@) {\n    @\n} else {\n    @\n}\n",
             "if (@) {\n    @\n} else {\n    @\n}\n",
             "if @:\n    @\nelse:\n    @\n"
-        ],
-        [
-            "while",
-            "System.out.println(@);\n",
-            "if @:\n    @"
         ]
     ],
     "while_statement": [
@@ -143,39 +123,46 @@
         ]
     ],
     "function_definition": [
-        "public type name(@) {\n    @\n}\n",
-        "type name(@) {\n    @\n}\n",
-        "def name(@):\n   @\n",
         [
-            "type sum_two_numbers(type a, type b){\n",
-            "name name name {\n",
-            "name sum_two_numbers(a, b):\n"
-        ]
-    ],
-    "class_declaration": [
-        [
-            "#name operatornameoperator\n",
-            "name name name {\n",
-            "print(@)\n"
-        ],
-        [
-            "type sum_two_numbers(type a, type b){\n",
-            "name name name {\n",
-            "name sum_two_numbers(a, b):\n"
+            "public static type name(@) {\n    @\n}\n",
+            "type name(@) {\n    @\n}\n",
+            "def name(@):\n   @\n"
         ]
     ],
     "break_statement": [
         [
-            "    \tname::nameoperatoroperatornameoperatoroperatorname::endl;\n",
-            "          name operator value;\n",
-            "        name\n"
+            "        \tname;\n",
+            "      name;\n",
+            "            name\n"
         ]
     ],
     "for_statement": [
         [
-            "#name operatornameoperator\n",
-            "name name name {\n",
+            "for (@) {\n    @\n}\n",
+            "for (@) {\n    @\n}\n",
+            "for name in range(@): \n    @\n "
+        ],
+        [
+            "for",
+            "for",
             "for"
+        ]
+    ],
+    "return_statement": [
+        [
+            "return name operator name;\n",
+            "return name operator name;\n",
+            "return name operator name\n"
+        ],
+        [
+            "return value;\n",
+            "return value;\n",
+            "return value\n"
+        ],
+        [
+            "return name;\n",
+            "return name;\n",
+            "return name\n"
         ]
     ]
 }

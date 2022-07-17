@@ -1,5 +1,3 @@
-#include <iostream>
-  
 int main(){
 	int count = 0;
     while (true) {
@@ -9,5 +7,4 @@ int main(){
         	break;
         }
     }
-	return 0;
 }
