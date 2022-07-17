@@ -1,1 +1,1 @@
-local_variable_declaration,expression_statement,if_statement,declaration,while_statement,class_declaration,class_definition,break_statement
+local_variable_declaration,expression_statement,if_statement,declaration,while_statement,break_statement,for_statement

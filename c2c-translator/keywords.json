@@ -63,5 +63,10 @@
         "cpp": "while",
         "java": "while",
         "python": "while"
+    },
+    "break": {
+        "cpp": "break;\n",
+        "java": "break;\n",
+        "python": "break\n"
     }
 }

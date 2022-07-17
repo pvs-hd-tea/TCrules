@@ -44,7 +44,7 @@ operators = [["==", "!=", ">=", "<=", ">", "<"],  # comparison
              ["not in", "in"]  # membership
              ]
 
-files = ["simple", "if", "while"]#,"break","for", "ifelse","ifvar", "op", "sum_two_num"]  # parallel corpus
+files = ["simple", "if", "while","break","for"]#, "ifelse","ifvar", "op", "sum_two_num"]  # parallel corpus
 
 
 
@@ -128,6 +128,7 @@ class RuleSet:
         generic_code = code
 
         in_keywords, names = extract_name(self, code)
+        print(in_keywords, names)
         if in_keywords:
             return self.keywords[names][language]
         if names:
@@ -219,6 +220,7 @@ class RuleSet:
                 for line_py, line_jv, line_cpp in zip(python, java, cpp):
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
+                    print(keyword, line_jv)
 
                     if keyword in ["if_statement", "while_statement", "for_statement"]:
                         if keyword not in self.rules.keys():
@@ -602,6 +604,7 @@ def create_generic_statement_cpp_java(i, lines, line, statement, j, else_index, 
 
     gen_statement = re.sub(r'if \(([^"]*)\)', 'if (@)', gen_statement)
     gen_statement = re.sub(r'while \(([^"]*)\)', 'while (@)', gen_statement)
+    gen_statement = re.sub(r'for \(([^"]*)\)', 'for (@)', gen_statement)
 
     block = re.findall(r'(\{([^{}]*)})', statement)
     temp = statement
@@ -639,6 +642,7 @@ def create_generic_statement_python(i, lines, line, statement, j, else_index):
 
     gen_statement = re.sub('if (.*):', 'if @:', gen_statement)
     gen_statement = re.sub('while (.*):', 'while @:', gen_statement)
+    gen_statement = re.sub('for (.*):', 'for @:', gen_statement)
 
     return gen_statement, statement, j + i, else_index
 
