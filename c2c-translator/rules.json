@@ -102,18 +102,18 @@
             "while @:\n    @\n"
         ]
     ],
-    "break_statement": [
-        [
-            "break;\n",
-            "break;\n",
-            "break\n"
-        ]
-    ],
     "for_statement": [
         [
             "for (@) {\n  @\n}\n",
             "for (@) {\n  @\n}\n",
             "for @:\n    @\n"
+        ]
+    ],
+    "break_statement": [
+        [
+            "break;\n",
+            "break;\n",
+            "break\n"
         ]
     ]
 }

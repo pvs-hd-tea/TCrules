@@ -68,5 +68,10 @@
         "cpp": "break;\n",
         "java": "break;\n",
         "python": "break\n"
+    },
+    "continue": {
+        "cpp": "continue;\n",
+        "java": "continue;\n",
+        "python": "continue\n"
     }
 }

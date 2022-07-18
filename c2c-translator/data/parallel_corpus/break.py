@@ -1,8 +1,8 @@
-count = 0
+i = 0
 while True:
-    print(count)
-    count += 1
-    if count >= 5:
+    print(i)
+    i += 1
+    if i >= 5:
         break
 
 

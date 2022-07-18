@@ -24,7 +24,7 @@ if training:
     rule_set.derive_rules(parser.files)
     rule_set.save_rules()
 
-if translate:  # translate given file
+elif translate:  # translate given file
     translations = rule_set.translate(source_file, input_language)
     print(f"Translations from {input_language}")
     if len(translations) > 1: # multiple parts

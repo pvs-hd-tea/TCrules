@@ -23,29 +23,29 @@ def create_random_bool_statement():
 
 
 def create_python_dataset():
-    with open('../../test_files/python_while_dataset.py', 'w') as f:
+    with open('../../test_corpus/python_while_dataset.py', 'w') as f:
         for i in range(1, 100):
 
             random_line_one = random.choice(
-                list(open('../../test_files/python_assignment_dataset.py')))
+                list(open('../../test_corpus/python_assignment_dataset.py')))
             random_line_two = random.choice(
-                list(open('../../test_files/python_assignment_dataset.py')))
+                list(open('../../test_corpus/python_assignment_dataset.py')))
             random_line_three = random.choice(
-                list(open('../../test_files/python_assignment_dataset.py')))
+                list(open('../../test_corpus/python_assignment_dataset.py')))
 
             random_line_four = random.choice(
-                list(open('../../test_files/python_assignment_dataset.py')))
+                list(open('../../test_corpus/python_assignment_dataset.py')))
             random_line_five = random.choice(
-                list(open('../../test_files/python_assignment_dataset.py')))
+                list(open('../../test_corpus/python_assignment_dataset.py')))
             random_line_six = random.choice(
-                list(open('../../test_files/python_assignment_dataset.py')))
+                list(open('../../test_corpus/python_assignment_dataset.py')))
 
             random_line_seven = random.choice(
-                list(open('../../test_files/python_assignment_dataset.py')))
+                list(open('../../test_corpus/python_assignment_dataset.py')))
             random_line_eight = random.choice(
-                list(open('../../test_files/python_assignment_dataset.py')))
+                list(open('../../test_corpus/python_assignment_dataset.py')))
             random_line_nine = random.choice(
-                list(open('../../test_files/python_assignment_dataset.py')))
+                list(open('../../test_corpus/python_assignment_dataset.py')))
 
             random_if_one = "if" + " " + create_random_bool_statement() + ":\n" + "     " + \
                 random_line_one + "     " + random_line_two + "     " + random_line_three
@@ -60,28 +60,28 @@ def create_python_dataset():
 
 def create_java_dataset():
 
-    with open('../../test_files/java_while_dataset.java', 'w') as f:
+    with open('../../test_corpus/java_while_dataset.java', 'w') as f:
         for i in range(1, 100):
             random_line_one = random.choice(
-                list(open('../../test_files/java_assignment_dataset.java')))
+                list(open('../../test_corpus/java_assignment_dataset.java')))
             random_line_two = random.choice(
-                list(open('../../test_files/java_declaration_dataset.java')))
+                list(open('../../test_corpus/java_declaration_dataset.java')))
             random_line_three = random.choice(
-                list(open('../../test_files/java_assignment_dataset.java')))
+                list(open('../../test_corpus/java_assignment_dataset.java')))
 
             random_line_four = random.choice(
-                list(open('../../test_files/java_assignment_dataset.java')))
+                list(open('../../test_corpus/java_assignment_dataset.java')))
             random_line_five = random.choice(
-                list(open('../../test_files/java_declaration_dataset.java')))
+                list(open('../../test_corpus/java_declaration_dataset.java')))
             random_line_six = random.choice(
-                list(open('../../test_files/java_assignment_dataset.java')))
+                list(open('../../test_corpus/java_assignment_dataset.java')))
 
             random_line_seven = random.choice(
-                list(open('../../test_files/java_assignment_dataset.java')))
+                list(open('../../test_corpus/java_assignment_dataset.java')))
             random_line_eight = random.choice(
-                list(open('../../test_files/java_declaration_dataset.java')))
+                list(open('../../test_corpus/java_declaration_dataset.java')))
             random_line_nine = random.choice(
-                list(open('../../test_files/java_assignment_dataset.java')))
+                list(open('../../test_corpus/java_assignment_dataset.java')))
 
             random_if_one = "if" + " (" + create_random_bool_statement(
             ) + "){\n" + "     " + random_line_one + "     " + random_line_two + "     " + random_line_three + "}\n"
@@ -95,28 +95,28 @@ def create_java_dataset():
 
 
 def create_cpp_dataset():
-    with open('../../test_files/cpp_while_dataset.cpp', 'w') as f:
+    with open('../../test_corpus/cpp_while_dataset.cpp', 'w') as f:
         for i in range(1, 100):
             random_line_one = random.choice(
-                list(open('../../test_files/cpp_assignment_dataset.cpp')))
+                list(open('../../test_corpus/cpp_assignment_dataset.cpp')))
             random_line_two = random.choice(
-                list(open('../../test_files/cpp_declaration_dataset.cpp')))
+                list(open('../../test_corpus/cpp_declaration_dataset.cpp')))
             random_line_three = random.choice(
-                list(open('../../test_files/cpp_assignment_dataset.cpp')))
+                list(open('../../test_corpus/cpp_assignment_dataset.cpp')))
 
             random_line_four = random.choice(
-                list(open('../../test_files/cpp_assignment_dataset.cpp')))
+                list(open('../../test_corpus/cpp_assignment_dataset.cpp')))
             random_line_five = random.choice(
-                list(open('../../test_files/cpp_declaration_dataset.cpp')))
+                list(open('../../test_corpus/cpp_declaration_dataset.cpp')))
             random_line_six = random.choice(
-                list(open('../../test_files/cpp_assignment_dataset.cpp')))
+                list(open('../../test_corpus/cpp_assignment_dataset.cpp')))
 
             random_line_seven = random.choice(
-                list(open('../../test_files/cpp_assignment_dataset.cpp')))
+                list(open('../../test_corpus/cpp_assignment_dataset.cpp')))
             random_line_eight = random.choice(
-                list(open('../../test_files/cpp_declaration_dataset.cpp')))
+                list(open('../../test_corpus/cpp_declaration_dataset.cpp')))
             random_line_nine = random.choice(
-                list(open('../../test_files/cpp_assignment_dataset.cpp')))
+                list(open('../../test_corpus/cpp_assignment_dataset.cpp')))
 
             random_if_one = "if" + " (" + create_random_bool_statement(
             ) + "){\n" + "     " + random_line_one + "     " + random_line_two + "     " + random_line_three + "}\n"

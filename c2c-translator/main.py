@@ -64,7 +64,7 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
 
     precision = correct / total_lines
     if write_eval_in_file:
-        with open("data/translations/eval.txt", "a+", encoding="utf8") as evaluation:
+        with open("data/eval/metrics.txt", "a+", encoding="utf8") as evaluation:
             evaluation.write(datetime.datetime.now().strftime("%Y/%m/%d")+"\n\n")
             evaluation.write("\nSource: " + input_file + "\nTranslation: " + translation_file + "\n")
             evaluation.write("Precision: " + str(precision*100) + "\n")
@@ -74,15 +74,15 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
         print(f"Precision: {precision*100}\n")
 
 
-def big_eval(source_file,input_language):
-    translation = rule_set.translate(source_file, input_language)
-    with open("translation" + input_language + "to" + "JAVA.java","w") as jv, open("translation" + input_language + "to" + "CPP.cpp","w") as cpp,open("translation" + input_language + "to" + "PYTHON.py","w") as py:
+def big_evalation(file, language):
+    translation = rule_set.translate(file, language)
+    with open("data/eval/translation" + language + "to" + "CPP.cpp","w") as cpp, open("data/eval/translation" + language + "to" + "JAVA.java","w") as jv, open("data/eval/translation" + language + "to" + "PYTHON.py","w") as py:
         for code_line in translation:
             cpp.write(code_line[0])
             jv.write(code_line[1])
             py.write(code_line[2])
-    translation_two = rule_set.translate("translation" + input_language + "to" + "CPP.cpp", "CPP")
-    with open("backtranslation" + input_language + "to" + "JAVA.java","w") as jv, open("backtranslation" + input_language + "to" + "CPP.cpp","w") as cpp,open("backtranslation" + input_language + "to" + "PYTHON.py","w") as py:
+    translation_two = rule_set.translate("data/eval/translation" + language + "to" + "CPP.cpp", "CPP")
+    with open("data/eval/backtranslation" + language + "to" + "CPP.cpp","w") as cpp, open("data/eval/backtranslation" + language + "to" + "JAVA.java","w") as jv, open("data/eval/backtranslation" + language + "to" + "PYTHON.py","w") as py:
         for code_line in translation_two:
             cpp.write(code_line[0])
             jv.write(code_line[1])
@@ -110,32 +110,23 @@ if __name__ == "__main__":
     if input_language == output_language:
         print(f"Input Language and output language are the same!: {input_language}")
 
-    if parallel:
+    elif parallel:
         input_language = process.extractOne(input_language,
                     [parser.CPP, parser.JAVA, parser.PYTHON], scorer=fuzz.ratio)[0]
 
         file_name = re.sub(r"([\w,-]*)(\.[a-z]*)", r"\1", source_file)
 
-        ground_truth_files = ["data/test_files/" + file_name + type for type in [".cpp",".java",".py"]]
+        ground_truth_files = ["data/test_corpus/" + file_name + type for type in [".cpp",".java",".py"]]
         translation_files = ["data/translations/translation_" + file_name + "_from_" + input_language.lower() + type for type in [".cpp",".java",".py"]]
 
-        translate("data/test_files/" + source_file, input_language, file_name)
+        translate("data/test_corpus/" + source_file, input_language, file_name)
         evaluate_translations(ground_truth_files, translation_files)
 
         rule_set.save_rules() # since user may add/extend rules
 
-    if customeval:
-        big_eval(source_file,input_language)
-        calculate_metrics(source_file, "backtranslation" + input_language + "to" + "CPP.cpp")
-        calculate_metrics(source_file, "backtranslation" + input_language + "to" + "JAVA.java")
-        calculate_metrics(source_file, "backtranslation" + input_language + "to" + "PYTHON.py")
-        
+    elif customeval:
+        big_evalation("data/eval/"+ source_file, input_language)
 
-
-
-
-
-
-                
-        
-
+        calculate_metrics("data/eval/" + source_file, "data/eval/backtranslation" + input_language + "to" + "CPP.cpp") #, True)
+        calculate_metrics("data/eval/" + source_file, "data/eval/backtranslation" + input_language + "to" + "JAVA.java") #, True)
+        calculate_metrics("data/eval/" + source_file, "data/eval/backtranslation" + input_language + "to" + "PYTHON.py") #, True)

@@ -1,8 +1,8 @@
-int count = 0;
+int i = 0;
 while (true) {
-    std::cout<<count<<std::endl;
-    count += 1;
-    if (count >= 5){
+    std::cout<<i<<std::endl;
+    i += 1;
+    if (i >= 5){
         break;
     }
 }

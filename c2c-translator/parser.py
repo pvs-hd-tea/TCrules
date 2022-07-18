@@ -12,17 +12,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    [
-      '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-      '/Users/jonas/Documents/GitHub/tree-sitter-java',
-      '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    ]
+    #[
+    # '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+    # '/Users/jonas/Documents/GitHub/tree-sitter-java',
+    # '/Users/jonas/Documents/GitHub/tree-sitter-python'
+    #]
     # Vivian
-    # [
-    #     '/home/vivi/src/tree-sitter-python',
-    #     '/home/vivi/src/tree-sitter-java',
-    #     '/home/vivi/src/tree-sitter-cpp'
-    # ]
+    [
+        '/home/vivi/src/tree-sitter-python',
+        '/home/vivi/src/tree-sitter-java',
+        '/home/vivi/src/tree-sitter-cpp'
+    ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -44,7 +44,7 @@ operators = [["==", "!=", ">=", "<=", ">", "<"],  # comparison
              ["not in", "in"]  # membership
              ]
 
-files = ["simple", "if", "while","for"]#,"break","for", "ifelse","ifvar", "op", "sum_two_num"]  # parallel corpus
+files = ["simple", "if", "while","for","break"]#, "ifelse","ifvar", "op", "sum_two_num"]  # parallel corpus
 
 
 
@@ -128,7 +128,7 @@ class RuleSet:
         generic_code = code
 
         in_keywords, names = extract_name(self, code)
-        print(in_keywords, names)
+        #print(in_keywords, names)
         if in_keywords:
             return self.keywords[names][language]
         if names:
@@ -220,7 +220,7 @@ class RuleSet:
                 for line_py, line_jv, line_cpp in zip(python, java, cpp):
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
                     keyword = self.check_for_keyword(tree_sexp, tree)
-                    print(keyword, line_jv)
+                    #print(keyword, line_jv)
 
                     if keyword in ["if_statement", "while_statement", "for_statement"]:
                         if keyword not in self.rules.keys():
@@ -411,6 +411,7 @@ class RuleSet:
             # translate the block via rules
             if "@" in entry:
                 for line in block:
+                    print(entry, line, block, block_in_block)
                     translated_line, missing_flag = self.translate_line(line, language)
                     if missing_flag and len(line) > 2:
 
