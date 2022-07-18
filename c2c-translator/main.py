@@ -89,14 +89,6 @@ def big_eval(source_file,input_language):
             py.write(code_line[2])
         
 
-        
-    
-
-      
-    
-
-
-
 if __name__ == "__main__":
 
     arg_parser = ArgumentParser()
