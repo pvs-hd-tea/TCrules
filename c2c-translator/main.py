@@ -76,13 +76,13 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
 
 def big_eval(source_file,input_language):
     translation = rule_set.translate(source_file, input_language)
-    with open("translation" + input_language + "to" + "JAVA.java") as jv, open("translation" + input_language + "to" + "CPP.cpp") as cpp,open("translation" + input_language + "to" + "PYTHON.py") as py:
+    with open("translation" + input_language + "to" + "JAVA.java","w") as jv, open("translation" + input_language + "to" + "CPP.cpp","w") as cpp,open("translation" + input_language + "to" + "PYTHON.py","w") as py:
         for code_line in translation:
             cpp.write(code_line[0])
             jv.write(code_line[1])
             py.write(code_line[2])
-        translation_two = rule_set.translate(cpp, "CPP")
-    with open("backtranslation" + input_language + "to" + "JAVA.java") as jv, open("backtranslation" + input_language + "to" + "CPP.cpp") as cpp,open("backtranslation" + input_language + "to" + "PYTHON.py") as py:
+    translation_two = rule_set.translate("translation" + input_language + "to" + "CPP.cpp", "CPP")
+    with open("backtranslation" + input_language + "to" + "JAVA.java","w") as jv, open("backtranslation" + input_language + "to" + "CPP.cpp","w") as cpp,open("backtranslation" + input_language + "to" + "PYTHON.py","w") as py:
         for code_line in translation_two:
             cpp.write(code_line[0])
             jv.write(code_line[1])
@@ -134,9 +134,9 @@ if __name__ == "__main__":
 
     if customeval:
         big_eval(source_file,input_language)
-        evaluate_translations(source_file, "backtranslation" + input_language + "to" + "CPP.cpp")
-        evaluate_translations(source_file, "backtranslation" + input_language + "to" + "JAVA.java")
-        evaluate_translations(source_file, "backtranslation" + input_language + "to" + "PYTHON.py")
+        calculate_metrics(source_file, "backtranslation" + input_language + "to" + "CPP.cpp")
+        calculate_metrics(source_file, "backtranslation" + input_language + "to" + "JAVA.java")
+        calculate_metrics(source_file, "backtranslation" + input_language + "to" + "PYTHON.py")
         
 
 
