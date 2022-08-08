@@ -64,7 +64,7 @@ class RuleSet:
             with open("rule-set.json") as file:
                 self.parse_tree_dict = json.load(file)
                 print(f"Loading the Rule Set ... Done ... Its length is {len(self.parse_tree_dict)}")
-        with open("../own-parser-approach/keywords.json") as file:
+        with open("../own-parser-approach/keywords_lookup.json") as file:
                 self.keywords = json.load(file)
 
     # Destructor
@@ -165,7 +165,7 @@ class RuleSet:
             return True, ratio[ratios.index(max_ratio)][1]
         return False, ""
 
-    def translate(self, input_code, rule_name):
+    def translate_file(self, input_code, rule_name):
         '''translates the given input code by traversing available rules and replacing values, names, types and operators'''
         translations = []
 

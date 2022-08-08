@@ -16,7 +16,7 @@ while True:
     
     rule_found, rule_name = rule_set.rule_match(parse_tree, True)
     if rule_found:    
-        translations = rule_set.translate(input_code, rule_name)
+        translations = rule_set.translate_file(input_code, rule_name)
         print("PYTHON: " + translations[0])
         print("JAVA: " + translations[1])
         print("CPP: " + translations[2])
