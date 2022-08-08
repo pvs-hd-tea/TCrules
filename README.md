@@ -72,9 +72,8 @@ python3 example.py
 ### Data
 The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
-|----------------|----------------|----------------|----------------
+|----------------|----------------|----------------
 | [test_corpus](data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
-||||
 
 #### Evaluation
 
@@ -98,10 +97,10 @@ There are 6 rules for translating general expressions between the three programm
 Example:
 ```json
 "if_statement": [
-	[
-		"if (@) {\n    @\n}\n",
-		"if (@) {\n    @\n}\n",
-		"if @:\n    @\n"
-	]
+    [
+        "if (@) {\n    @\n}\n",
+        "if (@) {\n    @\n}\n",
+        "if @:\n    @\n"
+    ]
 ],
 ```
