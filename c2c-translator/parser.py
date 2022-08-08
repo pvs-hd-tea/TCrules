@@ -208,9 +208,9 @@ class RuleSet:
     def derive_rules(self, corpus):
         """derive rules based of parallel corpus"""
         for file in corpus:
-            with open("data/parallel_corpus/" + file + ".py", 'r', encoding="utf8") as python, open(
-                    "data/parallel_corpus/" + file + ".java", 'r', encoding="utf8") as java, open(
-                    "data/parallel_corpus/" + file + ".cpp", "r", encoding="utf8") as cpp:
+            with open("data/parallel_corpus/python/" + file + ".py", 'r', encoding="utf8") as python, open(
+                    "data/parallel_corpus/java/" + file + ".java", 'r', encoding="utf8") as java, open(
+                    "data/parallel_corpus/cpp/" + file + ".cpp", "r", encoding="utf8") as cpp:
                 # lines should match
                 for line_py, line_jv, line_cpp in zip(python, java, cpp):
                     tree_sexp, tree = create_parse_tree(line_jv, JAVA)
@@ -219,9 +219,9 @@ class RuleSet:
                     if keyword in ["if_statement", "while_statement", "for_statement"]:
                         if keyword not in self.rules.keys():
                             self.rules.update({keyword: [
-                                self.determine_statement(keyword, ["data/parallel_corpus/" + file + ".cpp",
-                                                         "data/parallel_corpus/" + file + ".java",
-                                                         "data/parallel_corpus/" + file + ".py"],
+                                self.determine_statement(keyword, ["data/parallel_corpus/cpp/" + file + ".cpp",
+                                                         "data/parallel_corpus/java/" + file + ".java",
+                                                         "data/parallel_corpus/python/" + file + ".py"],
                                                          [CPP, JAVA, PYTHON] )
                                                         ]
                                                 })
@@ -610,8 +610,7 @@ def create_generic_statement_cpp_java(i, lines, line, statement, j, else_index, 
         temp = temp.replace(re.findall(r'(\{([^{}]*)})', temp)[0][0], "")
 
     block = block[0][-1].split("\n")
-    block = [entry for entry in [textwrap.dedent(
-        item) for item in block if item] if entry]
+    block = [entry for entry in [textwrap.dedent(item) for item in block if item] if entry]
 
     return gen_statement, statement, j + 1 + i, else_index
 

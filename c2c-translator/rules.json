@@ -21,9 +21,9 @@
             "name = value operator value\n"
         ],
         [
-            "std::cout<<@;\n",
-            "System.out.println(@);\n",
-            "print(@)\n"
+            "continue;\n",
+            "continue;\n",
+            "continue\n"
         ]
     ],
     "expression_statement": [
@@ -86,6 +86,11 @@
             "name = name operator name operator name;\n",
             "name = name operator name operator name;\n",
             "name = name operator name operator name\n"
+        ],
+        [
+            "continue;\n",
+            "continue;\n",
+            "continue\n"
         ]
     ],
     "if_statement": [

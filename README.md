@@ -1,5 +1,5 @@
 # TCrules
-The goal of this project is to create a rule-based code-to-code translator for the programming languages Python, Java and C++. The main idea is to generate and continuously extend a pattern/rule database using parallel corpora. Then the input source code is slit into parts and translated via the database or by humans. See [DOCUMENTATION.md](DOCUMENTATION.md) for more details.
+The goal of this project is to create a rule-based code-to-code translator for the programming languages Python, Java and C++. The main idea is to generate and continuously extend a pattern/rule database using parallel corpora. Then the input source code is split into parts and translated via the database or by humans. See [DOCUMENTATION.md](DOCUMENTATION.md) for more details.
 
 > Begginer Software Practical "AI Methods and Tools for Programming", Summer 2022 
 > Authors: Kristin Leoff, Jonas Ochs, Vivian Kazakova
@@ -94,6 +94,7 @@ The big_eval.py script .... ###TODO JONAS, KRISTIN
 
 #### Rules
 There are 6 rules for translating general expressions between the three programming languages C++, Java and Python defined in the rules.json file. Existing rules can be changed and new ones can be added by enlarging the parallel corpus and running the database generation script. Pay attention to the syntax.
+
 Example:
 ```json
 "if_statement": [

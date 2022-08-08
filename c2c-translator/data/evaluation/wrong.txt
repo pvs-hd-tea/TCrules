@@ -1,0 +1,4 @@
+data/test_corpus/python/simple.py vs. data/translations/simple_from_java.py
+20)for j in range(10,5,-1):
+19)for int j=10; j>5; j--:
+___________
