@@ -5,20 +5,20 @@ x = x % var_1;
 int z = x + var_1;
 int a = 10 / 2;
 a = 7 * 3;
-boolean b = false;
+bool b = false;
 b = +b;
 a - b;
 a = a * b * x;
-System.out.println("Hello world!");
+std::cout<<"Hello world!";
 if (a > b) {
     a = 10;
     b = a % 2;
 }
 int j = 0;
 while (j < 5) {
-    System.out.println(j);
+    std::cout<<j;
     j = j + 1;
 }
 for (int j=10; j>5; j--) {
-    x = x ** x;
+    x = x * x;
 }

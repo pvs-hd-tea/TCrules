@@ -19,4 +19,4 @@ while j < 5:
     print(j)
     j = j + 1
 for j in range(10,5,-1):
-    x = x ** x
+    x = x * x

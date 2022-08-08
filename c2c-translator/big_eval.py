@@ -13,9 +13,9 @@ logging.getLogger().setLevel(logging.ERROR)
 
 rule_set = parser.RuleSet()
 
-def translate(input_file, language, input_file_name, return_translations=False):
+def translate_file(input_file, language, input_file_name, return_translations=False):
     """translate the given input code and store the translations in separate files"""
-    translations = rule_set.translate(input_file, language)
+    translations = rule_set.translate_file(input_file, language)
 
     file_end = [".cpp", ".java", ".py"]
 
@@ -75,13 +75,13 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
 
 
 def big_evalation(file, language):
-    translation = rule_set.translate(file, language)
+    translation = rule_set.translate_file(file, language)
     with open("data/eval/translation" + language + "to" + "CPP.cpp","w") as cpp, open("data/eval/translation" + language + "to" + "JAVA.java","w") as jv, open("data/eval/translation" + language + "to" + "PYTHON.py","w") as py:
         for code_line in translation:
             cpp.write(code_line[0])
             jv.write(code_line[1])
             py.write(code_line[2])
-    translation_two = rule_set.translate("data/eval/translation" + language + "to" + "CPP.cpp", "CPP")
+    translation_two = rule_set.translate_file("data/eval/translation" + language + "to" + "CPP.cpp", "CPP")
     with open("data/eval/backtranslation" + language + "to" + "CPP.cpp","w") as cpp, open("data/eval/backtranslation" + language + "to" + "JAVA.java","w") as jv, open("data/eval/backtranslation" + language + "to" + "PYTHON.py","w") as py:
         for code_line in translation_two:
             cpp.write(code_line[0])
@@ -93,7 +93,7 @@ if __name__ == "__main__":
 
     arg_parser = ArgumentParser()
     arg_parser.add_argument("-f", "--file", type=str,
-                            help="input file to be translated", metavar="FILE", required=True)
+                            help="input source code to be translated", metavar="FILE", required=True)
     arg_parser.add_argument("-i", "--inputlanguage", choices=["CPP","JAVA","PYTHON"], required=True)
     arg_parser.add_argument("-o", "--outputlanguage", choices=["CPP","JAVA","PYTHON"], required=False)
     arg_parser.add_argument("-p","--parallel",type=bool,required=False)
@@ -119,7 +119,7 @@ if __name__ == "__main__":
         ground_truth_files = ["data/test_corpus/" + file_name + type for type in [".cpp",".java",".py"]]
         translation_files = ["data/translations/translation_" + file_name + "_from_" + input_language.lower() + type for type in [".cpp",".java",".py"]]
 
-        translate("data/test_corpus/" + source_file, input_language, file_name)
+        translate_file("data/test_corpus/" + source_file, input_language, file_name)
         evaluate_translations(ground_truth_files, translation_files)
 
         rule_set.save_rules() # since user may add/extend rules

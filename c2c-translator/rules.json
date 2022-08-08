@@ -98,14 +98,14 @@
     "while_statement": [
         [
             "while (@) {\n    @\n}\n",
-            "while (@) {\n  @\n}  \n",
+            "while (@) {\n    @\n}  \n",
             "while @:\n    @\n"
         ]
     ],
     "for_statement": [
         [
-            "for (@) {\n  @\n}\n",
-            "for (@) {\n  @\n}\n",
+            "for (@) {\n    @\n}\n",
+            "for (@) {\n    @\n}\n",
             "for @:\n    @\n"
         ]
     ],
