@@ -1,7 +1,8 @@
 # TCrules
 The goal of this project is to create a rule-based code-to-code translator for the programming languages Python, Java and C++. The main idea is to generate and continuously extend a pattern/rule database using parallel corpora. Then the input source code is split into parts and translated via the database or by humans. See [DOCUMENTATION.md](DOCUMENTATION.md) for more details.
 
-> Begginer Software Practical "AI Methods and Tools for Programming", Summer 2022 
+> Begginer Software Practical "AI Methods and Tools for Programming", Summer 2022
+>
 > Authors: Kristin Leoff, Jonas Ochs, Vivian Kazakova
 
 ## Getting Started
@@ -55,18 +56,18 @@ python3 example.py
 | File | Description |
 | ---  | ---         |
 |[parser.py](parser.py) | The main script containing the RuleSet class with the functions for generating the rules and translating a given input |
-|[example.py](example.py) | Usage example |
 |[rules.json](rules.json) | Pattern/rule database |
 |[keywords_treesitter.txt](keywords_treesitter.txt) | List with root node first children keyword from tree-sitter |
 |[keywords_lookup.json](keywords_lookup.json) | keyword to keyword mappings |
+|[example.py](example.py) | Usage example |
 |[train.py](train.py) | Script for deriving the rules using the parallel corpus |
 |[test.py](test.py) | Evaluation script on files from the test_corpus, calculates metrics, stores translations and wrong translated lines |
 |[big_eval.py](big_eval.py) | ###TODO JONAS, KRISTIN |
 |[data/parallel_corpus](data/parallel_corpus)| Folder containing the parallel corpus for generating the rules |
 |[data/test_corpus](data/test_corpus)| Folder containing the test corpus for evaluating the translations |
 |[data/translation](data/translations)| Folder containing the translations |
-|[data/generate_test_dataset](data/generate_test_dataset)| Folder containing scripts for generating the big test datasets (assignment, declaration, if and while statements) |
 |[data/evaluation](data/evaluation)| Folder containing a file with the metrics from the evaluation and a file with the wrong translations |
+|[data/generate_test_dataset](data/generate_test_dataset)| Folder containing scripts for generating the big test datasets (assignment, declaration, if and while statements) |
 |[data/geeks_for_geeks](data/geeks_for_geeks)| Folder containing the parallel corpus from Geeks for Geeks |
 
 ### Data
@@ -74,6 +75,8 @@ The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
 |----------------|----------------|----------------
 | [test_corpus](data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
+
+###TODO JONAS, KRISTIN
 
 #### Evaluation
 
@@ -93,15 +96,26 @@ python3 test.py -f simple.java -i java
 The big_eval.py script .... ###TODO JONAS, KRISTIN
 
 #### Rules
-There are 6 rules for translating general expressions between the three programming languages C++, Java and Python defined in the rules.json file. Existing rules can be changed and new ones can be added by enlarging the parallel corpus and running the database generation script. Pay attention to the syntax.
-
+There are 6 rules for translating code lines and statements between the three programming languages C++, Java and Python defined in the rules.json file. Existing rules can be changed and new ones can be added by enlarging the parallel corpus and running the database generation script. The name of the rule corresponds to the keyword extracted from the tree-sitter parse tree and each rule consists of one or multiple lists of generic expressions for the three languages.
 Example:
 ```json
+"expression_statement": [
+    [
+        "type name = value;\n",
+        "type name = value;\n",
+        "name = value\n"
+    ],
+    [
+        "std::cout<<@;\n",
+        "System.out.println(@);\n",
+        "print(@)\n"
+    ]
+],
 "if_statement": [
     [
         "if (@) {\n    @\n}\n",
         "if (@) {\n    @\n}\n",
         "if @:\n    @\n"
     ]
-],
+]
 ```

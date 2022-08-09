@@ -312,6 +312,7 @@ class RuleSet:
 
         if keyword not in ["MISSING", "ERROR"]:
             best_match = process.extractOne(keyword, self.rules.keys(), scorer=fuzz.partial_ratio)
+
             if best_match[-1] == 100:
                 index = 0
                 if language == JAVA:
@@ -322,6 +323,7 @@ class RuleSet:
                 entry_match = process.extractOne(self.create_generic_expression(code_input, language.lower()),
                                                  {k: entry[index] for k, entry in enumerate(self.rules[best_match[0]])},
                                                  scorer=fuzz.ratio)
+
                 if entry_match[1] != 100:
                     print(f"The closest matching rule for {code_input} hasn't got ratio 100 -> {best_match[0]}: {entry_match}")
 
