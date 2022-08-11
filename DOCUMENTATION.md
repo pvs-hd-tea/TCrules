@@ -8,7 +8,9 @@ The goal of this project is to create a rule-based code-to-code translator for t
 
 ##  Pipeline
 ### Training
-For training the model, i.e. deriving the rules, we use a parallel corpus we created ourself which consists of 10 files per langauage. The model goes line by line through all files. For each line the s-expression and the parse tree is created via the [tree-sitter](https://github.com/tree-sitter/tree-sitter) parsers. Then the keyword of the root node first children is extracted. If there is a statement (if, while or for statement) and there is not a rule for it yet, the block is determined, the generic expression for it is created and the rule is added to the database.
+For training the model, i.e. deriving the rules, we use a parallel corpus we created ourself which consists of 10 files per language. 
+The model goes line by line through all files. For each line the s-expression and the parse tree is created via the [tree-sitter](https://github.com/tree-sitter/tree-sitter) parsers. 
+Then the keyword of the root node first children is extracted. If there is a statement (if, while or for statement) and there is not a rule for it yet, the block is determined, the generic expression for it is created and the rule is added to the database.
 For example, we get the following generic expressions and rule for an arbitrary if statement:
 ```
 ['if (@) {\n    @\n}\n', 'if (@) {\n    @\n}\n', 'if @:\n    @\n']
@@ -98,7 +100,7 @@ c2c-translator
 	README.md
 	LICENSE	
 ```
-In the table below, the main files and their description could be found:
+In the table below, the main files and their description can be found:
 
 | File | Description |
 | ---  | ---         |
