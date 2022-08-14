@@ -56,13 +56,14 @@ python3 example.py
 | File | Description |
 | ---  | ---         |
 |[parser.py](parser.py) | The main script containing the RuleSet class with the functions for generating the rules and translating a given input |
+|[concepts.py](concepts.py) | Class for creating and saving reusable concepts from all three languages e.g. sorting, searching for a certain element, etc., that don't need to be translated line by line but rather just matching optimized versions of said concepts. |
 |[rules.json](rules.json) | Pattern/rule database |
 |[keywords_treesitter.txt](keywords_treesitter.txt) | List with root node first children keyword from tree-sitter |
 |[keywords_lookup.json](keywords_lookup.json) | keyword to keyword mappings |
 |[example.py](example.py) | Usage example |
 |[train.py](train.py) | Script for deriving the rules using the parallel corpus |
 |[test.py](test.py) | Evaluation script on files from the test_corpus, calculates metrics, stores translations and wrong translated lines |
-|[big_eval.py](big_eval.py) | ###TODO JONAS, KRISTIN |
+|[big_eval.py](big_eval.py) |Big evaluation script on bigger files and custom files, backtranslating given files to see, if a double translation gives the same result as the original |
 |[data/parallel_corpus](data/parallel_corpus)| Folder containing the parallel corpus for generating the rules |
 |[data/test_corpus](data/test_corpus)| Folder containing the test corpus for evaluating the translations |
 |[data/translation](data/translations)| Folder containing the translations |
