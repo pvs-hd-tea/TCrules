@@ -5,9 +5,9 @@ name: Python application
 
 on:
   push:
-    branches: [ "main","tree-sitter-version-2" ]
+    branches: [ "main","tree-sitter-version2" ]
   pull_request:
-    branches: [ "main","tree-sitter-version-2" ]
+    branches: [ "main","tree-sitter-version2" ]
 
 permissions:
   contents: read
