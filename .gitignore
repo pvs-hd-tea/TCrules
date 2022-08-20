@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+C2CTrans/C2CTrans.xcodeproj/project.pbxproj
+C2CTrans/C2CTrans.xcodeproj/project.pbxproj
+C2CTrans/C2CTrans.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+*.plist
+C2CTrans/C2CTrans.xcodeproj/project.xcworkspace/xcuserdata/jonas.xcuserdatad/UserInterfaceState.xcuserstate
