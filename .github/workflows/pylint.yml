@@ -22,4 +22,4 @@ jobs:
         pip install tree-sitter
     - name: Analysing the code with pylint
       run: |
-        pylint $(git ls-files 'main.py','parser.py','test.py')
+        pylint $(git ls 'main.py','parser.py','test.py')
