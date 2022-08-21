@@ -126,9 +126,9 @@ Concepts are mostly compromised of the most efficient ways of translating reocur
 Therefore input code is checked on concepts and if a reocurring principle is found, the language specific golden way is chosen.
 Example:
 ```json
-"sorting an array": [
+"array_sort": [
     [
-        "#include <algorithm>\n
+        " #include <algorithm>\n
 	#include <vector>\n
 	std::vector<int> list_ = {1,4,3,2};
 	list_.sort(list_.begin,list_.end);",
