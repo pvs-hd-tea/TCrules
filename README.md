@@ -128,21 +128,10 @@ Example:
 ```json
 "array_sort": [
     [
-        "#include <algorithm>\n
-	#include <vector>\n
-	std::vector<int> list_ = {1,4,3,2};
-	list_.sort(list_.begin,list_.end);",
+        "#include <algorithm>\n #include <vector>\n std::vector<int> list_ = {1,4,3,2};\n 			list_.sort(list_.begin,list_.end);",
 	
-        "import java.util.Arrays;\n
-	int[] list_ = new int[] {1,4,3,2};\n
-	Arrays.sort(list_); ",
+        "import java.util.Arrays;\n int[] list_ = new int[] {1,4,3,2};\n Arrays.sort(list_); ",
 	
-        "list_ = [1,4,3,2]\n
-	list_.sort()"
-    ],
-    [
+        "list_ = [1,4,3,2]\n list_.sort()"
     ]
-],
-"other_key":
-[]
 ```
