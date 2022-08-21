@@ -76,8 +76,8 @@ The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
 |----------------|----------------|----------------
 | [test_corpus](data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
+| [test_corpus](data/big_eval) | 1000 files per language | dataset used for evaluation (in the big_eval.py script) |
 
-###TODO JONAS, KRISTIN
 
 #### Evaluation
 
@@ -94,7 +94,7 @@ For example:
 python3 test.py -f simple.java -i java
 ```
 
-The big_eval.py script .... ###TODO JONAS, KRISTIN
+The big_eval.py script evaluates the 1000 files randomly generated with either one line of code per file or many lines of code with if-statements or while-loops with if statements. It tries to match line by line to give an accurate evaluation of working statement translation.
 
 #### Rules
 There are 6 rules for translating code lines and statements between the three programming languages C++, Java and Python defined in the rules.json file. Existing rules can be changed and new ones can be added by enlarging the parallel corpus and running the database generation script. The name of the rule corresponds to the keyword extracted from the tree-sitter parse tree and each rule consists of one or multiple lists of generic expressions for the three languages.
@@ -117,6 +117,26 @@ Example:
         "if (@) {\n    @\n}\n",
         "if (@) {\n    @\n}\n",
         "if @:\n    @\n"
+    ]
+]
+```
+
+#### Concepts
+Concepts are mostly compromised of the most efficient ways of translating reocurring concepts into different programming languages. Every language has its own way of dealing with sorting of arrays or has its own style of for example constructor definitions, finding the highest value in an array, etc.. Translating those concepts without using the advantages of every language would technically be possible, but rather inefficient. 
+Therefore input code is checked on concepts and if a reocurring principle is found, the language specific golden way is chosen.
+Example:
+```json
+"sorting an array": [
+    [
+        "#include <algorithm>\n
+	#include <vector>\n
+	std::vector<int> list_ = {1,4,3,2};
+	list_.sort(list_.begin,list_.end);",
+        "import java.util.Arrays;\n
+	int [] list_ = new int [] {1,4,3,2};\n
+	Arrays.sort(list_); ",
+        "list_ = [1,4,3,2]\n
+	list_.sort()"
     ]
 ]
 ```
