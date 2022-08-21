@@ -128,8 +128,8 @@ Example:
 ```json
 "array_sort": [
     [
-        " #include <algorithm>\n
-	#include <vector>\n
+        "include <algorithm>\n
+	include <vector>\n
 	std::vector<int> list_ = {1,4,3,2};
 	list_.sort(list_.begin,list_.end);",
         "import java.util.Arrays;\n
