@@ -1,0 +1,9 @@
+{
+    "array_sort": [
+        [
+            "#include <algorithm>\n #include <vector>\n std::vector<int> name  = {4,3,2,1};\n name.sort(name.begin,name.end);",
+            "import java.util.Arrays;\n type[] name = new type[] {value,value,value,value};\n Arrays.sort(name); ",
+            "name = [value,value,value,value]\n name.sort()"
+        ]
+    ]
+}
