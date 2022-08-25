@@ -1,4 +1,32 @@
-data/test_corpus/python/simple.py vs. data/translations/simple_from_java.py
-20)for j in range(10,5,-1):
-19)for int j=10; j>5; j--:
+data/test_corpus/cpp/simple.cpp vs. data/translations/simple_from_python.cpp
+2)double var_1 = x / 2;
+2)var_1 = x / 2;
+___________
+data/test_corpus/cpp/simple.cpp vs. data/translations/simple_from_python.cpp
+4)int z = x + var_1;
+4)z = x + var_1;
+___________
+data/test_corpus/cpp/simple.cpp vs. data/translations/simple_from_python.cpp
+6)a = 7 * 3;
+6)int a = 7 * 3;
+___________
+data/test_corpus/cpp/simple.cpp vs. data/translations/simple_from_python.cpp
+13)    a = 10;
+13)    int a = 10;
+___________
+data/test_corpus/java/simple.java vs. data/translations/simple_from_python.java
+2)double var_1 = x / 2;
+2)var_1 = x / 2;
+___________
+data/test_corpus/java/simple.java vs. data/translations/simple_from_python.java
+4)int z = x + var_1;
+4)z = x + var_1;
+___________
+data/test_corpus/java/simple.java vs. data/translations/simple_from_python.java
+6)a = 7 * 3;
+6)int a = 7 * 3;
+___________
+data/test_corpus/java/simple.java vs. data/translations/simple_from_python.java
+13)    a = 10;
+13)    int a = 10;
 ___________

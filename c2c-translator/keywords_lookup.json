@@ -30,9 +30,9 @@
         "python": "if @:\n    @"
     },
     "for": {
-        "cpp": "for",
-        "java": "for",
-        "python": "for"
+        "cpp": "int variable=start; variablesignstop; variablestep",
+        "java": "int variable=start; variablesignstop; variablestep",
+        "python": "variable in range(start,stop,step)"
     },
     "false": {
         "cpp": "false",

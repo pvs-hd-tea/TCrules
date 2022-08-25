@@ -1,21 +1,63 @@
-2022/08/08
+2022/08/25
+
+Source: data/test_corpus/cpp/simple.cpp
+Translation: data/translations/simple_from_cpp.cpp
+Precision: 100.0
+________________________________________
+
+2022/08/25
+
+Source: data/test_corpus/java/simple.java
+Translation: data/translations/simple_from_cpp.java
+Precision: 100.0
+________________________________________
+
+2022/08/25
+
+Source: data/test_corpus/python/simple.py
+Translation: data/translations/simple_from_cpp.py
+Precision: 100.0
+________________________________________
+
+2022/08/25
 
 Source: data/test_corpus/cpp/simple.cpp
 Translation: data/translations/simple_from_java.cpp
 Precision: 100.0
 ________________________________________
 
-2022/08/08
+2022/08/25
 
 Source: data/test_corpus/java/simple.java
 Translation: data/translations/simple_from_java.java
 Precision: 100.0
 ________________________________________
 
-2022/08/08
+2022/08/25
 
 Source: data/test_corpus/python/simple.py
 Translation: data/translations/simple_from_java.py
-Precision: 95.23809523809523
+Precision: 100.0
+________________________________________
+
+2022/08/25
+
+Source: data/test_corpus/cpp/simple.cpp
+Translation: data/translations/simple_from_python.cpp
+Precision: 83.33333333333334
+________________________________________
+
+2022/08/25
+
+Source: data/test_corpus/java/simple.java
+Translation: data/translations/simple_from_python.java
+Precision: 83.33333333333334
+________________________________________
+
+2022/08/25
+
+Source: data/test_corpus/python/simple.py
+Translation: data/translations/simple_from_python.py
+Precision: 100.0
 ________________________________________
 

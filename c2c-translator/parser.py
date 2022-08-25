@@ -402,6 +402,36 @@ class RuleSet:
             if else_index:
                 else_block = [item + "\n" for item in else_block if textwrap.dedent(item)]
 
+            if ";" in condition and i == 2: # condition in for statement java and cpp
+                condition = condition.split(";")
+                _, variable = extract_name(self, condition[0])
+                start = extract_value(condition[0])[0]
+                stop = extract_value(condition[1])[0]
+                step = extract_operator(condition[2])
+                condition = self.keywords["for"]["python"].replace("variable", variable[0])
+                condition = condition.replace("start", start[0])
+                condition = condition.replace("stop", stop[0])
+                if step[0] == "--":
+                    condition = condition.replace("step", "-1")
+                elif step[0] == "++":
+                    condition = condition.replace("step", "1")
+            
+            elif "range" in condition and i in [0, 1]: # condition in for statement python
+                _, variable = extract_name(self, condition)
+                start, stop, step = extract_value(condition)
+                sign = extract_operator(condition)
+                condition = self.keywords["for"]["cpp"].replace("variable", variable[0])
+                condition = condition.replace("start", start[0])
+                condition = condition.replace("stop", stop[0])
+                if sign and sign[0] == "-":
+                    condition = condition.replace("step", "--")
+                elif step:
+                    condition = condition.replace("step", "++")
+                if int(start[0]) > int(stop[0]) and sign and sign[0] == "-":
+                    condition = condition.replace("sign", ">")
+                else:
+                    condition = condition.replace("sign", "<")
+
             entry = entry.replace("@", condition, 1)
 
             # translate the block via rules
@@ -679,7 +709,7 @@ def extract_type(input_string):
 def extract_value(input_string):
     """return the values from given input"""
     numbers = re.findall(r'true|false|True|False', input_string)
-    string = re.sub('([a-z,A-Z]+[_]*[a-z,A-Z,0-9]*)*', '', input_string)
+    string = re.sub('([a-zA-Z]+[_a-zA-Z0-9]*)', '', input_string)
     numbers.extend(re.findall(r'\d+(?:\.\d+)?', string))
 
     return [(number, numbers.count(number)) for number in numbers] if numbers else None

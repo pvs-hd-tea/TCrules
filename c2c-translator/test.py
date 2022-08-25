@@ -88,12 +88,13 @@ if __name__ == "__main__":
 
     arg_parser = ArgumentParser()
     arg_parser.add_argument("-f", "--file", type=str, help="input source code to be translated", metavar="FILE", required=True)
-    arg_parser.add_argument("-i", "--inputlanguage", choices=["cpp","java","python"], required=True)
+    arg_parser.add_argument("-l", "--language", help="input language to be translated from", choices=["cpp","java","python"], required=True)
+    arg_parser.add_argument("-e", "--evaluation", help="store evaluation metrics in a separate file", choices=["True","False"], required=False)
 
 
     arguments = arg_parser.parse_args()
     source_file = arguments.file
-    input_language = arguments.inputlanguage.upper()
+    input_language = arguments.language.upper()
 
     file_name = re.sub(r"([\w,-]*)(\.[a-z]*)", r"\1", source_file)
 
