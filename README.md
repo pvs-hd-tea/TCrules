@@ -8,7 +8,7 @@ The goal of this project is to create a rule-based code-to-code translator for t
 ## Getting Started
 
 ### Prerequisites
-Make sure you have Python 3.8 installed.
+Make sure you have Python 3.8 and tree_sitter installed. See [py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) for more details on installing the module.
 
 ### Usage
 Create a `RuleSet` and generate the rule database:
@@ -87,11 +87,19 @@ The test.py script which uses the parallel test corpus, calculates the precision
 
 Run
 ```
-python3 test.py [-h] -f FILE -i {cpp,java,python}
+python3 test.py [-h] -f FILE -l {cpp,java,python} [-e {True,False}]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -f FILE, --file FILE  input source code to be translated
+  -l {cpp,java,python}, --language {cpp,java,python}
+                        input language to be translated from
+  -e {True,False}, --evaluation {True,False}
+                        store evaluation metrics in a separate file
 ```
 For example:
 ```
-python3 test.py -f simple.java -i java
+python3 test.py -f simple.java -l java
 ```
 
 The big_eval.py script evaluates the 1000 files randomly generated with either one line of code per file or many lines of code with if-statements or while-loops with if statements. It tries to match line by line to give an accurate evaluation of working statement translation.

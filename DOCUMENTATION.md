@@ -9,13 +9,13 @@ The goal of this project is to create a rule-based code-to-code translator for t
 ##  Pipeline
 ### Training
 For training the model, i.e. deriving the rules, we use a parallel corpus we created ourself which consists of 10 files per language. 
-The model goes line by line through all files. For each line the s-expression and the parse tree is created via the [tree-sitter](https://github.com/tree-sitter/tree-sitter) parsers. 
-Then the keyword of the root node first children is extracted. If there is a statement (if, while or for statement) and there is not a rule for it yet, the block is determined, the generic expression for it is created and the rule is added to the database.
-For example, we get the following generic expressions and rule for an arbitrary if statement:
+The model goes through all files line by line. For each line, the s-expression and the parse tree is created uing the [tree-sitter](https://github.com/tree-sitter/tree-sitter) parsers. 
+Then the keyword of first children of the root node is extracted. If there is a statement (if-, while- or for-statement) and there is not a rule for it yet, the block is determined, the generic expression for it is created and the rule is added to the database.
+For example, we get the following generic expressions and rule for any if-statement:
 ```
 ['if (@) {\n    @\n}\n', 'if (@) {\n    @\n}\n', 'if @:\n    @\n']
 ```
-where `@` is used as a placeholder and the expressions correspond to the languages C++, JAVA and PYTHON.
+where `@` is used as a placeholder and the expressions correspond to the C++, JAVA and PYTHON languages.
 ```json
 "if_statement": [
 	[
@@ -25,25 +25,25 @@ where `@` is used as a placeholder and the expressions correspond to the languag
 	]
 ],
 ```
-Otherwise, we either add a new rule or extend an existing one for a particular code line. The generic expression for it is again created and then the database is updated.
-For example, we obtain the "local_variable_declaration" rule with the following list of generic expressions for an arbitrary variable declaration:
+Otherwise, we either add a new rule or extend an existing rule for a particular line of code. The generic expression for it is created again and the database is updated.
+For example, we obtain the rule "local_variable_declaration" with the following list of generic expressions for any variable declaration:
 ```
 ['type name = value;\n', 'type name = value;\n', 'name = value\n']
 ```
-And later, for instance, the rule is extended by:
+And later the rule is extended, for instance, by:
 ```
 ['type name = name operator value;\n', 'type name = name operator value;\n', 'name = name operator value\n']
 ```
-Since sometimes the parsing trees and keywords in Python differ from those in C++ and Java, an additional check is performed and if this is the case the corresponding rule is created or extended as well.
+Since the parsing trees and keywords in Python sometimes differ from those in C++ and Java, an additional check is performed, and if this is the case, the corresponding rule is  also created or extended.
 
-Lastly, the derived rules and the keywords are stored in the rules.json and keywords_treesitter.txt respectively. 
+Finally, the derived rules and the keywords are stored in the rules.json and keywords_treesitter.txt files respectively. 
 
 ### Usage
-After having the database, the model could translate single code line or a whole file. 
+After the database is created, the model can translate single line of code or an entire file. 
 
 1. Translating a line:
 
-Given a code line as an input, we create the s-expression and the parse tree for it and determine the keyword. Using the keyword, we search for the appropriate rule. Then the generic expression of the input is created and we are looking for the best match between the input and the rules. If such is found, those generic expressions should be transformed. For this, the input code is used so that we obtain e.g. the variable name or specific keywords like "bool" etc.
+Given a line of code as an input, we create the s-expression and the parse tree and determine the keyword. Based on the keyword, we search for the corresponding rule. Then the generic expression of the input is created and we look for the best match between the input and the rules. If one is found, these generic expressions should be transformed. For this, the input code is used so that we obtain e.g. the variable name or specific keywords such as "bool" etc.
 For example:
 ```
 Input code: a = 5.5
@@ -77,7 +77,7 @@ Output:	CPP: float a = 5.5;
 
 ##  Repository structure
 
-Our repository is called c2c translator and has the following structure:
+Our repository is called c2c-translator and has the following structure:
 ```
 c2c-translator
 	data
@@ -95,12 +95,12 @@ c2c-translator
 	rules.json
 	test.py
 	train.py
-	ACCOUNTING.md
-	DOCUMENTATION.md
-	README.md
-	LICENSE	
+ACCOUNTING.md
+DOCUMENTATION.md
+README.md
+LICENSE	
 ```
-In the table below, the main files and their description can be found:
+In the table below the main files and their description can be found:
 
 | File | Description |
 | ---  | ---         |
@@ -133,25 +133,25 @@ The following datasets are used for evaluating the model.
 
 There are two evaluation scripts ([test.py](test.py) and [big_eval.py](big_eval.py)).
 
-The test.py script which uses the parallel test corpus, calculates the precision score and stores the results in the data/evaluation/metrics.txt file. The translations are stored in the translations folder and the wrong translations in the data/evaluation/wrong.txt file. 
-The script requires a file and an input language. Then it translates the file, compares it with the ground truth and counts the correct translations so that the precision score is calculates at the end.
+The test.py script, which uses the parallel test corpus, calculates the precision score and stores the results in the data/evaluation/metrics.txt file. The translations are stored in the translations folder and the incorrect translations are stored in the data/evaluation/wrong.txt file. 
+The script requires a file and an input language. Then it translates the file, compares it with the ground truth and counts the correct translations so that in the end the precision score is calculated.
 
 The big_eval.py script ....
 ###TODO JONAS, KRISTIN
 
 ##  Challenges
-The hardest part was starting from scratch. We found it discouraging that our first ideas and approaches were rejected. Therefore, we were also pressed for time.
+The most difficult thing was to start from scratch. We found it discouraging that our first ideas and approaches were rejected. That's why we were also under time pressure.
 
-There was a lot of research work before actually starting with the implementation. We decided to use tree-sitter for beeing able to compare the input in the three programming languages. However, the syntax and the keywords are not universal and each language has its differences which of course makes it difficult to cover all of them.
+There was a lot of research before we started the actual implementation. We decided to use tree-sitter so that we could compare the inputs in the three programming languages. However, the syntax and the keywords are not universal and each language has its differences, which of course makes it difficult to cover all of them.
 
-Working in team could be also mentioned here. Since each of us has their own ideas and programming style, it was not always easy to come up with a compromise. 
+Working in a team could be also mentioned here. Since each of us has their own ideas and programming style, it was not always easy to come to a compromise. 
 
 ##  Future work
-It is an interesting project that requires creativity and persistence and in which a lot of work could be invested.
+It is an interesting project that requires creativity and persistence, and in which a lot of work could be invested.
 
-For now, the biggest disadvantage is that for deriving new rules, the code in the parser.py file might be extended as well.
+At the moment, the biggest drawback is that for deriving new rules, the code in the parser.py file should also be extended.
 
 ##  Conclusion
-We successfully created the procedure for deriving the rules using the parallel corpus and implemented the translation of single code lines and whole files. A parallel test dataset and a pipeline for it have also been created as well as an evaluation dataset and evaluation script.
+We have successfully created the procedure for deriving the rules using the parallel corpus and implemented the translation of individual lines of code and entire files. A parallel test dataset and a pipeline for it have been created, as well as an evaluation data set and an evaluation script.
 
-Nevertheless there are still some limitations and fields of investment.
+Nevertheless, there are still some limitations and areas of investment.
