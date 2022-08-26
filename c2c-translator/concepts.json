@@ -1,17 +1,17 @@
 {
     "array_sort_py": [
         [
-            "name = [1,2,3,4]\n name.sort()"
+            "name = [4,3,2,1]\nname.sort()"
         ]
     ],
     "array_sort_cpp": [
         [
-            "#include <algorithm>\n #include <vector>\n std::vector<int> name  = {4,3,2,1};\n name.sort(name.begin,name.end);"
+            "#include <algorithm>\n#include <vector>\nstd::vector<int> name = {4,3,2,1};\nname.sort(name.begin,name.end);"
         ]
     ],
     "array_sort_jv": [
         [
-            "import java.util.Arrays;\n type[] name = new type[] {value,value,value,value};\n Arrays.sort(name); "
+            "import java.util.Arrays;\ntype[] name = new type[] {4,3,2,1};\nArrays.sort(name);"
         ]
     ]
 }
