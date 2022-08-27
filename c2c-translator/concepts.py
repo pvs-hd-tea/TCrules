@@ -157,7 +157,7 @@ class Concept:
 
         print(concept_final + " has the highest posssibility of being a correct match. Suggestion for optimized code is in suggestion.txt")
         with open('suggestion.txt', 'w') as datas:
-            concept_string = concept_final[:-3]
+            concept_string = concept_final[:concept_final.index("_")]
             concept_string_py = concept_string + "_py"
             concept_string_jv = concept_string + "_jv"
             concept_string_cpp = concept_string + "_cpp"
@@ -184,6 +184,6 @@ def create_parse_tree(input_code, input_language):
 
 concepts = Concept()
 
-quanching = "name = [1,3,5,7,9]\nname.sort()"
+quanching = "std::vector<int> name {3,2,1};"
 
-concepts.check_similarity(quanching, PYTHON)
+concepts.check_similarity(quanching, CPP)

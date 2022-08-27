@@ -1,14 +1,14 @@
 PYTHON:
-name = [4,3,2,1]
-name.sort()
+arr = [4,3,2,1]
+arr.sort()
 ---------------------------------------------
 JAVA:
 import java.util.Arrays;
-type[] name = new type[] {4,3,2,1};
-Arrays.sort(name);
+int[] arr = {4,3,2,1};
+Arrays.sort(arr);
 ---------------------------------------------
 CPP:
 #include <algorithm>
 #include <vector>
-std::vector<int> name = {4,3,2,1};
-name.sort(name.begin,name.end);
+std::vector<int> arr {4,3,2,1};
+std::sort(arr.begin(),arr.end());
