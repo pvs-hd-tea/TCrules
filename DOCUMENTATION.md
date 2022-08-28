@@ -4,7 +4,7 @@ The goal of this project is to create a rule-based code-to-code translator for t
 
 > Begginer Software Practical "AI Methods and Tools for Programming", Summer 2022
 
-> Authors: Kristin Leoff, Jonas Ochs, Vivian Kazakova
+> Authors: Vivian Kazakova, Jonas Ochs
 
 ## Pipeline
 ### Training
@@ -126,18 +126,13 @@ The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
 |----------------|----------------|----------------
 | [test_corpus](data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
-
-###TODO JONAS, KRISTIN
+| [big_eval_corpus](data/big_eval_corpus) | 4 files per language | big dataset used for evaluating precision (in the test.py script) |
 
 ### Scripts
-
-There are two evaluation scripts ([test.py](test.py) and [big_eval.py](big_eval.py)).
 
 The test.py script, which uses the parallel test corpus, calculates the precision score and stores the results in the data/evaluation/metrics.txt file. The translations are stored in the translations folder and the incorrect translations are stored in the data/evaluation/wrong.txt file. 
 The script requires a file and an input language. Then it translates the file, compares it with the ground truth and counts the correct translations so that in the end the precision score is calculated.
 
-The big_eval.py script ....
-###TODO JONAS, KRISTIN
 
 ## Challenges
 The most difficult thing was to start from scratch. We found it discouraging that our first ideas and approaches were rejected. That's why we were also under time pressure.
