@@ -6,21 +6,20 @@ _Who has done what in the project?_
 - Presentations
 
 ### Jonas Ochs
+- parser.py (10%)
 - concepts.py (90%)
-- ideas/drafts/architecture (50%)
+- ideas/drafts/architecture (60%)
 - big_eval.py (90%)
-- parser.py(10%)
 - data/evaluation/generate_test_dataset 
-- parser (10%)
-- test.py (50%)
-- train.py (50%)
+- data/parallel_corpus (12%)
+- data/test_corpus (10%)
 
 ### Vivian Kazakova
 - parser.py (90%)
-- concepts(10%)
-- ideas/drafts/architecture (50%)
-- test.py (50%)
-- train.py (50%)
+- concepts (10%)
+- ideas/drafts/architecture (40%)
+- test.py
+- train.py
 - example.py 
 - keywords_lookup.json
 - data/parallel_corpus (88%)
