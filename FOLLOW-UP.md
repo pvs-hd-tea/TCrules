@@ -1,5 +1,9 @@
 # Follow-Up Developer Documentation
 
+> Begginer Software Practical "AI Methods and Tools for Programming", Summer 2022
+
+> Authors: Kristin Leoff, Jonas Ochs, Vivian Kazakova
+
 ![overview](./images/overview.png)
 
 ## Current state
@@ -9,6 +13,7 @@ Due to a lack of time, it was not possible to automatize the training/ learining
 1. Automate the derivation of rules, if necessary, so that as little manual work as possible is required.
 2. Continue the idea of translating entire concepts
 3. Enlarge the parallel training data set
+4. Translate other concepts, for example else-statements
 
 ### Where is the main stuff defined?
 * `parser.py` containes the definition of the RuleSet class with all the functions for deriving the rules and translating given line of code or file

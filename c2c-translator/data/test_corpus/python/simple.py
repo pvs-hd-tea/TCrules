@@ -16,7 +16,11 @@ if a > b:
 
 j = 0
 while j < 5:
-    print(j)
+    if j == 1:
+        print(j)
+    if j == 3:
+        print(3)
     j = j + 1
+
 for j in range(10,5,-1):
     x = x * x

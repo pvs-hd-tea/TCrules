@@ -2,9 +2,14 @@ import os
 import textwrap
 import re
 import json
+import logging
 from tree_sitter import Language, Parser
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
+
+# ignore WARNING:root:Applied processor reduces input query to empty string, all comparisons will have score 0.
+logging.getLogger().setLevel(logging.ERROR)
+
 
 Language.build_library(
     # Store the library in the `build` directory

@@ -6,7 +6,6 @@ import re
 
 from argparse import ArgumentParser
 
-
 logging.getLogger().setLevel(logging.ERROR)
 
 

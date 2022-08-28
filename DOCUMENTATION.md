@@ -1,4 +1,4 @@
-#  TCrules
+# TCrules
 
 The goal of this project is to create a rule-based code-to-code translator for the programming languages Python, Java and C++. The main idea is to generate and continuously extend a pattern/rule database using parallel corpora. Then the input source code is split into parts and translated via the database or by humans.
 
@@ -6,7 +6,7 @@ The goal of this project is to create a rule-based code-to-code translator for t
 
 > Authors: Kristin Leoff, Jonas Ochs, Vivian Kazakova
 
-##  Pipeline
+## Pipeline
 ### Training
 For training the model, i.e. deriving the rules, we use a parallel corpus we created ourself which consists of 10 files per language. 
 The model goes through all files line by line. For each line, the s-expression and the parse tree is created uing the [tree-sitter](https://github.com/tree-sitter/tree-sitter) parsers. 
@@ -75,7 +75,7 @@ Output:	CPP: float a = 5.5;
 2. Translating a file:
 ###TODO JONAS, KRISTIN
 
-##  Repository structure
+## Repository structure
 
 Our repository is called c2c-translator and has the following structure:
 ```
@@ -120,7 +120,7 @@ In the table below the main files and their description can be found:
 |[data/geeks_for_geeks](data/geeks_for_geeks)| Folder containing the parallel corpus from Geeks for Geeks |
 
 
-##  Evaluation
+## Evaluation
 ### Data
 The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
@@ -139,19 +139,21 @@ The script requires a file and an input language. Then it translates the file, c
 The big_eval.py script ....
 ###TODO JONAS, KRISTIN
 
-##  Challenges
+## Challenges
 The most difficult thing was to start from scratch. We found it discouraging that our first ideas and approaches were rejected. That's why we were also under time pressure.
 
 There was a lot of research before we started the actual implementation. We decided to use tree-sitter so that we could compare the inputs in the three programming languages. However, the syntax and the keywords are not universal and each language has its differences, which of course makes it difficult to cover all of them.
 
 Working in a team could be also mentioned here. Since each of us has their own ideas and programming style, it was not always easy to come to a compromise. 
 
-##  Future work
+## Future work
 It is an interesting project that requires creativity and persistence, and in which a lot of work could be invested.
 
-At the moment, the biggest drawback is that for deriving new rules, the code in the parser.py file should also be extended.
+At the moment, the biggest drawback is that for deriving new rules, the code in the parser.py file might need to be extended.
 
-##  Conclusion
+Future work on this project may include the following tasks. The derivation of rules could be automated, if necessary, so that as little manual work as possible is required. The idea of translating entire concepts/algorithms should be completed. The parallel training dataset needs to be enlarged so that more concepts can be translated.
+
+## Conclusion
 We have successfully created the procedure for deriving the rules using the parallel corpus and implemented the translation of individual lines of code and entire files. A parallel test dataset and a pipeline for it have been created, as well as an evaluation data set and an evaluation script.
 
 Nevertheless, there are still some limitations and areas of investment.

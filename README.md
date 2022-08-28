@@ -1,5 +1,5 @@
 # TCrules
-The goal of this project is to create a rule-based code-to-code translator for the programming languages Python, Java and C++. The main idea is to generate and continuously extend a pattern/rule database using parallel corpora. Then the input source code is split into parts and translated via the database or by humans. See [DOCUMENTATION.md](DOCUMENTATION.md) for more details.
+The goal of this project is to create a rule-based code-to-code translator for the programming languages Python, Java and C++. The main idea is to generate and continuously extend a pattern/rule database using parallel corpora. Then the input source code is split into parts and translated via the database or by humans. See [DOCUMENTATION.md](DOCUMENTATION.md) and [FOLLOW-UP.md](FOLLOW-UP.md) for more details.
 
 > Begginer Software Practical "AI Methods and Tools for Programming", Summer 2022
 >
