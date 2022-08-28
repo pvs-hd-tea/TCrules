@@ -3,7 +3,7 @@ The goal of this project is to create a rule-based code-to-code translator for t
 
 > Begginer Software Practical "AI Methods and Tools for Programming", Summer 2022
 >
-> Authors: Kristin Leoff, Jonas Ochs, Vivian Kazakova
+> Authors: Vivian Kazakova, Jonas Ochs
 
 ## Getting Started
 
@@ -63,7 +63,6 @@ python3 example.py
 |[example.py](example.py) | Usage example |
 |[train.py](train.py) | Script for deriving the rules using the parallel corpus |
 |[test.py](test.py) | Evaluation script on files from the test_corpus, calculates metrics, stores translations and wrong translated lines |
-|[big_eval.py](big_eval.py) |Big evaluation script on bigger files and custom files, backtranslating given files to see, if a double translation gives the same result as the original |
 |[data/parallel_corpus](data/parallel_corpus)| Folder containing the parallel corpus for generating the rules |
 |[data/test_corpus](data/test_corpus)| Folder containing the test corpus for evaluating the translations |
 |[data/translation](data/translations)| Folder containing the translations |
@@ -101,8 +100,6 @@ For example:
 ```
 python3 test.py -f simple.java -l java
 ```
-
-The big_eval.py script evaluates the 1000 files randomly generated with either one line of code per file or many lines of code with if-statements or while-loops with if statements. It tries to match line by line to give an accurate evaluation of working statement translation.
 
 #### Rules
 There are 6 rules for translating code lines and statements between the three programming languages C++, Java and Python defined in the rules.json file. Existing rules can be changed and new ones can be added by enlarging the parallel corpus and running the database generation script. The name of the rule corresponds to the keyword extracted from the tree-sitter parse tree and each rule consists of one or multiple lists of generic expressions for the three languages.
