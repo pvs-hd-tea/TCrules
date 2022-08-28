@@ -36,4 +36,4 @@ Here the structure of the DB is presented.
 The training proceeds as follows.
 ![training](./images/training.png)
 The translation proceeds as follows:
-![translating](./images/traslating.png)
+![translating](./images/translating.png)
