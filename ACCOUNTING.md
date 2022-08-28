@@ -7,7 +7,7 @@ _Who has done what in the project?_
 
 ### Jonas Ochs
 - concepts.py (100%)
-- ideas/drafts/architecture (70%)
+- ideas/drafts/architecture (50%)
 - big_eval.py (90%)
 - parser.py(10%)
 - data/evaluation/generate_test_dataset 
