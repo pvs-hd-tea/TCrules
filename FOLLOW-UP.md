@@ -1,9 +1,5 @@
 # Follow-Up Developer Documentation
 
-> Begginer Software Practical "AI Methods and Tools for Programming", Summer 2022
-
-> Authors: Kristin Leoff, Jonas Ochs, Vivian Kazakova
-
 ![overview](./images/overview.png)
 
 ## Current state
@@ -13,13 +9,15 @@ Due to a lack of time, it was not possible to automatize the training/ learining
 1. Automate the derivation of rules, if necessary, so that as little manual work as possible is required.
 2. Continue the idea of translating entire concepts
 3. Enlarge the parallel training data set
-4. Translate other concepts, for example else-statements
 
-### Where is the main stuff defined?
-* `parser.py` containes the definition of the RuleSet class with all the functions for deriving the rules and translating given line of code or file
+### Where are all necessary functions defined?
+* `parser.py` contains the definition of the RuleSet class with all the functions for deriving the rules and translating given line of code or file
 * `keywords_lookup.json` contains keyword to keyword mappings used for the translation
 * `rules.json` contains the derived rules used then for the translation
 * `data/parallel_corpus` contains the parallel training data set used for deriving the rules
+* 'concepts.py' contains the definition of Concepts with functions for checking concepts in code and giving suggestions for improvements of translation
+* 'concepts.json' contains the concepts that may match with given code and suggest the more efficient way
+* 'keywords_concept.txt' contains the keywords to look up entries in concepts.json
 
 ### Add new rules
 Of course, rules can also be added manually by modifying the rules.json file. But since this is not what we want, to derive rules for concepts other than assignments, declarations, if-, for-, while-statements, small improvements in parser.py might be necessary, especially for creating correct generalized code. However, you should first try to use the c2c translator without any other implementations.
