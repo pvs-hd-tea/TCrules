@@ -16,7 +16,14 @@ if (a > b) {
 }
 int j = 0;
 while (j < 5) {
-    std::cout<<j;
+    if (j == 1) {
+        std::cout<<j;
+    }
+    
+    if (j == 3) {
+        std::cout<<3;
+    }
+    
     j = j + 1;
 }
 for (int j=10; j>5; j--) {

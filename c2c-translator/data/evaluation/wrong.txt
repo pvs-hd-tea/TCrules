@@ -30,3 +30,23 @@ data/test_corpus/java/simple.java vs. data/translations/simple_from_python.java
 13)    a = 10;
 13)    int a = 10;
 ___________
+data/test_corpus/python/simple.py vs. data/translations/simple_from_python.py
+21)    if j == 3:
+19)    
+___________
+data/test_corpus/python/simple.py vs. data/translations/simple_from_python.py
+22)        print(3)
+20)    if j == 3:
+___________
+data/test_corpus/python/simple.py vs. data/translations/simple_from_python.py
+24)    j = j + 1
+21)        print(3)
+___________
+data/test_corpus/python/simple.py vs. data/translations/simple_from_python.py
+26)for j in range(10,5,-1):
+22)    
+___________
+data/test_corpus/python/simple.py vs. data/translations/simple_from_python.py
+27)    x = x * x
+23)    j = j + 1
+___________

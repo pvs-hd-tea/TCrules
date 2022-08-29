@@ -48,7 +48,7 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
         i = 0 # track relevant lines
 
         if len(lines_source) >= len(lines_translation):
-            for j,line_source in enumerate(lines_source):
+            for j, line_source in enumerate(lines_source):
                 if line_source.lstrip() != "": # non-empty line
                     if i < len(lines_translation) and line_source.rstrip() == lines_translation[i].rstrip():
                         correct += 1
@@ -65,9 +65,9 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
                         correct += 1
                     elif i < len(lines_source):
                         if not write_eval_in_file:
-                            print(f"wrong translation: {j,line_translation} of source: {i, lines_source[i]}")
+                            print(f"wrong translation: {j, line_translation} of source: {i, lines_source[i]}")
                         else:
-                            wrong.write(input_file + " vs. " + translation_file +"\n" + str(j)+")"+line_source+str(i)+")"+lines_translation[i]+"___________\n")
+                            wrong.write(input_file + " vs. " + translation_file +"\n" + str(i)+")"+lines_source[i]+str(j)+")"+line_translation+"___________\n")
                     i += 1
 
         precision = correct / total_lines
@@ -89,7 +89,7 @@ if __name__ == "__main__":
     arg_parser.add_argument("-f", "--file", type=str, help="input source code to be translated", metavar="FILE", required=True)
     arg_parser.add_argument("-l", "--language", help="input language to be translated from", choices=["cpp","java","python"], required=True)
     arg_parser.add_argument("-e", "--evaluation", help="store evaluation metrics in a separate file", choices=["True","False"], required=False)
-    arg_parser.add_argument("-b", "--bigeval",help="Big evaluation of big_eval_corpus",required=False)
+    arg_parser.add_argument("-b", "--bigeval", help="run evaluation on big_eval_corpus", required=False)
 
 
     arguments = arg_parser.parse_args()
