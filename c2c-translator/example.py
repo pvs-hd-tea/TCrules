@@ -25,7 +25,7 @@ if __name__ == "__main__":
     print(f"\n2) Translations from source file ({input_file}):")
 
     time.sleep(1)
-    
+
     if len(translations) > 1: # multiple parts
         zipped = zip(*translations)
         for i, element in enumerate(zipped):
@@ -34,7 +34,8 @@ if __name__ == "__main__":
                 print(line[:-1])
             time.sleep(1)
     else:
-        print("\n\n"+languages[i]+"\n___________")
-        for line in translations:
-            print(line)
-        time.sleep(1)
+        for i in range(3):
+            print("\n\n"+languages[i]+"\n___________")
+            for line in translations:
+                print(line)
+            time.sleep(1)

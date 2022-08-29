@@ -16,7 +16,7 @@ true_false = ["true", "false"]
 
 
 def create_python_dataset():
-    with open('../../test_corpus/python_declaration_dataset.py', 'w') as f:
+    with open('../../test_corpus/python_declaration_dataset.py','w',encoding="utf8") as f:
         for i in range(1, 100):
             random_name = ''.join(random.choices(
                 string.ascii_uppercase + string.ascii_lowercase, k=6))
@@ -32,7 +32,7 @@ def create_python_dataset():
 
 def create_java_dataset():
 
-    with open('../../test_corpus/java_declaration_dataset.java', 'w') as f:
+    with open('../../test_corpus/java_declaration_dataset.java','w',encoding="utf8") as f:
         for i in range(1, 100):
             random_name = ''.join(random.choices(
                 string.ascii_uppercase + string.ascii_lowercase, k=6))
@@ -53,7 +53,7 @@ def create_java_dataset():
 
 
 def create_cpp_dataset():
-    with open('../../test_corpus/cpp_declaration_dataset.cpp', 'w') as f:
+    with open('../../test_corpus/cpp_declaration_dataset.cpp','w',encoding="utf8") as f:
         for i in range(1, 100):
             random_name = ''.join(random.choices(
                 string.ascii_uppercase + string.ascii_lowercase, k=6))

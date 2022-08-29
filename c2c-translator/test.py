@@ -31,7 +31,7 @@ def evaluate_translations(ground_truth, translations, write_eval_in_file=False):
     with open("data/evaluation/wrong.txt","a+",encoding="utf8") as wrong:
         wrong.truncate(0)
         wrong.seek(0)
-    
+
     for source, translation in zip(ground_truth, translations):
         calculate_metrics(source, translation, write_eval_in_file)
 

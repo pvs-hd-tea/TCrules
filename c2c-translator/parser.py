@@ -40,7 +40,7 @@ CPP = "CPP"
 
 types = ["int", "float", "double", "boolean", "bool", "string", "String","class","public","void"]
 
-operators = [["==", "!=", ">=", "<=", ">", "<"],  # comparison
+operators_list = [["==", "!=", ">=", "<=", ">", "<"],  # comparison
              ["++", "+=", "+", "--", "-=", "-", "//",
                  "/=", "/", "%=", "%", "**", "*=", "*"],
              # arithmetic and assignment
@@ -420,7 +420,7 @@ class RuleSet:
                     condition = condition.replace("step", "-1")
                 elif step[0] == "++":
                     condition = condition.replace("step", "1")
-            
+
             elif "range" in condition and i in [0, 1]: # condition in for statement python
                 _, variable = extract_name(self, condition)
                 start, stop, step = extract_value(condition)
@@ -484,6 +484,7 @@ class RuleSet:
 
 
     def replace_token(self, tokens_to_replace, keywords, i, updated_input):
+        """replace the given tokens with their correspondence"""
         for index, token in enumerate(tokens_to_replace):
             if i == 0 and token != keywords[index]["cpp"]:
                 updated_input = re.sub(token, keywords[index]["cpp"], updated_input)
@@ -495,6 +496,7 @@ class RuleSet:
 
 
     def get_tokens_tobe_replaced(self, tokens):
+        """define the tokens to be replaced by equivalent tokens in the corresponding language"""
         keywords = []
         tokens_to_replace = []
         for token in tokens:
@@ -502,7 +504,7 @@ class RuleSet:
             if best_match[-1] >= 70:
                 keywords.append(self.keywords[best_match[0]])
                 tokens_to_replace.append(token)
-        
+
         return keywords, tokens_to_replace
 
 
@@ -640,7 +642,7 @@ def create_generic_statement_cpp_java(i, lines, line, statement, j, else_index, 
 
     block = re.findall(r'(\{([^{}]*)})', statement)
     temp = statement
-    
+
     # block in block
     while re.findall(r'(\{([^{}]*)})', temp):
         block = re.findall(r'(\{([^{}]*)})', temp)
@@ -731,7 +733,7 @@ def extract_name(self, input_string):
     for token in tokens:
         if token in types:
             tokens.remove(token)
-        for op_list in operators:
+        for op_list in operators_list:
             if token in op_list:
                 tokens.remove(token)
 
@@ -746,9 +748,9 @@ def extract_name(self, input_string):
 
 def extract_operator(input_string):
     """return operators from given input"""
-    op = []
-    for group in operators:
+    extracted_operators = []
+    for group in operators_list:
         for operator in group:
             if operator in input_string:
-                op.append(operator)
-    return op if op else None
+                extracted_operators.append(operator)
+    return extracted_operators if extracted_operators else None

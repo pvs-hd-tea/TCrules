@@ -2,10 +2,9 @@ import datetime
 import parser
 import logging
 import re
-
+from argparse import ArgumentParser
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
-from argparse import ArgumentParser
 
 
 logging.getLogger().setLevel(logging.ERROR)
@@ -75,30 +74,30 @@ def calculate_metrics(input_file, translation_file, write_eval_in_file=False):
 
 
 def big_evalation(file, language):
+    """translate given source file and evaluate via backtranslation"""
     translation = rule_set.translate_file(file, language)
-    with open("data/eval/translation" + language + "to" + "CPP.cpp","w") as cpp, open("data/eval/translation" + language + "to" + "JAVA.java","w") as jv, open("data/eval/translation" + language + "to" + "PYTHON.py","w") as py:
+    with open("data/eval/translation" + language + "toCPP.cpp","w",encoding="utf8") as cpp, open("data/eval/translation" + language + "toJAVA.java","w",encoding="utf8") as jv, open("data/eval/translation" + language + "toPYTHON.py","w",encoding="utf8") as py:
         for code_line in translation:
             cpp.write(code_line[0])
             jv.write(code_line[1])
             py.write(code_line[2])
-    translation_two = rule_set.translate_file("data/eval/translation" + language + "to" + "CPP.cpp", "CPP")
-    with open("data/eval/backtranslation" + language + "to" + "CPP.cpp","w") as cpp, open("data/eval/backtranslation" + language + "to" + "JAVA.java","w") as jv, open("data/eval/backtranslation" + language + "to" + "PYTHON.py","w") as py:
+
+    translation_two = rule_set.translate_file("data/eval/translation" + language + "toCPP.cpp", "CPP")
+    with open("data/eval/backtranslation" + language + "toCPP.cpp","w",encoding="utf8") as cpp, open("data/eval/backtranslation" + language + "toJAVA.java","w",encoding="utf8") as jv, open("data/eval/backtranslation" + language + "toPYTHON.py","w",encoding="utf8") as py:
         for code_line in translation_two:
             cpp.write(code_line[0])
             jv.write(code_line[1])
             py.write(code_line[2])
-        
+
 
 if __name__ == "__main__":
 
     arg_parser = ArgumentParser()
-    arg_parser.add_argument("-f", "--file", type=str,
-                            help="input source code to be translated", metavar="FILE", required=True)
+    arg_parser.add_argument("-f", "--file", type=str, help="input source code to be translated", metavar="FILE", required=True)
     arg_parser.add_argument("-i", "--inputlanguage", choices=["CPP","JAVA","PYTHON"], required=True)
     arg_parser.add_argument("-o", "--outputlanguage", choices=["CPP","JAVA","PYTHON"], required=False)
-    arg_parser.add_argument("-p","--parallel",type=bool,required=False)
+    arg_parser.add_argument("-p","--parallel", type=bool,required=False)
     arg_parser.add_argument("-c","--customeval", type=bool, required=False)
-
 
     arguments = arg_parser.parse_args()
     source_file = arguments.file
@@ -127,6 +126,6 @@ if __name__ == "__main__":
     elif customeval:
         big_evalation("data/eval/"+ source_file, input_language)
 
-        calculate_metrics("data/eval/" + source_file, "data/eval/backtranslation" + input_language + "to" + "CPP.cpp") #, True)
-        calculate_metrics("data/eval/" + source_file, "data/eval/backtranslation" + input_language + "to" + "JAVA.java") #, True)
-        calculate_metrics("data/eval/" + source_file, "data/eval/backtranslation" + input_language + "to" + "PYTHON.py") #, True)
+        calculate_metrics("data/eval/" + source_file, "data/eval/backtranslation" + input_language + "toCPP.cpp") #, True)
+        calculate_metrics("data/eval/" + source_file, "data/eval/backtranslation" + input_language + "toJAVA.java") #, True)
+        calculate_metrics("data/eval/" + source_file, "data/eval/backtranslation" + input_language + "toPYTHON.py") #, True)

@@ -131,7 +131,7 @@ class Concept:
 
     def check_similarity(self, input_code, input_language):
         parse_tree = create_parse_tree(input_code, input_language)
-    
+
         if input_language == PYTHON:
             lang_id = "py"
         elif input_language == JAVA:

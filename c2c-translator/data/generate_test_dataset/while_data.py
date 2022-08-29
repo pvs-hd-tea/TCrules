@@ -23,7 +23,7 @@ def create_random_bool_statement():
 
 
 def create_python_dataset():
-    with open('../../test_corpus/python_while_dataset.py', 'w') as f:
+    with open('../../test_corpus/python_while_dataset.py','w',encoding="utf8") as f:
         for i in range(1, 100):
 
             random_line_one = random.choice(
@@ -60,7 +60,7 @@ def create_python_dataset():
 
 def create_java_dataset():
 
-    with open('../../test_corpus/java_while_dataset.java', 'w') as f:
+    with open('../../test_corpus/java_while_dataset.java','w',encoding="utf8") as f:
         for i in range(1, 100):
             random_line_one = random.choice(
                 list(open('../../test_corpus/java_assignment_dataset.java')))
@@ -95,7 +95,7 @@ def create_java_dataset():
 
 
 def create_cpp_dataset():
-    with open('../../test_corpus/cpp_while_dataset.cpp', 'w') as f:
+    with open('../../test_corpus/cpp_while_dataset.cpp','w',encoding="utf8") as f:
         for i in range(1, 100):
             random_line_one = random.choice(
                 list(open('../../test_corpus/cpp_assignment_dataset.cpp')))
