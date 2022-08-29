@@ -1,6 +1,6 @@
 import parser
 import time
-
+import concepts
 
 if __name__ == "__main__":
 
@@ -39,3 +39,15 @@ if __name__ == "__main__":
             for line in translations:
                 print(line)
             time.sleep(1)
+
+
+
+
+    print("-------------------------------------")
+
+
+    concept = concepts.Concept()
+    input_code = "list_ = [1,4,3,2,5]\nlist_.sort()"
+    concept.check_similarity(input_code,"PYTHON")
+        
+

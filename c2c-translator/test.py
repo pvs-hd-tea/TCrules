@@ -89,11 +89,13 @@ if __name__ == "__main__":
     arg_parser.add_argument("-f", "--file", type=str, help="input source code to be translated", metavar="FILE", required=True)
     arg_parser.add_argument("-l", "--language", help="input language to be translated from", choices=["cpp","java","python"], required=True)
     arg_parser.add_argument("-e", "--evaluation", help="store evaluation metrics in a separate file", choices=["True","False"], required=False)
+    arg_parser.add_argument("-b", "--bigeval",help="Big evaluation of big_eval_corpus",required=False)
 
 
     arguments = arg_parser.parse_args()
     source_file = arguments.file
     input_language = arguments.language.upper()
+    bigeval = arguments.bigeval
 
     file_name = re.sub(r"([\w,-]*)(\.[a-z]*)", r"\1", source_file)
 
@@ -102,5 +104,13 @@ if __name__ == "__main__":
 
     translate("data/test_corpus/" + input_language.lower() + "/" + source_file, input_language, file_name)
     evaluate_translations(ground_truth_files, translation_files, True)
+
+    if bigeval:
+
+        ground_truth_files_evaluation = ["data/big_eval_corpus/" + folder + file_name + ending for folder, ending in [("cpp/", ".cpp"),("java/", ".java"),("python/", ".py")]]
+        translation_files_evaluation = ["data/translations/" + file_name + "_from_" + input_language.lower() + type for type in [".cpp",".java",".py"]]
+
+        translate("data/big_eval_corpus/" + input_language.lower() + "/" + source_file, input_language, file_name)
+        evaluate_translations(ground_truth_files, translation_files, True)
 
     rule_set.save_rules() # since user may add/extend rules

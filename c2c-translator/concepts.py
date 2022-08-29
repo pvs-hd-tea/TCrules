@@ -11,17 +11,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    #[
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-java',
-    #    '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    #]
-    # Vivian
     [
-        '/home/vivi/src/tree-sitter-python',
-        '/home/vivi/src/tree-sitter-java',
-        '/home/vivi/src/tree-sitter-cpp'
+       '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+       '/Users/jonas/Documents/GitHub/tree-sitter-java',
+       '/Users/jonas/Documents/GitHub/tree-sitter-python'
     ]
+    # Vivian
+    # [
+    #     '/home/vivi/src/tree-sitter-python',
+    #     '/home/vivi/src/tree-sitter-java',
+    #     '/home/vivi/src/tree-sitter-cpp'
+    # ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -127,7 +127,7 @@ class Concept:
                 if final_concept[-1] >= 80:
                     concept_final = concept
 
-        print(concept_final + " " + "has the highest posssibility of being a correct match. Suggestion for optimized code is in suggestion.txt")
+        print(concept_final + " " + "has the highest posssibility of being a correct match. Suggestion for optimized translation code is in suggestion.txt")
         with open('suggestion.txt', 'w') as datas:
             concept_string = concept_final[:concept_final.index("_")]
             concept_string_py = concept_string + "_py"
