@@ -129,12 +129,21 @@ Concepts are mostly compromised of the most efficient ways of translating reocur
 Therefore input code is checked on concepts and if a reocurring principle is found, the language specific golden way is chosen.
 Example:
 ```json
-"array_sort": [
-    [
-        "#include <algorithm>\n #include <vector>\n std::vector<int> list_ = {1,4,3,2};\n list_.sort(list_.begin,list_.end);",
-	
-        "import java.util.Arrays;\n int[] list_ = new int[] {1,4,3,2};\n Arrays.sort(list_); ",
-	
-        "list_ = [1,4,3,2]\n list_.sort()"
+{
+    "sortarr_py": [
+        [
+            "arr = [4,3,2,1]\narr.sort()"
+        ]
+    ],
+    "sortarr_cpp": [
+        [
+            "#include <algorithm>\n#include <vector>\nstd::vector<int> arr {4,3,2,1};\nstd::sort(arr.begin(),arr.end());"
+        ]
+    ],
+    "sortarr_jv": [
+        [
+            "import java.util.Arrays;\nint[] arr = {4,3,2,1};\nArrays.sort(arr);"
+        ]
     ]
+}
 ```
