@@ -54,10 +54,10 @@ class Concept:
                 self.concepts = json.load(file)
                 print(f"Loading {len(self.concepts)} concepts ... Done ...")
 
-        if not os.path.isfile("keywords_concept.txt"):
+        if not os.path.isfile("keywords_concepts.txt"):
             self.tree_concepts = []
         else:
-            with open("keywords_concept.txt", encoding="utf8") as file:
+            with open("keywords_concepts.txt", encoding="utf8") as file:
                 self.tree_concepts = file.read().split(",")
                 print(f"Loading {len(self.tree_concepts)} keywords for concepts ... Done ...")
 
@@ -72,7 +72,7 @@ class Concept:
 
     def save_keywords(self):
         """store keywords from own json"""
-        with open("keywords_concept.txt", "a+", encoding="utf8") as file:
+        with open("keywords_concepts.txt", "a+", encoding="utf8") as file:
             file.truncate(0)
             file.seek(0)
             length = len(self.tree_concepts) - 1

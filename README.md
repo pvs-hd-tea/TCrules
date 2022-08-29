@@ -60,11 +60,15 @@ python3 example.py
 |[rules.json](c2c-translator/rules.json) | Pattern/rule database |
 |[keywords_treesitter.txt](c2c-translator/keywords_treesitter.txt) | List with root node first children keyword from tree-sitter |
 |[keywords_lookup.json](c2c-translator/keywords_lookup.json) | keyword to keyword mappings |
+|[concepts.json](c2c-translator/concepts.json) | File containing concepts |
+|[keywords_concepts.txt](c2c-translator/keywords_concepts.txt) | Containing entries of the concept database |
+|[suggestion.txt](c2c-translator/suggestion.txt) | Containing the suggestion made by the concept script for translating more efficiently |
 |[example.py](c2c-translator/example.py) | Usage example |
 |[train.py](c2c-translator/train.py) | Script for deriving the rules using the parallel corpus |
 |[test.py](c2c-translator/test.py) | Evaluation script on files from the test_corpus, calculates metrics, stores translations and wrong translated lines |
 |[data/parallel_corpus](c2c-translator/data/parallel_corpus)| Folder containing the parallel corpus for generating the rules |
 |[data/test_corpus](c2c-translator/data/test_corpus)| Folder containing the test corpus for evaluating the translations |
+|[data/big_eval_corpus](c2c-translator/data/big_eval_corpus)| Folder containing an evaluation dataset | 
 |[data/translation](c2c-translator/data/translations)| Folder containing the translations |
 |[data/evaluation](c2c-translator/data/evaluation)| Folder containing a file with the metrics from the evaluation and a file with the wrong translations |
 |[data/generate_test_dataset](c2c-translator/data/generate_test_dataset)| Folder containing scripts for generating the big test datasets (assignment, declaration, if and while statements) |
@@ -75,12 +79,12 @@ The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
 |----------------|----------------|----------------
 | [test_corpus](c2c-translator/data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
-| [evaluation_corpus](c2c-translator/data/evaluation_corpus) | 4 big files per language | dataset used for evaluation (in the big_eval.py script) |
+| [big_eval_corpus](c2c-translator/data/big_eval_corpus) | 4 files per language | bigger dataset used for evaluating precision (in the test.py script) |
 
 
 #### Evaluation
 
-The test.py script which uses the parallel test corpus, calculates the precision score and stores the results in the `data/evaluation/metrics.txt` file. The translations are stored in the `translations` folder and the wrong translations in the `data/evaluation/wrong.txt` file.
+The test.py script which uses the parallel test corpus, calculates the precision score and stores the results in the `data/evaluation/metrics.txt` file. The translations are stored in the `data/translations` folder and the wrong translations in the `data/evaluation/wrong.txt` file.
 
 Run
 ```
@@ -93,15 +97,27 @@ optional arguments:
                         input language to be translated from
   -e {True,False}, --evaluation {True,False}
                         store evaluation metrics in a separate file
+  -b BIGEVAL, --bigeval BIGEVAL
+                        run evaluation on big_eval_corpus
 ```
 For example:
 ```
+python3 test.py -f simple.cpp -l cpp
+```
+```
 python3 test.py -f simple.java -l java
+```
+```
+python3 test.py -f simple.py -l python
 ```
 
 #### Rules
-There are 6 rules for translating code lines and statements between the three programming languages C++, Java and Python defined in the rules.json file. Existing rules can be changed and new ones can be added by enlarging the parallel corpus and running the database generation script. The name of the rule corresponds to the keyword extracted from the tree-sitter parse tree and each rule consists of one or multiple lists of generic expressions for the three languages.
-Example:
+The derived rules are stored in the rules.json file. We distinguish between main and sub rules and for now there are 6 main rules for translating lines of code and statements between the three programming languages C++, Java and Python.
+The name of the main rule corresponds to the keyword extracted from the tree-sitter parse tree root node and each sub rule consists of one or multiple lists of generic expressions/ generalized code for the three languages.
+
+Existing rules can be changed and new ones can be added by enlarging the parallel corpus and running the database generation script or by modifying the file manually.
+
+An example rule from the database:
 ```json
 "expression_statement": [
     [

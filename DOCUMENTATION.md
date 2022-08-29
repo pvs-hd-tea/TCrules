@@ -1,6 +1,6 @@
 # TCrules
 
-The goal of this project is to create a rule-based code-to-code translator for the programming languages Python, Java and C++. The main idea is to generate and continuously extend a pattern/rule database using parallel corpora. Then the input source code is split into parts and translated via the database or by humans.
+The goal of this project is to create a rule-based code-to-code translator for the programming languages C++, Java and Python. The main idea is to generate and continuously extend a pattern/rule database using parallel corpora. Then the input source code is split into parts and translated via the database or by the user.
 
 > Begginer Software Practical "AI Methods and Tools for Programming", Summer 2022
 
@@ -8,9 +8,9 @@ The goal of this project is to create a rule-based code-to-code translator for t
 
 ## Pipeline
 ### Training
-For training the model, i.e. deriving the rules, we use a parallel corpus we created ourself which consists of 10 files per language. 
-The model goes through all files line by line. For each line, the s-expression and the parse tree is created using the [tree-sitter](https://github.com/tree-sitter/tree-sitter) parsers. 
-Then the keyword of first children of the root node is extracted. If there is a statement (if-, while- or for-statement) and there is not a rule for it yet, the block is determined, the generic expression for it is created and the rule is added to the database.
+For training the model, i.e. deriving the rules, we use a parallel corpus we created ourself which consists of 8 files per language, which cover the main concepts the model could translate (assignments, declarations, if-, while- and for-statements).
+The model goes through the files line by line. For each line, the s-expression and the parse tree is created using the [tree-sitter](https://github.com/tree-sitter/tree-sitter) parsers. 
+Then the keyword from the first child of the root node is extracted. If this is a statement (if-, while- or for-statement) and there is not a rule derived for it yet, the block is determined, the generic expression for it is created and the rule is added to the database.
 For example, we get the following generic expressions and rule for any if-statement:
 ```
 ['if (@) {\n    @\n}\n', 'if (@) {\n    @\n}\n', 'if @:\n    @\n']
@@ -34,16 +34,16 @@ And later the rule is extended, for instance, by:
 ```
 ['type name = name operator value;\n', 'type name = name operator value;\n', 'name = name operator value\n']
 ```
-Since the parsing trees and keywords in Python sometimes differ from those in C++ and Java, an additional check is performed, and if this is the case, the corresponding rule is  also created or extended.
+Since the parsing trees and keywords in Python sometimes differ from those in C++ and Java, an additional check is performed, and if this is the case, the corresponding rule is also created or extended.
 
 Finally, the derived rules and the keywords are stored in the rules.json and keywords_treesitter.txt files respectively. 
 
 ### Usage
-After the database is created, the model can translate single line of code or an entire file. 
+After the database is created, the model might start translating single line of code or an entire file. 
 
 1. Translating a line:
 
-Given a line of code as an input, we create the s-expression and the parse tree and determine the keyword. Based on the keyword, we search for the corresponding rule. Then the generic expression of the input is created and we look for the best match between the input and the rules. If one is found, these generic expressions should be transformed. For this, the input code is used so that we obtain e.g. the variable name or specific keywords such as "bool" etc.
+Given a line of code as an input, we create the s-expression and the parse tree and determine the keyword. Based on the keyword, we search for the corresponding rule. Then the generic expression of the input is created and we look for the best match between the input and the rules. If one is found, these generic expressions would be transformed. For this, the input code is used so that we obtain e.g. the variable name or specific keywords such as "bool" etc.
 For example:
 ```
 Input code: a = 5.5
@@ -74,9 +74,7 @@ Output:	CPP: float a = 5.5;
 
 2. Translating a file:
 
-If a file is given as an input, it is read in line by line first and lines get enumerated. The parse tree then gets checked for keywords like "if_statement","while_statement" or "for_statement".
-Then, a parse tree is created and new lines are getting added, as long as the S-Expression contains an error, meaning structures like while or for loops or if statements are not "finished" yet. 
-The enumerated lines are then translated according to the rules for translating lines.
+The translation of an entire file given as an input proceeds similar, but the main point here is that the file is split into its main parts/blocks. The source file is read line by line and the single blocks (line of code or statement such as if-, while- or for-statements) are translated separately and then joined again into a complete file.
 
 ## Repository structure
 
@@ -86,24 +84,28 @@ c2c-translator
 	data
 		data/big_eval_corpus
 		data/evaluation
+			metrics.txt
+			wrong.txt
 		data/geeks_for_geeks_dataset
 		data/generate_test_dataset
 		data/parallel_corpus
 		data/test_corpus
 		data/translations
+	concepts.json
+	concepts.py
 	example.py
+	keywords_concepts.txt
 	keywords_lookup.json
 	keywords_treesitter.txt
 	parser.py
-	concepts.py
-	concepts.json
-	suggestion.txt
-	keywords_concept.txt
 	rules.json
+	suggestion.txt
 	test.py
 	train.py
+	images
 ACCOUNTING.md
 DOCUMENTATION.md
+FOLLOW-UP.md
 README.md
 LICENSE	
 ```
@@ -119,12 +121,12 @@ In the table below the main files and their description can be found:
 |[train.py](c2c-translator/train.py) | Script for deriving the rules using the parallel corpus |
 |[test.py](c2c-translator/test.py) | Evaluation script on files from the test_corpus, calculates metrics, stores translations and wrong translated lines |
 |[concepts.py](c2c-translator/concepts.py) | Script containing the Concepts class with functions for matching known concepts saved in concepts.json |
-|[keywords_concept.txt](c2c-translator/keywords_concept.txt) | Containing entries of the concept database |
+|[keywords_concepts.txt](c2c-translator/keywords_concepts.txt) | Containing entries of the concept database |
 |[suggestion.txt](c2c-translator/suggestion.txt) | Containing the suggestion made by the concept script for translating more efficiently |
 |[concepts.json](c2c-translator/concepts.json) | File containing concepts |
-|[data/big_eval_corpus](c2c-translator/data/big_eval_corpus)| Folder containing an evaluation dataset | 
 |[data/parallel_corpus](c2c-translator/data/parallel_corpus)| Folder containing the parallel corpus for generating the rules |
 |[data/test_corpus](c2c-translator/data/test_corpus)| Folder containing the test corpus for evaluating the translations |
+|[data/big_eval_corpus](c2c-translator/data/big_eval_corpus)| Folder containing an evaluation dataset | 
 |[data/translation](c2c-translator/data/translations)| Folder containing the translations |
 |[data/evaluation](c2c-translator/data/evaluation)| Folder containing a file with the metrics from the evaluation and a file with the wrong translations |
 |[data/generate_test_dataset](c2c-translator/data/generate_test_dataset)| Folder containing scripts for generating the big test datasets (assignment, declaration, if and while statements) |
@@ -136,12 +138,11 @@ In the table below the main files and their description can be found:
 The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
 |----------------|----------------|----------------
-| [test_corpus](c2c-translator/data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
-| [big_eval_corpus](c2c-translator/data/big_eval_corpus) | 4 files per language | big dataset used for evaluating precision (in the test.py script) |
+| [test_corpus](c2c-translator/data/test_corpus) | 10 files per language | parallel dataset used in the test.py script for testing and evaluating the translations |
+| [big_eval_corpus](c2c-translator/data/big_eval_corpus) | 4 files per language | bigger dataset used for evaluating precision (in the test.py script) |
 
-### Scripts
-
-The test.py script, which uses the parallel test corpus, calculates the precision score and stores the results in the data/evaluation/metrics.txt file. The translations are stored in the translations folder and the incorrect translations are stored in the data/evaluation/wrong.txt file. 
+### Script
+The test.py script, which uses the parallel test corpus, calculates the precision score and stores the metrics in the data/evaluation/metrics.txt file. The translations are stored in the translations folder and the incorrect translations are stored in the data/evaluation/wrong.txt file. 
 The script requires a file and an input language. Then it translates the file, compares it with the ground truth and counts the correct translations so that in the end the precision score is calculated.
 
 
@@ -155,7 +156,7 @@ Working in a team could be also mentioned here. Since each of us has their own i
 ## Future work
 It is an interesting project that requires creativity and persistence, and in which a lot of work could be invested.
 
-At the moment, the biggest drawback is that for deriving new rules, the code in the parser.py file might need to be extended.
+At the moment, the biggest drawback is that for deriving new rules, the code in the parser.py file might need to be extended manually.
 
 Future work on this project may include the following tasks. The derivation of rules could be automated, if necessary, so that as little manual work as possible is required. The idea of translating entire concepts/algorithms should be completed. The parallel training dataset needs to be enlarged so that more concepts can be translated.
 
