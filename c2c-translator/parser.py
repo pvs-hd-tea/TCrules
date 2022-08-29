@@ -17,17 +17,17 @@ Language.build_library(
 
     # Include one or more languages
     # Jonas
-    [
-    '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
-    '/Users/jonas/Documents/GitHub/tree-sitter-java',
-    '/Users/jonas/Documents/GitHub/tree-sitter-python'
-    ]
+    #[
+    #    '/Users/jonas/Documents/GitHub/tree-sitter-cpp',
+    #    '/Users/jonas/Documents/GitHub/tree-sitter-java',
+    #    '/Users/jonas/Documents/GitHub/tree-sitter-python'
+    #]
     # Vivian
-    # [
-    #     '/home/vivi/src/tree-sitter-python',
-    #     '/home/vivi/src/tree-sitter-java',
-    #     '/home/vivi/src/tree-sitter-cpp'
-    # ]
+    [
+        '/home/vivi/src/tree-sitter-python',
+        '/home/vivi/src/tree-sitter-java',
+        '/home/vivi/src/tree-sitter-cpp'
+    ]
 )
 
 PY_LANGUAGE = Language('build/my-languages.so', 'python')
@@ -423,6 +423,7 @@ class RuleSet:
 
             elif "range" in condition and i in [0, 1]: # condition in for statement python
                 _, variable = extract_name(self, condition)
+
                 try:
                     start, stop, step = extract_value(condition)
                 except:
