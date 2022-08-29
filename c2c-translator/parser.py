@@ -423,16 +423,28 @@ class RuleSet:
 
             elif "range" in condition and i in [0, 1]: # condition in for statement python
                 _, variable = extract_name(self, condition)
-                start, stop, step = extract_value(condition)
+                try:
+                    start, stop, step = extract_value(condition)
+                except:
+                    stop = extract_value(condition)[0][0]
+                    start = "0"
+                    step = "1"
+                else:
+                    start, stop, step = extract_value(condition)
+                    start = str(start[0])
+                    stop = str(stop[0])
+
                 sign = extract_operator(condition)
                 condition = self.keywords["for"]["cpp"].replace("variable", variable[0])
-                condition = condition.replace("start", start[0])
-                condition = condition.replace("stop", stop[0])
+                condition = condition.replace("start", start)
+                condition = condition.replace("stop", stop)
+
                 if sign and sign[0] == "-":
                     condition = condition.replace("step", "--")
                 elif step:
                     condition = condition.replace("step", "++")
-                if int(start[0]) > int(stop[0]) and sign and sign[0] == "-":
+
+                if int(start) > int(stop) and sign and sign[0] == "-":
                     condition = condition.replace("sign", ">")
                 else:
                     condition = condition.replace("sign", "<")
