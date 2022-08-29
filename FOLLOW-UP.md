@@ -6,7 +6,7 @@
 Due to a lack of time, it was not possible to automatize the training/ learining procedure, but we focused in the development process on the ability to translate assignments, declarations, for-, while- and if-statements and started with translating entire concepts such as sorting array for example. For a continuation of this project with new members it would be a good start to improve this points.
 
 ### Possible future work
-1. Automate the derivation of rules, if necessary, so that as little manual work as possible is required.
+1. Automate the derivation of rules and concepts, if necessary, so that as little manual work as possible is required.
 2. Continue the idea of translating entire concepts
 3. Enlarge the parallel training data set
 
@@ -21,6 +21,9 @@ Due to a lack of time, it was not possible to automatize the training/ learining
 
 ### Add new rules
 Of course, rules can also be added manually by modifying the rules.json file. But since this is not what we want, to derive rules for concepts other than assignments, declarations, if-, for-, while-statements, small improvements in parser.py might be necessary, especially for creating correct generalized code. However, you should first try to use the c2c translator without any other implementations.
+
+## Add new concepts
+For now, new concepts can only be entered manually and not derived from a training corpus, as this feature is not fully finished and not only does the approach still require validation, it also does not automatically translate. It only gives a suggestion for more effiecient translations for certain concepts.
 
 ## Results
 It was very time consuming and difficult, as we initially thought, to develop a working concept for deriving rules and translating given line code or source files.
