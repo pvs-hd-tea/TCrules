@@ -46,7 +46,7 @@ if __name__ == "__main__":
     for i, translation in enumerate(translations):
         print(f"{languages[i]}: {translation}")
 ```
-See the example in [example.py](example.py) as well. Run
+See the example in [example.py](c2c-translator/example.py) as well. Run
 ```
 python3 example.py
 ```
@@ -55,27 +55,27 @@ python3 example.py
 ### Files
 | File | Description |
 | ---  | ---         |
-|[parser.py](parser.py) | The main script containing the RuleSet class with the functions for generating the rules and translating a given input |
-|[concepts.py](concepts.py) | Class for creating and saving reusable concepts from all three languages e.g. sorting, searching for a certain element, etc., that don't need to be translated line by line but rather just matching optimized versions of said concepts. |
-|[rules.json](rules.json) | Pattern/rule database |
-|[keywords_treesitter.txt](keywords_treesitter.txt) | List with root node first children keyword from tree-sitter |
-|[keywords_lookup.json](keywords_lookup.json) | keyword to keyword mappings |
-|[example.py](example.py) | Usage example |
-|[train.py](train.py) | Script for deriving the rules using the parallel corpus |
-|[test.py](test.py) | Evaluation script on files from the test_corpus, calculates metrics, stores translations and wrong translated lines |
-|[data/parallel_corpus](data/parallel_corpus)| Folder containing the parallel corpus for generating the rules |
-|[data/test_corpus](data/test_corpus)| Folder containing the test corpus for evaluating the translations |
-|[data/translation](data/translations)| Folder containing the translations |
-|[data/evaluation](data/evaluation)| Folder containing a file with the metrics from the evaluation and a file with the wrong translations |
-|[data/generate_test_dataset](data/generate_test_dataset)| Folder containing scripts for generating the big test datasets (assignment, declaration, if and while statements) |
-|[data/geeks_for_geeks](data/geeks_for_geeks)| Folder containing the parallel corpus from Geeks for Geeks |
+|[parser.py](c2c-translator/parser.py) | The main script containing the RuleSet class with the functions for generating the rules and translating a given input |
+|[concepts.py](c2c-translator/concepts.py) | Class for creating and saving reusable concepts from all three languages e.g. sorting, searching for a certain element, etc., that don't need to be translated line by line but rather just matching optimized versions of said concepts. |
+|[rules.json](c2c-translator/rules.json) | Pattern/rule database |
+|[keywords_treesitter.txt](c2c-translator/keywords_treesitter.txt) | List with root node first children keyword from tree-sitter |
+|[keywords_lookup.json](c2c-translator/keywords_lookup.json) | keyword to keyword mappings |
+|[example.py](c2c-translator/example.py) | Usage example |
+|[train.py](c2c-translator/train.py) | Script for deriving the rules using the parallel corpus |
+|[test.py](c2c-translator/test.py) | Evaluation script on files from the test_corpus, calculates metrics, stores translations and wrong translated lines |
+|[data/parallel_corpus](c2c-translator/data/parallel_corpus)| Folder containing the parallel corpus for generating the rules |
+|[data/test_corpus](c2c-translator/data/test_corpus)| Folder containing the test corpus for evaluating the translations |
+|[data/translation](c2c-translator/data/translations)| Folder containing the translations |
+|[data/evaluation](c2c-translator/data/evaluation)| Folder containing a file with the metrics from the evaluation and a file with the wrong translations |
+|[data/generate_test_dataset](c2c-translator/data/generate_test_dataset)| Folder containing scripts for generating the big test datasets (assignment, declaration, if and while statements) |
+|[data/geeks_for_geeks](c2c-translator/data/geeks_for_geeks)| Folder containing the parallel corpus from Geeks for Geeks |
 
 ### Data
 The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
 |----------------|----------------|----------------
-| [test_corpus](data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
-| [evaluation_corpus](data/evaluation_corpus) | 4 big files per language | dataset used for evaluation (in the big_eval.py script) |
+| [test_corpus](c2c-translator/data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
+| [evaluation_corpus](c2c-translator/data/evaluation_corpus) | 4 big files per language | dataset used for evaluation (in the big_eval.py script) |
 
 
 #### Evaluation
