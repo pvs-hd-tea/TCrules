@@ -83,34 +83,6 @@ class Concept:
                     file.write(keyword + ",")
 
 
-    def extend_concept(self, cpp, java, python, key):
-        """extend existing concept '<key>' by list of generic expressions, one for each language"""
-        generic_cpp = self.create_generic_expression(cpp)
-        generic_jv = self.create_generic_expression(java, JAVA.lower())
-        generic_py = self.create_generic_expression(python, PYTHON.lower())
-
-        if generic_cpp and len(generic_cpp) - len(generic_cpp.lstrip()) == 0 and generic_jv and generic_py:
-            flag = False
-
-            for entry in self.concepts[key]:
-                if generic_cpp in entry:
-                    flag = True
-                    break  # already present
-
-            if not flag:
-                self.concepts[key].append([generic_cpp, generic_jv, generic_py])
-
-
-    def add_concept(self, cpp, java, python, key):
-        """add new concept to the database"""
-        generic_cpp = self.create_generic_expression(cpp)
-        generic_jv = self.create_generic_expression(java, JAVA.lower())
-        generic_py = self.create_generic_expression(python, PYTHON.lower())
-
-        if generic_cpp and generic_jv and generic_py:
-            self.concepts.update({key: [[generic_cpp, generic_jv, generic_py]]})
-
-
     def user_input(self, keyword=None):
         """Check for well known concept"""
         print("Please enter the name of the concept below. Try not to enter a concept twice and check for existing names first")
@@ -155,7 +127,7 @@ class Concept:
                 if final_concept[-1] >= 80:
                     concept_final = concept
 
-        print(concept_final + " has the highest posssibility of being a correct match. Suggestion for optimized code is in suggestion.txt")
+        print(concept_final + " " + "has the highest posssibility of being a correct match. Suggestion for optimized code is in suggestion.txt")
         with open('suggestion.txt', 'w') as datas:
             concept_string = concept_final[:concept_final.index("_")]
             concept_string_py = concept_string + "_py"
@@ -180,10 +152,3 @@ def create_parse_tree(input_code, input_language):
         return parser_jv.parse(bytes(input_code, "utf-8")).root_node.sexp()
     return parser_py.parse(bytes(input_code, "utf-8")).root_node.sexp()
 
-
-
-concepts = Concept()
-
-quanching = "std::vector<int> name {3,2,1};"
-
-concepts.check_similarity(quanching, CPP)

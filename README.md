@@ -75,12 +75,10 @@ The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
 |----------------|----------------|----------------
 | [test_corpus](data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
-| [evaluation_corpus](data/evaluation_corpus) | 1000 files per language | dataset used for evaluation (in the big_eval.py script) |
+| [evaluation_corpus](data/evaluation_corpus) | 4 big files per language | dataset used for evaluation (in the big_eval.py script) |
 
 
 #### Evaluation
-
-There are two evaluation scripts ([test.py](test.py) and [big_eval.py](big_eval.py)).
 
 The test.py script which uses the parallel test corpus, calculates the precision score and stores the results in the `data/evaluation/metrics.txt` file. The translations are stored in the `translations` folder and the wrong translations in the `data/evaluation/wrong.txt` file.
 
@@ -131,12 +129,21 @@ Concepts are mostly compromised of the most efficient ways of translating reocur
 Therefore input code is checked on concepts and if a reocurring principle is found, the language specific golden way is chosen.
 Example:
 ```json
-"array_sort": [
-    [
-        "#include <algorithm>\n #include <vector>\n std::vector<int> list_ = {1,4,3,2};\n list_.sort(list_.begin,list_.end);",
-	
-        "import java.util.Arrays;\n int[] list_ = new int[] {1,4,3,2};\n Arrays.sort(list_); ",
-	
-        "list_ = [1,4,3,2]\n list_.sort()"
+{
+    "sortarr_py": [
+        [
+            "arr = [4,3,2,1]\narr.sort()"
+        ]
+    ],
+    "sortarr_cpp": [
+        [
+            "#include <algorithm>\n#include <vector>\nstd::vector<int> arr {4,3,2,1};\nstd::sort(arr.begin(),arr.end());"
+        ]
+    ],
+    "sortarr_jv": [
+        [
+            "import java.util.Arrays;\nint[] arr = {4,3,2,1};\nArrays.sort(arr);"
+        ]
     ]
+}
 ```
