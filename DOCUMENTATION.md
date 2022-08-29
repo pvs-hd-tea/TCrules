@@ -73,7 +73,10 @@ Output:	CPP: float a = 5.5;
 ```
 
 2. Translating a file:
-###TODO JONAS, KRISTIN
+
+If a file is given as an input, it is read in line by line first and lines get enumerated. The parse tree then gets checked for keywords like "if_statement","while_statement" or "for_statement".
+Then, a parse tree is created and new lines are getting added, as long as the S-Expression contains an error, meaning structures like while or for loops or if statements are not "finished" yet. 
+The enumerated lines are then translated according to the rules for translating lines.
 
 ## Repository structure
 
@@ -81,17 +84,21 @@ Our repository is called c2c-translator and has the following structure:
 ```
 c2c-translator
 	data
+		data/big_eval_corpus
 		data/evaluation
 		data/geeks_for_geeks_dataset
 		data/generate_test_dataset
 		data/parallel_corpus
 		data/test_corpus
 		data/translations
-	big_eval.py
 	example.py
 	keywords_lookup.json
 	keywords_treesitter.txt
 	parser.py
+	concepts.py
+	concepts.json
+	suggestion.txt
+	keywords_concept.txt
 	rules.json
 	test.py
 	train.py
@@ -111,7 +118,11 @@ In the table below the main files and their description can be found:
 |[keywords_lookup.json](keywords_lookup.json) | keyword to keyword mappings |
 |[train.py](train.py) | Script for deriving the rules using the parallel corpus |
 |[test.py](test.py) | Evaluation script on files from the test_corpus, calculates metrics, stores translations and wrong translated lines |
-|[big_eval.py](big_eval.py) | ###TODO JONAS, KRISTIN |
+|[concepts.py](concepts.py) | Script containing the Concepts class with functions for matching known concepts saved in concepts.json |
+|[keywords_concept.txt](keywords_concept.txt) | Containing entries of the concept database |
+|[suggestion.txt](suggestion.txt) | Containing the suggestion made by the concept script for translating more efficiently |
+|[concepts.json](concepts.json) | File containing concepts |
+|[data/big_eval_corpus](data/big_eval_corpus)| Folder containing an evaluation dataset | 
 |[data/parallel_corpus](data/parallel_corpus)| Folder containing the parallel corpus for generating the rules |
 |[data/test_corpus](data/test_corpus)| Folder containing the test corpus for evaluating the translations |
 |[data/translation](data/translations)| Folder containing the translations |
