@@ -80,8 +80,6 @@ The following datasets are used for evaluating the model.
 
 #### Evaluation
 
-There are two evaluation scripts ([test.py](test.py) and [big_eval.py](big_eval.py)).
-
 The test.py script which uses the parallel test corpus, calculates the precision score and stores the results in the `data/evaluation/metrics.txt` file. The translations are stored in the `translations` folder and the wrong translations in the `data/evaluation/wrong.txt` file.
 
 Run
