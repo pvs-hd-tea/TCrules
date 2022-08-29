@@ -44,3 +44,4 @@ jobs:
         cd c2c-translator
         pytest parser.py
         pytest test.py
+        pytest concepts.py
