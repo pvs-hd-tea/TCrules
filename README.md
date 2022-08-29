@@ -75,7 +75,7 @@ The following datasets are used for evaluating the model.
 |Dataset | #Examples| Comment|
 |----------------|----------------|----------------
 | [test_corpus](data/test_corpus) | 10 files per language | parallel dataset used for testing (in the test.py script) |
-| [evaluation_corpus](data/evaluation_corpus) | 1000 files per language | dataset used for evaluation (in the big_eval.py script) |
+| [evaluation_corpus](data/evaluation_corpus) | 4 big files per language | dataset used for evaluation (in the big_eval.py script) |
 
 
 #### Evaluation
