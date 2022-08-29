@@ -13,6 +13,9 @@ _Who has done what in the project?_
 - data/evaluation/generate_test_dataset 
 - data/parallel_corpus (12%)
 - data/test_corpus (10%)
+- example.py (10%)
+- data/big_eval_dataset
+- Presentations
 
 ### Vivian Kazakova
 - parser.py (90%)
@@ -20,7 +23,8 @@ _Who has done what in the project?_
 - ideas/drafts/architecture (40%)
 - test.py
 - train.py
-- example.py 
+- example.py(90%)
 - keywords_lookup.json
 - data/parallel_corpus (88%)
 - data/test_corpus (90%)
+- Presentations
