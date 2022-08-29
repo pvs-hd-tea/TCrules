@@ -1,0 +1,17 @@
+{
+    "sortarr_py": [
+        [
+            "arr = [4,3,2,1]\narr.sort()"
+        ]
+    ],
+    "sortarr_cpp": [
+        [
+            "#include <algorithm>\n#include <vector>\nstd::vector<int> arr {4,3,2,1};\nstd::sort(arr.begin(),arr.end());"
+        ]
+    ],
+    "sortarr_jv": [
+        [
+            "import java.util.Arrays;\nint[] arr = {4,3,2,1};\nArrays.sort(arr);"
+        ]
+    ]
+}

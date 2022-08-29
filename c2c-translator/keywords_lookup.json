@@ -1,0 +1,77 @@
+{
+    "and&&": {
+        "cpp": "&&",
+        "java": "&&",
+        "python": "and"
+    },
+    "or||": {
+        "cpp": "||",
+        "java": "||",
+        "python": "or"
+    },
+    "not!": {
+        "cpp": "!",
+        "java": "!",
+        "python": "not"
+    },
+    "elseif": {
+        "cpp": "else if",
+        "java": "else if",
+        "python": "elif"
+    },
+    "else": {
+        "cpp": "else {",
+        "java": "else",
+        "python": "else"
+    },
+    "if": {
+        "cpp": "if (@) {\n    @\n}\n",
+        "java": "if (@) {\n    @\n} \n",
+        "python": "if @:\n    @"
+    },
+    "for": {
+        "cpp": "int variable=start; variablesignstop; variablestep",
+        "java": "int variable=start; variablesignstop; variablestep",
+        "python": "variable in range(start,stop,step)"
+    },
+    "false": {
+        "cpp": "false",
+        "java": "false",
+        "python": "False"
+    },
+    "true": {
+        "cpp": "true",
+        "java": "true",
+        "python": "True"
+    },
+    "bool": {
+        "cpp": "bool",
+        "java": "boolean",
+        "python": ""
+    },
+    "stringString": {
+        "cpp": "string",
+        "java": "String",
+        "python": ""
+    },
+    "stdcoutprintln": {
+        "cpp": "std::cout<<@;\n",
+        "java": "System.out.println(@);\n",
+        "python": "print(@)\n"
+    },
+    "while": {
+        "cpp": "while",
+        "java": "while",
+        "python": "while"
+    },
+    "break": {
+        "cpp": "break;\n",
+        "java": "break;\n",
+        "python": "break\n"
+    },
+    "continue": {
+        "cpp": "continue;\n",
+        "java": "continue;\n",
+        "python": "continue\n"
+    }
+}
