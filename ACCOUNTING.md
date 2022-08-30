@@ -3,32 +3,32 @@
 _Who has done what in the project?_
 
 ### Kristin Leoff
-- presentations
+- presentations (35%)
 
 ### Jonas Ochs
 - parser.py (10%)
 - concepts.py (90%)
-- ideas/drafts/architecture (60%)
-- example.py (10%)
-- data/evaluation/generate_test_dataset 
+- ideas/drafts/architecture (70%)
+- example.py (13%)
+- data/evaluation/generate_test_dataset (100%)
 - data/parallel_corpus (12%)
 - data/test_corpus (10%)
-- presentations
-- documentation (20%)
+- documentation (10%)
 - readme (20%)
-- follow-up documentation (20%)
+- follow-up documentation (15%)
+- presentations (35%)
 
 ### Vivian Kazakova
 - parser.py (90%)
 - concepts.py (10%)
-- ideas/drafts/architecture (40%)
-- test.py
-- train.py
-- example.py (90%)
-- keywords_lookup.json
+- ideas/drafts/architecture (30%)
+- test.py (100%)
+- train.py (100%)
+- example.py (87%)
+- keywords_lookup.json (100%)
 - data/parallel_corpus (88%)
 - data/test_corpus (90%)
-- presentations
-- documentation (80%)
+- documentation (90%)
 - readme (80%)
-- follow-up documentation (80%)
+- follow-up documentation (85%)
+- presentations (30%)
