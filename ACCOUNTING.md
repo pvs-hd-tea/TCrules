@@ -8,7 +8,7 @@ _Who has done what in the project?_
 ### Jonas Ochs
 - parser.py (10%)
 - concepts.py (90%)
-- ideas/drafts/architecture (60%)
+- ideas/drafts/architecture (70%)
 - example.py (10%)
 - data/evaluation/generate_test_dataset 
 - data/parallel_corpus (12%)
@@ -21,7 +21,7 @@ _Who has done what in the project?_
 ### Vivian Kazakova
 - parser.py (90%)
 - concepts.py (10%)
-- ideas/drafts/architecture (40%)
+- ideas/drafts/architecture (30%)
 - test.py
 - train.py
 - example.py (90%)
